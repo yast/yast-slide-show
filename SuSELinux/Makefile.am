@@ -12,8 +12,11 @@ EXTRA_DIST =                                    \
         pic/*.png                               \
                                                 \
         txt/cs/*.rtf				\
+        txt/dk/*.rtf				\
         txt/de/*.rtf				\
-        txt/en/*.rtf
+        txt/en/*.rtf				\
+        txt/no/*.rtf
+
 
 install-data-local:
 	mkdir -p $(DESTDIR)/$(instdir)
