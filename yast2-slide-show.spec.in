@@ -35,11 +35,11 @@ make
 %install
 
 make install
-install -d -m 700 /var/lib/YaST2
 
 %{?suse_check}
 
 %files
 
-%dir /var/lib/YaST2
+%dir /CD1/suse/setup/slide
+
 
