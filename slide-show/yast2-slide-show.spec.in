@@ -1,0 +1,58 @@
+@HEADER-COMMENT@
+# neededforbuild yast2-devtools
+
+@HEADER@
+BuildArchitectures:	noarch
+Summary:	-
+%description
+-
+
+%package SuSELinux
+Summary:	-
+Group:		System/YaST
+
+%description SuSELinux
+-
+
+%package SLES
+Summary:	-
+Group:		System/YaST
+
+%description SLES
+-
+
+@PREP@
+
+@BUILD@
+./tools/check_utf-8
+
+@INSTALL@
+# Get rid of README files etc. auto-created by yast2-devtools
+# (but useless for this special package)
+/bin/rm -rf ${RPM_BUILD_ROOT}/usr/share/doc/packages/yast2-slide-show
+
+# Get rid of test environment during autobuild
+/bin/rm -rf ${RPM_BUILD_ROOT}/usr/share/YaST2/clients/slide-show.ycp
+/bin/rm -rf ${RPM_BUILD_ROOT}/usr/share/YaST2/modules/SlideTester.ycp
+
+@CLEAN@
+
+%files SuSELinux
+%defattr(-,root,root)
+%dir /SuSE
+%dir /SuSE/SuSE
+%dir /SuSE/SuSE/CD1
+%dir /SuSE/SuSE/CD1/suse
+%dir /SuSE/SuSE/CD1/suse/setup
+%dir /SuSE/SuSE/CD1/suse/setup/slide
+/SuSE/SuSE/CD1/suse/setup/slide/*
+
+%files SLES
+%defattr(-,root,root)
+%dir /SuSE
+%dir /SuSE/SuSE-SLES
+%dir /SuSE/SuSE-SLES/CD1
+%dir /SuSE/SuSE-SLES/CD1/suse
+%dir /SuSE/SuSE-SLES/CD1/suse/setup
+%dir /SuSE/SuSE-SLES/CD1/suse/setup/slide
+/SuSE/SuSE-SLES/CD1/suse/setup/slide/*

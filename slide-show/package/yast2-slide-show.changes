@@ -1,0 +1,445 @@
+-------------------------------------------------------------------
+Thu Mar 17 16:48:22 CET 2005 - sh@suse.de
+
+- V 2.11.5
+- (Ken) fixed all texts 
+
+-------------------------------------------------------------------
+Wed Mar 16 13:45:41 CET 2005 - sh@suse.de
+
+- V 2.11.4
+- New en texts by ken (proof-read by rwalter)
+
+-------------------------------------------------------------------
+Mon Mar 14 17:34:27 CET 2005 - jsrain@suse.cz
+
+- Added texts for most of the languages
+- 2.11.3
+
+-------------------------------------------------------------------
+Wed Mar  9 13:53:12 CET 2005 - sh@suse.de
+
+- V 2.11.2
+- (Ken) Added missing pic 
+
+-------------------------------------------------------------------
+Mon Mar  7 17:25:06 CET 2005 - sh@suse.de
+
+- First 9.3 pics and texts by Ken 
+- V 2.11.1
+
+-------------------------------------------------------------------
+Wed Sep 29 15:54:59 CEST 2004 - sh@suse.de
+
+- V 2.10.6
+- New cs texts by sigi 
+
+-------------------------------------------------------------------
+Mon Sep 27 15:37:07 CEST 2004 - sh@suse.de
+
+- V 2.10.5
+- Updated texts + pics by cnieman 
+
+-------------------------------------------------------------------
+Mon Sep 13 15:39:03 CEST 2004 - sh@suse.de
+
+- V 2.10.4
+- New pic by cnieman
+- New texts by cnieman 
+
+-------------------------------------------------------------------
+Mon Sep  6 16:30:41 CEST 2004 - sh@suse.de
+
+- V 2.10.3
+- New pic by cnieman
+- New texts by cnieman: sl, en, ja, nl, no, sk 
+
+-------------------------------------------------------------------
+Tue Aug 31 15:39:09 CEST 2004 - sh@suse.de
+
+- V 2.10.2
+- First real pics and en/de texts by cnieman 
+
+-------------------------------------------------------------------
+Mon Aug 23 13:42:30 CEST 2004 - sh@suse.de
+
+- V 2.10.1
+- Removed all old texts and pics (now obsolete)
+- New preliminary texts and pics for new slide show testing by cnieman 
+
+-------------------------------------------------------------------
+Mon Apr  5 17:17:33 CEST 2004 - sh@suse.de
+
+- V 2.9.7 
+- (sigi/cnieman) added ru texts
+
+-------------------------------------------------------------------
+Fri Apr  2 16:36:19 CEST 2004 - sh@suse.de
+
+- License change to GPL
+
+-------------------------------------------------------------------
+Thu Apr  1 14:24:36 CEST 2004 - sh@suse.de
+
+- V 2.9.5
+- New fr, it, sv texts by sigi
+
+-------------------------------------------------------------------
+Wed Mar 31 13:45:15 CEST 2004 - sh@suse.de
+
+- V 2.9.4
+- New bg texts by sigi
+- Some new pics by sigi 
+
+-------------------------------------------------------------------
+Tue Mar 30 12:52:45 CEST 2004 - sh@suse.de
+
+- V 2.9.3
+- Added es, hu, ja, nl texts by cnieman
+- Renamed dk -> da - wrong ISO lang code (use lang, not country)
+- Some new pics by sigi 
+
+-------------------------------------------------------------------
+Mon Mar 22 16:30:37 CET 2004 - sh@suse.de
+
+- V 2.9.3
+- Added dk, no texts by cnieman
+
+-------------------------------------------------------------------
+Mon Mar 22 15:42:41 CET 2004 - sh@suse.de
+
+- Correctly named Czech cs, not cz (cz is the country, lang is cs) 
+
+-------------------------------------------------------------------
+Fri Mar 19 11:54:57 CET 2004 - sh@suse.de
+
+- V 2.9.2
+- New en, cz texts by sigi
+
+-------------------------------------------------------------------
+Tue Mar 16 11:50:51 CET 2004 - sh@suse.de
+
+- V 2.9.1
+- First version for 9.1: New images by sigi, new de texts by cnieman 
+
+-------------------------------------------------------------------
+Mon Sep 22 15:22:28 CEST 2003 - sh@suse.de
+
+- V 2.8.14
+- Typo fixes for Hungarian (sigi) 
+
+-------------------------------------------------------------------
+Mon Sep 22 13:43:12 CEST 2003 - sh@suse.de
+
+- V 2.8.13
+- New Swedish texts by afaber 
+
+-------------------------------------------------------------------
+Fri Sep 19 12:46:25 CEST 2003 - visnov@suse.de
+
+- Fixes for Slovak 
+
+-------------------------------------------------------------------
+Wed Sep 17 15:40:40 CEST 2003 - sh@suse.de
+
+- V 2.8.11
+- Texts for Hungarian (sigi)
+
+-------------------------------------------------------------------
+Tue Sep 16 16:02:35 CEST 2003 - sh@suse.de
+
+- V 2.8.10
+- Fixed bug #30831 (sigi): Old GIMP screen shot
+- Fixed bug #30829 (sigi): Epiphany instead of Galeon in GNOME slide
+
+-------------------------------------------------------------------
+Mon Sep 15 17:45:37 CEST 2003 - msvec@suse.cz
+
+- Galeon -> Epiphany
+- 2.8.9
+
+-------------------------------------------------------------------
+Wed Sep 10 16:50:08 CEST 2003 - visnov@suse.de
+
+- New texts for sk
+
+-------------------------------------------------------------------
+Mon Sep  8 16:24:21 CEST 2003 - sh@suse.de
+
+- V 2.8.8
+- New texts for bg, fr, it, nl from sigi 
+
+-------------------------------------------------------------------
+Fri Sep  5 17:25:34 CEST 2003 - sh@suse.de
+
+- V 2.8.7
+- New images from sigi 
+
+-------------------------------------------------------------------
+Fri Aug 29 13:28:16 CEST 2003 - sh@suse.de
+
+- V 2.8.6
+- New Czech texts from Klara Cihlarova <cihlarov@suse.cz> 
+
+-------------------------------------------------------------------
+Thu Aug 28 16:53:31 CEST 2003 - sh@suse.de
+
+- V 2.8.5
+- Updated German texts from cnieman: Fix for bug #29495 (typos) 
+
+-------------------------------------------------------------------
+Fri Aug 22 13:54:58 CEST 2003 - sh@suse.de
+
+- V 2.8.4
+- New English texts (also used as fallback for nonexistent langs)
+
+-------------------------------------------------------------------
+Thu Aug 21 17:41:02 CEST 2003 - sh@suse.de
+
+- V 2.8.3
+- New slide show images by sigi
+- New German texts by sigi 
+- Removed all other texts (now obsolete)
+- Waiting for English texts as fallback for all non-German users
+  until the final texts will arive
+
+-------------------------------------------------------------------
+Mon Jun 23 16:24:17 CEST 2003 - sh@suse.de
+
+- Own toplevel directories in .spec file for abuild
+
+-------------------------------------------------------------------
+Mon Jun 23 15:39:56 CEST 2003 - sh@suse.de
+
+- Delete unpackaged test environment in .spec file 
+
+-------------------------------------------------------------------
+Tue Jun 10 16:14:08 CEST 2003 - sh@suse.de
+
+- V 2.8.2
+- Fixed RPM-4 build problems: Files installed, but not packaged
+
+-------------------------------------------------------------------
+Tue Mar 18 17:03:07 CET 2003 - sh@suse.de
+
+- V 2.7.12
+- Some fixes in it texts by jj/afaber/Gaetano 
+
+-------------------------------------------------------------------
+Mon Mar 17 17:38:10 CET 2003 - sh@suse.de
+
+- V 2.7.11
+- Added texts for sk (Slovak) by visnov@suse.cz
+
+-------------------------------------------------------------------
+Mon Mar 17 16:09:29 CET 2003 - sh@suse.de
+
+- V 2.7.10
+- New images: mainactor with movie clip, kdevelop rather than
+  qt-designer
+
+-------------------------------------------------------------------
+Mon Mar 17 15:31:21 CET 2003 - sh@suse.de
+
+- New images by Ken
+
+-------------------------------------------------------------------
+Mon Mar 17 12:47:13 CET 2003 - sh@suse.de
+
+- V 2.7.9
+- Rearranged slides (rhaidl)
+- Changed some de texts (rhaidl) 
+
+-------------------------------------------------------------------
+Fri Mar 14 16:03:22 CET 2003 - arvin@suse.de
+
+- fixed encoding in two german texts (bug #25267)
+- added utf-8 check script
+
+-------------------------------------------------------------------
+Fri Mar 14 11:36:40 CET 2003 - sh@suse.de
+
+- V 2.7.7
+- New texts for cs
+- Fixed testsuite build problems (EXTRA_DIST)
+
+-------------------------------------------------------------------
+Thu Mar 13 17:46:19 CET 2003 - sh@suse.de
+
+- V 2.7.6
+- New texts for it
+
+-------------------------------------------------------------------
+Thu Mar 13 16:15:57 CET 2003 - sh@suse.de
+
+- V 2.7.5
+- New texts for fr, es, hu
+
+-------------------------------------------------------------------
+Mon Mar 10 17:12:46 CET 2003 - sh@suse.de
+
+- V 2.7.4
+- New texts / images by jj
+
+-------------------------------------------------------------------
+Mon Mar  3 13:28:31 CET 2003 - sh@suse.de
+
+- New texts / images by jj
+- V 2.7.3
+
+-------------------------------------------------------------------
+Wed Jan 29 16:10:46 CET 2003 - sh@suse.de
+
+- Changed install paths for easier autobuild cooperation
+- V 2.7.2
+
+-------------------------------------------------------------------
+Wed Jan 22 13:10:43 CET 2003 - msvec@suse.de
+
+- handle more slide-shows as subpackages
+- 2.7.1
+
+-------------------------------------------------------------------
+Fri Sep  6 16:59:53 CEST 2002 - sh@suse.de
+
+- V 2.6.4
+- Fixed spanish texts (sigi)
+
+-------------------------------------------------------------------
+Fri Sep  6 15:24:51 CEST 2002 - sh@suse.de
+
+- V 2.6.3
+- New slide images by sigi
+
+-------------------------------------------------------------------
+Tue Aug 13 15:45:54 CEST 2002 - sh@suse.de
+
+- V 2.6.2
+- English texts back from proof reading
+- Reordered slides due to RJW's suggestions
+
+-------------------------------------------------------------------
+Fri Aug 02 13:12:15 CEST 2002 - arvin@suse.de
+
+- don't pack CVS dirs
+- reduced neededforbuild
+
+-------------------------------------------------------------------
+Mon Jul 29 09:41:52 CEST 2002 - msvec@suse.cz
+
+- migrated to new cvs, use auto*, bugfixes
+- 2.6.0
+
+-------------------------------------------------------------------
+Tue Mar 26 14:59:36 CET 2002 - sh@suse.de
+
+- V 2.5.10
+- Fixed bug #15157: wrong background grey in slides
+
+-------------------------------------------------------------------
+Mon Mar 25 14:47:36 CET 2002 - sh@suse.de
+
+- V 2.5.9
+- Czech typo fixes
+- New screen shot - fix for #15467 (de/en language mix)
+
+-------------------------------------------------------------------
+Sat Mar 23 13:10:18 CET 2002 - kukuk@suse.de
+
+- V 2.5.8: Fix typo in german support text [Bug #15410]
+
+-------------------------------------------------------------------
+Tue Mar 19 14:57:29 CET 2002 - sh@suse.de
+
+- V 2.5.7: Hungarian texts have arrived at last (msommer@suse.de)
+
+-------------------------------------------------------------------
+Mon Mar 18 11:19:20 CET 2002 - sh@suse.de
+
+- V 2.5.6: New fr texts, ja back from proofrading (msommer@suse.de)
+- disabled hu texts - no response from Hungarian translators yet
+
+-------------------------------------------------------------------
+Fri Mar 15 15:49:56 CET 2002 - sh@suse.de
+
+- V 2.5.5: New images my wimer@suse.de
+
+-------------------------------------------------------------------
+Wed Mar 13 17:02:45 CET 2002 - kendy@suse.cz
+
+- v. 2.5.4: New Czech texts.
+
+-------------------------------------------------------------------
+Tue Mar 12 15:12:46 CET 2002 - sh@suse.de
+
+- V 2.5.3
+  (msommer): New nl, sv, ja texts
+
+-------------------------------------------------------------------
+Fri Mar  1 14:29:35 CET 2002 - sh@suse.de
+
+- V 2.5.2
+  (msommer): New en, it texts
+
+-------------------------------------------------------------------
+Thu Feb 28 17:15:58 CET 2002 - sh@suse.de
+
+- V 2.5.1
+  (msommer): New German texts
+
+-------------------------------------------------------------------
+Tue Oct  9 14:31:57 CEST 2001 - sh@suse.de
+
+- V 2.4.8
+(msommer + sh): Fixed bug #11645: Bad Hungarian chars in slide show
+
+-------------------------------------------------------------------
+Wed Sep 26 16:01:01 CEST 2001 - sh@suse.de
+
+- V 2.4.7
+- New pic for Linux boxes (English version)
+
+-------------------------------------------------------------------
+Wed Sep 26 14:20:25 CEST 2001 - mfabian@suse.de
+
+- V 2.4.6
+- included fixes for Japanese translations by <tiwai@suse.de>
+
+-------------------------------------------------------------------
+Tue Sep 25 22:53:10 CEST 2001 - mfabian@suse.de
+
+- V 2.4.5
+- added Japanese translations
+
+-------------------------------------------------------------------
+Mon Sep 24 13:51:02 CEST 2001 - sh@suse.de
+
+- V 2.4.4
+- Fixed bug #10803: No czech slide show; moved cz -> cs
+- Minor corrections in de texts by msommer
+
+-------------------------------------------------------------------
+Fri Sep 21 16:51:53 CEST 2001 - sh@suse.de
+
+- V 2.4.3
+- New texts for 12_platform
+- Fixed bug #11138: German advertising of Firewall CD wrong
+  (msommer)
+
+-------------------------------------------------------------------
+Thu Sep 20 12:34:58 CEST 2001 - sh@suse.de
+
+- Added CZ
+- V 2.4.2
+
+-------------------------------------------------------------------
+Tue Sep 18 20:08:25 CEST 2001 - sh@suse.de
+
+- Images (almost) final
+- V 2.4.1
+
+-------------------------------------------------------------------
+Mon Sep  3 16:57:02 CEST 2001 - sh@suse.de
+
+- Initial version
+
