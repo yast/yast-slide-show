@@ -21,7 +21,31 @@ Don't use HTML character substitutes for national special characters - use a
 literal "ä" rather than something like "&auml;".
 
 
-The filenames may not be changed. They must be named like the slide show
-images, just with a ".rtf" rather than ".jpg" or ".png" extension. Anything
-else in those directories will be ignored.
+The filenames dictate the order in which slides will be displayed, so it is
+highly recommended to prefix those filenames with numbers (including leading
+zeroes):
+
+	01_welcome.rtf
+	02_whatever.rtf
+	03_somethingelse.rtf
+
+Only the following filename extensions will be accepted:
+
+	*.rtf
+	*.html
+	*.htm
+
+	*.RTF
+	*.HTML
+	*.HTM
+
+All other files in those directories are silently ignored.
+
+Any images to be used are included in the text with HTML-like "img src"
+tags, so the filename used there is important.
+
+While it is no longer mandatory, it still makes sense to name the images
+according to the respective text file, thus using something like
+"01_welcome.png" for a text file "01_welcome.rtf".
+
 
