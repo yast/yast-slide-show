@@ -8,3 +8,4 @@ client_DATA =					\
 module_DATA =					\
 	SlideTester.ycp
 
+EXTRA_DIST = $(module_DATA) $(client_DATA)
