@@ -1,4 +1,11 @@
 -------------------------------------------------------------------
+Mon Mar 25 14:47:36 CET 2002 - sh@suse.de
+
+- V 2.5.9
+- Czech typo fixes 
+- New screen shot - fix for #15467 (de/en language mix)
+
+-------------------------------------------------------------------
 Sat Mar 23 13:10:18 CET 2002 - kukuk@suse.de
 
 - V 2.5.8: Fix typo in german support text [Bug #15410]
