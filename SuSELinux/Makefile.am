@@ -17,11 +17,14 @@ EXTRA_DIST =					\
 	txt/de/*.rtf				\
 	txt/en/*.rtf				\
 	txt/es/*.rtf				\
+	txt/fr/*.rtf				\
 	txt/hu/*.rtf				\
+	txt/it/*.rtf				\
 	txt/ja/*.rtf				\
 	txt/nl/*.rtf				\
 	txt/no/*.rtf				\
-	txt/sl/*.rtf
+	txt/sl/*.rtf				\
+	txt/sv/*.rtf
 
 
 
