@@ -1,10 +1,10 @@
 # Makefile.am for slide-show/testsuite
 
 client_DATA =					\
-	slide-show.ycp
+	slide-show.ycp.old
 
 module_DATA =					\
-	SlideTester.ycp
+	SlideTester.ycp.old
 
 EXTRA_DIST = $(module_DATA) $(client_DATA)
 
