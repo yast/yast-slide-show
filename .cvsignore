@@ -19,5 +19,4 @@ ltconfig
 ltmain.sh
 missing
 mkinstalldirs
-network.pot
 stamp-h*

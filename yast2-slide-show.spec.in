@@ -1,9 +1,9 @@
 @HEADER-COMMENT@
-# neededforbuild yast2-devel-packages
+
+# neededforbuild  yast2-devtools
 
 @HEADER@
 Requires:	yast2
-
 Summary:	YaST2 Slide show during package installation
 BuildArchitectures:	noarch
 

@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Fri Aug 02 13:12:15 CEST 2002 - arvin@suse.de
+
+- don't pack CVS dirs
+- reduced neededforbuild
+
+-------------------------------------------------------------------
 Mon Jul 29 09:41:52 CEST 2002 - msvec@suse.cz
 
 - migrated to new cvs, use auto*, bugfixes
@@ -8,13 +14,13 @@ Mon Jul 29 09:41:52 CEST 2002 - msvec@suse.cz
 Tue Mar 26 14:59:36 CET 2002 - sh@suse.de
 
 - V 2.5.10
-- Fixed bug #15157: wrong background grey in slides 
+- Fixed bug #15157: wrong background grey in slides
 
 -------------------------------------------------------------------
 Mon Mar 25 14:47:36 CET 2002 - sh@suse.de
 
 - V 2.5.9
-- Czech typo fixes 
+- Czech typo fixes
 - New screen shot - fix for #15467 (de/en language mix)
 
 -------------------------------------------------------------------
@@ -25,18 +31,18 @@ Sat Mar 23 13:10:18 CET 2002 - kukuk@suse.de
 -------------------------------------------------------------------
 Tue Mar 19 14:57:29 CET 2002 - sh@suse.de
 
-- V 2.5.7: Hungarian texts have arrived at last (msommer@suse.de) 
+- V 2.5.7: Hungarian texts have arrived at last (msommer@suse.de)
 
 -------------------------------------------------------------------
 Mon Mar 18 11:19:20 CET 2002 - sh@suse.de
 
 - V 2.5.6: New fr texts, ja back from proofrading (msommer@suse.de)
-- disabled hu texts - no response from Hungarian translators yet 
+- disabled hu texts - no response from Hungarian translators yet
 
 -------------------------------------------------------------------
 Fri Mar 15 15:49:56 CET 2002 - sh@suse.de
 
-- V 2.5.5: New images my wimer@suse.de 
+- V 2.5.5: New images my wimer@suse.de
 
 -------------------------------------------------------------------
 Wed Mar 13 17:02:45 CET 2002 - kendy@suse.cz
@@ -53,25 +59,25 @@ Tue Mar 12 15:12:46 CET 2002 - sh@suse.de
 Fri Mar  1 14:29:35 CET 2002 - sh@suse.de
 
 - V 2.5.2
-  (msommer): New en, it texts 
+  (msommer): New en, it texts
 
 -------------------------------------------------------------------
 Thu Feb 28 17:15:58 CET 2002 - sh@suse.de
 
 - V 2.5.1
-  (msommer): New German texts 
+  (msommer): New German texts
 
 -------------------------------------------------------------------
 Tue Oct  9 14:31:57 CEST 2001 - sh@suse.de
 
 - V 2.4.8
-(msommer + sh): Fixed bug #11645: Bad Hungarian chars in slide show 
+(msommer + sh): Fixed bug #11645: Bad Hungarian chars in slide show
 
 -------------------------------------------------------------------
 Wed Sep 26 16:01:01 CEST 2001 - sh@suse.de
 
 - V 2.4.7
-- New pic for Linux boxes (English version) 
+- New pic for Linux boxes (English version)
 
 -------------------------------------------------------------------
 Wed Sep 26 14:20:25 CEST 2001 - mfabian@suse.de
@@ -88,8 +94,8 @@ Tue Sep 25 22:53:10 CEST 2001 - mfabian@suse.de
 -------------------------------------------------------------------
 Mon Sep 24 13:51:02 CEST 2001 - sh@suse.de
 
-- V 2.4.4 
-- Fixed bug #10803: No czech slide show; moved cz -> cs 
+- V 2.4.4
+- Fixed bug #10803: No czech slide show; moved cz -> cs
 - Minor corrections in de texts by msommer
 
 -------------------------------------------------------------------
@@ -98,22 +104,22 @@ Fri Sep 21 16:51:53 CEST 2001 - sh@suse.de
 - V 2.4.3
 - New texts for 12_platform
 - Fixed bug #11138: German advertising of Firewall CD wrong
-  (msommer) 
+  (msommer)
 
 -------------------------------------------------------------------
 Thu Sep 20 12:34:58 CEST 2001 - sh@suse.de
 
 - Added CZ
-- V 2.4.2 
+- V 2.4.2
 
 -------------------------------------------------------------------
 Tue Sep 18 20:08:25 CEST 2001 - sh@suse.de
 
 - Images (almost) final
-- V 2.4.1 
+- V 2.4.1
 
 -------------------------------------------------------------------
 Mon Sep  3 16:57:02 CEST 2001 - sh@suse.de
 
-- Initial version 
+- Initial version
 
