@@ -741,6 +741,8 @@
 	slide_start_time = time();
 	slide_name	 = substring( slide_name, 0, size( slide_name ) - size( ".png" ) );
 
+	y2milestone( "Loading slide #%1: %2", current_slide_no, slide_name );
+
 	// Try to load a corresponding text file:
 	//
 	// - full length language ISO code ("de_DE")

@@ -16,14 +16,14 @@
 				 `HVSquash(
 					   `RadioButtonGroup(`id(`distro),
 							     `VBox(
-								   `Left(`RadioButton(`id(`suse), "Slide Show for SuSE Linux", true ) ),
-								   `Left(`RadioButton(`id(`sles), "Slide Show for SLES" ) )
+								   `Left(`RadioButton(`id(`suse), "Slide Show for SuSE &Linux", true ) ),
+								   `Left(`RadioButton(`id(`sles), "Slide Show for &SLES" ) )
 								   )
 							     )
 					   )
 				 ),
 			 `VSpacing(),
-			 `ComboBox(`id(`lang), `opt(`editable,`hstretch), "Language", [ "de", "en", "cs" ] ),
+			 `ComboBox(`id(`lang), `opt(`editable,`hstretch), "&Language", [ "de", "en", "cs" ] ),
 			 `VSpacing(),
 			 `PushButton(`opt(`default), "&OK" )
 			 )
