@@ -11,7 +11,8 @@ instdir = /SuSE/SuSE/CD1/suse/setup/slide
 EXTRA_DIST =					\
 	pic/*.png				\
 						\
-	txt/en/*.rtf
+	txt/en/*.rtf				\
+	txt/de/*.rtf
 
 
 
