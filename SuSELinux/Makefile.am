@@ -12,8 +12,8 @@ EXTRA_DIST =					\
 	pic/*.png				\
 						\
 	txt/cs/*.rtf				\
+	txt/da/*.rtf				\
 	txt/de/*.rtf				\
-	txt/dk/*.rtf				\
 	txt/en/*.rtf				\
 	txt/es/*.rtf				\
 	txt/hu/*.rtf				\
