@@ -24,6 +24,7 @@ Group:		System/YaST
 @PREP@
 
 @BUILD@
+./tools/check_utf-8
 
 @INSTALL@
 
