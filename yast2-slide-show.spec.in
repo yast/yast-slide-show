@@ -10,7 +10,6 @@ Summary:	-
 %package SuSELinux
 Summary:	-
 Group:		System/YaST
-PreReq:		/bin/ln
 
 %description SuSELinux
 -
@@ -18,7 +17,6 @@ PreReq:		/bin/ln
 %package SLES
 Summary:	-
 Group:		System/YaST
-PreReq:		/bin/ln
 
 %description SLES
 -
@@ -31,20 +29,12 @@ PreReq:		/bin/ln
 
 @CLEAN@
 
-%define slidedir /CD1/suse/setup
-
-%post SuSELinux
-ln -sf slide-SuSELinux %{slidedir}/slide
-
-%post SLES
-ln -sf slide-SLES %{slidedir}/slide
-
 %files SuSELinux
 %defattr(-,root,root)
-%dir %{slidedir}/slide-SuSELinux
-%{slidedir}/slide-SuSELinux/*
+%dir /SuSE/SuSE/CD1/suse/setup/slide
+/SuSE/SuSE/CD1/suse/setup/slide/*
 
 %files SLES
 %defattr(-,root,root)
-%dir %{slidedir}/slide-SLES
-%{slidedir}/slide-SLES/*
+%dir /SuSE/SuSE-SLES/CD1/suse/setup/slide
+/SuSE/SuSE-SLES/CD1/suse/setup/slide/*
