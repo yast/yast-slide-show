@@ -23,7 +23,7 @@
 					   )
 				 ),
 			 `VSpacing(),
-			 `ComboBox(`id(`lang), `opt(`editable,`hstretch), "&Language", [ "en", "cs", "de", "es", "fr", "hu", "it" ] ),
+			 `ComboBox(`id(`lang), `opt(`editable,`hstretch), "&Language", [ "en", "cs", "de", "es", "fr", "hu", "it", "sk" ] ),
 			 `VSpacing(),
 			 `PushButton(`opt(`default), "&OK" )
 			 )
