@@ -1,4 +1,14 @@
 -------------------------------------------------------------------
+Thu Aug 21 17:41:02 CEST 2003 - sh@suse.de
+
+- V 2.8.3
+- New slide show images by sigi
+- New German texts by sigi 
+- Removed all other texts (now obsolete)
+- Waiting for English texts as fallback for all non-German users
+  until the final texts will arive
+
+-------------------------------------------------------------------
 Mon Jun 23 16:24:17 CEST 2003 - sh@suse.de
 
 - Own toplevel directories in .spec file for abuild
