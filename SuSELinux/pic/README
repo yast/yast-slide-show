@@ -1,51 +1,12 @@
 			    YaST2 Slide Show Images
                            =========================
 
-This directory contains the image files for the YaST2 slide show. All "*.jpg"
-and "*.png" files in this directory will be displayed - in the same order as
-"ls" shows them, so use file names that start with a multi-digit number. Use
-leading zeroes as required, e.g.
+Starting with SuSE Linux 9.2 (Aug/Sep 2004), the image files are no longer the
+master; rather, any images are included in the text with HTML-like "img src"
+tags.
 
-	01_intro.jpg
-	02_something.png
-	03_somemore.jpg
-	...
-	10_morestuff.png
-
-and NOT
-
-	1_intro.jpg
-	10_morestuff.jpg
-	2_something.png
-	3_somemore.jpg
-
-
-The image files are the master. For every image a corresponding text file is
-loaded from the "txt" directories. The text files are required to have the same
-name as the image file - just the filename extension is different: ".jpg" or
-".png" are stripped and substituted by ".rtf", so in this example the following
-text files are loaded:
-
-	01_intro.rtf
-	02_something.rtf
-	03_somemore.rtf
-	...
-	10_morestuff.rtf
-
-The directory with the current YaST2 language is searched first. English is the
-fallback if nothing is found there. If there is no corresponding text file, no
-text will be displayed for this image.
-
-If you are installing in German language, the directory search order is:
-
-	slide/txt/de_DE
-	slide/txt/de
-	slide/txt/en_US
-	slide/txt/en_GB
-	slide/txt/en
-
-
-It is generally not a good idea to change file names for slide show images or
-texts unless absolutely necessary since a lot of other files depend on each
-file.
+Since normally each slide show page will contain one image, it still makes
+sense (but it is no longer mandatory) to name the images according to the
+respective text file, thus using something like "01_welcome.png" for a text
+file "01_welcome.rtf".
 
