@@ -5,7 +5,7 @@
 #
 # $Id$
 #
-# Unlike most YaST2 Makefiles, this file is NOT automatically generated, 
+# Unlike most YaST2 Makefiles, this file is NOT automatically generated,
 # so don't simply delete it.
 #
 # This Makefile will automatically be copied into the dist subdir upon
@@ -18,9 +18,18 @@ MAINTAINER	= $(shell cat MAINTAINER )
 distdir 	= $(RPMNAME)-$(VERSION)
 instdir		= /CD1/suse/setup
 
-# Add all files outside the "slide" subdir 
-# that are to go into the tarball to this list
-EXTRA_DIST = RPMNAME VERSION MAINTAINER Makefile
+# Add all files outside the "slide" subdir that are to go into the tarball 
+# to this list
+EXTRA_DIST = 					\
+	RPMNAME 				\
+	VERSION 				\
+	MAINTAINER 				\
+	Makefile				\
+	COPYING					\
+	COPYRIGHT.english			\
+	COPYRIGHT.french			\
+	COPYRIGHT.german
+
 
 SPEC	= package/$(RPMNAME).spec
 SPEC_IN	= $(RPMNAME).spec.in
@@ -47,7 +56,7 @@ $(SPEC): $(SPEC_IN) VERSION RPMNAME MAINTAINER
 	sed <$(SPEC_IN) >$(SPEC)	\
 	-e "s/@VERSION@/$(VERSION)/"	\
 	-e "s/@RPMNAME@/$(RPMNAME)/"	\
-	-e "s/@MAINTAINER@/$(MAINTAINER)/" 
+	-e "s/@MAINTAINER@/$(MAINTAINER)/"
 
 
 spec:	$(SPEC)
@@ -69,7 +78,7 @@ dist:	clean-dist
 
 
 package: clean spec dist
-	rm -f package/$(RPMNAME)-*.tar.bz2 
+	rm -f package/$(RPMNAME)-*.tar.bz2
 	tar cIf $(RPMNAME)-$(VERSION).tar.bz2 $(distdir)
 	rm -rf $(distdir)
 	mv $(RPMNAME)-$(VERSION).tar.bz2 package
