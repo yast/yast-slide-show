@@ -1,4 +1,11 @@
 -------------------------------------------------------------------
+Mon Mar 17 12:47:13 CET 2003 - sh@suse.de
+
+- V 2.7.9
+- Rearranged slides (rhaidl)
+- Changed some de texts (rhaidl) 
+
+-------------------------------------------------------------------
 Fri Mar 14 16:03:22 CET 2003 - arvin@suse.de
 
 - fixed encoding in two german texts (bug #25267)
