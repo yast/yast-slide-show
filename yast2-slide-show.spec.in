@@ -39,10 +39,20 @@ Group:		System/YaST
 
 %files SuSELinux
 %defattr(-,root,root)
+%dir /SuSE
+%dir /SuSE/SuSE
+%dir /SuSE/SuSE/CD1
+%dir /SuSE/SuSE/CD1/suse
+%dir /SuSE/SuSE/CD1/suse/setup
 %dir /SuSE/SuSE/CD1/suse/setup/slide
 /SuSE/SuSE/CD1/suse/setup/slide/*
 
 %files SLES
 %defattr(-,root,root)
+%dir /SuSE
+%dir /SuSE/SuSE-SLES
+%dir /SuSE/SuSE-SLES/CD1
+%dir /SuSE/SuSE-SLES/CD1/suse
+%dir /SuSE/SuSE-SLES/CD1/suse/setup
 %dir /SuSE/SuSE-SLES/CD1/suse/setup/slide
 /SuSE/SuSE-SLES/CD1/suse/setup/slide/*
