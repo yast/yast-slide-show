@@ -12,6 +12,7 @@
 
     // import "SlideShowCallbacks";
 
+    import "Mode";
     import "Label";
     import "String";
 
@@ -53,7 +54,54 @@
     global boolean	widgets_created		= false;
     global boolean	cd_statistics_created	= false;
 
+    global define void SetBasePath( string base_path );
+    define list GetSlideList();
+    define boolean LoadSlideImage( string image_file_name );
+    define boolean LoadSlideText( string text_file_name );
+    define void EnableButtons();
+    define void SetSlideText( string text );
+    global define string StripReleaseNo( string pkg_name );
+    define string FormatTwoDigits( integer x );
+    define string FormatRemaining( integer remaining, boolean unit_is_seconds );
+    define string CdProgressId( integer src_no, integer cd_no );
+    define boolean RecalcRemainingTimes( boolean force_recalc );
+    global define void OpenSlideShowDialog();
+    define void LoadSlide (integer slide_no);
+    global define void UpdateAllCdProgress( boolean deleting );
+    global define void UpdateCurrentCdProgress();
+    define void SubtractPackageSize( integer pkg_size );
+    define boolean SwitchToSecondsIfNecessary();
+    define void OpenSlideShowBaseDialog();
+    global define void SwitchToSlideShowView();
+    global define void SwitchToDetailsView( boolean enable_slide_show );
+    define void ChangeSlideIfNecessary();
+    define term WizardButtons();
 
+    /*
+    global define void SlideTester();
+    global define void SetMediaType (string mediatype);
+    global define void SetImageUI( byteblock imagedata );
+    global define void InitPkgData();
+    define boolean SanityCheck( boolean silent );
+    global define void SlideProvideStart (string pkg_name);
+    global define void SlideDisplayProgress (integer pkg_percent);
+    global define void ProcessButtonPress( any button );
+    global define void SetCurrentCdNo( integer src_no, integer cd_no );
+    global define void SetLanguage( string new_language );
+    global define void StartTimer();
+    global define void StopTimer();
+    global define void NextSlide();
+    global define void PrevSlide();
+    */
+
+    define string FormatPackageDescription( string 	pkg_name,
+					    string 	pkg_description,
+					    integer 	pkg_size,
+					    boolean	deleting );
+    define void ReplaceCdStatistics( list cd_remaining, integer current_src, integer current_cd,
+				     boolean unit_is_seconds, boolean deleting );
+    // global define void SlideDisplayStart (string pkg_name,
+    // define term CdStatisticsWidgets( list cd_remaining, integer current_src, integer current_cd,
 
     /**
      * Constructor
@@ -61,7 +109,6 @@
     global define void SlideTester()
     ``{
 	y2milestone ( "SlideTester constructor" );
-	ui_defines();
 	next_recalc_time	= time();
 	SetBasePath( "/SuSE/SuSE/CD1/suse/setup/slide" );
     };
@@ -86,35 +133,24 @@
     }
 
     /**
-     * UI-defines for the SlideTester module.
+     * Set the slide show image to the image data specified.
+     * @param imagedata image bytes in one of the supported formats (PNG, ...)
      *
-     * Workaround so the YCP interpreter doesn't complain about code
-     *  outside any 'define': Define UI functions right here.
+     * This is a low level function; use the corresponding high level
+     * function, if possible: SlideTesterLoadSlide()
      **/
-    define void ui_defines() ``{
-	UI(``{
-	    /**
-	     * Set the slide show image to the image data specified.
-	     * @param imagedata image bytes in one of the supported formats (PNG, ...)
-	     *
-	     * This is a low level function; use the corresponding high level
-	     * function, if possible: SlideTesterLoadSlide()
-	     **/
-	    global define void SetImageUI( byteblock imagedata ) ``{
-		if (imagedata == nil)
-		{
-		    y2warning ( "SetImageUI(): Invalid image" );
-		    ReplaceWidget( `id(`rep_work_area), `Empty() );
-		}
-		else
-		{
-		    ReplaceWidget( `id(`rep_work_area),
-				   `HVCenter( `HVSquash( `Image( imagedata, "Slide Show Image") ) ) );
-		}
-	    };
-	});
-    };
-
+    global define void SetImageUI( byteblock imagedata ) ``{
+	if (imagedata == nil)
+	{
+	    y2warning ( "SetImageUI(): Invalid image" );
+	    UI::ReplaceWidget( `id(`rep_work_area), `Empty() );
+	}
+	else
+	{
+	    UI::ReplaceWidget( `id(`rep_work_area),
+			   `HVCenter( `HVSquash( `Image( `id(`imagedata), imagedata, "Slide Show Image") ) ) );
+	}
+    }
 
     /**
      * Initialize internal pacakge data, such as remaining package sizes and
@@ -144,16 +180,16 @@
 	total_size_to_install	= 0;
 	total_cd_count		= 0;
 
-	foreach ( `size_list, install_sizes_per_cd,
+	foreach ( list size_list, install_sizes_per_cd,
         ``{
-	    foreach ( `cd_size, size_list,
+	    foreach ( integer cd_size, size_list,
 	    ``{
 		total_size_to_install	= total_size_to_install + cd_size;
 		total_cd_count		= total_cd_count + 1;
 	    });
 	});
 
-	remaining_sizes_per_cd 	= eval (install_sizes_per_cd);
+	remaining_sizes_per_cd	= (list) eval (install_sizes_per_cd);
 	init_pkg_data_complete	= true;
 
 	y2milestone( "SlideTester::InitPkgData() done; install_sizes_per_cd: %1", install_sizes_per_cd );
@@ -391,7 +427,7 @@
 
 	if ( cd_statistics_created )
 	{
-	    saved_percent = UI::QueryWidget( `id(`progress_current_cd ), `Value );
+	    saved_percent = (integer) UI::QueryWidget( `id(`progress_current_cd ), `Value );
 	}
 
 	if ( unit_is_seconds )
@@ -473,9 +509,9 @@
 	    integer src_no = 1;
 	    integer cd_no  = 1;
 
-	    foreach ( `cd_remaining_list, unit_is_seconds ? remaining_times_per_cd : remaining_sizes_per_cd,
+	    foreach ( list cd_remaining_list, unit_is_seconds ? remaining_times_per_cd : remaining_sizes_per_cd,
             ``{
-  	        foreach ( `cd_remaining, cd_remaining_list,
+  	        foreach ( integer cd_remaining, cd_remaining_list,
 	        ``{
  		    if ( ! ( src_no == current_src_no && cd_no == current_cd_no )
 			 && cd_remaining > 0 )
@@ -587,12 +623,12 @@
 
 	// Recalculate remaining times for the individual CDs
 
-	foreach ( `remaining_sizes_list, remaining_sizes_per_cd,
+	foreach ( list remaining_sizes_list, remaining_sizes_per_cd,
 	``{
 	    list remaining_times_list = [];
 	    integer remaining_time = -1;
 
-	    foreach ( `remaining_size, remaining_sizes_list,
+	    foreach ( integer remaining_size, remaining_sizes_list,
 	    ``{
 		remaining_time = remaining_size;
 
@@ -691,7 +727,7 @@
      **/
     define list GetSlideList()
     ``{
-	list slide_list = SCR::Read (.target.dir, slide_pic_path);
+	list slide_list = (list) SCR::Read (.target.dir, slide_pic_path);
 
 	if ( slide_list == nil )
 	{
@@ -699,7 +735,7 @@
 	    return [];
 	}
 
-	slide_list = sort( filter( `filename, slide_list,
+	slide_list = sort( filter( string filename, slide_list,
 	``{
 	    if ( size( filename ) <= 4 )
 	    {
@@ -809,7 +845,7 @@
      **/
     define boolean LoadSlideImage( string image_file_name )
     ``{
-	byteblock image_data = SCR::Read (.target.byte, [image_file_name, #[]] );
+	byteblock image_data = (byteblock) SCR::Read (.target.byte, [image_file_name, #[]] );
 
 	if ( size (image_data) == 0 )
 	{
@@ -819,7 +855,7 @@
 	else
 	{
 	    y2debug( "Loading slide show image from %1", image_file_name );
-	    UI::SetImageUI( image_data );
+	    SetImageUI( image_data );
 	    return true;
 	}
     };
@@ -832,7 +868,7 @@
      **/
     define boolean LoadSlideText( string text_file_name )
     ``{
-	string text = SCR::Read (.target.string, [text_file_name, ""] );
+	string text = (string) SCR::Read (.target.string, [text_file_name, ""] );
 
 	if ( text == "" )
 	{
@@ -986,7 +1022,7 @@
 										    // PushButton that switches from slide show to technical installation
 										    // details (info package that is currently being installed)
 										    `ReplacePoint(`id(`rep_toggle_view),
-												  `PushButton(`id(`details_view), `opt(`default), UI(_("&Details...") ) )
+												  `PushButton(`id(`details_view), `opt(`default), _("&Details...") )
 												  ),
 										    `VSpacing( 0.5 )
 										    )
@@ -1042,7 +1078,7 @@
 			     );
 	integer sum = 0;
 
-	foreach ( `remaining_list, cd_remaining,
+	foreach ( list remaining_list, cd_remaining,
 	``{
 	    widgets = add( widgets, `VSpacing( 0.5 ) );
 
@@ -1055,7 +1091,7 @@
 
 	    integer cd_no = 0;			// re-start at 0 for every source
 
-	    foreach ( `remaining, remaining_list,
+	    foreach ( integer remaining, remaining_list,
             ``{
 		widgets = add( widgets,
 			       `HBox(

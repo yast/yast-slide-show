@@ -32,7 +32,7 @@ Group:		System/YaST
 /bin/rm -rf ${RPM_BUILD_ROOT}/usr/share/doc/packages/yast2-slide-show
 
 # Get rid of test environment during autobuild
-/bin/rm -rf ${RPM_BUILD_ROOT}/usr/share/YaST2/clients/test_slide_show.ycp
+/bin/rm -rf ${RPM_BUILD_ROOT}/usr/share/YaST2/clients/slide-show.ycp
 /bin/rm -rf ${RPM_BUILD_ROOT}/usr/share/YaST2/modules/SlideTester.ycp
 
 @CLEAN@
