@@ -1,4 +1,9 @@
 -------------------------------------------------------------------
+Sat Mar 23 13:10:18 CET 2002 - kukuk@suse.de
+
+- V 2.5.8: Fix typo in german support text [Bug #15410]
+
+-------------------------------------------------------------------
 Tue Mar 19 14:57:29 CET 2002 - sh@suse.de
 
 - V 2.5.7: Hungarian texts have arrived at last (msommer@suse.de) 
