@@ -20,6 +20,7 @@ Packager:     @MAINTAINER@
 Summary:      YaST2 Slide show during package installation
 Version:      @VERSION@
 Source0:      @RPMNAME@-@VERSION@.tar.bz2
+BuildArchitectures: noarch
 
 %description
 -
