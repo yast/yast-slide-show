@@ -9,7 +9,8 @@ instdir	= /SuSE/SuSE/CD1/suse/setup/slide
 EXTRA_DIST = 					\
 	pic/*.png 				\
 						\
-	txt/de/*.rtf 
+	txt/en/*.rtf 				\
+	txt/de/*.rtf
 
 install-data-local:
 	mkdir -p $(DESTDIR)/$(instdir)
