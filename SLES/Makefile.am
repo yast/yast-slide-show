@@ -2,7 +2,7 @@
 # Makefile.am for slide-show/slide
 #
 
-instdir	= /CD1/suse/setup/slide
+instdir	= /CD1/suse/setup/slide-SLES
 
 # note: txt/*/*.rtf does not work. you get a dir called "txt/*"!
 EXTRA_DIST = pic/*.png \

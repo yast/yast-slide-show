@@ -1,13 +1,26 @@
 @HEADER-COMMENT@
-
-# neededforbuild  yast2-devtools
+# neededforbuild yast2-devtools
 
 @HEADER@
-Requires:	yast2
-Summary:	YaST2 Slide show during package installation
 BuildArchitectures:	noarch
-
+Summary:	-
 %description
+-
+
+%package SuSELinux
+Summary:	-
+Group:		System/YaST
+PreReq:		/bin/ln
+
+%description SuSELinux
+-
+
+%package SLES
+Summary:	-
+Group:		System/YaST
+PreReq:		/bin/ln
+
+%description SLES
 -
 
 @PREP@
@@ -18,7 +31,20 @@ BuildArchitectures:	noarch
 
 @CLEAN@
 
-%files
+%define slidedir /CD1/suse/setup
+
+%post SuSELinux
+ln -sf slide-SuSELinux %{slidedir}/slide
+
+%post SLES
+ln -sf slide-SLES %{slidedir}/slide
+
+%files SuSELinux
 %defattr(-,root,root)
-%dir /CD1/suse/setup/slide
-/CD1/suse/setup/slide/*
+%dir %{slidedir}/slide-SuSELinux
+%{slidedir}/slide-SuSELinux/*
+
+%files SLES
+%defattr(-,root,root)
+%dir %{slidedir}/slide-SLES
+%{slidedir}/slide-SLES/*
