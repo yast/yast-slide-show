@@ -1,0 +1,12 @@
+#/bin/sh
+
+cat <<EOF
+
+The YaST2 slide show doesn't need to be configured.
+
+This file is simply here for compatibility with other YaST2 packages
+- and of course to say that it isn't needed.  ;-)
+
+
+EOF
+
