@@ -40,6 +40,6 @@ make install
 
 %files
 
-%dir /CD1/suse/setup/slide
+/CD1/suse/setup/slide
 
 
