@@ -1,5 +1,6 @@
 Makefile
 Makefile.in
+*.ybc
+.dep
 *.bak
 *~
-
