@@ -16,7 +16,8 @@ EXTRA_DIST = 					\
 	txt/en/*.rtf 				\
 	txt/es/*.rtf 				\
 	txt/fr/*.rtf 				\
-	txt/hu/*.rtf 
+	txt/hu/*.rtf 				\
+	txt/it/*.rtf 
 
 install-data-local:
 	mkdir -p $(DESTDIR)/$(instdir)
