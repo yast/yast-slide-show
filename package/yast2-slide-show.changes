@@ -1,4 +1,19 @@
 -------------------------------------------------------------------
+Mon Sep 24 13:51:02 CEST 2001 - sh@suse.de
+
+- V 2.4.4 
+- Fixed bug #10803: No czech slide show; moved cz -> cs 
+- Minor corrections in de texts by msommer
+
+-------------------------------------------------------------------
+Fri Sep 21 16:51:53 CEST 2001 - sh@suse.de
+
+- V 2.4.3
+- New texts for 12_platform
+- Fixed bug #11138: German advertising of Firewall CD wrong
+  (msommer) 
+
+-------------------------------------------------------------------
 Thu Sep 20 12:34:58 CEST 2001 - sh@suse.de
 
 - Added CZ
