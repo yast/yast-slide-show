@@ -12,4 +12,5 @@ EXTRA_DIST = pic/*.png \
 
 install-data-local:
 	mkdir -p $(DESTDIR)/$(instdir)
-	cp -a $(srcdir)/txt $(srcdir)/pic $(DESTDIR)/$(instdir)
+	test -d $(srcdir)/txt && cp -a $(srcdir)/txt $(DESTDIR)/$(instdir)
+	test -d $(srcdir)/pic && cp -a $(srcdir)/pic $(DESTDIR)/$(instdir)
