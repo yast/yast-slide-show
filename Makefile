@@ -83,3 +83,6 @@ package: clean spec dist
 	rm -rf $(distdir)
 	mv $(RPMNAME)-$(VERSION).tar.bz2 package
 
+
+stable: package
+	y2tool checkin-stable
