@@ -1,4 +1,9 @@
 -------------------------------------------------------------------
+Mon Jun 23 16:24:17 CEST 2003 - sh@suse.de
+
+- Own toplevel directories in .spec file for abuild
+
+-------------------------------------------------------------------
 Mon Jun 23 15:39:56 CEST 2003 - sh@suse.de
 
 - Delete unpackaged test environment in .spec file 
