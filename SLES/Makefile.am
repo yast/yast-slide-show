@@ -5,7 +5,10 @@
 instdir	= /CD1/suse/setup/slide
 
 # note: txt/*/*.rtf does not work. you get a dir called "txt/*"!
-EXTRA_DIST = pic/*.png txt/de/*.rtf txt/en/*.rtf
+EXTRA_DIST = pic/*.png \
+	   txt/cs/*.rtf \
+	   txt/de/*.rtf \
+	   txt/en/*.rtf
 
 install-data-local:
 	mkdir -p $(DESTDIR)/$(instdir)
