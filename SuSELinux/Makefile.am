@@ -15,20 +15,21 @@ EXTRA_DIST =					\
 	txt/en/*.rtf				\
 	txt/fi/*.rtf				\
 	txt/hu/*.rtf				\
-	txt/nb/*.rtf				
+	txt/nb/*.rtf				\
+	txt/nl/*.rtf				\
+	txt/pl/*.rtf				\
+	txt/pt/*.rtf				\
+	txt/sl/*.rtf				
 
 #	txt/de/*.rtf				\
 #	txt/el/*.rtf				\
 #	txt/en/*.rtf				\
 #	txt/es/*.rtf				\
 #	txt/fr/*.rtf				\
-#	txt/hu/*.rtf				\
 #	txt/it/*.rtf				\
 #	txt/ja/*.rtf				\
-#	txt/nl/*.rtf				\
 #	txt/no/*.rtf				\
 #	txt/sk/*.rtf				\
-#	txt/sl/*.rtf				\
 #	txt/uk/*.rtf				\
 #	txt/zh_CN/*.rtf				\
 #	txt/zh_TW/*.rtf
