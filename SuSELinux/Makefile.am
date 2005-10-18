@@ -14,7 +14,6 @@ EXTRA_DIST =					\
 	txt/bg/*.rtf				\
 	txt/cs/*.rtf				\
 	txt/de/*.rtf				\
-	txt/el/*.rtf				\
 	txt/en/*.rtf				\
 	txt/es/*.rtf				\
 	txt/fi/*.rtf				\
