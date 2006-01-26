@@ -1,7 +1,7 @@
 @HEADER-COMMENT@
-# neededforbuild yast2-devtools pkgconfig
 
 @HEADER@
+BuildRequires:	pkgconfig yast2-devtools
 BuildArchitectures:	noarch
 Summary:	-
 %description
