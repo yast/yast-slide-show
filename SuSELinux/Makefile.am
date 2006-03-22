@@ -14,7 +14,6 @@ EXTRA_DIST =					\
 	txt/bg/*.rtf				\
 	txt/cs/*.rtf				\
 	txt/de/*.rtf				\
-	txt/el/*.rtf				\
 	txt/en/*.rtf				\
 	txt/es/*.rtf				\
 	txt/fi/*.rtf				\
@@ -25,11 +24,9 @@ EXTRA_DIST =					\
 	txt/km/*.rtf				\
 	txt/nb/*.rtf				\
 	txt/nl/*.rtf				\
-	txt/no/*.rtf				\
 	txt/pl/*.rtf				\
 	txt/pt/*.rtf				\
 	txt/pt_BR/*.rtf				\
-	txt/sk/*.rtf				\
 	txt/sl/*.rtf				\
 	txt/uk/*.rtf				\
 	txt/zh_CN/*.rtf				\
