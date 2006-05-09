@@ -2,7 +2,7 @@
 # Makefile.am for slide-show/slide
 #
 
-instdir = /SuSE/SuSE/CD1/suse/setup/slide
+instdir = /SuSE/SuSE-SLED/CD1/suse/setup/slide
 
 # note: txt/*/*.rtf does not work. you get a dir called "txt/*"!
 
