@@ -56,3 +56,13 @@ Group:		System/YaST
 %dir /SuSE/SuSE-SLES/CD1/suse/setup
 %dir /SuSE/SuSE-SLES/CD1/suse/setup/slide
 /SuSE/SuSE-SLES/CD1/suse/setup/slide/*
+
+%files SLES
+%defattr(-,root,root)
+%dir /SuSE
+%dir /SuSE/SuSE-SLED
+%dir /SuSE/SuSE-SLED/CD1
+%dir /SuSE/SuSE-SLED/CD1/suse
+%dir /SuSE/SuSE-SLED/CD1/suse/setup
+%dir /SuSE/SuSE-SLED/CD1/suse/setup/slide
+/SuSE/SuSE-SLED/CD1/suse/setup/slide/*
