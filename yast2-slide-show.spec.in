@@ -18,8 +18,13 @@ Group:		System/YaST
 Summary:	-
 Group:		System/YaST
 
-%description SLES
+%description SLED
 -
+
+%package SLED
+Summary:	-
+Group:		System/YaST
+
 
 @PREP@
 
@@ -57,7 +62,7 @@ Group:		System/YaST
 %dir /SuSE/SuSE-SLES/CD1/suse/setup/slide
 /SuSE/SuSE-SLES/CD1/suse/setup/slide/*
 
-%files SLES
+%files SLED
 %defattr(-,root,root)
 %dir /SuSE
 %dir /SuSE/SuSE-SLED
