@@ -18,13 +18,15 @@ Group:		System/YaST
 Summary:	-
 Group:		System/YaST
 
-%description SLED
+%description SLES
 -
 
 %package SLED
 Summary:	-
 Group:		System/YaST
 
+%description SLED
+-
 
 @PREP@
 
