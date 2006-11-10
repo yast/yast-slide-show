@@ -1,4 +1,11 @@
 -------------------------------------------------------------------
+Fri Nov 10 13:55:02 CET 2006 - sh@suse.de
+
+- Checked for merge SP1-Branch -> trunk:
+  No merge intended (10.2 slides are different from SLE slides!)
+- V 2.14.1 
+
+-------------------------------------------------------------------
 Fri Nov 10 10:20:46 CET 2006 - ke@suse.de
 
 - V. 2.13.31
