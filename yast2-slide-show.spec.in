@@ -32,6 +32,13 @@ Group:		System/YaST
 
 @BUILD@
 ./tools/check_utf-8
+# on OS use the openSUSE logo everywhere; see # 216562
+%if %suse_version >= 1020
+for f in SuSELinux/txt/*/01*.rtf; do
+  sed -i 's/01_welcome.png/02_opensuse.png/' $f
+done
+%endif
+
 
 @INSTALL@
 # Get rid of README files etc. auto-created by yast2-devtools
