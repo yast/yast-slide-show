@@ -11,24 +11,21 @@ instdir = /SuSE/SuSE-SLED/CD1/suse/setup/slide
 EXTRA_DIST =					\
 	pic/*.png				\
 						\
-	txt/bg/*.rtf				\
-	txt/cs/*.rtf				\
+	txt/en/*.rtf
+
+#onhold =	txt/cs/*.rtf				\
 	txt/de/*.rtf				\
-	txt/en/*.rtf				\
 	txt/es/*.rtf				\
 	txt/fi/*.rtf				\
 	txt/fr/*.rtf				\
 	txt/hu/*.rtf				\
 	txt/it/*.rtf				\
 	txt/ja/*.rtf				\
-	txt/km/*.rtf				\
 	txt/nb/*.rtf				\
 	txt/nl/*.rtf				\
 	txt/pl/*.rtf				\
-	txt/pt/*.rtf				\
 	txt/pt_BR/*.rtf				\
 	txt/sl/*.rtf				\
-	txt/uk/*.rtf				\
 	txt/zh_CN/*.rtf				\
 	txt/zh_TW/*.rtf
 
