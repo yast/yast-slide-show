@@ -13,7 +13,8 @@ EXTRA_DIST =					\
 						\
 	txt/en/*.rtf
 
-#onhold =	txt/cs/*.rtf				\
+onhold =	txt/cs/*.rtf				\
+	txt/da/*.rtf				\
 	txt/de/*.rtf				\
 	txt/es/*.rtf				\
 	txt/fi/*.rtf				\
