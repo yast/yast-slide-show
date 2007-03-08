@@ -1,4 +1,13 @@
 -------------------------------------------------------------------
+Thu Mar  8 14:40:29 CET 2007 - ke@suse.de
+
+- V. 2.13.34:
+- Remove obsolete files to fix the missing pictures problem; reported by
+  Stefan Seyfried [#252124].
+- Update translation files.
+- Add new languages: ar, ca, ru, and sv.
+
+-------------------------------------------------------------------
 Tue Feb 27 10:19:28 CET 2007 - ke@suse.de
 
 - V. 2.13.33:
