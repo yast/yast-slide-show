@@ -10,32 +10,32 @@ instdir = /SuSE/SuSE/CD1/suse/setup/slide
 
 EXTRA_DIST =					\
 	pic/*.png				\
-						\
-	txt/bg/*.rtf				\
-	txt/cs/*.rtf				\
-	txt/da/*.rtf				\
-	txt/de/*.rtf				\
-	txt/en/*.rtf				\
-	txt/es/*.rtf				\
-	txt/et/*.rtf				\
-	txt/fi/*.rtf				\
-	txt/fr/*.rtf				\
-	txt/hu/*.rtf				\
-	txt/it/*.rtf				\
-	txt/ja/*.rtf				\
-	txt/km/*.rtf				\
-	txt/lt/*.rtf				\
-	txt/nb/*.rtf				\
-	txt/nl/*.rtf				\
-	txt/pl/*.rtf				\
-	txt/pt/*.rtf				\
-	txt/pt_BR/*.rtf				\
-	txt/ru/*.rtf				\
-	txt/sl/*.rtf				\
-	txt/sv/*.rtf				\
-	txt/uk/*.rtf				\
-	txt/zh_CN/*.rtf				\
-	txt/zh_TW/*.rtf
+	txt/en/*.rtf				
+
+# 	txt/bg/*.rtf				\
+# 	txt/cs/*.rtf				\
+# 	txt/da/*.rtf				\
+# 	txt/de/*.rtf				\
+# 	txt/es/*.rtf				\
+# 	txt/et/*.rtf				\
+# 	txt/fi/*.rtf				\
+# 	txt/fr/*.rtf				\
+# 	txt/hu/*.rtf				\
+# 	txt/it/*.rtf				\
+# 	txt/ja/*.rtf				\
+# 	txt/km/*.rtf				\
+# 	txt/lt/*.rtf				\
+# 	txt/nb/*.rtf				\
+# 	txt/nl/*.rtf				\
+# 	txt/pl/*.rtf				\
+# 	txt/pt/*.rtf				\
+# 	txt/pt_BR/*.rtf				\
+# 	txt/ru/*.rtf				\
+# 	txt/sl/*.rtf				\
+# 	txt/sv/*.rtf				\
+# 	txt/uk/*.rtf				\
+# 	txt/zh_CN/*.rtf				\
+# 	txt/zh_TW/*.rtf
 
 
 
