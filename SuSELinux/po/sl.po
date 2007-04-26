@@ -1,0 +1,352 @@
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-03-27 10:49+0200\n"
+"PO-Revision-Date: 2005-08-24 17:37+0200\n"
+"Last-Translator: Janez Krek <janez.krek@euroteh.si>\n"
+"Language-Team: Slovenščina <sl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3.1\n"
+"Plural-Forms:  nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
+"n%100==4 ? 2 : 3);\n"
+
+#: slideshow.xml:15(title)
+#, fuzzy
+msgid "Slide Show"
+msgstr "Predstavitev SUSE Linuxa 10.1"
+
+#: slideshow.xml:18(title)
+#, fuzzy
+msgid "Welcome to openSUSE"
+msgstr "Dobrodošli v svetu SUSE Linuxa!"
+
+#: slideshow.xml:20(para)
+#, fuzzy
+msgid ""
+"Whether you use your computer to communicate with friends, relatives, or "
+"colleagues, manage and enjoy your pictures and music, browse the Internet "
+"for the latest news or information, write a report or budget, or host a "
+"personal Web site or home network, you will find everything you need in "
+"openSUSE 10.3"
+msgstr ""
+"Ne glede na to, ali uporabljate računalnik za spletno druženje s prijatelji, "
+"urejanje in pregledovanje slik in glasbe, pregledovanje zadnjih novic, "
+"pisanje poročil ali pregledovanje financ, gostovanje osebne strani ali za "
+"strežnik domačega omrežja, SUSE LINUX 10.1 vsebuje vse, kar potrebujete."
+
+#: slideshow.xml:30(title)
+msgid "openSUSE.org"
+msgstr "openSUSE.org"
+
+#: slideshow.xml:32(para)
+#, fuzzy
+msgid ""
+"This distribution is created by the openSUSE.org project. The openSUSE "
+"project, sponsored by Novell, is a collaborative community effort to deliver "
+"the world's most usable open source computing platform, the openSUSE "
+"distribution. Hosted at opensuse.org, the project features a transparent "
+"development process, simple participation models, extensive development "
+"tools, and easy access to builds and releases for everyone. Visit www."
+"opensuse.org to learn how you can join the openSUSE community."
+msgstr ""
+"SUSE Linux je ustvaril projekt OpenSUSE, ki ga sponzorira Novell. Namen "
+"projekta OpenSUSE je ustvariti najbolj uporaben odprtokodni operacijski "
+"sistem, SUSE Linux. Projekt gostuje na spletnem naslovu opensuse.org in "
+"vsebuje pregleden postopek razvoja, enostavne možnosti sodelovanja, obsežna "
+"razvojna okolja in preprost dostop do posameznih izdaj za vsakogar. Namen "
+"projekta OpenSUSE je ustvariti različico Linuxa, ki bo ustrezna za vsakršno "
+"uporabo na osebnem računalniku. Obiščite opensuse.org in se pridružite "
+"OpenSUSE skupnosti!"
+
+#: slideshow.xml:43(title)
+msgid "Connect and Communicate"
+msgstr "Povežite se s svetovnim spletom!"
+
+#: slideshow.xml:45(para)
+#, fuzzy
+msgid ""
+"openSUSE 10.3 provides a complete set of tools for Web browsing and e-mail "
+"management and even includes the newest Internet-based phone technology."
+msgstr ""
+"SUSE Linux 10.1 nudi celoten obseg orodij za pregledovanje spletnih strani, "
+"urejanje elektronske pošte in celo najnovejša orodja za spletno telefonijo."
+
+#: slideshow.xml:49(para)
+msgid ""
+"The Firefox Web browser is the best Web browser in the market. It boasts a "
+"complete set of browser features, including Java, Adobe Reader, RealPlayer, "
+"and Macromedia Flash plug-ins, plus lightning-fast performance."
+msgstr ""
+"Spletni brskalnik Firefox je najboljši brskalnik na trgu. Njegove prednosti "
+"so velike zmožnosti in raznovrstna uporabnost. Med drugim omogoča vključke "
+"za Javo, Adobe Reader, RealPlayer in Macromedia Flash. Hitrega delovanja "
+"niti ni potrebno posebej omenjati."
+
+#: slideshow.xml:54(para)
+#, fuzzy
+msgid ""
+"Novell Evolution and Kontact are complete e-mail and contact managers that "
+"you can use to manage all your mail accounts. openSUSE also includes "
+"Linphone and Twinkle, Internet-based (VoIP) solutions that let you call "
+"people connected to the Internet all over the world."
+msgstr ""
+"Novell Evolution in Kontact sta celoviti orodji za urejanje elektronske "
+"pošte in stikov. SUSE Linux vsebuje tudi orodji Linphone in Twinkle - "
+"rešitvi za telefonijo preko interneta (VoIP), ki omogoča povezavo z ljudmi "
+"po vsem svetu."
+
+#: slideshow.xml:62(title)
+msgid "Create, View, and Listen"
+msgstr "Ustvarjajte, glejte in poslušajte"
+
+#: slideshow.xml:63(para)
+#, fuzzy
+msgid ""
+"Download tunes from the Internet. Rip CDs to create your own customized "
+"music library. Listen to your playlist online. Burn a CD or DVD. Even copy "
+"your files to an iPod or similar device to take your music anywhere. Manage "
+"and edit digital pictures with powerful graphics editors. It is easy with "
+"openSUSE."
+msgstr ""
+"Pretočite glasbo s spleta ali si izdelajte zbirko glasbe na svojih "
+"zgoščenkah. Poslušajte internetne radijske postaje, zapecite si svojo CD ali "
+"DVD zgoščenko, shranite glasbene datoteke na iPOD ali podobno napravo, ki "
+"vam omogoča poslušanje glasbe kjerkoli. Urejajte digitalne fotografije z "
+"zmogljivimi urejevalniki slik. S SUSE Linuxom gre enostavno!"
+
+#: slideshow.xml:72(title)
+msgid "Documents, Spreadsheets, and More"
+msgstr "Dokumenti, preglednice, predstavitve....in še več!"
+
+#: slideshow.xml:74(para)
+#, fuzzy
+msgid ""
+"openSUSE 10.3 comes complete with the latest version of the leading Linux "
+"productivity suite, OpenOffice.org 2.0. Openoffice.org includes a word "
+"processor, spreadsheet application, HTML editor, presentation designer, and "
+"database. It also reads and writes files you can use with popular non-Linux "
+"productivity software. It is the perfect choice for reports, papers, home "
+"budgets, and simple graphics."
+msgstr ""
+"SUSE LINUX 10.1 prinaša najnovejšo različico vodilne pisarniške zbirke "
+"OpenOffice.org 2.0. Zbirka vsebuje urejevalnik besedil, preglednico, HTML "
+"urejevalnik, program za izdelavo predstavitev in bazo podatkov. Omogoča tudi "
+"branje in zapis formata datotek zelo razširjene pisarniške zbirke, ki pa na "
+"Linuxu ne deluje.OpenOffice.org predstavlja odlično izbiro za izdelavo "
+"poročil, člankov, domačih financ ali enostavnih slik."
+
+#: slideshow.xml:84(title)
+msgid "Graphics, Graphics, Graphics"
+msgstr "Grafika, grafika, grafika"
+
+#: slideshow.xml:85(para)
+#, fuzzy
+msgid ""
+"With the tools in openSUSE, you can create or edit practically any kind of "
+"graphics. For advanced image manipulation and graphics creation, use the "
+"GIMP, a complete image retouching, composition, and authoring tool. GIMP has "
+"enough features to satisfy the most exacting artist."
+msgstr ""
+"Z orodji, vključenimi v SUSE Linux, lahko izdelate in urejate praktično vse "
+"grafične formate. Za napredne uporabnike in njihove zahteve je na voljo "
+"program GIMP, celovito orodje za urejanje slik, njihovo sestavljanje, "
+"spreminjanje in shranjevanje. GIMP vsebuje dovolj možnosti, da zadovolji "
+"tudi najbolj zahtevne uporabnike."
+
+#: slideshow.xml:91(para)
+msgid ""
+"For vector graphics, try Inkscape, a versatile graphics solution complete "
+"with support for transparent layers, bitmap tracing, text paths, and much "
+"more."
+msgstr ""
+"Za urejanje vektorske grafike preizkusite Inkspace, zmogljiv program s "
+"podporo za prosojnice, iskanje znotraj bitnih slik, vključevanje besedila  "
+"in še mnogo več."
+
+#: slideshow.xml:98(title)
+msgid "The Latest Desktop Innovations"
+msgstr "Najnovejše rešitve na vašem namizju"
+
+#: slideshow.xml:99(para)
+#, fuzzy
+msgid ""
+"openSUSE provides you with a choice of the most usable graphical desktop "
+"environments. Choose from the most up-to-date Linux graphical environments--"
+"GNOME and KDE--each combining ease of use, contemporary functionality, and "
+"outstanding graphical design with the technological superiority of the Linux "
+"operating system."
+msgstr ""
+"SUSE Linux vam nudi izbiro najbolj uporabnih namiznih okolij. Izbirate lahko "
+"med dvema najnovejšima grafičnima okoljema v Linuxu: GNOME 2.12 in KDE 3.5. "
+"Za obe so značilni enostavnost upravljanja, velika uporabnost in izvrsten "
+"grafični izgled ob tehnični dovršenosti operacijskega sistema Linux."
+
+#: slideshow.xml:108(title)
+msgid "Computing On-the-Go"
+msgstr "Računalništvo na poti"
+
+#: slideshow.xml:110(para)
+#, fuzzy
+msgid ""
+"If you run Linux on a laptop, you will be glad you chose openSUSE. It "
+"includes the most advanced mobility features. Switch between wireless and "
+"wired networks with our NetworkManager, connect with mobile phones and PDAs "
+"that support Bluetooth, and even use infrared ports to synchronize with cell "
+"phones or PalmOS devices. Of course, USB memory sticks are no problem. "
+"Finally, new power management features give you the option to \"suspend\" "
+"your session, saving it to disk or RAM. Not only does suspend allow you to "
+"turn off and restart the system faster, but when you do restart, you are "
+"exactly where you were when you stopped."
+msgstr ""
+"Če uporabljate Linux na prenosnem računalniku, boste nadvse zadovoljni, da "
+"ste izbrali SUSE Linux. SUSE Linux vsebuje najnovejše mobilne možnosti: "
+"preklop med žičnim in brezžičnim omrežjem, priključitev mobilnih telefonov "
+"in dlančnikov, ki podpirajo Bluetooth, uporabo infrardečih vrat za "
+"uskladitev podatkov s PalmOS napravami. Uporaba USB pomnilnika seveda ne "
+"predstavlja težav. Ne nazadnje, novo upravljanje z energijo vam omogoča "
+"uporabo možnosti \"suspend\", ki vašo trenutno sejo shrani na disk. S tem se "
+"računalnik naslednjič ne le hitreje zažene, ampak lahko nadaljujete delo "
+"tam, kjer ste ga prej končali."
+
+#: slideshow.xml:123(title)
+msgid "Keep Your System Secure and Up-to-Date"
+msgstr "Sistem naj bo varen in posodobljen"
+
+#: slideshow.xml:124(para)
+#, fuzzy
+msgid ""
+"If your system is connected to the Internet, SUSE Firewall helps secure your "
+"system and data from Internet intruders. Leaving it activated gives you "
+"enormous protection and configuring it to your needs takes only a moment. "
+"openSUSE also includes AppArmor, the most effective and easy-to-use Linux "
+"application security system available today. It proactively protects the "
+"operating system and applications from external or internal threats."
+msgstr ""
+"Če je vaš računalnik priključen na internet, ga pred vdori z interneta "
+"varuje požarni zid SUSE Firewall. Njegova vključitev in nastavitev traja le "
+"trenutek, omogoča pa vam zelo veliko stopnjo varnosti pred vdori z "
+"interneta. SUSE Linux vsebuje AppArmor Lite, posebno izdajo inovativne "
+"varnostne rešitve podjetja Novell, ki dodatno varuje vaš sistem pred napadi."
+
+#: slideshow.xml:132(para)
+#, fuzzy
+msgid ""
+"openSUSE also includes a special security patch update system. As security "
+"patches are created for the Linux kernel and packages included in openSUSE, "
+"we make those available to you on a special update server. To ensure that "
+"the latest security patches are installed on your system, choose to perform "
+"an online update at the end of this installation procedure. In the future, "
+"the update system keeps you informed of the availability of important "
+"security updates, so you can install them at your convenience."
+msgstr ""
+"SUSE Linux vsebuje tudi sistem za varnostno posodabljanje. Kakor hitro so na "
+"voljo varnostne posodobitve za Linux jedro in za programske pakete, "
+"vključene v SUSE Linux, vam omogočimo dostop do njih na posebnem strežniku. "
+"Če hočete zagotoviti, da vaš sistem vsebuje zadnje varnostne posodobitve, "
+"izberite možnost posodobitve s spleta ob koncu te namestitve. V bodoče vas "
+"bo o novih posodobitvah obveščal program za posodabljanje zen-updater, vi pa "
+"jih boste lahko nameščali po svoji presoji."
+
+#: slideshow.xml:145(title)
+msgid "Powerful Home Networking and Application Development Tools"
+msgstr "Zmogljiva orodja za domače omrežje in za razvoj programja"
+
+#: slideshow.xml:147(para)
+#, fuzzy
+msgid ""
+"openSUSE includes tools for network file sharing and printing (Samba), Web "
+"hosting (Apache), and virtualization (Xen). For application development, "
+"openSUSE comes with a complete set of runtime environments plus extensive "
+"application development tools, including KDevelop, Eclipse, and Mono. That "
+"means that if you can imagine it, you can probably build it with openSUSE. "
+"At openSUSE.org, you can join with thousands of other openSUSE users to "
+"collaborate and create powerful new packages that you can use."
+msgstr ""
+"SUSE Linux vsebuje orodja za zaščito podatkov in sistema pred vdori (požarni "
+"zid), orodje za skupno rabo datotek in tiskalnikov (Samba), spletno "
+"gostovanje (Apache) in virtualizacijo (XEN). Za razvoj programja je na voljo "
+"veliko število delovnih okolij in razvojnih orodij, med katerimi so "
+"KDevelop, Eclipse in Mono. Karkoli že si zamislite, s SUSE Linuxom lahko to "
+"tudi izpeljete. Na spletnih straneh openSUSE.org se lahko pridružite ostalim "
+"SUSE Linux uporabnikom in sodelujete pri razvoju novih programov in orodij "
+"za SUSE Linux."
+
+#: slideshow.xml:159(title)
+#, fuzzy
+msgid "Learn More with Documentation"
+msgstr "Dokumentacija za pomoč in podporo"
+
+#: slideshow.xml:160(para)
+msgid ""
+"openSUSE includes both SUSE-specific and general Linux documentation. The "
+"SUSE Help Center, available from the main menu or with the susehelp command, "
+"provides one-stop access to all the help included with your system. For "
+"example, use it to read the SUSE manuals, man pages, and info pages. If you "
+"want to print your own copy of the manuals, you can download a PDF version. "
+"Find the URL for the PDFs at http://en.opensuse.org/Documentation."
+msgstr ""
+
+#: slideshow.xml:171(para)
+msgid ""
+"Even more documentation is available in the openSUSE wiki at http://en."
+"opensuse.org/. In Documentation, find links to all sorts of useful "
+"information created and maintained by other openSUSE users. Also find links "
+"to the documentation available on the Novell Web site. For help with "
+"specific problems with openSUSE, check out the Support Database."
+msgstr ""
+
+#: slideshow.xml:184(title)
+msgid "Novell and Linux"
+msgstr "Novell in Linux"
+
+#: slideshow.xml:185(para)
+msgid ""
+"Novell is committed to your success with Linux. Besides openSUSE, Novell "
+"delivers an exciting suite of products designed to meet the needs of "
+"businesses large and small."
+msgstr ""
+
+#: slideshow.xml:190(para)
+#, fuzzy
+msgid ""
+"The enterprise Linux products from Novell include SUSE Linux Enterprise "
+"Server, SUSE Linux Enterprise Desktop, and Novell Open Enterprise Server. "
+"Our enterprise products are delivered with a seven year maintenance "
+"guarantee, optional support programs, and a unique Linux indemnification "
+"program."
+msgstr ""
+"Linija izdelkov Novell Enterprise Linux vsebuje SUSE LINUX Enterprise "
+"Server, Novell Open Enterprise Server in Novell Linux Desktop. Naši izdelki "
+"za podjetja vsebujejo jamstvo vzdrževanja v trajanju 5 let, dodatne programe "
+"za podporo in zaščitni program za Linux ."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: slideshow.xml:0(None)
+msgid "translator-credits"
+msgstr "podatki o prevajalcih"
+
+#, fuzzy
+#~ msgid "Remember to Register Your Software"
+#~ msgstr "Ne pozabite registrirati svoje programske opreme"
+
+#, fuzzy
+#~ msgid ""
+#~ "When you complete the installation process, you have a chance to register "
+#~ "this software at Novell. It only takes few seconds and is worth it. When "
+#~ "you are registered, you receive early notification of important software "
+#~ "updates."
+#~ msgstr ""
+#~ "Po končani namestitvi programske opreme (ne bo trajala dolgo!), lahko "
+#~ "svojo programsko opremo registrirate pri Novellu. Registracija traja le "
+#~ "nekaj sekund in se izplača. Če se registrirate, boste obveščeni o "
+#~ "pomembnih posodobitvah programske opreme , hkrati pa boste uvrščeni na "
+#~ "seznam za beta testiranje novih zmožnosti in novih različic SUSE Linuxa."

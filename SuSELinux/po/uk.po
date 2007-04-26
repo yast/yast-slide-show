@@ -1,0 +1,350 @@
+# Translation of slideshow.uk.po to Ukrainian
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# Ivan Petrouchtchak <ivanpetrouchtchak@yahoo.com>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: slideshow.uk\n"
+"POT-Creation-Date: 2007-03-27 10:49+0200\n"
+"PO-Revision-Date: 2006-10-23 18:38-0700\n"
+"Last-Translator: Ivan Petrouchtchak <ivanpetrouchtchak@yahoo.com>\n"
+"Language-Team: Ukrainian <translation@linux.org.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: slideshow.xml:15(title)
+msgid "Slide Show"
+msgstr "Показ слайдів"
+
+#: slideshow.xml:18(title)
+msgid "Welcome to openSUSE"
+msgstr "Ласкаво просимо до openSUSE"
+
+#: slideshow.xml:20(para)
+#, fuzzy
+msgid ""
+"Whether you use your computer to communicate with friends, relatives, or "
+"colleagues, manage and enjoy your pictures and music, browse the Internet "
+"for the latest news or information, write a report or budget, or host a "
+"personal Web site or home network, you will find everything you need in "
+"openSUSE 10.3"
+msgstr ""
+"Якщо ви використовуєте свій комп'ютер для зв'язку з друзями, рідними або "
+"колегами, для зберігання, редагування та перегляду фотографій, слухання "
+"музики, для навігації по Інтернету в пошуках останніх новин та інформації, "
+"для написання звіту або складання бюджету, для розміщення персонального "
+"вебсайту або для домашньої мережі -- ви знайдете все потрібне в SUSE Linux "
+"10.2."
+
+#: slideshow.xml:30(title)
+msgid "openSUSE.org"
+msgstr "openSUSE.org"
+
+#: slideshow.xml:32(para)
+msgid ""
+"This distribution is created by the openSUSE.org project. The openSUSE "
+"project, sponsored by Novell, is a collaborative community effort to deliver "
+"the world's most usable open source computing platform, the openSUSE "
+"distribution. Hosted at opensuse.org, the project features a transparent "
+"development process, simple participation models, extensive development "
+"tools, and easy access to builds and releases for everyone. Visit www."
+"opensuse.org to learn how you can join the openSUSE community."
+msgstr ""
+"Цей дистрибутив створено проектом openSUSE.org. Проект openSUSE, який "
+"спонсорує компанія Novell, це намагання спільноти створити найзручнішу в "
+"світі платформу з відкритим кодом -- дистрибутив openSUSE. Цей проект, який "
+"міститься на opensuse.org, має відкритий процес розробки, просту модель "
+"прийняття участі в розробці, різноманітні засоби розробки та легкий доступ "
+"для всіх до проміжних та остаточних випусків продукту. Будь ласка, "
+"відвідайте www.opensuse.org, щоб дізнатись як ви можете приєднатись до "
+"спільноти openSUSE."
+
+#: slideshow.xml:43(title)
+msgid "Connect and Communicate"
+msgstr "З'єднання з Інтернетом і комунікація"
+
+#: slideshow.xml:45(para)
+#, fuzzy
+msgid ""
+"openSUSE 10.3 provides a complete set of tools for Web browsing and e-mail "
+"management and even includes the newest Internet-based phone technology."
+msgstr ""
+"openSUSE 10.2 надає повний набір засобів для навігації Тенет, користування і "
+"керування електронною поштою, та включає найновішу телефонну технологію "
+"зв'язку через Інтернет."
+
+#: slideshow.xml:49(para)
+msgid ""
+"The Firefox Web browser is the best Web browser in the market. It boasts a "
+"complete set of browser features, including Java, Adobe Reader, RealPlayer, "
+"and Macromedia Flash plug-ins, plus lightning-fast performance."
+msgstr ""
+"Навігатор Тенет Firefox -- це найкращий навігатор, який є сьогодні на ринку. "
+"Він має повний набір можливостей навігації Інтернету, включно з втулками "
+"Java, Adobe Reader, RealPlayer і Macromedia Flash, а крім того він "
+"виділяється надзвичайною швидкодією."
+
+#: slideshow.xml:54(para)
+msgid ""
+"Novell Evolution and Kontact are complete e-mail and contact managers that "
+"you can use to manage all your mail accounts. openSUSE also includes "
+"Linphone and Twinkle, Internet-based (VoIP) solutions that let you call "
+"people connected to the Internet all over the world."
+msgstr ""
+"Novell Evolution і Kontact -- це повнофункціональні менеджери контактів і "
+"електронної пошти, які ви можете використовувати для керування усіма вашими "
+"поштовими рахунками. openSUSE також включає Linphone і Twinkle, рішення "
+"(VoIP) телефонного зв'язку через Інтернет, які дають змогу дзвонити людям "
+"(які мають з'єднання з Інтернетом) будь-де у світі."
+
+#: slideshow.xml:62(title)
+msgid "Create, View, and Listen"
+msgstr "Творіть, переглядайте і слухайте"
+
+#: slideshow.xml:63(para)
+msgid ""
+"Download tunes from the Internet. Rip CDs to create your own customized "
+"music library. Listen to your playlist online. Burn a CD or DVD. Even copy "
+"your files to an iPod or similar device to take your music anywhere. Manage "
+"and edit digital pictures with powerful graphics editors. It is easy with "
+"openSUSE."
+msgstr ""
+"Звантажуйте музику з Інтернету. Видирайте музику з компакт-дисків, щоб "
+"створити вашу власну музичну бібліотеку. Слухайте ваш список композицій "
+"через мережу. Записуйте на КД або DVD. Навіть, можете копіювати ваші файли "
+"на iPod або подібні пристрої, щоб брати свою музику з собою. Організовуйте і "
+"редагуйте свої цифрові фотографії за допомогою потужних редакторів графіки. "
+"Це дуже легко робити в openSUSE."
+
+#: slideshow.xml:72(title)
+msgid "Documents, Spreadsheets, and More"
+msgstr "Документи, електронні таблиці та багато іншого"
+
+#: slideshow.xml:74(para)
+#, fuzzy
+msgid ""
+"openSUSE 10.3 comes complete with the latest version of the leading Linux "
+"productivity suite, OpenOffice.org 2.0. Openoffice.org includes a word "
+"processor, spreadsheet application, HTML editor, presentation designer, and "
+"database. It also reads and writes files you can use with popular non-Linux "
+"productivity software. It is the perfect choice for reports, papers, home "
+"budgets, and simple graphics."
+msgstr ""
+"openSUSE 10.2 містить повний набір останньої версії провідного офісного "
+"пакету для Linux -- OpenOffice.org 2.0. Openoffice.org включає текстовий "
+"процесор, програму електронних таблиць, редактор HTML, дизайнер презентацій "
+"та базу даних. Це перший офісний пакет, який цілком підтримує найновіші "
+"стандарти формату Open Document. Він також читає і записує файли, які можна "
+"використовувати в інших популярних (не-лінуксових) офісних програмах. Це "
+"чудовий вибір для створення звітів, різноманітних документів, домашніх "
+"бюджетів та простої графіки."
+
+#: slideshow.xml:84(title)
+msgid "Graphics, Graphics, Graphics"
+msgstr "Графіка, графіка, графіка"
+
+#: slideshow.xml:85(para)
+msgid ""
+"With the tools in openSUSE, you can create or edit practically any kind of "
+"graphics. For advanced image manipulation and graphics creation, use the "
+"GIMP, a complete image retouching, composition, and authoring tool. GIMP has "
+"enough features to satisfy the most exacting artist."
+msgstr ""
+"За допомогою програм в openSUSE можна створювати або редагувати практично "
+"всі види графіки. Для складних маніпуляцій з зображеннями і створення "
+"графіки вживайте програму GIMP, яка є повнофункціональним засобом для "
+"редагування фотографій, створення і композиції зображень. GIMP має достатньо "
+"можливостей, щоб задовольнити найвибагливішого художника."
+
+#: slideshow.xml:91(para)
+msgid ""
+"For vector graphics, try Inkscape, a versatile graphics solution complete "
+"with support for transparent layers, bitmap tracing, text paths, and much "
+"more."
+msgstr ""
+"Для векторної графіки спробуйте Inkscape -- різнобічне і гнучке рішення для "
+"графіки з підтримкою шарів прозорості, трасування растрів, текстових шляхів "
+"і багато, багато іншого."
+
+#: slideshow.xml:98(title)
+msgid "The Latest Desktop Innovations"
+msgstr "Найсучасніші досягнення стільниць"
+
+#: slideshow.xml:99(para)
+#, fuzzy
+msgid ""
+"openSUSE provides you with a choice of the most usable graphical desktop "
+"environments. Choose from the most up-to-date Linux graphical environments--"
+"GNOME and KDE--each combining ease of use, contemporary functionality, and "
+"outstanding graphical design with the technological superiority of the Linux "
+"operating system."
+msgstr ""
+"openSUSE надає вам вибір найзручніших у користуванні графічних стільничних "
+"середовищ. Можете вибрати одну з найновіших графічних середовищ для Linux -- "
+"KDE 3.5 або GNOME 2.16 -- в кожному з яких поєднано зручність користування, "
+"сучасні можливості і визначний графічний дизайн з технологічною досконалістю "
+"операційної системи Linux."
+
+#: slideshow.xml:108(title)
+msgid "Computing On-the-Go"
+msgstr "Портативні комп'ютери"
+
+#: slideshow.xml:110(para)
+msgid ""
+"If you run Linux on a laptop, you will be glad you chose openSUSE. It "
+"includes the most advanced mobility features. Switch between wireless and "
+"wired networks with our NetworkManager, connect with mobile phones and PDAs "
+"that support Bluetooth, and even use infrared ports to synchronize with cell "
+"phones or PalmOS devices. Of course, USB memory sticks are no problem. "
+"Finally, new power management features give you the option to \"suspend\" "
+"your session, saving it to disk or RAM. Not only does suspend allow you to "
+"turn off and restart the system faster, but when you do restart, you are "
+"exactly where you were when you stopped."
+msgstr ""
+"Якщо ви використовуєте Linux на лептопі, то добре що ви вибрали openSUSE. "
+"Він має найбільш широкі мобільні можливості. Можна перемикати з бездротової "
+"на дротову мережу за допомогою нового Мережного Менеджера, з'єднуватись з "
+"мобільними телефонами і кишеньковими пристроями, які підтримують Bluetooth, "
+"і, навіть, можна вживати інфрачервоні порти для синхронізації з мобільними "
+"телефонами або пристроями PalmOS. Звичайно, бруски пам'яті з USB також не "
+"проблема. Нарешті, нові можливості керування живленням дають можливість "
+"перевести ваш сеанс в \"режим сну\", зберегти сеанс на диск або у RAM. Режим "
+"сну дає змогу не тільки швидше вимикати і перезапускати вашу систему, але й, "
+"коли ви перезапустили її, то ви будете точно там, де ви її перед тим "
+"залишили."
+
+#: slideshow.xml:123(title)
+msgid "Keep Your System Secure and Up-to-Date"
+msgstr "Оновлення і безпека вашої системи"
+
+#: slideshow.xml:124(para)
+msgid ""
+"If your system is connected to the Internet, SUSE Firewall helps secure your "
+"system and data from Internet intruders. Leaving it activated gives you "
+"enormous protection and configuring it to your needs takes only a moment. "
+"openSUSE also includes AppArmor, the most effective and easy-to-use Linux "
+"application security system available today. It proactively protects the "
+"operating system and applications from external or internal threats."
+msgstr ""
+"Якщо ваша система з'єднана з Інтернетом, то SUSE Firewall допомагає "
+"захистити вашу систему і дані від проникненя з Інтернету. Залишивши її "
+"активованою, ви значно підвищите безпеку вашої системи, а налаштування "
+"фаєрволу також не займе багато часу. openSUSE також включає AppArmor -- "
+"найефективнішу і просту в користуванні систему безпеки програм для Linux, "
+"яка запобігливо захищає операційну систему та програми від зовнішніх і "
+"внутрішніх небезпек."
+
+#: slideshow.xml:132(para)
+msgid ""
+"openSUSE also includes a special security patch update system. As security "
+"patches are created for the Linux kernel and packages included in openSUSE, "
+"we make those available to you on a special update server. To ensure that "
+"the latest security patches are installed on your system, choose to perform "
+"an online update at the end of this installation procedure. In the future, "
+"the update system keeps you informed of the availability of important "
+"security updates, so you can install them at your convenience."
+msgstr ""
+"openSUSE також надає спеціальну систему оновлення латками безпеки. Якщо "
+"створюються латки безпеки для ядра Linux або пакунків, які включено в "
+"openSUSE, ми надаємо ці латки на спеціальному сервері оновлення. Щоб всі "
+"найновіші латки безпеки були встановлені у вашій системі, вкажіть, щоб "
+"виконати мережне оновлення наприкінці процесу встановлення. В майбутньому, "
+"система оновлення буде повідомляти вас про наявність важливих оновлень "
+"безпеки, щоб ви змогли їх встановити, коли вам буде зручно."
+
+#: slideshow.xml:145(title)
+msgid "Powerful Home Networking and Application Development Tools"
+msgstr "Потужні засоби домашньої мережі та розробки програм"
+
+#: slideshow.xml:147(para)
+msgid ""
+"openSUSE includes tools for network file sharing and printing (Samba), Web "
+"hosting (Apache), and virtualization (Xen). For application development, "
+"openSUSE comes with a complete set of runtime environments plus extensive "
+"application development tools, including KDevelop, Eclipse, and Mono. That "
+"means that if you can imagine it, you can probably build it with openSUSE. "
+"At openSUSE.org, you can join with thousands of other openSUSE users to "
+"collaborate and create powerful new packages that you can use."
+msgstr ""
+"openSUSE містить засоби для спільного користування файлами і принтерами "
+"через мережу (Samba), розміщення вебсайтів (Apache) і віртуалізації (Xen). "
+"Для розробки програм openSUSE має повний набір середовищ виконання програм, "
+"а крім того багато засобів розробки програмного забезпечення, у тому числі, "
+"KDevelop, Eclipse і Mono. Це означає, що, якщо ви щось зможете уявити, то "
+"цілком ймовірно, що ви зможете це втілити в життя за допомогою openSUSE. На "
+"openSUSE.org ви маєте змогу приєднатись до тисяч інших користувачів "
+"openSUSE, співпрацювати з ними і створювати потужні нові пакунки для "
+"користування."
+
+#: slideshow.xml:159(title)
+msgid "Learn More with Documentation"
+msgstr "Дійзнайтесь більше з документації"
+
+#: slideshow.xml:160(para)
+msgid ""
+"openSUSE includes both SUSE-specific and general Linux documentation. The "
+"SUSE Help Center, available from the main menu or with the susehelp command, "
+"provides one-stop access to all the help included with your system. For "
+"example, use it to read the SUSE manuals, man pages, and info pages. If you "
+"want to print your own copy of the manuals, you can download a PDF version. "
+"Find the URL for the PDFs at http://en.opensuse.org/Documentation."
+msgstr ""
+"openSUSE включає і специфічну документацію для SUSE, і загальну документацію "
+"для системи Linux. Центр довідки SUSE, який доступний з головного меню або "
+"через команду susehelp, надає повний доступ до всієї документації, яку "
+"включено у вашу систему. Наприклад, ним можна користуватись для перегляду "
+"інструкцій SUSE, сторінок man та сторінок info. Якщо ви хочете надрукувати "
+"інструкції, то для цього можна звантажити їх PDF-версію. Знайти адресу URL "
+"для файлів PDF можна на http://en.opensuse.org/Documentation."
+
+#: slideshow.xml:171(para)
+msgid ""
+"Even more documentation is available in the openSUSE wiki at http://en."
+"opensuse.org/. In Documentation, find links to all sorts of useful "
+"information created and maintained by other openSUSE users. Also find links "
+"to the documentation available on the Novell Web site. For help with "
+"specific problems with openSUSE, check out the Support Database."
+msgstr ""
+"Більше документації можна знайти на openSUSE wiki - http://en.opensuse.org/. "
+"В документації можна знайти посилання до різноманітної корисної інформації, "
+"яку створили і підтримують інші користувачі openSUSE. Також можна знайти "
+"посилання до документації наявної на вебсайті Novell. Для довідки щодо "
+"певних проблем в openSUSE загляньте в базу даних техпідтримки."
+
+#: slideshow.xml:184(title)
+msgid "Novell and Linux"
+msgstr "Novell і Linux"
+
+#: slideshow.xml:185(para)
+msgid ""
+"Novell is committed to your success with Linux. Besides openSUSE, Novell "
+"delivers an exciting suite of products designed to meet the needs of "
+"businesses large and small."
+msgstr ""
+"Novell має твердий намір забезпечити вам успіх з використанням Linux. Крім "
+"openSUSE, Novell випускає чудовий ряд продуктів, які призначені для "
+"задоволення потреб підприємств великих і малих."
+
+#: slideshow.xml:190(para)
+msgid ""
+"The enterprise Linux products from Novell include SUSE Linux Enterprise "
+"Server, SUSE Linux Enterprise Desktop, and Novell Open Enterprise Server. "
+"Our enterprise products are delivered with a seven year maintenance "
+"guarantee, optional support programs, and a unique Linux indemnification "
+"program."
+msgstr ""
+"Платформа SUSE Linux Enterprise складається з двох компонентів: сервера і "
+"стільниці. Продукти для компаній включають гарантію підтримки на сім років, "
+"можливу техпідтримку і унікальну програму індемніфікації Linux."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: slideshow.xml:0(None)
+msgid "translator-credits"
+msgstr "Іван Петрущак <ivanpetrouchtchak@yahoo.com>"
