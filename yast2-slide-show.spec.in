@@ -1,7 +1,7 @@
 @HEADER-COMMENT@
 
 @HEADER@
-BuildRequires:	pkgconfig yast2-devtools
+BuildRequires:	pkgconfig yast2-devtools gnome-doc-utils docbook_4 sgml-skel
 BuildArchitectures:	noarch
 Summary:	-
 %description
