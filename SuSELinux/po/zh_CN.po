@@ -1,0 +1,303 @@
+# Copyright (C) 2006 SuSE Linux Products GmbH, Nuernberg
+# This file is distributed under the same license as the package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: slideshow\n"
+"POT-Creation-Date: 2007-03-27 10:49+0200\n"
+"PO-Revision-Date: 2006-11-09 12:00\n"
+"Last-Translator: Novell Language <language@novell.com>\n"
+"Language-Team: Novell Language <language@novell.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: slideshow.xml:15(title)
+msgid "Slide Show"
+msgstr "幻灯片演示"
+
+#: slideshow.xml:18(title)
+msgid "Welcome to openSUSE"
+msgstr "欢迎使用 openSUSE"
+
+#: slideshow.xml:20(para)
+#, fuzzy
+msgid ""
+"Whether you use your computer to communicate with friends, relatives, or "
+"colleagues, manage and enjoy your pictures and music, browse the Internet "
+"for the latest news or information, write a report or budget, or host a "
+"personal Web site or home network, you will find everything you need in "
+"openSUSE 10.3"
+msgstr ""
+"无论使用计算机与朋友、亲戚、同事通信，管理和欣赏图片和音乐，在因特网中浏览查"
+"找最新新闻或信息，编写报告或预算，还是托管个人 Web 站点或家庭网络，在 "
+"openSUSE 10.2 中将发现所需的所有功能。"
+
+#: slideshow.xml:30(title)
+msgid "openSUSE.org"
+msgstr "openSUSE.org"
+
+#: slideshow.xml:32(para)
+msgid ""
+"This distribution is created by the openSUSE.org project. The openSUSE "
+"project, sponsored by Novell, is a collaborative community effort to deliver "
+"the world's most usable open source computing platform, the openSUSE "
+"distribution. Hosted at opensuse.org, the project features a transparent "
+"development process, simple participation models, extensive development "
+"tools, and easy access to builds and releases for everyone. Visit www."
+"opensuse.org to learn how you can join the openSUSE community."
+msgstr ""
+"此发布版本是由 openSUSE.org 项目创建的。Novell 赞助的 openSUSE 项目是一个协作"
+"的社区活动，提供世界上最有用的开放源代码计算平台，即 openSUSE 发布版本。该项"
+"目在 opensuse.org 托管，有透明的开发过程、简单的参与模型、大量的开发工具，并"
+"使所有人都可以容易地访问构建版本和发行版本。请访问 www.opensuse.org 以了解如"
+"何加入 openSUSE 社区。"
+
+#: slideshow.xml:43(title)
+msgid "Connect and Communicate"
+msgstr "连接和通信"
+
+#: slideshow.xml:45(para)
+#, fuzzy
+msgid ""
+"openSUSE 10.3 provides a complete set of tools for Web browsing and e-mail "
+"management and even includes the newest Internet-based phone technology."
+msgstr ""
+"openSUSE 10.2 为 Web 浏览和电子邮件管理提供了一套完整的工具，甚至包含最新的基"
+"于因特网的电话技术。"
+
+#: slideshow.xml:49(para)
+msgid ""
+"The Firefox Web browser is the best Web browser in the market. It boasts a "
+"complete set of browser features, including Java, Adobe Reader, RealPlayer, "
+"and Macromedia Flash plug-ins, plus lightning-fast performance."
+msgstr ""
+"Firefox 万维网浏览器是市场上最好的万维网浏览器。它拥有完备的浏览器功能，其中"
+"包括 Java、Adobe Reader、RealPlayer 和 Macromedia Flash 插件，并具有超快性"
+"能。"
+
+#: slideshow.xml:54(para)
+msgid ""
+"Novell Evolution and Kontact are complete e-mail and contact managers that "
+"you can use to manage all your mail accounts. openSUSE also includes "
+"Linphone and Twinkle, Internet-based (VoIP) solutions that let you call "
+"people connected to the Internet all over the world."
+msgstr ""
+"Novell Evolution 和 Kontact 是完整的电子邮件和联系人管理器，可以用于管理所有"
+"邮件帐户。openSUSE 还包含 Linphone 和 Twinkle，它们是基于因特网的解决方案"
+"（VoIP），使您可以呼叫全世界连接到因特网上的人。"
+
+#: slideshow.xml:62(title)
+msgid "Create, View, and Listen"
+msgstr "创建、查看和听音乐"
+
+#: slideshow.xml:63(para)
+msgid ""
+"Download tunes from the Internet. Rip CDs to create your own customized "
+"music library. Listen to your playlist online. Burn a CD or DVD. Even copy "
+"your files to an iPod or similar device to take your music anywhere. Manage "
+"and edit digital pictures with powerful graphics editors. It is easy with "
+"openSUSE."
+msgstr ""
+"可从因特网下载曲目。裁切 CD 以创建定制的音乐库。在线听播放列表。刻录 CD 或 "
+"DVD。甚至将您的文件复制到 iPod 或类似设备以将您的音乐带到任何地方。使用强大图"
+"形编辑器管理和编辑数字图片。使用 openSUSE，一切都如此简便。"
+
+#: slideshow.xml:72(title)
+msgid "Documents, Spreadsheets, and More"
+msgstr "文档、电子表格和更多"
+
+#: slideshow.xml:74(para)
+#, fuzzy
+msgid ""
+"openSUSE 10.3 comes complete with the latest version of the leading Linux "
+"productivity suite, OpenOffice.org 2.0. Openoffice.org includes a word "
+"processor, spreadsheet application, HTML editor, presentation designer, and "
+"database. It also reads and writes files you can use with popular non-Linux "
+"productivity software. It is the perfect choice for reports, papers, home "
+"budgets, and simple graphics."
+msgstr ""
+"openSUSE 10.2 带有最新版本的 Linux 生产套件 OpenOffice.org 2.0。Openoffice."
+"org 包含字处理程序、电子表格应用程序、HTML 编辑器、演示文稿设计程序和数据库。"
+"它还可读写在常见非 Linux 生产软件中使用的文件。对于报告、论文、家庭预算和简单"
+"图形，它是最好的选择。"
+
+#: slideshow.xml:84(title)
+msgid "Graphics, Graphics, Graphics"
+msgstr "图形功能，无所不包"
+
+#: slideshow.xml:85(para)
+msgid ""
+"With the tools in openSUSE, you can create or edit practically any kind of "
+"graphics. For advanced image manipulation and graphics creation, use the "
+"GIMP, a complete image retouching, composition, and authoring tool. GIMP has "
+"enough features to satisfy the most exacting artist."
+msgstr ""
+"使用 openSUSE 中的工具，可实际创建或编辑任何种类的图形。对于高级图像操作和图"
+"形创建，请使用 GIMP，它是一个功能完整的图像润饰、编辑和创作工具。GIMP 有丰富"
+"的功能，可适合最苛求的艺术家。"
+
+#: slideshow.xml:91(para)
+msgid ""
+"For vector graphics, try Inkscape, a versatile graphics solution complete "
+"with support for transparent layers, bitmap tracing, text paths, and much "
+"more."
+msgstr ""
+"对于矢量图形，则请尝试使用 Inkscape － 一种通用图形解决方案，它完全支持透明"
+"层、位图跟踪和文本路径及更多功能。"
+
+#: slideshow.xml:98(title)
+msgid "The Latest Desktop Innovations"
+msgstr "最新的桌面创新"
+
+#: slideshow.xml:99(para)
+#, fuzzy
+msgid ""
+"openSUSE provides you with a choice of the most usable graphical desktop "
+"environments. Choose from the most up-to-date Linux graphical environments--"
+"GNOME and KDE--each combining ease of use, contemporary functionality, and "
+"outstanding graphical design with the technological superiority of the Linux "
+"operating system."
+msgstr ""
+"openSUSE 向您提供了精心选择的一组最适用的图形桌面环境。可从最新 Linux 图形环"
+"境（GNOME 2.16 和 KDE 3.5）中选择，它们都将易于使用、最新功能以及杰出的图形设"
+"计与 Linux 操作系统的卓越技术相结合。"
+
+#: slideshow.xml:108(title)
+msgid "Computing On-the-Go"
+msgstr "移动计算"
+
+#: slideshow.xml:110(para)
+msgid ""
+"If you run Linux on a laptop, you will be glad you chose openSUSE. It "
+"includes the most advanced mobility features. Switch between wireless and "
+"wired networks with our NetworkManager, connect with mobile phones and PDAs "
+"that support Bluetooth, and even use infrared ports to synchronize with cell "
+"phones or PalmOS devices. Of course, USB memory sticks are no problem. "
+"Finally, new power management features give you the option to \"suspend\" "
+"your session, saving it to disk or RAM. Not only does suspend allow you to "
+"turn off and restart the system faster, but when you do restart, you are "
+"exactly where you were when you stopped."
+msgstr ""
+"如果在笔记本上运行 Linux，您将为选择了 openSUSE 而感到骄傲。它包含最高级的移"
+"动功能。使用 NetworkManager 在无线和有线网络之间切换，与支持蓝牙技术的移动电"
+"话和 PDA 连接，甚至使用红外线端口与手机或 PalmOS 设备同步。当然，USB 记忆棒不"
+"是问题。最后，新的电源管理功能使您可以选择“暂挂”会话，将其保存到磁盘或 RAM。"
+"暂挂不仅使您可以更快地关闭和重新启动系统，而且在重新启动后，会处于上次停止的"
+"状态。"
+
+#: slideshow.xml:123(title)
+msgid "Keep Your System Secure and Up-to-Date"
+msgstr "保持您的系统安全且状态最新"
+
+#: slideshow.xml:124(para)
+msgid ""
+"If your system is connected to the Internet, SUSE Firewall helps secure your "
+"system and data from Internet intruders. Leaving it activated gives you "
+"enormous protection and configuring it to your needs takes only a moment. "
+"openSUSE also includes AppArmor, the most effective and easy-to-use Linux "
+"application security system available today. It proactively protects the "
+"operating system and applications from external or internal threats."
+msgstr ""
+"如果您的系统连接到因特网，SUSE Firewall 可保护您的系统和数据不受因特网入侵者"
+"的侵害。使其保持激活状态可以向您提供强大保护，将其配置为适于您的需要仅需很少"
+"时间。openSUSE 还包含 AppArmor，它是今天最有效并最易于使用的 Linux 应用程序安"
+"全系统。它可前瞻性地保护操作系统和应用程序不受外部或内部威胁的侵害。"
+
+#: slideshow.xml:132(para)
+msgid ""
+"openSUSE also includes a special security patch update system. As security "
+"patches are created for the Linux kernel and packages included in openSUSE, "
+"we make those available to you on a special update server. To ensure that "
+"the latest security patches are installed on your system, choose to perform "
+"an online update at the end of this installation procedure. In the future, "
+"the update system keeps you informed of the availability of important "
+"security updates, so you can install them at your convenience."
+msgstr ""
+"openSUSE 还包含一个特殊安全增补程序更新系统。当我们创建了用于 Linux 内核和 "
+"openSUSE 中包含的软件包的安全增补程序时，就会在一个特殊的更新服务器上提供给"
+"您。为了确保在您的系统上安装最新的安全增补程序，请在此安装过程结束后执行在线"
+"更新。将来，一旦有重要安全更新可用，更新系统即会通知您，以便您在方便时安装。"
+
+#: slideshow.xml:145(title)
+msgid "Powerful Home Networking and Application Development Tools"
+msgstr "功能强大的家庭联网和应用程序开发工具"
+
+#: slideshow.xml:147(para)
+msgid ""
+"openSUSE includes tools for network file sharing and printing (Samba), Web "
+"hosting (Apache), and virtualization (Xen). For application development, "
+"openSUSE comes with a complete set of runtime environments plus extensive "
+"application development tools, including KDevelop, Eclipse, and Mono. That "
+"means that if you can imagine it, you can probably build it with openSUSE. "
+"At openSUSE.org, you can join with thousands of other openSUSE users to "
+"collaborate and create powerful new packages that you can use."
+msgstr ""
+"openSUSE 包含用于网络文件共享和打印的工具（Samba）、Web 托管工具（Apache）和"
+"虚拟化工具（Xen）。对于应用程序开发，openSUSE 带有完整的一组运行时环境和大量"
+"应用程序开发工具，包括 KDevelop、Eclipse 和 Mono。这意味着只要能想像出来，就"
+"可以用 openSUSE 做出来。在 openSUSE.org，可以和成千上万个其他 openSUSE 用户一"
+"起协作，创建可以使用的强大新软件包。"
+
+#: slideshow.xml:159(title)
+msgid "Learn More with Documentation"
+msgstr "了解关于文档的更多信息"
+
+#: slideshow.xml:160(para)
+msgid ""
+"openSUSE includes both SUSE-specific and general Linux documentation. The "
+"SUSE Help Center, available from the main menu or with the susehelp command, "
+"provides one-stop access to all the help included with your system. For "
+"example, use it to read the SUSE manuals, man pages, and info pages. If you "
+"want to print your own copy of the manuals, you can download a PDF version. "
+"Find the URL for the PDFs at http://en.opensuse.org/Documentation."
+msgstr ""
+"openSUSE 包含特定于 SUSE 的文档和一般 Liunx 文档。SUSE 帮助中心（可以从主菜单"
+"访问或使用 susehelp 命令访问）提供了对系统中包含的所有帮助的一站式访问。如果"
+"要打印手册副本，则可以下载 PDF 版本。可在以下 Web 地址查找这些 PDF 的 URL："
+"http://en.opensuse.org/Documentation。"
+
+#: slideshow.xml:171(para)
+msgid ""
+"Even more documentation is available in the openSUSE wiki at http://en."
+"opensuse.org/. In Documentation, find links to all sorts of useful "
+"information created and maintained by other openSUSE users. Also find links "
+"to the documentation available on the Novell Web site. For help with "
+"specific problems with openSUSE, check out the Support Database."
+msgstr ""
+"在 http://en.opensuse.org/ 上的 openSUSE wiki 中还提供有更多文档。在 "
+"Documentation 部分中，可查找其他 openSUSE 用户创建并维护的所有种类的有用信息"
+"的链接。同时还可查找 Novell Web 站点上可用文档的链接。有关 openSUSE 的具体问"
+"题的帮助，请查找支持数据库。"
+
+#: slideshow.xml:184(title)
+msgid "Novell and Linux"
+msgstr "Novell 和 Linux"
+
+#: slideshow.xml:185(para)
+msgid ""
+"Novell is committed to your success with Linux. Besides openSUSE, Novell "
+"delivers an exciting suite of products designed to meet the needs of "
+"businesses large and small."
+msgstr ""
+"Novell 致力于使您可以成功使用 Linux。除了 openSUSE，Novell 还提供了一套设计为"
+"适合大小企业需要的优秀产品套件。"
+
+#: slideshow.xml:190(para)
+msgid ""
+"The enterprise Linux products from Novell include SUSE Linux Enterprise "
+"Server, SUSE Linux Enterprise Desktop, and Novell Open Enterprise Server. "
+"Our enterprise products are delivered with a seven year maintenance "
+"guarantee, optional support programs, and a unique Linux indemnification "
+"program."
+msgstr ""
+"Novell 生产的企业 Linux 产品包括 SUSE Linux Enterprise Server、SUSE Linux "
+"Enterprise Desktop 和 Novell Open Enterprise Server。我们的企业产品有 7 年的"
+"维护保修期、可选的支持计划和独特的 Linux 保障计划。"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: slideshow.xml:0(None)
+msgid "translator-credits"
+msgstr ""
+"开源软件国际化之简体中文组\n"
+"http://i18n.linux.net.cn"
