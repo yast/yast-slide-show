@@ -9,6 +9,7 @@ instdir = /SuSE/SuSE/CD1/suse/setup/slide
 # CAUTION: Czech is "cs", not "cz"! Use the LANG abbrev, not the country!
 
 EXTRA_DIST =					\
+	$(fname).xml $(fname).xsl		\
 	$(pofiles)				\
 	pic/*.png				\
 	txt/en/*.rtf				
