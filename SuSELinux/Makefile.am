@@ -10,7 +10,7 @@ fname = slideshow
 langs = bg cs da de en es et fi fr hu it ja km lt nb nl pl pt pt_BR ru	\
 sl sv uk zh_CN zh_TW
 
-# list of languages ready for distribution
+# list of languages ready for distribution _and_ installation
 dist_langs = en
 # take the files from txt/LL/*.rtf
 # txt/*/*.rtf does not work. you get a dir called "txt/*"!
@@ -25,20 +25,19 @@ EXTRA_DIST =					\
 #files = $(foreach l, $(langs), $(fname)_$(l).xml)
 #files = $(foreach l, $(langs), $(l).xml)
 files = $(addsuffix .xml,$(langs))
-out = $(files:.xml=.out)
 rtf = $(files:.xml=.rtf)
 html = $(files:.xml=.html)
 valid = $(files:.xml=.valid)
-nochunk = $(files:.xml=.nochunk)
+# nochunk = $(files:.xml=.nochunk)
 #pofiles = $(files:.xml=.po)
 # po/LL.po
 pofiles=$(addprefix po/,$(addsuffix .po,$(langs)))
 xsl_styles = $(fname).xsl
 styles = $(dsssl_styles) $(xsl_styles)
 
-SUFFIXES = .xml .out .rtf .html .valid .po .pot
+SUFFIXES = .xml .rtf .html .valid .po .pot
 
-CLEANFILES = $(out) $(rtf) $(html) $(valid) $(spec) $(files)
+CLEANFILES = $(rtf) $(html) $(valid) $(spec) $(files) $(fname).pot
 
 arch = @arch@
 prod = slprof
