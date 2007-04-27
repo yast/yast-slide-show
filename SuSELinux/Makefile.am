@@ -17,7 +17,7 @@ dist_langs = en
 dist_lang_files = $(addprefix txt/,$(addsuffix /*.rtf,$(dist_langs)))
 
 EXTRA_DIST =					\
-	$(fname).xml $(fname).xsl		\
+	$(fname).xml $(xsl_styles)		\
 	$(pofiles)				\
 	pic/*.png				\
 	$(dist_lang_files)
@@ -33,7 +33,6 @@ valid = $(files:.xml=.valid)
 # po/LL.po
 pofiles=$(addprefix po/,$(addsuffix .po,$(langs)))
 xsl_styles = $(fname).xsl
-styles = $(dsssl_styles) $(xsl_styles)
 
 SUFFIXES = .xml .rtf .html .valid .po .pot
 
