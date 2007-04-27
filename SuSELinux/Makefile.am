@@ -14,7 +14,7 @@ sl sv uk zh_CN zh_TW
 dist_langs = en
 # take the files from txt/LL/*.rtf
 # txt/*/*.rtf does not work. you get a dir called "txt/*"!
-dist_lang_files = $(addprefix txt/,$(addsuffix /*.rtf,$(langs)))
+dist_lang_files = $(addprefix txt/,$(addsuffix /*.rtf,$(dist_langs)))
 
 EXTRA_DIST =					\
 	$(fname).xml $(fname).xsl		\
