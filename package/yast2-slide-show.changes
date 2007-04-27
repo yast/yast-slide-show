@@ -1,4 +1,11 @@
 -------------------------------------------------------------------
+Fri Apr 27 10:24:22 CEST 2007 - ke@suse.de
+
+- V.2.15.1:
+- For SuSELinux, add translation related files and process based on
+  xml2po.
+
+-------------------------------------------------------------------
 Mon Apr 16 11:18:49 CEST 2007 - ke@suse.de
 
 - Rename one "11_" slide to "12_".
