@@ -26,7 +26,6 @@ EXTRA_DIST =					\
 #files = $(foreach l, $(langs), $(l).xml)
 files = $(addsuffix .xml,$(langs))
 rtf = $(files:.xml=.rtf)
-html = $(files:.xml=.html)
 valid = $(files:.xml=.valid)
 # nochunk = $(files:.xml=.nochunk)
 #pofiles = $(files:.xml=.po)
@@ -34,9 +33,9 @@ valid = $(files:.xml=.valid)
 pofiles=$(addprefix po/,$(addsuffix .po,$(langs)))
 xsl_styles = $(fname).xsl
 
-SUFFIXES = .xml .rtf .html .valid .po .pot
+SUFFIXES = .xml .rtf .valid .po .pot
 
-CLEANFILES = $(rtf) $(html) $(valid) $(spec) $(files) $(fname).pot
+CLEANFILES = $(rtf) $(valid) $(files) $(fname).pot
 
 arch = @arch@
 prod = slprof
@@ -46,6 +45,8 @@ XMLLINT = @XMLLINT@
 XML2PO = @XML2PO@
 
 MSGMERGE_UPDATE = @MSGMERGE@ --update
+
+all: validate rtf
 
 outdir:
 	rm -fr txt
@@ -63,8 +64,6 @@ outdir:
 	  popd
 
 rtf: $(rtf)
-html: $(html)
-all: validate rtf
 
 validate: $(valid)
 %.valid: %.xml
@@ -73,6 +72,8 @@ validate: $(valid)
 pot: $(fname).pot
 $(fname).pot: $(fname).xml
 	$(XML2PO) --expand-all-entities -o $(fname).pot $(fname).xml
+
+# re-merge po translation files
 po: $(pofiles)
 $(pofiles): $(fname).pot
 	@lang=`echo $@ | sed -e 's,.*/,,' -e 's/\.po$$//'`; \
@@ -80,6 +81,7 @@ $(pofiles): $(fname).pot
 	if [ $${lang} = en ]; then \
 	  msgen -o po/$${lang}.po $(fname).pot ;\
 	else $(MSGMERGE_UPDATE) po/$${lang}.po $(fname).pot ; fi
+
 xml: $(files)
 %.xml: po/%.po
 	@lang=`echo $@ | sed -e 's,.*/,,' -e 's,$(fname)_/,,' -e 's/\.xml$$//'`; \
