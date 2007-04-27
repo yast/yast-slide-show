@@ -8,40 +8,22 @@ instdir = /SuSE/SuSE/CD1/suse/setup/slide
 
 # CAUTION: Czech is "cs", not "cz"! Use the LANG abbrev, not the country!
 
+fname = slideshow
+# list of languages available in SVN
+langs = bg cs da de en es et fi fr hu it ja km lt nb nl pl pt pt_BR ru	\
+sl sv uk zh_CN zh_TW
+
+# list of languages ready for distribution
+dist_langs = en
+# take the files from txt/LL/*.rtf
+dist_lang_files = $(addprefix txt/,$(addsuffix /*.rtf,$(langs)))
+
 EXTRA_DIST =					\
 	$(fname).xml $(fname).xsl		\
 	$(pofiles)				\
 	pic/*.png				\
-	txt/en/*.rtf				
+	$(dist_lang_files)
 
-# 	txt/bg/*.rtf				\
-# 	txt/cs/*.rtf				\
-# 	txt/da/*.rtf				\
-# 	txt/de/*.rtf				\
-# 	txt/es/*.rtf				\
-# 	txt/et/*.rtf				\
-# 	txt/fi/*.rtf				\
-# 	txt/fr/*.rtf				\
-# 	txt/hu/*.rtf				\
-# 	txt/it/*.rtf				\
-# 	txt/ja/*.rtf				\
-# 	txt/km/*.rtf				\
-# 	txt/lt/*.rtf				\
-# 	txt/nb/*.rtf				\
-# 	txt/nl/*.rtf				\
-# 	txt/pl/*.rtf				\
-# 	txt/pt/*.rtf				\
-# 	txt/pt_BR/*.rtf				\
-# 	txt/ru/*.rtf				\
-# 	txt/sl/*.rtf				\
-# 	txt/sv/*.rtf				\
-# 	txt/uk/*.rtf				\
-# 	txt/zh_CN/*.rtf				\
-# 	txt/zh_TW/*.rtf
-
-
-fname = slideshow
-langs = bg cs da de en es et fi fr hu it ja km lt nb nl pl pt pt_BR ru sl sv uk zh_CN zh_TW
 #files = $(foreach l, $(langs), $(fname)_$(l).xml)
 #files = $(foreach l, $(langs), $(l).xml)
 files = $(addsuffix .xml,$(langs))
@@ -59,14 +41,11 @@ styles = $(dsssl_styles) $(xsl_styles)
 SUFFIXES = .xml .out .rtf .html .valid .po .pot
 
 CLEANFILES = $(out) $(rtf) $(html) $(valid) $(spec) $(files)
-newpo:
-	echo $(newpo)
 
 arch = @arch@
 prod = slprof
 
 XSLTPROC = @XSLTPROC@
-# XSLTPROC = xsltproc
 XMLLINT = @XMLLINT@
 XML2PO = @XML2PO@
 
