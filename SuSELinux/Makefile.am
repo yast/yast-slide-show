@@ -1,10 +1,11 @@
 #
-# Makefile.am for slide-show/slide
+# Makefile.am for slide-show/SuSELinux
 #
 
 instdir = /SuSE/SuSE/CD1/suse/setup/slide
 
 fname = slideshow
+
 # list of languages available in SVN
 # CAUTION: Czech is "cs", not "cz"! Use the LANG abbrev, not the country!
 langs = bg cs da de en es et fi fr hu it ja km lt nb nl pl pt pt_BR ru	\
@@ -22,23 +23,18 @@ EXTRA_DIST =					\
 	pic/*.png				\
 	$(dist_lang_files)
 
-#files = $(foreach l, $(langs), $(fname)_$(l).xml)
-#files = $(foreach l, $(langs), $(l).xml)
-files = $(addsuffix .xml,$(langs))
-rtf = $(files:.xml=.rtf)
-valid = $(files:.xml=.valid)
-# nochunk = $(files:.xml=.nochunk)
-#pofiles = $(files:.xml=.po)
+xml = $(addsuffix .xml,$(langs))
+rtf = $(xml:.xml=.rtf)
+valid = $(xml:.xml=.valid)
+# nochunk = $(xml:.xml=.nochunk)
+#pofiles = $(xml:.xml=.po)
 # po/LL.po
 pofiles=$(addprefix po/,$(addsuffix .po,$(langs)))
 xsl_styles = $(fname).xsl
 
 SUFFIXES = .xml .rtf .valid .po .pot
 
-CLEANFILES = $(rtf) $(valid) $(files) $(fname).pot
-
-arch = @arch@
-prod = slprof
+CLEANFILES = $(rtf) $(valid) $(xml) $(fname).pot
 
 XSLTPROC = @XSLTPROC@
 XMLLINT = @XMLLINT@
@@ -52,18 +48,17 @@ outdir:
 	rm -fr txt
 	mkdir txt
 
+rtf: $(rtf)
 %.rtf: %.xml outdir
 	ll=`echo $< | sed "s/\.xml$$//"`; \
 	  mkdir txt/$$ll ; \
 	  $(XSLTPROC) --nonet --stringparam out.dir "txt/$$ll" \
-	  $(fname).xsl $< 1>/dev/null; \
+	    $(fname).xsl $< 1>/dev/null; \
 	  pushd txt/$$ll ; \
           for f in *.rtf ; do \
 	    sed -i 's/\/>/>/;s/%imagedir%/\&imagedir;/' $$f; \
 	  done ; \
 	  popd
-
-rtf: $(rtf)
 
 validate: $(valid)
 %.valid: %.xml
@@ -82,7 +77,7 @@ $(pofiles): $(fname).pot
 	  msgen -o po/$${lang}.po $(fname).pot ;\
 	else $(MSGMERGE_UPDATE) po/$${lang}.po $(fname).pot ; fi
 
-xml: $(files)
+xml: $(xml)
 %.xml: po/%.po
 	@lang=`echo $@ | sed -e 's,.*/,,' -e 's,$(fname)_/,,' -e 's/\.xml$$//'`; \
 	echo "$(XML2PO) -p po/$${lang}.po -o $${lang}.xml $(fname).pot"; \
