@@ -1,4 +1,11 @@
 -------------------------------------------------------------------
+Tue Jun  5 10:36:54 CEST 2007 - ke@suse.de
+
+- V.2.15.2:
+- Use desktop agnostic slideshow artwork for openSUSE installation
+  provided by Jakub Steiner [#267884.]
+
+-------------------------------------------------------------------
 Fri Apr 27 10:24:22 CEST 2007 - ke@suse.de
 
 - V.2.15.1:
