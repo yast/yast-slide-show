@@ -8,11 +8,11 @@ fname = slideshow
 
 # list of languages available in SVN
 # CAUTION: Czech is "cs", not "cz"! Use the LANG abbrev, not the country!
-langs = bg cs da de en es et fi fr hu it ja km lt nb nl pl pt pt_BR ru	\
+langs = bg cs da de el en en_GB es et fi fr hr hu it ja km lt nb nl pl pt pt_BR ru	\
 sl sv uk zh_CN zh_TW
 
 # list of languages ready for distribution _and_ installation
-dist_langs = en
+dist_langs = $(langs)
 # take the files from txt/LL/*.rtf
 # txt/*/*.rtf does not work. you get a dir called "txt/*"!
 dist_lang_files = $(addprefix txt/,$(addsuffix /*.rtf,$(dist_langs)))
