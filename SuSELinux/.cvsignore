@@ -1,2 +1,6 @@
 Makefile
 Makefile.in
+??.xml
+??_??.xml
+*.valid
+
