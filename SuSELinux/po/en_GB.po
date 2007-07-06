@@ -4,34 +4,33 @@
 #
 # This file is distributed under the same license as @PACKAGE@ package. FIRST
 #
-# Rinse de Vries <rinsedevries@kde.nl>, 2006.
-# Rinse de Vries <rinsedevries@home.nl>, 2006.
+# Benjamin Weber <b.weber@warwick.ac.uk>, 2007.
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2007-07-06 10:43+0200\n"
-"PO-Revision-Date: 2006-12-14 02:17+0100\n"
-"Last-Translator: Rinse de Vries <rinsedevries@home.nl>\n"
-"Language-Team:  <nl@li.org>\n"
+"PO-Revision-Date: 2007-07-04 18:02+0100\n"
+"Last-Translator: Benjamin Weber <b.weber@warwick.ac.uk>\n"
+"Language-Team:  <en@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
-msgstr "Diavoorstelling"
+msgstr "Slide Show"
 
 #: slideshow.xml:18(title)
 msgid "Welcome to openSUSE"
-msgstr "Welkom bij openSUSE"
+msgstr "Welcome to openSUSE"
 
 #: slideshow.xml:20(para)
 #, fuzzy
 msgid "Whether you use your computer to communicate with friends, relatives, or colleagues, manage and enjoy your pictures and music, browse the Internet for the latest news or information, write a report or budget, or host a personal Web site or home network, you will find everything you need in openSUSE 10.3"
-msgstr "Of u nu uw computer gebruikt om te communiceren met uw vrienden, kennissen of collega's, genieten van uw foto's en muziek, surfen op internet voor het laatste nieuws en informatie, een rapport of budgettering schrijft of een persoonlijke website of thuisnetwerk host, u zult alles wat u nodig hebt vinden in SUSE 10.2."
+msgstr "Whether you use your computer to communicate with friends, relatives, or colleagues, manage and enjoy your pictures and music, browse the Internet for the latest news or information, write a report or budget, or host a personal Web site or home network, you will find everything you need in openSUSE 10.2."
 
 #: slideshow.xml:30(title)
 msgid "openSUSE.org"
@@ -39,41 +38,41 @@ msgstr "openSUSE.org"
 
 #: slideshow.xml:32(para)
 msgid "This distribution is created by the openSUSE.org project. The openSUSE project, sponsored by Novell, is a collaborative community effort to deliver the world's most usable open source computing platform, the openSUSE distribution. Hosted at opensuse.org, the project features a transparent development process, simple participation models, extensive development tools, and easy access to builds and releases for everyone. Visit www.opensuse.org to learn how you can join the openSUSE community."
-msgstr "Deze distributie is gemaakt door het openSUSE-project. Het openSUSE-project, gesponsord door Novell, is een open gemeenschap van personen die met elkaar samenwerken om 'swerelds meest bruikbare opensoure-computerplatform, openSUSE, te kunnen leveren. Gehost op opensuse.org levert het project voor iedereen een transparant ontwikkelingsproces, eenvoudige modellen om mee te kunnen werken, uitgebreide ontwikkelhulpmiddelen en eenvoudige toegang tot builds en uitgaven. Bezoek opensuse.org over hoe u lid kunt worden van de openSUSE-gemeenschap."
+msgstr "This distribution is created by the openSUSE.org project. The openSUSE project, sponsored by Novell, is a collaborative community effort to deliver the world's most usable open source computing platform, the openSUSE distribution. Hosted at opensuse.org, the project features a transparent development process, simple participation models, extensive development tools, and easy access to builds and releases for everyone. Visit www.opensuse.org to learn how you can join the openSUSE community."
 
 #: slideshow.xml:43(title)
 msgid "Connect and Communicate"
-msgstr "Verbind en communiceer"
+msgstr "Connect and Communicate"
 
 #: slideshow.xml:45(para)
 #, fuzzy
 msgid "openSUSE 10.3 provides a complete set of tools for Web browsing and e-mail management and even includes the newest Internet-based phone technology."
-msgstr "openSUSE 10.2 levert een complete set programma's voor internetten en e-mailbeheer en bevat zelfs de nieuwste internet-gebaseerde telefoontechnologie."
+msgstr "openSUSE 10.2 provides a complete set of tools for Web browsing and e-mail management and even includes the newest Internet-based phone technology."
 
 #: slideshow.xml:49(para)
 msgid "The Firefox Web browser is the best Web browser in the market. It boasts a complete set of browser features, including Java, Adobe Reader, RealPlayer, and Macromedia Flash plug-ins, plus lightning-fast performance."
-msgstr "De webbrowser Firefox is de beste webbrowser op de markt. Het bevat een complete set van browserfuncties, inclusief Java-, Adobe Reader-, RealPlayer- en Macromedia Flash-plug-ins en bliksemsnelle prestaties."
+msgstr "The Firefox Web browser is one of the best Web browsers in the market. It boasts a complete set of browser features, including Java, Adobe Reader, RealPlayer, and Macromedia Flash plug-ins, plus lightning-fast performance."
 
 #: slideshow.xml:54(para)
 msgid "Novell Evolution and Kontact are complete e-mail and contact managers that you can use to manage all your mail accounts. openSUSE also includes Linphone and Twinkle, Internet-based (VoIP) solutions that let you call people connected to the Internet all over the world."
-msgstr "Novell Evolution en Kontact zijn complete e-mail- en contactbeheerders waarmee u al uw e-mailaccounts kunt beheren. openSUSE bevat bodendien Linphone en Twinkle, internet gebaseerde (VoIP) oplossingen waarmee u via het internet kunt bellen met iedereen over de hele wereld."
+msgstr "Novell Evolution and Kontact are complete e-mail and contact managers that you can use to manage all your mail accounts. openSUSE also includes Linphone and Twinkle, Internet-based (VoIP) solutions that let you call people connected to the Internet all over the world."
 
 #: slideshow.xml:62(title)
 msgid "Create, View, and Listen"
-msgstr "Creëer, bekijk en luister"
+msgstr "Create, View, and Listen"
 
 #: slideshow.xml:63(para)
 msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn a CD or DVD. Even copy your files to an iPod or similar device to take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It is easy with openSUSE."
-msgstr "Download tunes van het internet. Rip cd's om uw eigen muziekbibliotheek aan te leggen. Luister online naar uw afspeellijst. Brand een cd of dvd. U kunt bovendien uw muziek kopiëren naar uw iPod of vergelijkbare muziekspeler om uw muziek overal mee naar toe te nemen. Beheer en manipuleer uw digitale foto's met schitterende grafische editors. Het is eenvoudig met openSUSE."
+msgstr "Download tunes from the Internet. Rip CDs to create your own customised music library. Listen to your playlist online. Burn a CD or DVD. Even copy your files to an iPod or similar device to take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It is easy with openSUSE."
 
 #: slideshow.xml:72(title)
 msgid "Documents, Spreadsheets, and More"
-msgstr "Documenten, spreadsheets en meer"
+msgstr "Documents, Spreadsheets, and More"
 
 #: slideshow.xml:74(para)
 #, fuzzy
 msgid "openSUSE 10.3 comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org 2.0. Openoffice.org includes a word processor, spreadsheet application, HTML editor, presentation designer, and database. It also reads and writes files you can use with popular non-Linux productivity software. It is the perfect choice for reports, papers, home budgets, and simple graphics."
-msgstr "openSUSE 10.2 wordt geleverd met de nieuwste versie van de leidende Linux productiviteitssuite, OpenOffice.org 2.0. OpenOffice.org bevat een tekstverwerker, spreadsheetprogramma, HTML-editor, presentatieontwerper, vectortekenprogramma en database. U kunt bovendien bestanden van andere populaire niet-Linux productiviteitssoftware openen en opslaan. Het is de beste keuze voor rapporten, documenten, privébudgetten en eenvoudige illustraties."
+msgstr "openSUSE 10.2 comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org 2.0. Openoffice.org includes a word processor, spreadsheet application, HTML editor, presentation designer, and database. It also reads and writes files you can use with popular non-Linux productivity software. It is the perfect choice for reports, papers, home budgets, and simple graphics."
 
 #: slideshow.xml:84(title)
 msgid "Graphics, Graphics, Graphics"
@@ -81,76 +80,74 @@ msgstr "Graphics, Graphics, Graphics"
 
 #: slideshow.xml:85(para)
 msgid "With the tools in openSUSE, you can create or edit practically any kind of graphics. For advanced image manipulation and graphics creation, use the GIMP, a complete image retouching, composition, and authoring tool. GIMP has enough features to satisfy the most exacting artist."
-msgstr "Met de programma's in openSUSE kunt u vrijwel elk type afbeelding bewerken. Voor geavanceerde beeldbewerking en creëren van afbeeldingen kunt u The Gimp gebruiken, een compleet programma voor fotoretouchering, afbeeldingscomposities en beeldbewerking. Gimp heeft genoeg functionaliteit in huis om zelfs de meest kritische kunstenaar te bedienen."
+msgstr "With the tools in openSUSE, you can create or edit practically any kind of graphics. For advanced image manipulation and graphics creation, use the GIMP, a complete image retouching, composition, and authoring tool. GIMP has enough features to satisfy the most exacting artist."
 
 #: slideshow.xml:91(para)
 msgid "For vector graphics, try Inkscape, a versatile graphics solution complete with support for transparent layers, bitmap tracing, text paths, and much more."
-msgstr "Voor vectorafbeeldingen kunt u Inkscape proberen. Inkscape is een veelzijdige oplossing met ondersteuning voor transparante lagen, bitmap-tracing, tekstpaden en veel meer."
+msgstr "For vector graphics, try Inkscape, a versatile graphics solution complete with support for transparent layers, bitmap tracing, text paths, and much more."
 
 #: slideshow.xml:98(title)
 msgid "The Latest Desktop Innovations"
-msgstr "De nieuwste desktopinnovaties"
+msgstr "The Latest Desktop Innovations"
 
 #: slideshow.xml:99(para)
 #, fuzzy
 msgid "openSUSE provides you with a choice of the most usable graphical desktop environments. Choose from the most up-to-date Linux graphical environments--GNOME and KDE--each combining ease of use, contemporary functionality, and outstanding graphical design with the technological superiority of the Linux operating system."
-msgstr "openSUSE levert u een selectie van de meest bruikbare grafische desktop environments. Maak uw keuze tussen de meest actuele grafische Linux-omgevingen -- GNOME 2.16 en KDE 3.5 -- beide combineren eenvoudig gebruik, eigentijdse functionaliteit en schitterend grafisch design met de technologische superioriteit van het Linux-besturingssysteem."
+msgstr "openSUSE provides you with a choice of the most usable graphical desktop environments. Choose from the most up-to-date Linux graphical environments--GNOME 2.16 and KDE 3.5--each combining ease of use, contemporary functionality, and outstanding graphical design with the technological superiority of the Linux operating system."
 
 #: slideshow.xml:108(title)
 msgid "Computing On-the-Go"
-msgstr "Computeren onderweg"
+msgstr "Computing On-the-Go"
 
 #: slideshow.xml:110(para)
 msgid "If you run Linux on a laptop, you will be glad you chose openSUSE. It includes the most advanced mobility features. Switch between wireless and wired networks with our NetworkManager, connect with mobile phones and PDAs that support Bluetooth, and even use infrared ports to synchronize with cell phones or PalmOS devices. Of course, USB memory sticks are no problem. Finally, new power management features give you the option to \"suspend\" your session, saving it to disk or RAM. Not only does suspend allow you to turn off and restart the system faster, but when you do restart, you are exactly where you were when you stopped."
-msgstr "Als u Linux op uw laptop gebruikt, dan zult u blij zijn dat u SUSE Linux hebt gekozen. Het bevat de meest geavanceerde mobiliteitsfuncties. Wissel tussen draadloze een bedrade netwerken met onze nieuwe netwerkbeheerder, maak met Bluetooth verbinding met mobiele telefoons en PDA's en gebruik infrarood om te synchroniseren met mobiele telefoons of PalmOS-apparaten. Uiteraard zijn USB-sticks geen enkel probleem. Tot slot, de nieuwe energiebeheerfuncties geven u de mogelijkheid om uw sessie te onderbreken (suspend), door deze op te slaan naar de schijf of het RAM-geheugen. Het onderbreken van uw sessie zorgt niet alleen voor het sneller afsluiten of herstarten van uw systeem, maar zorgt er bovendien voor dat u weer exact op dezelfde positie begint als waar u gestopt bent."
+msgstr "If you run Linux on a laptop, you will be glad you chose openSUSE. It includes the most advanced mobility features. Switch between wireless and wired networks with our NetworkManager, connect with mobile phones and PDAs that support Bluetooth, and even use infrared ports to synchronise with cell phones or PalmOS devices. Of course, USB memory sticks are no problem. Finally, new power management features give you the option to \"suspend\" your session, saving it to disk or RAM. Not only does suspend allow you to turn off and restart the system faster, but when you do restart, you are exactly where you were when you stopped."
 
 #: slideshow.xml:123(title)
 msgid "Keep Your System Secure and Up-to-Date"
-msgstr "Houd uw systeem veilig en actueel"
+msgstr "Keep Your System Secure and Up-to-Date"
 
 #: slideshow.xml:124(para)
 msgid "If your system is connected to the Internet, SUSE Firewall helps secure your system and data from Internet intruders. Leaving it activated gives you enormous protection and configuring it to your needs takes only a moment. openSUSE also includes AppArmor, the most effective and easy-to-use Linux application security system available today. It proactively protects the operating system and applications from external or internal threats."
-msgstr "Als uw systeem is verbonden met internet helpt SUSE Linux Firewall u bij het beschermen van uw systeem en gegevens tegen indringers van buitenaf. Door deze geactiveerd te laten bent u uitstekend beschermd. Het verder configureren ervan zal u slechts enkele ogenblikken kosten. openSUSE wordt daarnaast geleverd met AppArmor,  het meest effectieve en eenvoudig te gebruiken Linux-programma van dit moment om uw besturingssysteem en programma's proactief te beschermen tegen externe en interne bedreigingen."
+msgstr "If your system is connected to the Internet, SUSE Firewall helps secure your system and data from Internet intruders. Leaving it activated gives you enormous protection and configuring it to your needs takes only a moment. openSUSE also includes AppArmor, the most effective and easy-to-use Linux application security system available today. It proactively protects the operating system and applications from external or internal threats."
 
 #: slideshow.xml:132(para)
 msgid "openSUSE also includes a special security patch update system. As security patches are created for the Linux kernel and packages included in openSUSE, we make those available to you on a special update server. To ensure that the latest security patches are installed on your system, choose to perform an online update at the end of this installation procedure. In the future, the update system keeps you informed of the availability of important security updates, so you can install them at your convenience."
-msgstr "openSUSE bevat ook een speciaal patch-update-systeem. De veiligheidspatches die gemaakt worden voor de Linux-kernel en pakketten die meegeleverd worden met openSUSE worden beschikbaar gesteld via een speciale updateserver. Om er zeker van te zijn dat de nieuwste veiligheidspatches op uw systeem zijn geïnstalleerd selecteert u de optie om een Online Update uit te voeren aan het einde van deze installatieprocedure. In de toekomst zal het updatesysteem u informeren over de beschikbaarheid van belangrijke veiligheidsupdates. Deze kunt u dan installeren op een moment dat u het beste uit komt."
+msgstr "openSUSE also includes a special security patch update system. As security patches are created for the Linux kernel and packages included in openSUSE, we make those available to you on a special update server. To ensure that the latest security patches are installed on your system, choose to perform an online update at the end of this installation procedure. In the future, the update system keeps you informed of the availability of important security updates, so you can install them at your convenience."
 
 #: slideshow.xml:145(title)
 msgid "Powerful Home Networking and Application Development Tools"
-msgstr "Krachtige thuisnetwerken en ontwikkelprogramma's"
+msgstr "Powerful Home Networking and Application Development Tools"
 
 #: slideshow.xml:147(para)
 msgid "openSUSE includes tools for network file sharing and printing (Samba), Web hosting (Apache), and virtualization (Xen). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse, and Mono. That means that if you can imagine it, you can probably build it with openSUSE. At openSUSE.org, you can join with thousands of other openSUSE users to collaborate and create powerful new packages that you can use."
-msgstr "openSUSE bevat programma's voor het delen en afdrukken van documenten over een netwerk (Samba), webhosting (Apache) en virtualisatie (Xen). Voor softwareontwikkeling levert openSUSE een complete set runtime environments en uitgebreide hulpmiddelen voor het schrijven van programma's, zoals KDevelop, Eclipse en Mono. Dat betekent dat u vrijwel al uw ideeën kunt realiseren met openSUSE. Op openSUSE.org kunt u deelnemen met duizenden andere openSUSE-gebruikers en meewerken bij het creëren van krachtige nieuwe pakketten die u kunt gebruiken."
+msgstr "openSUSE includes tools for network file sharing and printing (Samba), Web hosting (Apache), and virtualisation (Xen). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse, and Mono. That means that if you can imagine it, you can probably build it with openSUSE. At openSUSE.org, you can join with thousands of other openSUSE users to collaborate and create powerful new packages that you can use."
 
 #: slideshow.xml:159(title)
 msgid "Learn More with Documentation"
-msgstr "Leer meer met documentatie"
+msgstr "Learn More with Documentation"
 
 #: slideshow.xml:160(para)
 msgid "openSUSE includes both SUSE-specific and general Linux documentation. The SUSE Help Center, available from the main menu or with the susehelp command, provides one-stop access to all the help included with your system. For example, use it to read the SUSE manuals, man pages, and info pages. If you want to print your own copy of the manuals, you can download a PDF version. Find the URL for the PDFs at http://en.opensuse.org/Documentation."
-msgstr "openSUSE bevat zowel SUSE-specifieke als ook algemene Linux-documentatie. Het SUSE-documentatiecentrum, beschikbaar vanuit het hoofdmenu of met het commando susehelp, biedt non-stop toegang tot alle documentatie op uw systeem. Gebruik het bijv. om de SUSE-handleidingen, man-pagina's en info-pagina's te lezen. Als u uw eigen kopie van de handleidingen wilt afdrukken, dan kunt u ze in PDF-vorm van internet downloaden. U vindt de PDF-versies op http://en.opensuse.org/Documentation."
+msgstr "openSUSE includes both SUSE-specific and general Linux documentation. The SUSE Help Centre, available from the main menu or with the susehelp command, provides one-stop access to all the help included with your system. For example, use it to read the SUSE manuals, man pages, and info pages. If you want to print your own copy of the manuals, you can download a PDF version. Find the URL for the PDFs at http://en.opensuse.org/Documentation."
 
 #: slideshow.xml:171(para)
 msgid "Even more documentation is available in the openSUSE wiki at http://en.opensuse.org/. In Documentation, find links to all sorts of useful information created and maintained by other openSUSE users. Also find links to the documentation available on the Novell Web site. For help with specific problems with openSUSE, check out the Support Database."
-msgstr "In de openSUSE-wiki (http://en.opensuse.org/) vindt u nog meer documentatie. Bij de sectie 'Documentation' vindt u links naar vele documenten die zijn aangemaakt en onderhouden door andere gebruikers van openSUSE. De documentatiesectie kent ook een onderdeel in het Nederlands. Klik op de bijhorende link om door deze documentatie te bladeren. Daarnaast vindt u links naar documentatie op de website van Novell. Voor hulp bij specifieke problemen met openSUSE kunt u terecht in de support database."
+msgstr "Even more documentation is available in the openSUSE wiki at http://en.opensuse.org/. In Documentation, find links to all sorts of useful information created and maintained by other openSUSE users. Also find links to the documentation available on the Novell Web site. For help with specific problems with openSUSE, check out the Support Database."
 
 #: slideshow.xml:184(title)
 msgid "Novell and Linux"
-msgstr "Novell en Linux"
+msgstr "Novell and Linux"
 
 #: slideshow.xml:185(para)
 msgid "Novell is committed to your success with Linux. Besides openSUSE, Novell delivers an exciting suite of products designed to meet the needs of businesses large and small."
-msgstr "Novell is toegewijd aan uw succes met Linux. Naast openSUSE levert Novell een uitgebreide suite van producten die ontworpen zijn om tegemoet te komen aan de wensen en behoeftes van het mkb en grote bedrijven."
+msgstr "Novell is committed to your success with Linux. Besides openSUSE, Novell delivers an exciting suite of products designed to meet the needs of businesses large and small."
 
 #: slideshow.xml:190(para)
 msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop, and Novell Open Enterprise Server. Our enterprise products are delivered with a seven year maintenance guarantee, optional support programs, and a unique Linux indemnification program."
-msgstr "De enterprise Linux-producten van Novell bevatten SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop en Novell Open Enterprise Server.Onze enterprise-producten worden geleverd met 7 jaar onderhoudsgarantie, optionele ondersteuningsprogramma's en een uniek Linux-vrijwaringsprogramma."
+msgstr "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop, and Novell Open Enterprise Server. Our enterprise products are delivered with a seven year maintenance guarantee, optional support programs, and a unique Linux indemnification program."
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: slideshow.xml:0(None)
 msgid "translator-credits"
-msgstr ""
-"Ruurd Pels <ruurdpels@kde.nl>\n"
-"Rinse de Vries <rinsedevries@kde.nl>"
+msgstr "translator-credits"
