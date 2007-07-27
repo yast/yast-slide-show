@@ -39,6 +39,16 @@ Web site or home network, you will find everything you need in openSUSE
   how you can join the openSUSE community.</para>
  </section>
 
+ <section label="02_05_localization">
+  <title>openSUSE Localization</title>
+
+  <para>The openSUSE project is a community project and many individuals are
+  involved in packaging software, testing programs, writing documentation, and
+  also localizing components.  Localization for openSUSE specific software is
+  done by language teams.  Find the localization portal at
+  http://i18n.opensuse.org/ .</para>
+ </section>
+
  <section label="03_connect">
   <title>Connect and Communicate</title>
 
