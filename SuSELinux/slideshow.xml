@@ -30,7 +30,7 @@ everything you need in openSUSE &suse-version;.
   <title>openSUSE.org</title>
 
   <para>
-Created by the openSUSE.org project and sponsored by Novell, openSUSE is
+Created by the openSUSE project and sponsored by Novell, openSUSE is
 a community effort to deliver the world's most usable open source
 computing platform. Many individuals are involved in packaging software,
 testing programs, writing documentation and localizing components for
@@ -89,13 +89,13 @@ with openSUSE.</para>
   <title>Documents, Spreadsheets and More</title>
 
   <para>
-The openSUSE &suse-version; project comes complete with the latest version of
-the leading Linux productivity suite, OpenOffice.org. It features a word
-processor, spreadsheet application, HTML editor, presentation designer
-and database manager. It also reads and writes multiple file extensions
-so you can move back and forth easily between openSUSE and popular
-non-Linux productivity software. OpenOffice.org is the perfect choice
-for reports, papers, home budgets, simple graphics and more.</para>
+The openSUSE &suse-version; distribution comes complete with the latest version
+of the leading Linux productivity suite, OpenOffice.org. It features a word
+processor, spreadsheet application, HTML editor, presentation designer and
+database manager. It also reads and writes multiple file extensions so you can
+move back and forth easily between openSUSE and popular non-Linux productivity
+software. OpenOffice.org is the perfect choice for reports, papers, home
+budgets, simple graphics and more.</para>
  </section>
 
 <section label="06_graphics">
