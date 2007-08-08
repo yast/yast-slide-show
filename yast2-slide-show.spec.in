@@ -13,6 +13,8 @@ Group:		System/YaST
 
 %description SuSELinux
 -
+# There seem to be issues with xml2po running parallel
+# icecream 0
 
 %package SLES
 Summary:	-
