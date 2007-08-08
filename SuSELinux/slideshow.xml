@@ -15,117 +15,136 @@
  <title>Slide Show</title>
 
  <section label="01_welcome">
-  <title>Welcome to openSUSE</title>
+  <title>Welcome to openSUSE™</title>
 
     <para>
-Whether you use your computer to communicate with friends, relatives, or
-colleagues, manage and enjoy your pictures and music, browse the Internet for
-the latest news or information, write a report or budget, or host a personal
-Web site or home network, you will find everything you need in openSUSE
-&suse-version;
+Whether you use your computer to communicate with friends, relatives or
+colleagues; to manage and enjoy your pictures and music; to browse the
+Internet for the latest news or information; to write a report or
+budget; or to host a personal Web site or home network, you will find
+everything you need in openSUSE &suse-version;.
 </para>
  </section>
 
  <section label="02_opensuse">
   <title>openSUSE.org</title>
 
-  <para>This distribution is created by the openSUSE.org project. The
-  openSUSE project, sponsored by Novell, is a collaborative community
-  effort to deliver the world's most usable open source computing
-  platform, the openSUSE distribution. Hosted at opensuse.org, many individuals
-  are involved in packaging software, testing programs, writing documentation,
-  and also localizing components.</para>
-  
-  <para>openSUSE is available in many languages. Localization for openSUSE
-  specific software is done by community-driven language teams. Find the
-  localization portal at http://i18n.opensuse.org/ .</para>
-  
+  <para>
+Created by the openSUSE.org project and sponsored by Novell, openSUSE is
+a community effort to deliver the world's most usable open source
+computing platform. Many individuals are involved in packaging software,
+testing programs, writing documentation and localizing components for
+the openSUSE distribution at its host site: www.opensuse.org
+</para>
   <para>Visit www.opensuse.org to learn how you can join the openSUSE
   community.</para>
-  
-  
+ </section>
 
+ <section label="02_z_opensuse">
+  <title>openSUSE in Many Languages</title>
+
+  <para>
+The openSUSE distribution is available in many languages. Localization
+for openSUSE software occurs through the efforts of our hard-working,
+community-driven language teams. Thank you to all of our contributors.
+Find the localization portal at: http://i18n.opensuse.org/</para>
+  
  </section>
 
  <section label="03_connect">
   <title>Connect and Communicate</title>
 
-  <para>openSUSE &suse-version; provides a complete set of tools for Web
-  browsing and e-mail management and even includes the newest Internet-based
-  phone technology.</para>
- 
-  <para>The Firefox Web browser is one of the best Web browser in the market. It
-  boasts a complete set of browser features, including Java, Adobe Reader,
-  RealPlayer, and Macromedia Flash plug-ins, plus lightning-fast
-  performance.</para>
- 
-  <para>Novell Evolution and Kontact are complete e-mail and contact managers
-  that you can use to manage all your mail accounts. openSUSE also includes
-  state-of-the-art Internet-based (VoIP) solutions that let you call
-  people connected to the Internet all over the world.</para>
+  <para>
+You can communicate more effectively with openSUSE 10.3 because it
+provides a complete set of tools for Web browsing and e-mail
+management—it even includes the newest Internet-based phone technology.
+</para>
+
+<para>With the openSUSE distribution, you get the Mozilla Firefox Web
+browser—one of the best Web browsers on the market. Firefox boasts a
+complete set of browser features, including Java, Adobe Reader,
+RealPlayer and Macromedia Flash plug-ins, plus lightning-fast
+performance.</para>
+
+<para>Also included with openSUSE are Novell Evolution and Kontact. These
+complete e-mail and contact managers help you organize and maintain all
+your e-mail accounts. The openSUSE distribution also comes with
+state-of-the-art Voice over IP (VoIP) solutions that let you communicate
+with people connected to the Internet all over the world.</para>
  
  </section>
 
  <section label="04_create">
-  <title>Create, View, and Listen</title>
-  <para>Download tunes from the Internet. Rip CDs to create your own customized
-  music library. Listen to your playlist online. Burn a CD or DVD. Even copy
-  your files to an iPod or similar device to take your music anywhere. Manage
-  and edit digital pictures with powerful graphics editors. It is easy with
-  openSUSE.</para>
+  <title>Create, View and Listen</title>
+  <para>
+Download tunes from the Internet. Rip CDs to create your own customized
+music library. Listen to your playlist online. Burn CDs or DVDs. Copy
+your files to an iPod or mp3 player and take your music anywhere. Manage
+and edit digital pictures with powerful graphics editors. It's all easy
+with openSUSE.</para>
 
  </section>
 
  <section label="05_office">
-  <title>Documents, Spreadsheets, and More</title>
+  <title>Documents, Spreadsheets and More</title>
 
-  <para>openSUSE &suse-version; comes complete with the latest version of the
-  leading Linux productivity suite, OpenOffice.org. Openoffice.org includes
-  a word processor, spreadsheet application, HTML editor, presentation
-  designer, and database.  It also reads and writes files you can use with
-  popular non-Linux productivity software. It is the perfect choice for
-  reports, papers, home budgets, and simple graphics.</para>
+  <para>
+The openSUSE &suse-version; project comes complete with the latest version of
+the leading Linux productivity suite, OpenOffice.org. It features a word
+processor, spreadsheet application, HTML editor, presentation designer
+and database manager. It also reads and writes multiple file extensions
+so you can move back and forth easily between openSUSE and popular
+non-Linux productivity software. OpenOffice.org is the perfect choice
+for reports, papers, home budgets, simple graphics and more.</para>
  </section>
 
 <section label="06_graphics">
   <title>Graphics, Graphics, Graphics</title>
 
-  <para>With the tools in openSUSE, you can create or edit practically any kind
-  of graphics. For advanced image manipulation and graphics creation, use
-  powerful tools like the GIMP, a complete image retouching, composition, and
-  authoring tool. </para>
+  <para>
+With the tools in openSUSE, you can create or edit almost any type of
+graphic. For advanced image manipulation and graphics creation, use the
+powerful GIMP tool, a complete image retouching, composition and
+authoring utility.</para>
  
-  <para>For vector graphics, try Inkscape, a versatile graphics solution
-  complete with support for transparent layers, bitmap tracing, text paths, and
-  much more.</para>
+<para>For vector graphics, openSUSE includes Inkscape. This versatile graphics
+solution delivers support for transparent layers, bitmap tracing, text
+paths and much more.
+</para>
  
  </section>
 
  <section label="08_mobility">
   <title>Computing On-the-Go</title>
 
-  <para> openSUSE includes the most advanced mobility features. Switch between
-  wireless and wired networks using NetworkManager. Connect with mobile devices
-  like mobile phones and PDAs via Bluetooth. Use infrared ports to synchronize
-  your data. Newest innovations in power management increase your
-  mobility.</para>
+  <para>The openSUSE distribution includes the most advanced mobility features.
+Switch effortlessly between wireless and wired networks using
+NetworkManager from openSUSE. Connect with mobile devices like mobile
+phones and PDAs via Bluetooth or use infrared ports to synchronize your
+data. The newest innovations in power management from openSUSE increase
+your mobility and give you the freedom to take your work wherever you
+go.
+</para>
 
  </section>
 
 <section label="09_security">
- <title>Keep Your System Secure and Up-to-Date</title>
+ <title>Keep Your System Secure and Up to Date</title>
 
-  <para>SUSE Firewall helps secure your system and data from Internet
-  intruders. It is activated by default and easy to configure. openSUSE also
-  includes AppArmor, the most effective and easy-to-use Linux application
-  security system available today.  It proactively protects the operating
-  system and applications from external or internal threats.</para>
+  <para>Help secure your system and data from Internet intruders with SUSE
+Firewall. This security device is activated by default and easy to
+configure. But you can do even more to protect your system with openSUSE
+because it also includes AppArmor, the most effective and easy-to-use
+Linux application security system available today. AppArmor proactively
+protects your operating system and applications from internal or
+external threats.</para>
 
-  <para>openSUSE also includes a special security patch update system. To
-    ensure that the latest security patches are installed on your system,
-    choose to perform an online update at the end of this installation
-    procedure. In the future, you will be informed of the availability of
-    important security updates, so you can install them at your convenience.
+<para>In addition to SUSE Firewall and AppArmor, openSUSE also includes a
+special security patch update system. To ensure that the latest security
+patches are installed on your system, you can choose to perform an
+online update at the end of this installation procedure. And in the
+future, you will be automatically informed of the availability of
+important security updates, so you can install them at your convenience.
 </para>
  
  </section>
@@ -133,54 +152,56 @@ Web site or home network, you will find everything you need in openSUSE
  <section label="10_devel">
   <title>Virtualization Technology and Application Development Tools</title>
 
-  <para>openSUSE includes the highest performing virtualization software, the
-  XEN hypervisor. In addition, openSUSE provides tools for network file
-  sharing, printing (Samba) and Web hosting (Apache). For application development,
-  openSUSE comes with a complete set of runtime environments plus extensive
-  application development tools, including KDevelop, Eclipse, and Mono. Almost
-  everything can be build with openSUSE.</para>
+  <para>Included with openSUSE is the Xen hypervisor—the highest performing
+virtualization software available. In addition, openSUSE provides tools
+for network file sharing, printing (Samba) and Web hosting (Apache). For
+application development, openSUSE comes with a complete set of runtime
+environments plus extensive application development tools, including
+KDevelop, Eclipse and Mono.</para>
 
-  <para>Join openSUSE.org to collaborate. Create and share new packages for
-  multiple Linux distribution using the unique and powerful openSUSE Build
-  Service.</para>
- 
+<para>You can build almost anything with openSUSE. It's easy to create and
+share new packages for multiple Linux distributions using the unique and
+powerful openSUSE Build Service. Join openSUSE.org to collaborate.
+</para>
+
  </section>
 
   <section label="11_docs">
     <title>Learn More</title>
-    <para>openSUSE provides extensive documentation for SUSE-specific as well
-    as  general Linux-related questions. The SUSE Help Center is accessible via
-    the main menu. Manuals are also available in PDF-format and can be
-    downloaded and printed
-<!-- translator: check whether a dedicated page exists for your language
-           and use it instead of "en" -->
+    <para>
+The openSUSE distribution provides extensive documentation for specific
+openSUSE questions as well as general Linux-related questions. The Help
+Center is accessible via the main menu . Manuals are also available in
+PDF and can be downloaded and printed <!-- translator: check whether a
+dedicated page exists for your language and use it instead of "en" -->
 (http://en.opensuse.org/Documentation).
     </para>
 
     <para>
-      Even more information is available in the openSUSE wiki at
-      <!-- translator: check whether a dedicated page exists for your language
-           and use it instead of "en" -->
-      http://en.opensuse.org/.  In Documentation, find links to all sorts of
-      useful information created and maintained by other openSUSE users. Also
-      find links to the documentation available on the Novell Web site.  For
-      help with specific problems with openSUSE, check out the Support
-      Database.
+Even more information is available in the openSUSE wiki at <!--
+translator: check whether a dedicated page exists for your language and
+use it instead of "en" -->       http://en.opensuse.org/. Under
+“Documentation,” discover links to useful information created and
+maintained by other openSUSE users. You can also find links to the
+documentation available on the official Novell Web site. For help with
+specific openSUSE problems, check out the Support Database at
+www.opensuse.org
     </para>
   </section>
 
  <section label="12_novell">
   <title>Novell and Linux</title>
   <para>
-Novell is committed to your success with Linux.  Besides openSUSE, Novell
-delivers an exciting suite of products designed to meet the needs of businesses
-large and small.</para>
+Novell is committed to your success with Linux. In addition to openSUSE,
+Novell also delivers an exciting suite of products designed to meet the
+needs of businesses large and small.</para>
 
   <para>
 The enterprise Linux products from Novell include SUSE Linux Enterprise Server,
-SUSE Linux Enterprise Desktop, and Novell Open Enterprise Server. Our
-enterprise products are delivered with a seven year maintenance guarantee,
-optional support programs, and a unique Linux indemnification program.
+SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise
+products are delivered with a seven-year maintenance guarantee and optional
+support programs. For more information on enterprise Linux from Novell, visit
+www.novell.com/linux
 </para>
 
  </section>
