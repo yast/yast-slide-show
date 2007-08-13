@@ -10,6 +10,7 @@ Wed Aug  8 10:00:14 CEST 2007 - ke@suse.de
 
 - V.2.15.4:
 - Re-worked text, thanks to Sabine Soellheim.
+- Revert patch by coolo (2007-07-25); set icecream 0 instead.
 
 -------------------------------------------------------------------
 Fri Jul  6 13:40:44 CEST 2007 - ke@suse.de
