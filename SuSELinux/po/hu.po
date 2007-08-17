@@ -8,17 +8,17 @@
 # Kalman Kemenczy <kkemenczy@novell.com>, 2006, 2007.
 msgid ""
 msgstr ""
-"Project-Id-Version: slideshow.hu\n"
+"Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-08-10 09:26+0200\n"
-"PO-Revision-Date: 2007-08-12 14:20+0200\n"
+"PO-Revision-Date: 2007-08-15 17:25+0200\n"
 "Last-Translator: Kalman Kemenczy <kkemenczy@novell.com>\n"
 "Language-Team:  <hu@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
@@ -54,7 +54,7 @@ msgstr "Az openSUSE számos nyelven elérhető, honosítását közösségi nyel
 
 #: slideshow.xml:55(title)
 msgid "Connect and Communicate"
-msgstr "Kapcsolódjon és kommunikáljon!"
+msgstr "Kapcsolódjon és kommunikáljon"
 
 #: slideshow.xml:57(para)
 msgid "You can communicate more effectively with openSUSE 10.3 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Internet-based phone technology."
@@ -86,7 +86,7 @@ msgstr "Az openSUSE 10.3 tartalmazza a legnépszerűbb linuxos irodai csomag, az
 
 #: slideshow.xml:102(title)
 msgid "Graphics, Graphics, Graphics"
-msgstr "Grafikák, grafikák és... grafikák!"
+msgstr "Grafikák, grafikák és... grafikák"
 
 #: slideshow.xml:104(para)
 msgid "With the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use the powerful GIMP tool, a complete image retouching, composition and authoring utility."
@@ -130,7 +130,7 @@ msgstr "Szinte bármit fejleszthet az openSUSE segítségével. Könnyedén kés
 
 #: slideshow.xml:170(title)
 msgid "Learn More"
-msgstr "Ha többre kiváncsi..."
+msgstr "Ha többre kiváncsi"
 
 #: slideshow.xml:171(para)
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
