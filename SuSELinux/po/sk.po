@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-08-10 09:26+0200\n"
-"PO-Revision-Date: 2007-08-19 19:19+0100\n"
+"PO-Revision-Date: 2007-08-21 23:23+0100\n"
 "Last-Translator: Ladislav Michnovic <lmichnovic@suse.cz>\n"
 "Language-Team: Slovak <sk-i18n@linux.sk>\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +27,7 @@ msgstr "Vítame Vás v openSUSE™"
 
 #: slideshow.xml:20(para)
 msgid "Whether you use your computer to communicate with friends, relatives or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or information; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 10.3."
-msgstr ""
+msgstr "Či už chcete používať počítač na komunikáciu s kamoššmi, príbuznými, alebo spolupracovníkmi; alebo si vytvoriť album hudby a fotiek alebo počúvať hudbu, prezerať si webové stránky Internetu, kde nájdete najčerstvejšie správy a informácie; či napísať výročnú správu alebo navrhnúť rozpočet; alebo aj poskytovať osobné webové stránky, zdieľať domovské adresáre po sieti: v openSUSE 10.3 nájdete všetko potrebné pre zrealizovanie týchto vecí na vašom počítači."
 
 #: slideshow.xml:30(title)
 msgid "openSUSE.org"
@@ -35,7 +35,7 @@ msgstr "openSUSE.org"
 
 #: slideshow.xml:32(para)
 msgid "Created by the openSUSE project and sponsored by Novell, openSUSE is a community effort to deliver the world's most usable open source computing platform. Many individuals are involved in packaging software, testing programs, writing documentation and localizing components for the openSUSE distribution at its host site: www.opensuse.org"
-msgstr ""
+msgstr "Distribúcia openSUSE, ktorá je tvorená cez projekt openSUSE a sponzorovaná firmou Novell, je výsledok úsilia komunity, aby poskytla celému svetu najpoužiteľnejšiu počítačovú platformu, založenú na slobodnom softvére. Mnoho jednotlivcov je zapojených do balenia softvéru, testovania programov, písania dokumentácie a lokalizácie jednotlivých častí pre distribúciu openSUSE. Detaily nájdete na stránke: www.opensuse.org . Pripojte sa k nám a buďte súčasťou komunity."
 
 #: slideshow.xml:39(para)
 msgid "Visit www.opensuse.org to learn how you can join the openSUSE community."
