@@ -1,0 +1,211 @@
+# translation of slideshow.pa.po to Panjabi
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# A S Alam <aalam@users.sf.net>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: slideshow.pa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-08-10 09:26+0200\n"
+"PO-Revision-Date: 2007-08-23 20:05+0530\n"
+"Last-Translator: A S Alam <aalam@users.sf.net>\n"
+"Language-Team: Panjabi <punjabi-l10n@lists.sf.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: slideshow.xml:15(title)
+msgid "Slide Show"
+msgstr "ਸਲਾਇਡ ਸ਼ੋ"
+
+#: slideshow.xml:18(title)
+msgid "Welcome to openSUSE™"
+msgstr "openSUSE™ ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ"
+
+#: slideshow.xml:20(para)
+msgid "Whether you use your computer to communicate with friends, relatives or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or information; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 10.3."
+msgstr ""
+"ਭਾਵੇਂ ਤੁਸੀਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਨੂੰ ਆਪਣੇ ਦੋਸਤਾਂ, ਰਿਸ਼ਤੇਦਾਰਾਂ ਜਾਂ ਸਹਿਯੋਗੀਆਂ ਨਾਲ ਕਮਿਊਨੀਕੇਸ਼ਨ ਕਰਨ ਲਈ ਵਰਤਣਾ ਹੋਵੇ, ਜਾਂ ਆਪਣੀਆਂ "
+"ਤਸਵੀਰਾਂ ਅਤੇ ਸੰਗੀਤ ਦਾ ਆਨੰਦ ਮਾਣਨ ਅਤੇ ਉਨ੍ਹਾਂ ਦੀ ਦੇਖਭਾਲ ਲਈ, ਜਾਂ ਤਾਜ਼ਾ ਖ਼ਬਰਾਂ ਜਾਂ ਜਾਣਕਾਰੀ ਲਈ ਲੈਣ ਵਾਸਤੇ ਇੰਟਰਨੈੱਟ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ, ਜਾਂ ਇੱਕ ਰਿਪੋਰਟ ਜਾਂ ਬਜਟ ਲਿਖਣ ਵਾਸਤੇ ਜਾਂ ਨਿੱਜੀ ਵੈੱਬ ਸਾਇਟ ਹੋਸਟ ਕਰਨ ਲਈ ਜਾਂ ਘਰੇ ਨੈੱਟਵਰਕ ਬਣਾਉਣ ਲਈ ਵਰਤਣ ਹੋਵੇ, ਤੁਸੀਂ openSUSE 10.3 ਵਿੱਚ ਸਭ ਕੁਝ ਲੱਭ ਸਕਦੇ ਹੋ।"
+
+#: slideshow.xml:30(title)
+msgid "openSUSE.org"
+msgstr "openSUSE.org"
+
+#: slideshow.xml:32(para)
+msgid "Created by the openSUSE project and sponsored by Novell, openSUSE is a community effort to deliver the world's most usable open source computing platform. Many individuals are involved in packaging software, testing programs, writing documentation and localizing components for the openSUSE distribution at its host site: www.opensuse.org"
+msgstr ""
+"ਓਪਨ-ਸੂਸੇ (openSUSE) ਪਰੋਜੈਕਟ ਰਾਹੀਂ ਬਣਾਇਆ ਅਤੇ ਨੋਵਲ (Novell) ਵਲੋਂ ਸਪਾਂਸਰ ਕੀਤਾ ਗਿਆ ਹੈ, ਓਪਨਸੂਸੇ ਸੰਸਾਰ ਦਾ "
+"ਸਭ ਤੋਂ ਵੱਧ ਵਰਤਣ ਲਈ ਆਸਾਨ ਓਪਨ ਸੋਰਸ ਕੰਪਿਊਟਿੰਗ ਪਲੇਟਫਾਰਮ ਦੇਣ ਲਈ ਕਮਿਊਨਟੀ ਦਾ ਜਤਨ ਹੈ। ਬਹੁਤ ਸਾਰੇ ਲੋਕ "
+"ਓਪਨ-ਸੂਸੇ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਲਈ ਸਾਫਟਵੇਅਰ ਪੈਕ ਕਰਨ, ਪਰੋਗਰਾਮ ਟੈਸਟਿੰਗ, ਦਸਤਾਵੇਜ਼ ਲਿਖਣ ਅਤੇ ਲੋਕਲ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ "
+"ਸਮੱਗਰੀ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਸਤੇ ਇਸ ਦੀ ਸਾਇਟ ਰਾਹੀਂ ਯੋਗਦਾਨ ਦਿੰਦੇ ਹਨ: www.opensuse.org"
+
+#: slideshow.xml:39(para)
+msgid "Visit www.opensuse.org to learn how you can join the openSUSE community."
+msgstr "www.opensuse.org ਉੱਤੇ ਜਾਓ ਅਤੇ openSUSE ਕਮਿਊਨਟੀ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣ ਬਾਰੇ ਜਾਣੋ।"
+
+#: slideshow.xml:44(title)
+msgid "openSUSE in Many Languages"
+msgstr "openSUSE ਕਈ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ"
+
+#: slideshow.xml:46(para)
+msgid "The openSUSE distribution is available in many languages. Localization for openSUSE software occurs through the efforts of our hard-working, community-driven language teams. Thank you to all of our contributors. Find the localization portal at: http://i18n.opensuse.org/"
+msgstr ""
+"ਓਪਨ-ਸੂਸੇ (openSUSE) ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਬਹੁਤ ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਉਪਲੱਬਧ ਹੈ। ਓਪਨ-ਸੂਸੇ ਦੇ ਖਾਸ ਸਾਫਟਵੇਅਰ ਦਾ ਅਨੁਵਾਦ "
+"ਸਾਡੀਆਂ ਮੇਹਨਤੀ ਕਮਿਊਨਟੀ ਭਾਸ਼ਾ ਟੀਮਾਂ ਵਲੋਂ ਕੀਤਾ ਗਿਆ ਹੈ। ਉਨ੍ਹਾਂ ਸਭ ਦਾ ਧੰਨਵਾਦ ਹੈ। ਲੋਕਾਈਜ਼ੇਸ਼ਨ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਈ ਪੋਰਟਲ http://i18n.opensuse.org/ ਵੇਖੋ।"
+
+#: slideshow.xml:55(title)
+msgid "Connect and Communicate"
+msgstr "ਕੁਨੈਕਟ ਅਤੇ ਕਮਿਊਨੀਕੇਸ਼ਨ"
+
+#: slideshow.xml:57(para)
+msgid "You can communicate more effectively with openSUSE 10.3 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Internet-based phone technology."
+msgstr ""
+"ਤੁਸੀਂ ਓਪਨ-ਸੂਸੇ 10.3 ਨਾਲ ਹੋਰ ਪਰਭਾਵੀ ਢੰਗ ਨਾਲ ਕਮਿਊਨੀਕੇਟ ਕਰ ਸਕਦੇ ਹੋ, ਕਿਉਂਕਿ ਇਹ ਵੈੱਬ ਬਰਾਊਜ਼ਿੰਗ ਅਤੇ ਈਮੇਲ ਪਰਬੰਧ ਲਈ "
+"ਸਭ ਟੂਲ ਦਿੰਦਾ ਹੈ - ਇਸ ਵਿੱਚ ਨਵੀਨਤਮ ਇੰਟਰਨੈੱਟ-ਅਧਾਰਿਤ ਫੋਨ ਤਕਨਾਲੋਜੀ ਵੀ ਹੈ।"
+
+#: slideshow.xml:63(para)
+msgid "With the openSUSE distribution, you get the Mozilla Firefox Web browser—one of the best Web browsers on the market. Firefox boasts a complete set of browser features, including Java, Adobe Reader, RealPlayer and Macromedia Flash plug-ins, plus lightning-fast performance."
+msgstr "ਓਪਨਸੂਸੇ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਵਿੱਚ ਤੁਸੀਂ ਲਵੋਗੇ ਮੋਜ਼ੀਲਾ ਫਾਇਰਫਾਕਸ ਵੈੱਬ ਬਰਾਊਜ਼ਰ-ਮਾਰਕੀਟ ਵਿੱਚ ਉਪਲੱਬਧ ਸਭ ਤੋਂ ਵਧੀਆ ਵੈੱਬ ਬਰਾਊਜ਼ਰ। ਫਾਇਰਫਾਕਸ ਵਿੱਚ ਬਰਾਊਜ਼ਰ ਦੇ ਸਭ ਫੀਚਰ, ਜਿੰਨ੍ਹਾਂ ਵਿੱਚ ਜਾਵਾ, ਅਡੋਬ ਰੀਡਰ, ਰੀਅਲ-ਪਲੇਅਰ ਅਤੇ ਮਾਈਕਰੋਮੀਡਿਆ ਫਲੈਸ਼ ਪਲੱਗਇਨ ਆਦਿ ਫੀਚਰ ਦੇ ਨਾਲ ਨਾਲ ਬਹੁਤ ਤੇਜ਼ ਕਾਰਗੁਜ਼ਾਰੀ ਵੀ ਸ਼ਾਮਲ ਹੈ।"
+
+#: slideshow.xml:69(para)
+msgid "Also included with openSUSE are Novell Evolution and Kontact. These complete e-mail and contact managers help you organize and maintain all your e-mail accounts. The openSUSE distribution also comes with state-of-the-art Voice over IP (VoIP) solutions that let you communicate with people connected to the Internet all over the world."
+msgstr ""
+"ਓਪਨ-ਸੂਸੇ (openSUSE) ਵਿੱਚ ਨੋਵਲ ਈਵੋਲੂਸ਼ਨ ਅਤੇ Kontact ਸ਼ਾਮਲ ਕੀਤੇ ਗਏ ਹਨ। ਇਹ ਪੂਰੀ ਈਮੇਲ ਅਤੇ ਸੰਪਰਕ ਮੈਨੇਜਰ "
+"ਤੁਹਾਨੂੰ ਆਪਣੇ ਈਮੇਲ ਖਾਤੇ ਦੇ ਪਰਬੰਧ ਅਤੇ ਦੇਖਭਾਲ ਲਈ ਮੱਦਦ ਕਰਦੇ ਹਨ। ਓਪਨ-ਸੂਸੇ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਵਿੱਚ ਵਾਇਸ ਓਵਰ IP "
+"(VoIP) ਸਾਫਟਵੇਅਰ ਵੀ ਉਪਲੱਬਧ ਹਨ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਸਭ ਸੰਸਾਰ ਵਿੱਚ ਇੰਟਰਨੈੱਟ ਰਾਹੀਂ ਜੁੜੇ ਲੋਕਾਂ ਨਾਲ ਗੱਲਾਬਾਤਾਂ ਕਰਨ ਲਈ ਸਹਾਇਕ ਹੈ।"
+
+#: slideshow.xml:78(title)
+msgid "Create, View and Listen"
+msgstr "ਬਣਾਓ, ਵੇਖੋ ਅਤੇ ਸੁਣੋ"
+
+#: slideshow.xml:79(para)
+msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or mp3 player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
+msgstr ""
+"ਇੰਟਰਨੈੱਟ ਤੋਂ ਟਿਊਨਾਂ ਡਾਊਨਲੋਡ ਕਰੋ। ਆਪਣੀ ਨਿੱਜੀ ਪਸੰਦ ਮੁਤਾਬਕ ਸੰਗੀਤ ਲਾਇਬਰੇਰੀ ਬਣਾਉਣ ਲਈ CD ਰਿਪ ਕਰੋ। ਆਪਣੀ "
+"ਪਲੇਅ-ਲਿਸਟ ਆਨਲਾਇਨ ਸੁਣੋ। CD ਜਾਂ DVD ਬਰਨ ਕਰੋ। ਆਪਣੀਆਂ ਫਾਇਲਾਂ ਨੂੰ iPoD ਜਾਂ mp3 ਪਲੇਅਰ ਕਾਪੀ ਕਰੋ ਅਤੇ "
+"ਆਪਣੇ ਗਾਣੇ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ। ਸ਼ਾਨਦਾਰ ਗਰਾਫਿਕਲ ਐਡੀਟਰਾਂ ਨਾਲ ਡਿਜ਼ੀਟਲ ਤਸਵੀਰਾਂ ਵੇਖੋ ਅਤੇ ਸੋਧੋ। ਇਹ ਸਭ ਸੌਖਾ ਹੈ "
+"ਓਪਨ-ਸੂਸੇ (openSUSE) ਨਾਲ।"
+
+#: slideshow.xml:89(title)
+msgid "Documents, Spreadsheets and More"
+msgstr "ਦਸਤਾਵੇਜ਼, ਸਪਰੈੱਡਸ਼ੀਟਾਂ ਅਤੇ ਹੋਰ"
+
+#: slideshow.xml:91(para)
+msgid "The openSUSE 10.3 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer and database manager. It also reads and writes multiple file extensions so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
+msgstr ""
+"ਓਪਨ-ਸੂਸੇ 10.3 ਡਿਸ਼ਟਰੀਬਿਊਸ਼ਨ ਮੋਹਰੀ ਲਿਨਕਸ ਪਰੋਡੱਕਟਵਿਟੀ ਸੂਟ, ਓਪਨ-ਆਫਿਸ.ਆਰਗ (OpenOffice.org) ਦੇ ਨਵੇਂ ਵਰਜਨ "
+"ਉਪਲੱਬਧ ਕਰਵਾ ਰਿਹਾ ਹੈ। ਇਸ ਦੇ ਫੀਚਰਾਂ ਵਿੱਚ ਇੱਕ ਵਰਡ ਪਰੋਸੈਸਰ, ਸਪਰੈੱਡ ਸ਼ੀਟ ਕਾਰਜ, HTML ਐਡੀਟਰ, ਪਰਿਜ਼ੈੱਨਟੇਸ਼ਨ"
+" ਡਿਜ਼ਾਇਨਰ ਅਤੇ ਡਾਟਾਬੇਸ ਮੈਨੇਜਰ ਹ। ਇਹ ਕਈ ਫਾਇਲ ਐਕਸ਼ਟੈਸ਼ਨਾਂ ਨੂੰ ਪੜ੍ਹ ਅਤੇ ਲਿਖ ਸਕਦਾ ਹੈ ਤਾਂ ਕਿ ਤੁਸੀਂ ਓਪਨ-ਸੂਸੇ ਅਤੇ ਹੋਰ "
+"ਹਰਮਨ-ਪਿਆਰੇ ਗ਼ੈਰ-ਲਿਨਕਸ ਪਰੋਡੱਕਟਵਿਟੀ ਸਾਫਟਵੇਅਰਾਂ ਵਿੱਚ ਆਸਾਨੀ ਨਾਲ ਲੈ ਕੇ ਜਾ ਆ ਸਕੋ। ਓਪਨ-ਆਫਿਸ ਰਿਪੋਰਟਾਂ, ਪੇਪਰਾਂ,ਘਰ ਬਜਟ, ਸਧਾਰਨ ਗਰਾਫਿਕਸ ਅਤੇ ਹੋਰ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਚੋਣ ਹੈ।"
+
+#: slideshow.xml:102(title)
+msgid "Graphics, Graphics, Graphics"
+msgstr "ਗਰਾਫਿਕਸ, ਗਰਾਫਿਕਸ, ਗਰਾਫਿਕਸ"
+
+#: slideshow.xml:104(para)
+msgid "With the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use the powerful GIMP tool, a complete image retouching, composition and authoring utility."
+msgstr ""
+"ਓਪਨ-ਸੂਸੇ ਵਿੱਚ ਉਪਲੱਬਧ ਟੂਲਾਂ ਨਾਲ, ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਕਿਸਮ ਦੇ ਗਰਾਫਿਕਸ ਬਣਾ ਜਾਂ ਸੋਧ ਸਕਦੇ ਹੋ। ਤਕਨੀਕੀ ਚਿੱਤਰ "
+"ਕਾਰਵਾਈਆਂ ਅਤੇ ਗਰਾਫਿਕਸ ਬਣਾਉਣ ਲਈ, ਤਾਕਤਵਰਤ ਜੈਮਪ (GIMP) ਟੂਲ ਵਰਤੋਂ, ਜਿਸ ਵਿੱਚ ਰੀ-ਟੱਚਿੰਗ, ਕੰਪੋਜ਼ੀਸ਼ਨ ਅਤੇ "
+"ਆਥਰਿੰਗ ਸਹੂਲਤਾਂ ਹਨ।"
+
+#: slideshow.xml:110(para)
+msgid "For vector graphics, openSUSE includes Inkscape. This versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
+msgstr ""
+"ਵੈਕਟਰ ਗਰਾਫਿਕਸ ਲਈ, ਓਪਨ-ਸੂਸੇ ਵਿੱਚ ਇਕਸਪੇਸ ਹੈ। ਇਹ ਵੈਕਟਰ ਅਧਾਰਿਤ ਗਰਾਫਿਕਸ ਟੂਲ ਟਰਾਂਸਪੇਰਟ ਲੇਅਰਾਂ, ਬਿੱਟਮੈਪ "
+"ਟਰੇਸਿੰਗ, ਟੈਕਸਟ ਮਾਰਗ ਅਤੇ ਹੋਰ ਬਹੁਤ ਕੁਝ ਉਪਲੱਬਧ ਕਰਵਾਉਦਾ ਹੈ।"
+
+#: slideshow.xml:118(title)
+msgid "Computing On-the-Go"
+msgstr "ਆਨ-ਦਾ-ਗੋ ਕੰਪਿਊਟਿੰਗ"
+
+#: slideshow.xml:120(para)
+msgid "The openSUSE distribution includes the most advanced mobility features. Switch effortlessly between wireless and wired networks using NetworkManager from openSUSE. Connect with mobile devices like mobile phones and PDAs via Bluetooth or use infrared ports to synchronize your data. The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
+msgstr ""
+"ਓਪਨਸੂਸੇ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਵਿੱਚ ਸਭ ਤੋਂ ਨਵੇਂ ਮੋਬਾਇਲਟੀ ਫੀਚਰ ਹਨ। ਓਪਨਸੂਸੇ ਵਿੱਚ ਨੈੱਟਵਰਕ-ਮੈਨੇਜਰ ਰਾਹੀਂ ਬੇਤਾਰ ਅਤੇ ਤਾਰ ਵਾਲੇ "
+"ਨੈੱਟਵਰਕ ਵਿੱਚ ਸੌਖੀ ਤਰ੍ਹਾਂ ਬਦਲੋ। ਮੋਬਾਇਲ ਜੰਤਰ, ਜਿਵੇਂ ਕਿ ਮੋਬਾਇਲ ਫੋਨ ਅਤੇ PDA ਨਾਲ ਬਲਿਊਟੁੱਥ ਜਾਂ ਇੰਫਰਾਰੈੱਡ ਪੋਰਟਾਂ ਰਾਹੀਂ "
+"ਕੁਨੈਕਟ ਕਰਕੇ ਆਪਣਾ ਡਾਟਾ ਸੈਕਰੋਨਾਇਜ਼ ਕਰੋ। ਓਪਨਸੂਸੇ ਵਲੋਂ ਪਾਵਰ ਪਰਬੰਧ ਦੀ ਨਵੀਂ ਪਹਿਲ ਨਾਲ ਆਪਣੀ ਮੋਬਾਇਲਟੀ ਵਧਾਓ "
+"ਅਤੇ ਆਪਣਾ ਕੰਮ ਕਿਤੇ ਵੀ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਣ ਦੀ ਆਜ਼ਾਦੀ ਦਾ ਫਾਇਦਾ ਲਵੋ।"
+
+#: slideshow.xml:132(title)
+msgid "Keep Your System Secure and Up to Date"
+msgstr "ਆਪਣੇ ਸਿਸਟਮ ਨੂੰ ਸੁਰੱਖਿਅਤ ਅਤੇ ਅੱਪਡੇਟ ਰੱਖੋ"
+
+#: slideshow.xml:134(para)
+msgid "Help secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
+msgstr ""
+"ਆਪਣੇ ਸਿਸਟਮ ਅਤੇ ਡਾਟੇ ਨੂੰ ਇੰਟਰਨੈੱਟ ਹਮਲਾਵਾਰਾਂ (intruders) ਤੋਂ ਬਚਾਉਣ ਲਈ ਸੂਸੇ ਫਾਇਰਵਾਲ (SUSE Firewall) ਵਰਤੋਂ। ਇਹ ਸੁਰੱਖਿਆ ਜੰਟਰ ਨੂੰ ਡਿਫਾਲਟ ਹੀ ਐਕਟਿਵੇਟ ਕੀਤਾ ਗਿਆ ਹੈ ਅਤੇ ਸੰਰਚਿਤ ਕਰਨਾ ਬਹੁਤ ਆਸਾਨ ਹੈ। ਪਰ ਫੇਰ ਵੀ ਤੁਸੀਂ ਆਪਣੇ ਸਿਸਟਮ ਨੂੰ ਓਪਨ-ਸੂਸੇ ਨਾਲ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਹੋਰ ਵੀ ਕਰ ਸਕਦੇ ਹੋ, ਕਿਉਂਕਿ ਇਸ ਵਿੱਚ ਅੱਪਾਰਮੋਰ (AppArmor), ਅੱਜ ਤੱਕ ਉਪਲੱਬਧ ਸਭ ਤੋਂ ਪਰਭਾਵੀ ਅਤੇ ਵਰਤਣ ਲਈ ਆਸਾਨ ਲਿਨਕਸ ਸੁਰੱਖਿਆ ਸਿਸਟਮ ਹੈ, ਵੀ ਉਪਲੱਬਧ ਹੈ। ਅੱਪਾਰਮੋਰ ਪਰੋ-ਐਕਟਿਵਲੀ ਤੁਹਾਡੇ ਓਪਰੇਟਿੰਗ "
+"ਸਿਸਟਮ ਅਤੇ ਕਾਰਜਾਂ ਨੂੰ ਅੰਦਰੂਨੀ ਜਾਂ ਬਾਹਰੀ ਹਮਲਿਆਂ ਤੋਂ ਬਚਾਉਦਾ ਹੈ।"
+
+#: slideshow.xml:142(para)
+msgid "In addition to SUSE Firewall and AppArmor, openSUSE also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure. And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
+msgstr ""
+"ਸੂਸੇ ਫਾਇਰਵਾਲ ਅਤੇ ਅੱਪਾਰਮੋਰ ਤੋਂ ਇਲਾਵਾ, ਓਪਨ-ਸੂਸੇ ਵਿੱਚ ਇੱਕ ਖਾਸ ਸੁਰੱਖਿਆ ਪੈਚ ਅੱਪਡੇਟ ਸਿਸਟਮ ਹੈ। ਇਹ ਯਕੀਨੀ ਬਣਾਉਣ "
+"ਲਈ ਕਿ ਤੁਹਾਡੇ ਸਿਸਟਮ ਉੱਤੇ ਸਭ ਤੋਂ ਨਵੇਂ ਸੁਰੱਖਿਆ ਪੈਚ ਉਪਲੱਬਧ ਹਨ, ਤੁਸੀਂ ਇਹ ਇੰਸਟਾਲੇਸ਼ਨ ਪੂਰੀ ਹੋਣ ਦੇ ਬਾਅਦ ਇੱਕ ਆਨਲਾਇਨ "
+"ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਚੋਣ ਕਰ ਸਕਦੇ ਹੋ। ਅਤੇ ਇਸ ਫੀਚਰ ਦੇ ਪੂਰਾ ਹੋਣ ਬਾਅਦ, ਤੁਹਾਨੂੰ ਖਾਸ ਸੁਰੱਖਿਆ ਅੱਪਡੇਟਾਂ ਦੀ ਮੌਜੂਦਗੀ ਬਾਰੇ "
+"ਜਾਣਕਾਰੀ ਆਟੋਮੈਟਿਕ ਹੀ ਦਿੱਤੀ ਜਾਵੇਗੀ ਤਾਂ ਕਿ ਤੁਸੀਂ ਆਪਣੀ ਸਹੂਲਤ ਮੁਤਾਬਕ ਉਨ੍ਹਾਂ ਨੂੰ ਇੰਸਟਾਸ ਕਰ ਸਕੋ।"
+
+#: slideshow.xml:153(title)
+msgid "Virtualization Technology and Application Development Tools"
+msgstr "ਵੁਰਚੁਅਲ ਤਕਨਾਲੋਜੀ ਅਤੇ ਕਾਰਜ ਡਿਵੈਲਪਮਿੰਟ ਟੂਲ"
+
+#: slideshow.xml:155(para)
+msgid "Included with openSUSE is the Xen hypervisor—the highest performing virtualization software available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
+msgstr ""
+"ਓਪਨ-ਸੂਸੇ ਵਿੱਚ ਜ਼ੈਨ ਹਾਈਪਰਵਿਜ਼ਰ (Xen hypervisor) ਹੈ - ਸਭ ਤੋਂ ਵਧੀਆ ਉਪਲੱਬਧ ਵੁਰਚੁਲਾਈਜ਼ੇਸ਼ਨ ਸਾਫਟਵੇਅਰ ਹੈ। "
+"ਇਸ ਤੋਂ ਇਲਾਵਾ, ਓਪਨ-ਸੂਸੇ ਵਿੱਚ ਨੈੱਟਵਰਕ ਫਾਇਲ ਸ਼ੇਅਰਿੰਗ, ਪਰਿੰਟਿੰਗ (ਸਾਂਬਾ) ਅਤੇ ਵੈੱਬ ਹੋਸਟਿੰਗ (ਆਪਚੇ) ਲਈ ਟੂਲ ਉਪਲੱਬਧ ਹਨ। "
+"ਐਪਲੀਕੇਸ਼ਨ (ਕਾਰਜ) ਡਿਵੈਲਪਮਿੰਟ ਲਈ, ਓਪਨ-ਸੂਸੇ ਵਿੱਚ ਰਨ-ਟਾਇਮ ਇੰਵਾਇਰਨਮਿੰਟ ਦੇ ਪੂਰੇ ਸੈੱਟ ਤੋਂ ਬਿਨਾਂ, ਖਾਸ ਐਪਲੀਕੇਸ਼ਨ "
+"ਡਿਵੈਲਪਮਿੰਟ ਟੂਲ ਉਪਲੱਬਧ ਹਨ, ਜਿਸ ਵਿੱਚ KDevelop, Eclipse, ਅਤੇ ਮੋਨੋ ਹਨ।"
+
+#: slideshow.xml:162(para)
+msgid "You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
+msgstr ""
+"ਤੁਸੀਂ ਓਪਨ-ਸੂਸੇ ਨਾਲ ਕੁਝ ਵੀ ਬਿਲਡ ਕਰ ਸਕਦੇ ਹੋ। ਨਵੇਂ ਪੈਕੇਜ ਵਿਲੱਖਣ ਅਤੇ ਪਰਭਾਵੀ ਓਪਨ-ਸੂਸੇ ਬਿਲਡ ਸਰਵਿਸ ਨਾਲ ਕਈ "
+"ਲਿਨਕਸ ਡਿਸਟਰੀਊਸ਼ਨਾਂ ਲਈ ਬਿਲਡ ਕਰਨੇ ਅਤੇ ਸਾਂਝੇ ਕਰਨੇ ਸੌਖੇ ਹੋ ਗਏ ਹਨ। ਆਓ openSUSE.org ਉੱਤੇ ਸਹਿਯੋਗ ਕਰੋ।"
+
+#: slideshow.xml:170(title)
+msgid "Learn More"
+msgstr "ਹੋਰ ਜਾਣੋ"
+
+#: slideshow.xml:171(para)
+msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
+msgstr ""
+"ਓਪਨ-ਸੂਸੇ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਵਿੱਚ ਖਾਸ ਓਪਨ-ਸੂਸੇ ਸਵਾਲਾਂ ਦੇ ਨਾਲ ਨਾਲ ਆਮ ਲਿਨਕਸ ਨਾਲ ਸਬੰਧਿਤ ਸਵਾਲਾਂ ਲਈ ਖਾਸ ਦਸਤਾਵੇਜ਼ ਵੀ "
+"ਉਪਲਬੱਧ ਹਨ। ਮੱਦਦ ਸੈਂਟਰ ਮੁੱਖ ਮੇਨੂ ਰਾਹੀਂ ਵੀ ਉਪਲੱਬਧ ਹੈ। ਦਸਤਾਵੇਜ਼ PDF ਦੇ ਰੂਪ ਵਿੱਚ ਵੀ ਉਪਲੱਬਧ ਹਨ ਅਤੇ "
+"(http://en.opensuse.org/Documentation) ਤੋਂ ਡਾਊਨਲੋਡ ਕੀਤੇ ਅਤੇ ਪਰਿੰਟ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ।"
+
+#: slideshow.xml:180(para)
+msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under “Documentation”, discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
+msgstr ""
+"ਓਪਨ-ਸੂਸੇ ਵਿਕਿ (http://en.opensuse.org/ ਉੱਤੇ) ਹੋਰ ਜਾਣਕਾਰੀ ਵੀ ਉਪਲੱਬਧ ਹੈ। “Documentation” ਹੇਠ, ਹੋਰ ਓਪਨ-ਸੂਸੇ "
+"ਯੂਜ਼ਰਾਂ ਰਾਹੀਂ ਬਣਾਈ ਅਤੇ ਸੰਭਾਲੀ ਜਾਂਦੀ ਲਾਭਦਾਇਕ ਜਾਣਕਾਰੀ ਲਈ ਦਿੱਤੇ ਲਿੰਕ ਵੇਖੋ।ਤੁਸੀਂ ਓਫੀਸ਼ਲ ਨੋਵਲ ਵੈੱਬ ਸਾਇਟ ਉੱਤੇ "
+"ਉਪਲੱਬਧ ਦਸਤਾਵੇਜ਼ਾਂ ਲਈ ਲਿੰਕ ਵੀ ਵੇਖ ਸਕਦੇ ਹੋ। ਖਾਸ ਓਪਨ-ਸੂਸੇ ਸਮੱਸਿਆਵਾਂ ਨਾਲ ਮੱਦਦ ਲਈ, www.opensuse.org ਉੱਤੇ "
+"ਸਹਿਯੋਗ ਡਾਟਾਬੇਸ ਚੈੱਕ ਕਰੋ।"
+
+#: slideshow.xml:193(title)
+msgid "Novell and Linux"
+msgstr "ਨੋਵਲ ਅਤੇ ਲਿਨਕਸ"
+
+#: slideshow.xml:194(para)
+msgid "Novell is committed to your success with Linux. In addition to openSUSE, Novell also delivers an exciting suite of products designed to meet the needs of businesses large and small."
+msgstr "ਨੋਵਲ ਲਿਨਕਸ ਉੱਤੇ ਤੁਹਾਡੀ ਸਫ਼ਲਤਾ ਲਈ ਵਚਨਬੱਧ ਹੈ। openSUSE ਦੇ ਨਾਲ ਨਾਲ, ਨੋਵਲ ਤੁਹਾਡੇ ਵੱਡੇ ਅਤੇ ਛੋਟੇ ਬਿਜ਼ਨਸ ਦੀ ਲੋੜ ਮੁਤਾਬਕ ਕਈ ਵਧੀਆ ਪਰੋਡੱਕਟ ਸੂਟ ਉਪਲੱਬਧ ਕਰਵਾਉਦਾ ਹੈ।"
+
+#: slideshow.xml:199(para)
+msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit www.novell.com/linux"
+msgstr ""
+"ਨੋਵਲ (Novell) ਵਲੋਂ ਇੰਟਰਪਰਾਈਜ਼ ਲਿਨਕਸ ਪਰੋਡੱਕਟ ਵਿੱਚ SUSE ਲਿਨਕਸ ਇੰਟਰਪਰਾਈਜ਼ ਸਰਵਰ (SLES), SUSE ਲਿਨਕਸ "
+"ਇੰਟਰਪਰਾਈਜ਼ ਡੈਸਕਟਾਪ (SLED) ਅਤੇ ਨੋਵਲ ਓਪਨ ਇੰਟਰਪਾਈਜ਼ ਸਰਵਰ (NOES) ਸ਼ਾਮਲ ਹਨ। ਸਾਡੇ ਇੰਟਰਪਰਾਈਜ਼ ਪਰੋਡੱਕਟ "
+"ਨੂੰ ਸੱਤ ਸਾਲ ਦੀ ਮੇਨਟੇਨਸ ਗਾਰੰਟੀ ਅਟੇ ਚੋਣਵੇਂ ਸਪੋਰਟ ਪਰੋਗਰਾਮਾਂ ਨਾਲ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ।ਨੋਵਲ ਤੋਂ ਇੰਟਰਪਰਾਈਜ਼ ਲਿਨਕਸ ਬਾਰੇ ਜਾਣਕਾਰੀ "
+"ਲਈ www.novell.com/linux ਵੇਖੋ।"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: slideshow.xml:0(None)
+msgid "translator-credits"
+msgstr "ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮ <aalam@users.sf.net> 2007"
+

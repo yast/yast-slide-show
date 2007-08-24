@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.uk\n"
 "POT-Creation-Date: 2007-08-10 09:26+0200\n"
-"PO-Revision-Date: 2007-08-11 23:13-0700\n"
+"PO-Revision-Date: 2007-08-22 19:42-0700\n"
 "Last-Translator: Ivan Petrouchtchak <ivanpetrouchtchak@yahoo.com>\n"
 "Language-Team: Ukrainian <translation@linux.org.ua>\n"
 "MIME-Version: 1.0\n"
@@ -100,7 +100,7 @@ msgstr "Портативні комп'ютери"
 
 #: slideshow.xml:120(para)
 msgid "The openSUSE distribution includes the most advanced mobility features. Switch effortlessly between wireless and wired networks using NetworkManager from openSUSE. Connect with mobile devices like mobile phones and PDAs via Bluetooth or use infrared ports to synchronize your data. The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
-msgstr ""
+msgstr "Дистрибутив openSUSE містить найдосконалішу функціональність мобільності. Без лишних зусиль в openSUSE можна перемикати між без дротовою і дротовою мережами за допомогою програми NetworkManager. Можете з'єднуватись з мобільними пристроями, такими як мобільні телефони і кишенькові ПК, через Bluetooth або можете вживати інфрачервоні порти для синхронізації даних. Новітні досягнення openSUSE в керуванні живленням збільшують вашу мобільність і дають можливість взяти свою роботу з собою, куди б ви не йшли."
 
 #: slideshow.xml:132(title)
 msgid "Keep Your System Secure and Up to Date"
@@ -120,11 +120,11 @@ msgstr "Технологія віртуалізації та засоби роз
 
 #: slideshow.xml:155(para)
 msgid "Included with openSUSE is the Xen hypervisor—the highest performing virtualization software available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr ""
+msgstr "openSUSE включає в себе Xen hypervisor — ПЗ віртуалізації з найкращою швидкодією. Крім цього, openSUSE надає засоби для спільного доступу до файлів в мережі, друку (Samba) і веб-гостингу (Apache). Для розробки програм, openSUSE має повний набір середовищ виконання, а ще містить засоби розробки програмного забезпечення, такі як KDevelop, Eclipse і Mono."
 
 #: slideshow.xml:162(para)
 msgid "You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
-msgstr ""
+msgstr "За допомогою openSUSE можна скласти будь-який пакунок. Дуже просто створювати і поширювати нові пакунки для багатьох дистрибутивів Linux за допомогою унікальної і потужної служби складання openSUSE. Приєднуйтесь до openSUSE.org, щоб працювати разом."
 
 #: slideshow.xml:170(title)
 msgid "Learn More"
@@ -132,7 +132,7 @@ msgstr "Дізнайтесь більше"
 
 #: slideshow.xml:171(para)
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
-msgstr ""
+msgstr "Дистрибутив openSUSE має багато документації щодо питань, які стосуються openSUSE, а також і загальних питань щодо Linux. Центр довідки доступний з головного меню . Інструкції в форматі PDF можна звантажити і надрукувати (http://en.opensuse.org/Documentation)."
 
 #: slideshow.xml:180(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under “Documentation”, discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
@@ -147,9 +147,8 @@ msgid "Novell is committed to your success with Linux. In addition to openSUSE, 
 msgstr "Novell має твердий намір забезпечити вам успіх з використанням Linux. Крім openSUSE, Novell випускає чудовий ряд продуктів, які призначені для задоволення потреб великих і малих підприємств."
 
 #: slideshow.xml:199(para)
-#, fuzzy
 msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit www.novell.com/linux"
-msgstr "Платформа SUSE Linux Enterprise складається з двох компонентів: сервера і стільниці. Продукти для компаній включають гарантію підтримки на сім років, можливу техпідтримку і унікальну програму індемніфікації Linux."
+msgstr "Бізнес-продукти Linux від Novell складаються з SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop і Novell Open Enterprise Server. Продукти для компаній включають гарантію підтримки на сім років і додаткові програми технічної підтримки. Більше інформації про Linux для бізнесу від Novell можна отримати відвідавши www.novell.com/linux"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: slideshow.xml:0(None)
