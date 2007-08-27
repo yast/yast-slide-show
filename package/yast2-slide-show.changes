@@ -1,4 +1,9 @@
 -------------------------------------------------------------------
+Mon Aug 27 16:09:43 CEST 2007 - ke@suse.de
+
+- Enable km again; update other translations.
+
+-------------------------------------------------------------------
 Sun Aug 26 19:30:24 CEST 2007 - ke@suse.de
 
 - Remove km temporarily because of encoding issues.
