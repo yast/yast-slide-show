@@ -1,4 +1,4 @@
-# translation of slideshow.fi.po to Suomi
+# translation of slideshow.po to Suomi
 # translation of slideshow.fi.po to
 # @TITLE@
 # Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
@@ -10,10 +10,10 @@
 # Mikko Piippo <piippo@cc.helsinki.fi>, 2007.
 msgid ""
 msgstr ""
-"Project-Id-Version: slideshow.fi\n"
+"Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-08-10 09:26+0200\n"
-"PO-Revision-Date: 2007-08-22 12:05+0300\n"
+"PO-Revision-Date: 2007-09-12 20:17+0300\n"
 "Last-Translator: Jyri Palokangas <jmp@opensuse.fi>\n"
 "Language-Team: Suomi <fi@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -51,7 +51,7 @@ msgstr "openSUSE monilla eri kielillä"
 
 #: slideshow.xml:46(para)
 msgid "The openSUSE distribution is available in many languages. Localization for openSUSE software occurs through the efforts of our hard-working, community-driven language teams. Thank you to all of our contributors. Find the localization portal at: http://i18n.opensuse.org/"
-msgstr "OpenSUSE on saatavilla lukuisilla eri kielillä. Ohjelmistojen paikallistamisesta huolehtivat ahkerat vapaaehtoistyötä tekevät kielitiimit. Kiitokset kaikille avustajille! Löydät paikallistamisportaalin osoitteesta http://i18n.opensuse.org/"
+msgstr "openSUSE on saatavilla lukuisilla eri kielillä. Ohjelmistojen paikallistamisesta huolehtivat ahkerat vapaaehtoistyötä tekevät kielitiimit. Kiitokset kaikille avustajille! Löydät paikallistamisportaalin osoitteesta http://i18n.opensuse.org/"
 
 #: slideshow.xml:55(title)
 msgid "Connect and Communicate"
@@ -63,11 +63,11 @@ msgstr "openSUSE 10.3 tarjoaa kattavan valikoiman työkaluja internetin selailuu
 
 #: slideshow.xml:63(para)
 msgid "With the openSUSE distribution, you get the Mozilla Firefox Web browser—one of the best Web browsers on the market. Firefox boasts a complete set of browser features, including Java, Adobe Reader, RealPlayer and Macromedia Flash plug-ins, plus lightning-fast performance."
-msgstr "Firefox on yksi markkinoiden parhaista internet-selaimista. Se loistaa monipuolisilla ominaisuuksillaan, joita ovat Java, Adobe Reader, RealPlayer, Macromedian Flash-liitännäiset ja salamannopea suorituskyky."
+msgstr "Firefox on yksi markkinoiden parhaista Internet-selaimista. Se loistaa monipuolisilla ominaisuuksillaan, joita ovat Java, Adobe Reader, RealPlayer, Macromedian Flash-liitännäiset ja salamannopea suorituskyky."
 
 #: slideshow.xml:69(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact. These complete e-mail and contact managers help you organize and maintain all your e-mail accounts. The openSUSE distribution also comes with state-of-the-art Voice over IP (VoIP) solutions that let you communicate with people connected to the Internet all over the world."
-msgstr "Novell Evolution ja Kontact ovat kattavia välineitä kaikkien sähköpostiesi ja yhteystietojesi helppoon hallintaan. OpenSUSE tarjoaa myös kehittyneet Internet-pohjaiset VoIP-puhelinratkaisut, joiden avulla pidät yhteyttä tuttaviisi ympäri maailman."
+msgstr "Novell Evolution ja Kontact ovat kattavia välineitä kaikkien sähköpostiesi ja yhteystietojesi helppoon hallintaan. openSUSE tarjoaa myös kehittyneet Internet-pohjaiset VoIP-puhelinratkaisut, joiden avulla pidät yhteyttä tuttaviisi ympäri maailman."
 
 #: slideshow.xml:78(title)
 msgid "Create, View and Listen"
@@ -83,7 +83,7 @@ msgstr "Toimistosovellukset"
 
 #: slideshow.xml:91(para)
 msgid "The openSUSE 10.3 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer and database manager. It also reads and writes multiple file extensions so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr "OpenSUSE 10.2 sisältää uusimman version johtavasta toimisto-ohjelmistosta, OpenOffice.org:sta. OpenOffice.org 2.2 sisältää tekstinkäsittelyohjelman, taulukkolaskennan, verkkosivujen teko-ohjelman, esitysgrafiikka- ja tietokantaohjelmistot. OpenOffice.org on yhteensopiva lukuisien eri ohjelmien tiedostomuotojen kanssa. Se on erinomainen ratkaisu, kun haluat luoda raportteja, kirjeitä, budjetteja, esityksiä tai yksinkertaista grafiikkaa."
+msgstr "openSUSE 10.2 sisältää uusimman version johtavasta toimisto-ohjelmistosta, OpenOffice.org:sta. OpenOffice.org 2.2 sisältää tekstinkäsittelyohjelman, taulukkolaskennan, verkkosivujen teko-ohjelman, esitysgrafiikka- ja tietokantaohjelmistot. OpenOffice.org on yhteensopiva lukuisien eri ohjelmien tiedostomuotojen kanssa. Se on erinomainen ratkaisu, kun haluat luoda raportteja, kirjeitä, budjetteja, esityksiä tai yksinkertaista grafiikkaa."
 
 #: slideshow.xml:102(title)
 msgid "Graphics, Graphics, Graphics"
@@ -91,7 +91,7 @@ msgstr "Piirtämistä, kuvienmuokkausta ja diagrammeja"
 
 #: slideshow.xml:104(para)
 msgid "With the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use the powerful GIMP tool, a complete image retouching, composition and authoring utility."
-msgstr "OpenSUSE:n työkalujen avulla voi luoda tai lähes millaista grafiikkaa tahansa. Vaativaan kuvamanipulaatioon ja grafiikanluontiin sopii GIMP -- se on kattava väline kuvankäsittelyyn, kuvakoosteisiin ja muuhun kuvienhallintaan. GIMP:n ominaisuustarjonta tyydyttää varmasti vaativimmatkin taiteilijat."
+msgstr "openSUSE:n työkalujen avulla voi luoda tai lähes millaista grafiikkaa tahansa. Vaativaan kuvamanipulaatioon ja grafiikanluontiin sopii GIMP -- se on kattava väline kuvankäsittelyyn, kuvakoosteisiin ja muuhun kuvienhallintaan. GIMP:n ominaisuustarjonta tyydyttää varmasti vaativimmatkin taiteilijat."
 
 #: slideshow.xml:110(para)
 msgid "For vector graphics, openSUSE includes Inkscape. This versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
@@ -111,23 +111,23 @@ msgstr "Pidä järjestelmäsi turvallisena ja ajan tasalla"
 
 #: slideshow.xml:134(para)
 msgid "Help secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
-msgstr "Käyttöjärjestelmän oma palomuuri pitää tunkeilijat loitolla kaikista tiedoistasi. Se antaa järjestelmällesi läpipääsemättömän suojan, ja sen muokkaaminen tarpeisiisi vie vain hetken. OpenSUSE sisältää myös AppArmorin, tehokkaimman ja helppokäyttöisimmän Linuxin tietoturvaratkaisun, joka suojaa järjestelmääsi automaattisesti sekä ulkoisilta että sisäisiltä uhilta."
+msgstr "Käyttöjärjestelmän oma palomuuri pitää tunkeilijat loitolla kaikista tiedoistasi. Se antaa järjestelmällesi läpipääsemättömän suojan, ja sen muokkaaminen tarpeisiisi vie vain hetken. openSUSE sisältää myös AppArmorin, tehokkaimman ja helppokäyttöisimmän Linuxin tietoturvaratkaisun, joka suojaa järjestelmääsi automaattisesti sekä ulkoisilta että sisäisiltä uhilta."
 
 #: slideshow.xml:142(para)
 msgid "In addition to SUSE Firewall and AppArmor, openSUSE also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure. And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
-msgstr "OpenSUSE sisältää myös erityisen tietoturvapäivitysjärjestelmän. Heti kun Linuxin ytimeen tai johonkin muuhun ohjelmaan ilmestyy päivitys, me tarjoamme sen sinulle turvallisen päivityspalvelimen kautta. Varmistaaksesi, että saat aina uusimmat tietoturvapäivitykset, valitse asennuksen lopuksi, että järjestelmä suorittaa internet-päivityksen. Jatkossa päivitysjärjestelmä ilmoittaa sinulle kaikista saatavilla olevista tietoturvapäivityksistä, jotta voit asentaa ne silloin kuin sinulle parhaiten sopii."
+msgstr "openSUSE sisältää myös erityisen tietoturvapäivitysjärjestelmän. Heti kun Linuxin ytimeen tai johonkin muuhun ohjelmaan ilmestyy päivitys, me tarjoamme sen sinulle turvallisen päivityspalvelimen kautta. Varmistaaksesi, että saat aina uusimmat tietoturvapäivitykset, valitse asennuksen lopuksi, että järjestelmä suorittaa Internet-päivityksen. Jatkossa päivitysjärjestelmä ilmoittaa sinulle kaikista saatavilla olevista tietoturvapäivityksistä, jotta voit asentaa ne silloin kuin sinulle parhaiten sopii."
 
 #: slideshow.xml:153(title)
 msgid "Virtualization Technology and Application Development Tools"
-msgstr "Virtualisointi teknologia ja ohjelmistokehitystyökalut"
+msgstr "Virtuaalisointi teknologia ja ohjelmistokehitystyökalut"
 
 #: slideshow.xml:155(para)
 msgid "Included with openSUSE is the Xen hypervisor—the highest performing virtualization software available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "OpenSUSE sisältää työkalut tiedostonjakoon ja tulostukseen verkon kautta (Samba), Internet-sivuston ylläpitoon (Apache) ja virtualisointiin (Xen). Ohjelmistokehitystä varten openSUSE  tarjoaa joukon ajonaikaisia ympäristöjä sekä monipuolisia ohjelmistokehitystyökaluja, kuten KDevelop, Eclipse ja Mono. Mistä tahansa haaveiletkin, voit todennäköisesti tehdä sen openSUSE:lla. openSUSE.org-sivustolla voit liittyä tuhansien muiden openSUSE-käyttäjien joukkoon luodaksesi yhteistyössä uusia tehokkaita sovelluksia."
+msgstr "openSUSE sisältää työkalut tiedostonjakoon ja tulostukseen verkon kautta (Samba), Internet-sivuston ylläpitoon (Apache) ja virtuaalisointiin (Xen). Ohjelmistokehitystä varten openSUSE  tarjoaa joukon ajonaikaisia ympäristöjä sekä monipuolisia ohjelmistokehitystyökaluja, kuten KDevelop, Eclipse ja Mono. Mistä tahansa haaveiletkin, voit todennäköisesti tehdä sen openSUSE:lla. openSUSE.org-sivustolla voit liittyä tuhansien muiden openSUSE-käyttäjien joukkoon luodaksesi yhteistyössä uusia tehokkaita sovelluksia."
 
 #: slideshow.xml:162(para)
 msgid "You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
-msgstr "OpenSUSE auttaa sinua tekemään lähes mitä tahansa. OpenSUSE Build Service tekee helpoksi luoda ja levittää paketteja eri Linux-jakeluille. "
+msgstr "openSUSE auttaa sinua tekemään lähes mitä tahansa. openSUSE Build Service tekee helpoksi luoda ja levittää paketteja eri Linux-jakeluille. "
 
 #: slideshow.xml:170(title)
 msgid "Learn More"
@@ -135,7 +135,7 @@ msgstr "Opi lisää"
 
 #: slideshow.xml:171(para)
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
-msgstr "OpenSUSE tarjoaa sekä jakelua että Linuxia ylipäänsä koskevan kattavan dokumentaation. "
+msgstr "openSUSE tarjoaa sekä jakelua että Linuxia ylipäänsä koskevan kattavan dokumentaation. "
 
 #: slideshow.xml:180(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under “Documentation”, discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
