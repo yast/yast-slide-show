@@ -1,13 +1,13 @@
-# translation of slideshow.km.po to Khmer
+# translation of slideshow.po to Khmer
 # Poch Sokun <sokunpoch@khmeros.info>, 2006.
 # Auk Piseth <piseth_dv@khmeros.info>, 2006, 2007.
 # Khoem Sokhem <khoemsokhem@khmeros.info>, 2006, 2007.
 msgid ""
 msgstr ""
-"Project-Id-Version: slideshow.km\n"
+"Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2007-08-10 09:26+0200\n"
-"PO-Revision-Date: 2007-08-27 09:12+0700\n"
+"PO-Revision-Date: 2007-09-14 11:54+0700\n"
 "Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
 "Language-Team: Khmer <support@khmeros.info>\n"
 "MIME-Version: 1.0\n"
@@ -45,7 +45,7 @@ msgstr "អូផឹន​ស៊ូស៊ី​មាន​ច្រើន​ភ
 
 #: slideshow.xml:46(para)
 msgid "The openSUSE distribution is available in many languages. Localization for openSUSE software occurs through the efforts of our hard-working, community-driven language teams. Thank you to all of our contributors. Find the localization portal at: http://i18n.opensuse.org/"
-msgstr "ការ​ចេញ​ផ្សាយ​របស់​អូផឹន​ស៊ូស៊ី​មាន​ភាសា​ជា​ច្រើន​ ។ ការ​បកប្រែ​សម្រាប់​អូផឹន​ស៊ូស៊ី​កើតឡើង​តាមរយៈ​កិច្ចប្រឹងប្រែង​​របស់​ពួក​យើង ក្រុម​ភាសា​ដែល​បាន​ដឹកនាំ​ដោយ​សហគមន៍ ។ សូម​អរគុណ​ចំពោះ​ការ​ចូល​រួម​របស់​អ្នក ។ ស្វែងរក​ខ្លោងទ្វារ​បណ្ដាញ​នៃ​ការ​បកប្រែ​នៅ ៖ http://i18n.opensuse.org/"
+msgstr "ការ​ចេញ​ផ្សាយ​របស់​អូផឹន​ស៊ូស៊ី​មាន​ភាសា​ជា​ច្រើន​ ។ ការ​បកប្រែ​សម្រាប់​អូផឹន​ស៊ូស៊ី​កើតឡើង​តាមរយៈ​កិច្ចប្រឹងប្រែង​​របស់​ពួក​យើង ក្រុម​ភាសា​ដែល​បាន​ដឹកនាំ​ដោយ​សហគមន៍ ។ សូម​អរគុណ​ចំពោះ​ការ​ចូល​រួម​របស់​អ្នក ។ ស្វែងរក​ខ្លោងទ្វា​​បណ្ដាញ​នៃ​ការ​បកប្រែ​នៅ ៖ http://i18n.opensuse.org/"
 
 #: slideshow.xml:55(title)
 msgid "Connect and Communicate"
@@ -65,7 +65,7 @@ msgstr "ណូវែល Evolution និង​ Kontact ក៏​បាន​រ�
 
 #: slideshow.xml:78(title)
 msgid "Create, View and Listen"
-msgstr "បង្កើត មើល និង​ស្ដាំ"
+msgstr "បង្កើត មើល និង​ស្ដាប់"
 
 #: slideshow.xml:79(para)
 msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or mp3 player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
@@ -105,7 +105,7 @@ msgstr "ប្រព័ន្ធ​របស់​អ្នក​នឹង​ក
 
 #: slideshow.xml:134(para)
 msgid "Help secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
-msgstr "ជញ្ជាំង​ភ្លើង​ស៊ូស៊ី ជួយ​ការ​ពារ​សុវត្ថិភាព​ប្រព័ន្ធ និង​ទិន្នន័យ​របស់​អ្នក​ពី​​អ្នក​រំខាន​តាម​អ៊ីនធឺណិត ។ វា​ត្រូវបាន​ធ្វើ​ឲ្យ​សកម្ម​ជា​លំនាំដើម និង​ងាយស្រួល​ក្នុង​ការ​កំណត់​រចនា​សម្ព័ន្ធ ។ ប៉ុន្តែ​អ្នក​អាច​ធ្វើ​អ្វី​ជា​ច្រើន​ដើម្បី​ការពារ​ប្រព័ន្ធ​របស់​អ្នក​ជា​មួយ​អូផឹន​​ស៊ូស៊ី ពីព្រោះ​វា​ក៏​រួម​បញ្ចូល​នូវ AppArmor ដែល​មាន​ប្រសិទ្ធិភាព​បំផុត និង​ងាយស្រួល​ប្រើ​​ ា​ប្រព័ន្ធ​សុវត្ថិភាព​​កម្មវិធី​របស់​លីនុ​ ដែល​អាច​រកបាន​ក្នុង​ពេល​បច្ចុប្បន្ន ។AppArmor ការពារ​ប្រព័ន្ធ​ធ​ប្រតិបត្តិការ និង​កម្មវិធី​ពី​អ៊ីនធឺណិត និង​ខ្សែស្រឡាយ​កម្មវិធី​ខាង​ក្រៅ ។។"
+msgstr "ជញ្ជាំង​ភ្លើង​ស៊ូស៊ី ជួយ​ការ​ពារ​សុវត្ថិភាព​ប្រព័ន្ធ និង​ទិន្នន័យ​របស់​អ្នក​ពី​​អ្នក​រំខាន​តាម​អ៊ីនធឺណិត ។ វា​ត្រូវបាន​ធ្វើ​ឲ្យ​សកម្ម​ជា​លំនាំដើម និង​ងាយស្រួល​ក្នុង​ការ​កំណត់​រចនា​សម្ព័ន្ធ ។ ប៉ុន្តែ​អ្នក​អាច​ធ្វើ​អ្វី​ជា​ច្រើន​ដើម្បី​ការពារ​ប្រព័ន្ធ​របស់​អ្នក​ជា​មួយ​អូផឹន​​ស៊ូស៊ី ពីព្រោះ​វា​ក៏​រួម​បញ្ចូល​នូវ AppArmor ដែល​មាន​ប្រសិទ្ធិភាព​បំផុត និង​ងាយស្រួល​ប្រើ​​ប្រព័ន្ធ​សុវត្ថិភាព​​កម្មវិធី​របស់​លីនុ​ ដែល​អាច​រកបាន​ក្នុង​ពេល​បច្ចុប្បន្ន ។AppArmor ការពារ​ប្រព័ន្ធ​ធ​ប្រតិបត្តិការ និង​កម្មវិធី​ពី​អ៊ីនធឺណិត និង​ខ្សែស្រឡាយ​កម្មវិធី​ខាង​ក្រៅ ។។"
 
 #: slideshow.xml:142(para)
 msgid "In addition to SUSE Firewall and AppArmor, openSUSE also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure. And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
