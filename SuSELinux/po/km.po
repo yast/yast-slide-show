@@ -1,15 +1,15 @@
-# translation of slideshow.po to Khmer
+# translation of slideshow.km.po to Khmer
 # Poch Sokun <sokunpoch@khmeros.info>, 2006.
 # Auk Piseth <piseth_dv@khmeros.info>, 2006, 2007.
-# Khoem Sokhem <khoemsokhem@khmeros.info>, 2006, 2007.
+# Khoem Sokhem <khoemsokhem@khmeros.info>, 2006, 2007, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: slideshow\n"
+"Project-Id-Version: slideshow.km\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2007-09-14 11:54+0700\n"
+"PO-Revision-Date: 2008-04-22 11:01+0700\n"
 "Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"Language-Team: Khmer <en@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -24,18 +24,16 @@ msgid "Welcome to openSUSE™"
 msgstr "សូម​ស្វាគមន៍​ការ​មក​កាន់​អូផឹន​ស៊ូស៊ី"
 
 #: slideshow.xml:20(para)
-#, fuzzy
 msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.0."
-msgstr "ថាតើ​អ្នក​ប្រើ​កុំព្យូទ័រ​របស់​អ្នក​ដើម្បី​ទាក់ទង​ជា​មួយ​មិត្តភក្ដិ សាច់ញាតិ ឬ​សហការី ដើម្បី​​គ្រប់គ្រង និង​រីករាយ​ជា​មួយ​តន្ត្រី និង​រូបភាព រុករក​អ៊ីនធឺណិត​សម្រាប់​ព័ត៌មាន​ថ្មីៗ​បំផុត​ សរសេរ​របាយការណ៍ ឬ​គម្រោង​ថវិកា បង្ហោះ​តំបន់​បណ្ដាញ​ផ្ទាល់​ខ្លួន ឬ​កិច្ចការ​សាលា អ្ន​នឹង​រក​អ្វីៗ​ទាំងអស់​តាម​ដែលអ្នក​ត្រូវ​ការ​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ១០.៣ ។"
+msgstr "ថាតើ​អ្នក​ប្រើ​កុំព្យូទ័រ​របស់​អ្នក​ដើម្បី​ទាក់ទង​ជា​មួយ​មិត្តភក្ដិ សាច់ញាតិ ឬ​សហការី ដើម្បី​​គ្រប់គ្រង និង​រីករាយ​ជា​មួយ​តន្ត្រី និង​រូបភាព រុករក​អ៊ីនធឺណិត​សម្រាប់​ព័ត៌មាន​ថ្មីៗ​បំផុត​ សរសេរ​របាយការណ៍ ឬ​គម្រោង​ថវិកា បង្ហោះ​តំបន់​បណ្ដាញ​ផ្ទាល់​ខ្លួន ឬ​កិច្ចការ​សាលា អ្នក​នឹង​រក​អ្វីៗ​ទាំងអស់​តាម​ដែលអ្នក​ត្រូវ​ការ​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ១១.០ ។"
 
 #: slideshow.xml:30(title)
 msgid "openSUSE.org"
 msgstr "openSUSE.org"
 
 #: slideshow.xml:32(para)
-#, fuzzy
 msgid "openSUSE is a community project created and sponsored by Novell to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
-msgstr "បាន​បង្កើតដោយ​គម្រោង​អូផឹនស៊ូស៊ី និង​បាន​គាំទ្រ​ដោយ​ណូវែល អូផឹន​ស៊ូស៊ី​គឺ​ជា​កិច្ច​ប្រឹងប្រែង​របស់​សហគមន៍​ដើម្បី​ផ្ដល់​វេទិកា​គណនា​កម្មវិធី​ប្រភព​កូដចំហ​ដ៏​មាន​ប្រយោជន៍បំផុត​សម្រាប់​ពិភព​លោក ។ មនុស្ស​ម្នាក់ៗ​ត្រូវ​បាន​ពាក់ព័ន្ធ​នៅ​ក្នុង​ការ​ខ្ចប់​កម្មវិធី ការ​សាកល្បង​កម្មវិធី ការ​សរសេរ​ឯកសារ និង​បកប្រែ​សមាសភាគ​សម្រាប់​ការ​ចេញផ្សាយ​របស់​អូផឹន​ស៊ូស៊ី​នៅ​ ៖ www.opensuse.org"
+msgstr "អូផឹន​ស៊ូស៊ី​គឺ​ជា​គម្រោង​សហគមន៍​ដែល​បាន​បង្កើត និង​គាំទ្រ​ដោយ​ណូវែល ដើម្បី​ផ្ដល់​នូវ​វេទិកាកុំព្យូទ័រ​ងាយស្រួល​ប្រើ​របស់​ពិភពលោក ។ មនុស្ស​ជា​ច្រើន​ជុំវិញ​ពិភព​លោក​ចែកចាយ​គម្រោង​អូផឹន​ស៊ូស៊ី​ដោយ​ខ្ចប់​កម្មវិធី សាកល្បង​កម្មវិធី សរសេរ​ឯកសារ និង​បកប្រែ​សមាសភាគ​ជា​ច្រើន​ជា​ភាសា​ជា​ច្រើន ។ ការងារ​ទាំងអស់​នោះ​គឺ​អាច​ប្រើ​បាន​​ដោយ​ស៊េរី​នៅ​ក្នុង​កា​រចែកចាយ​លីនុច​អូផឹន​ស៊ូស៊ី អាច​រក​បាន​នៅ​ក្នុង www.opensuse.org ។"
 
 #: slideshow.xml:40(para)
 msgid "Visit www.opensuse.org to learn how you can join the openSUSE community."
@@ -54,63 +52,56 @@ msgid "Connect and Communicate"
 msgstr "តភ្ជាប់ និង​ទំនាក់ទំនង"
 
 #: slideshow.xml:58(para)
-#, fuzzy
 msgid "You can communicate more effectively with openSUSE 11.0 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
-msgstr "អ្នក​អាច​ទាក់ទង​ឲ្យ​កាន់​តែ​មាន​ប្រសិទ្ធិភាព​ថែមទៀត​ជា​មួយ​អូផឹន​ស៊ូស៊ី ១០.៣ ពីព្រោះ​វា​ផ្ដល់​សំណុំ​ឧបករណ៍​ពេញលេញ​សម្រាប់​ការ​រុករក​បណ្ដាញ និង​ការ​គ្រប់គ្រង​អ៊ីមែល—វា​រួម​បញ្ចូល​បច្ចេកវិទ្យា​ទូរស័ព្ទ​ដែល​មាន​មូលដ្ឋាន​លើ​អ៊ីនធឺណិត ។"
+msgstr "អ្នក​អាច​ទាក់ទង​ឲ្យ​កាន់​តែ​មាន​ប្រសិទ្ធិភាព​ថែមទៀត​ជា​មួយ​អូផឹន​ស៊ូស៊ី ១១.០ ពីព្រោះ​វា​ផ្ដល់​សំណុំ​ឧបករណ៍​ពេញលេញ​សម្រាប់​ការ​រុករក​បណ្ដាញ និង​ការ​គ្រប់គ្រង​អ៊ីមែល—វា​រួម​បញ្ចូល​បច្ចេកវិទ្យា​ Voice over IP ដ៏​ថ្មី​បំផុត ។"
 
 #: slideshow.xml:64(para)
-#, fuzzy
 msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox 3.0 also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "ជា​មួយ​នឹង​ការ​ចេញ​ផ្សាយ​អូផឹនស៊ូស៊ី អ្នក​ទទួល​បានកម្មវិធី​រុករក Mozilla Firefox គឺ​ជា​កម្មវិធី​រុករក​បណ្ដាញ​ដ៏​ល្អបំផុត​នៅ​លើ​ទីផ្សារ ។ Firefox មានសំណុំ​​លក្ខណៈពិសេស​របស់​កម្មវិធី​រុករក រួមមានកម្មវិធី​ជំនួយ Java, Adobe Reader, RealPlayer និង Macromedia Flash រួម​នឹង​សមត្ថភាព​ដ៏​ពិសេស ។"
+msgstr "អូផឹនស៊ូស៊ី​រួ​ម​មាន Mozilla Firefox គឺ​ជា​កម្មវិធី​រុករក​បណ្ដាញ​មួយ​ក្នុង​ចំណោម​កម្មវិធី​រុករក​បណ្ដាញ​ដ៏​ល្អបំផុត​ក្នុង​ពិភពលោក ។ Firefox រួម​មាន​លក្ខណៈពិសេស​ទាំងអស់ ដែល​អ្នក​ត្រូវការ​ដើម្បី​រីករាយ​ជា​មួយ​បណ្ដាញ រួម​មាន Java, Adobe Acrobat Reader, RealPlayer និង​កម្មវិធី​ជំនួយ Macromedia Flash ។ Firefox 3.0 ក៏​អាច​លើកស្ទួយ​ការ​អនុវត្ត​យ៉ាង​លឿន និង​កា​ររីកចម្រើន​ជា​ច្រើន​ជា​ច្រើន​បាន​រចនា​ដើម្បីការពារភាគ​ឯកជន​របស់អ្នក និងការពារ​ការវាយប្រហារ phishing ។"
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
-msgstr ""
+msgstr "ក៏​បាន​រួម​បញ្ចូលជា​មួយអូផឹនស៊ូស៊ីផងដែរ​គឺ​ Novell Evolution និង Kontact ជា​កម្មវិធី​​គ្រប់គ្រង​ទំនាក់ទំនង និង​អ៊ីមែល ។ ចំពោះ​ការ​ផ្ញើសារ​បន្ទាន់ លក្ខណៈពិសេស​របស់​អូផឹន​ស៊ូស៊ី​ងាយ​ស្រួល​ប្រើ​ម៉ាស៊ីន​ភ្ញៀវ IM ដែល​គាំទ្រ​គ្រប់​ពិធីការ​ដែល​ពេញនិយម​ទាំងអស់ ៖ AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise និង​អ្វីៗ​ផ្សេងៗ​ជា​ច្រើន ។"
 
 #: slideshow.xml:80(title)
 msgid "Create, View and Listen"
 msgstr "បង្កើត មើល និង​ស្ដាប់"
 
 #: slideshow.xml:81(para)
-#, fuzzy
 msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
-msgstr "ទាញ​យក​បទចម្រៀង​ពី​អ៊ីនធឺ​ណិត ។ ច្រៀក ស៊ីឌី ដើម្បី​បង្កើត​បណ្ណាល័យ​តន្ត្រី​ផ្ទាល់​ខ្លួន​​របស់​អ្នក ។ ស្ដាប់​បញ្ជី​ចាក់​របស់អ្នក​នៅលើ​បណ្ដាញ ។ ដុត ស៊ីឌី ឬ​ឌីវីឌី ។ ក៏អាច​ចម្លង​ឯកសារ​របស់​អ្នក​ទៅកាន់ iPod ឬ​កម្មវិធី​ចាក់ mp3 យក​តន្ត្រី​របស់​អ្នក​ពី​កន្លែង​ណាមួយ ។ គ្រប់​គ្រង និង​កែ​សម្រួល​រូបភាពឌីជីថលដោយ​ប្រើ​កម្មវិធី​និពន្ធ​ក្រាហ្វិក​ដ៏មាន​អនុភាព ។ វា​គឺ​ងាយ​ស្រួល​ជាមួយ​នឹង​អូផឹន​ស៊ូស៊ី ។"
+msgstr "ទាញ​យក​បទចម្រៀង​ពី​អ៊ីនធឺ​ណិត ។ ច្រៀក ស៊ីឌី ដើម្បី​បង្កើត​បណ្ណាល័យ​តន្ត្រី​ផ្ទាល់​ខ្លួន​​របស់​អ្នក ។ ស្ដាប់​បញ្ជី​ចាក់​របស់អ្នក​នៅលើ​បណ្ដាញ ។ ដុត ស៊ីឌី ឬ​ឌីវីឌី ។ ​ចម្លង​ឯកសារ​របស់​អ្នក​ទៅកាន់ iPod ឬ​កម្មវិធី​ចាក់ និង​យក​តន្ត្រី​របស់​អ្នក​ពី​កន្លែង​ណាមួយ​ ។ គ្រប់​គ្រង និង​កែ​សម្រួល​រូបភាពឌីជីថលដោយ​ប្រើ​កម្មវិធី​និពន្ធ​ក្រាហ្វិក​ដ៏មាន​អនុភាព ។ វា​ពិត​ជា​​ងាយ​ស្រួល​ជាមួយ​នឹង​អូផឹន​ស៊ូស៊ី ។"
 
 #: slideshow.xml:91(title)
 msgid "Documents, Spreadsheets and More"
 msgstr "ឯកសារ សៀវភៅ​បញ្ជី និង​អ្វីៗ​ជា​ច្រើន​ទៀត"
 
 #: slideshow.xml:93(para)
-#, fuzzy
 msgid "The openSUSE 11.0 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr "គម្រោង​អូផឹន​​ស៊ូស៊ី ១០.៣ ភ្ជាប់មក​ជាមួយ​នូវ​កំណែ​ចុងក្រោយ​បំផុត​របស់​ឈុកម្មវិធី​របស់​​លីនុច​ដែល​នាំមុខ​គេ​គឺ OpenOffice.org ។ Openoffice.org រួមមាន​កម្មវិធី​វាយ​អត្ថបទ កម្មវិធី​សៀវភៅ​បញ្ជី កម្មវិធី​និពន្ធ HTML កម្មវិធី​រចនា​ការ​បង្ហាញ និង​កម្មវិធី​គ្រប់គ្រង​​មូលដ្ឋាន​ទិន្នន័យ ។ វា​ក៏អាច​សរសេរ និង​អាន​​ផ្នែក​បន្ថែម​ឯកសារ​ជា​ច្រើន​ ដូច្នេះ​អ្នក​អាច​ផ្លាស់ទី​ទៅ​មុខ ទៅ​ក្រោយ​បាន​យ៉ាង​ងាយ​រវាង​អូផឹន​ស៊ូស៊ី និង​ឈុត​កម្មវិធី​ដែល​ពេញនិយម​ដែល​មិនមែន​ជា​របស់​លីនុច ។ OpenOffice.org គឺ​ជា​ជម្រើស​ដ៏​ល្អ​បំផុត​សម្រាប់​ការ​ធ្វើ​របាយការណ៍ កិច្ចការផ្សេងៗ គ្រោង​ថវិកា​ប្រចាំ​គ្រួសារ ក្រាហ្វិក​ធម្មតា និង​អាច​ធ្វើ​អ្វីៗ​បាន​មួយ​ចំនួន​ទៀត ។"
+msgstr "អូផឹន​​​ស៊ូស៊ី ១១.០ ភ្ជាប់មក​ជាមួយ​នូវ​កំណែ​ចុងក្រោយ​បំផុត​របស់​ឈុត​កម្មវិធី​របស់​​លីនុច​ដែល​នាំមុខ​គេ​គឺ OpenOffice.org ។ Openoffice.org រួមមាន​កម្មវិធី​វាយ​អត្ថបទ កម្មវិធី​សៀវភៅ​បញ្ជី កម្មវិធី​និពន្ធ HTML កម្មវិធី​រចនា​ការ​បង្ហាញ និង​កម្មវិធី​គ្រប់គ្រង​​មូលដ្ឋាន​ទិន្នន័យ ។ វា​ក៏អាច​សរសេរ និង​អាន​​ផ្នែក​បន្ថែម​ឯកសារ​ជា​ច្រើន​ ដូច្នេះ​អ្នក​អាច​ផ្លាស់ទី​ទៅ​មុខ ទៅ​ក្រោយ​បាន​យ៉ាង​ងាយ​រវាង​អូផឹន​ស៊ូស៊ី និង​ឈុត​កម្មវិធី​ដែល​ពេញនិយម​ដែល​មិនមែន​ជា​របស់​លីនុច ។ OpenOffice.org គឺ​ជា​ជម្រើស​ដ៏​ល្អ​បំផុត​សម្រាប់​ការ​ធ្វើ​របាយការណ៍ កិច្ចការផ្សេងៗ គ្រោង​ថវិកា​ប្រចាំ​គ្រួសារ ក្រាហ្វិក​ធម្មតា និង​អាច​ធ្វើ​អ្វីៗ​បាន​មួយ​ចំនួន​ទៀត ។"
 
 #: slideshow.xml:104(title)
 msgid "Graphics, Graphics, Graphics"
 msgstr "ក្រាហ្វិក ក្រាហ្វិក ក្រាហ្វិក"
 
 #: slideshow.xml:106(para)
-#, fuzzy
 msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
-msgstr "ជាមួយ​នឹង​ឧបករណ៍​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី អ្នក​អាច​បង្កើត ឬ​កែសម្រួល​ស្ទើរ​តែ​គ្រប់​ប្រភេទ​ក្រាហ្វិក​បាន ។ ចំពោះ​ការ​បង្កើត​ក្រាហ្វិក និង​ការ​លាយ​រូបភាព​កម្រិត​ខ្ពស់ គឺ​ប្រើ​កម្មវិធី​ដែល​មាន​អានុភាព ដូចជា GIMP ដែល​ជា​​កម្មវិធី​កែកុន តែង និង​បង្កើត​រូបភាព ។"
+msgstr "ដោយ​ប្រើ​​ឧបករណ៍​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី អ្នក​អាច​បង្កើត ឬ​កែសម្រួល​ស្ទើរ​តែ​គ្រប់​ប្រភេទ​ក្រាហ្វិក​បាន ។ ចំពោះ​ការ​បង្កើត​ក្រាហ្វិក និង​ការ​លាយ​រូបភាព​កម្រិត​ខ្ពស់ គឺ​ប្រើ​កម្មវិធី​ដែល​មាន​អានុភាព ដូចជា GIMP ដែល​ជា​​កម្មវិធី​កែកុន តែង និង​បង្កើត​រូបភាព ។"
 
 #: slideshow.xml:112(para)
-#, fuzzy
 msgid "For vector graphics, openSUSE includes Inkscape—a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
-msgstr "សម្រាប់​ក្រាហ្វិក​ដែល​មាន​លក្ខណៈ​វ៉ិចទ័រ អូផឹន​ស៊ូស៊ី​រួម​បញ្ចូល​នូវ​កម្មវិធី Inkscape ។ ដំណោះស្រាយក្រាហ្វិក​ដែល​អាច​ផ្លាស់ប្ដូរ​បាន ផ្ដល់​នូវ​ការ​គាំទ្រ​សម្រាប់​ស្រទាប់​ថ្លា តាមដាន​រូបភាព​តូចៗ ផ្លូវ​អត្ថបទ និង​អ្វីៗ​ជាច្រើន​ទៀត ។"
+msgstr "សម្រាប់​ក្រាហ្វិក​​ដែល​មាន​លក្ខណៈ​វ៉ិចទ័រ អូផឹន​ស៊ូស៊ី​រួម​បញ្ចូល​នូវ​កម្មវិធី Inkscape ។ ដំណោះស្រាយក្រាហ្វិក​ដែល​អាច​ផ្លាស់ប្ដូរ​បាន ផ្ដល់​នូវ​ការ​គាំទ្រ​សម្រាប់​ស្រទាប់​ថ្លា តាមដាន​រូបភាព​តូចៗ ផ្លូវ​អត្ថបទ និង​អ្វីៗ​ជាច្រើន​ទៀត ។"
 
 #: slideshow.xml:120(title)
 msgid "Computing On-the-Go"
 msgstr "ប្រើកុំព្យូទ័រ​គ្រប់​ទីកន្លែង និង​គ្រប់​ពេលវេលា"
 
 #: slideshow.xml:122(para)
-#, fuzzy
 msgid "openSUSE includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager from openSUSE. Connect with mobile devices like mobile phones and PDAs via Bluetooth, or use infrared ports to synchronize your data."
-msgstr "ការ​ចេញផ្សាយ​របស់​អូផឹន​ស៊ូស៊ី រួម​មាន​លក្ខណៈ​ពិសេស​ចល័ត​កម្រិត​ខ្ពស់ ។ ប្ដូរ​កិច្ចប្រឹងប្រែង​រវាង​បណ្ដាញ​ឥតខ្សែ និង​មាន​ខ្សែ​ដោយ​ប្រើ NetworkManager ដែល​បានមក​ពី​អូផឹន​ស៊ូស៊ី ។ តភ្ជាប់​ជា​មួយ​ឧបករណ៍​ចល័ត​ដូចជា ទូរស័ព្ទ​ចល័ត និង PDAs តាមរយៈ​ប៊្លូធូស ឬ​ប្រើ​ច្រក​អ៊ីនហ្វ្រារ៉េដ ដើម្បី​ធ្វើ​សមកាលកម្ម​ទិន្នន័យ​របស់​អ្នក ។ ការ​កែប្រែ​ដ៏​ថ្មី​បំផុត​នៅ​ក្នុង​ការ​គ្រប់គ្រង​ថាមពល​ដែល​បានមក​ពី​អូផឹន​ស៊ូស៊ី បង្កើន​ភាព​ចល័ត​របស់​អ្នក និង​ផ្ដល់​ឲ្យ​អ្នក​នូវ​សេរីភាព​ដើម្បី​យក​ការងារទៅជា​មួយ​អ្នក​ ។"
+msgstr "​អូផឹន​ស៊ូស៊ី រួម​មាន​លក្ខណៈ​ពិសេស​ចល័ត​កម្រិត​ខ្ពស់បំផុត ។ អ្នក​អាចប្ដូរ​កិច្ចប្រឹងប្រែង​រវាង​បណ្ដាញ​ឥតខ្សែ និង​មាន​ខ្សែ​ដោយ​ប្រើ NetworkManager ដែល​បានមក​ពី​អូផឹន​ស៊ូស៊ី ។ តភ្ជាប់​ជា​មួយ​ឧបករណ៍​ចល័ត​ដូចជា ទូរស័ព្ទ​ចល័ត និង PDAs តាមរយៈ​ប៊្លូធូស ឬ​ប្រើ​ច្រក​អ៊ីនហ្វ្រារ៉េដ ដើម្បី​ធ្វើ​សមកាលកម្ម​ទិន្នន័យ​របស់​អ្នក ។ ការ​កែប្រែ​ដ៏​ថ្មី​បំផុត​នៅ​ក្នុង​ការ​គ្រប់គ្រង​ថាមពល​ដែល​បានមក​ពី​អូផឹន​ស៊ូស៊ី បង្កើន​ភាព​ចល័ត​របស់​អ្នក និង​ផ្ដល់​ឲ្យ​អ្នក​នូវ​សេរីភាព​ដើម្បី​យក​ការងារទៅជា​មួយ​អ្នក​ ។"
 
 #: slideshow.xml:128(para)
 msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
-msgstr ""
+msgstr "កា​រកែប្រែ​ថ្មី​បំផុត​នៅ​ក្នុង​ការ​គ្រប់គ្រង​ថាមពល​ពី​អូផឹន​ស៊ូស៊ី បង្កើន​នូវ​ភាព​ចល័ត​របស់​អ្នក និង​ផ្ដល់​ឲ្យ​អ្នក​នូវ​សេរីភាព ដើម្បី​យក​ការងារ​របស់​អ្នក​ទៅ​ទីណា​ដែល​អ្នកទៅ ។"
 
 #: slideshow.xml:136(title)
 msgid "Keep Your System Secure and Up to Date"
@@ -145,9 +136,8 @@ msgid "The openSUSE distribution provides extensive documentation for specific o
 msgstr "​ការ​ចេញ​​ផ្សាយ​នូវ​អូផឹន​​ស៊ូស៊ី​ផ្ដល់​នូវ​ឯកសារ​​ដ៏​ធំ​សម្រាប់​អូផឹន​​ស៊ូស៊ី​ជាក់លាក់​ ដូច​នឹង​សំណួរ​ដែល​ទាក់ទង​នឹង​លីនុច​ទូទៅ​ដែរ ។ មជ្ឈមណ្ឌល​ជំនួយ​គឺ​អាច​ចូល​ដំណើរការ​បាន​តាម​រយៈ​ម៉ឺនុយ​មេ ។ សៀវភៅ​ដៃ​ជា​ទ្រង់ទ្រាយ PDF ក៏​មាន​ផង​ដែរ ហើយ​អាច​ទាញ​យក និង​បោះ​ពុម្ព​បាន​ថែម​ទៀត​ផង (http://en.opensuse.org/Documentation) ។"
 
 #: slideshow.xml:184(para)
-#, fuzzy
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
-msgstr "ព័ត៌មាន​បន្ថែម​គឺ​អាច​រកបាន​នៅ​ក្នុង​វិគី​អូផឹន​ស៊ូស៊ី នៅ http://en.opensuse.org/ ។ នៅ​ក្នុង​ឯកសារ ស្វែងរក​តំណ​ទៅកាន់​ព័ត៌មាន​​មាន​ប្រយោជន៍​ខ្លីៗ​ទាំងអស់​ដែល​បាន​បង្កើត​ និង​ថែទាំ​ដោយ​អ្នកប្រើ​អូផឹន​ស៊ូស៊ី​ផ្សេងទៀត ។ ស្វែងរក​ផងដែរ​នូវ​តំណ​ទៅកាន់​ឯកសារ​ដែល​មាន​នៅលើ​តំបន់​បណ្ដាញ​របស់​ណូវែល ។ ចំពោះ​ជំនួយ​ដែល​មាន​បញ្ហា​ជាក់លាក់​ជាមួយ​នឹង​អូផឹន​ស៊ូស៊ី សូម​ពិនិត្យ​មើល​មូលដ្ឋាន​ទិន្នន័យ​ការ​គាំទ្រ ។"
+msgstr "ចំពោះ​ព័ត៌មាន​បន្ថែម​អាច​រក​បាននៅ​ក្នុង​វីគី​អូផឹន​ស៊ូស៊ី នៅ http://en.opensuse.org/ ។ ក្រោម \"ឯកសារ\" អ្នក​នឹង​រក​ឃើញ​នូវ​តំណ​ទៅ​កាន​ព័ត៌មាន​ដ៏មាន​ប្រយោជន៍ ដែល​បាន​បង្កើត និង​ថែទាំ​ដោយ​អ្នក​ប្រើ​អូផឹន​ស៊ូស៊ី​ផ្សេងៗ​ទៀត ។ អ្នក​ក៏​អាច​រក​តំណ​ទៅ​កាន់​ឯកសារ​ដែល​អាច​រក​បាន​នៅ​លើ​តំបន់​បណ្ដាញ​ណូវែល​ជា​ផ្លូវការ ។ ចំពោះ​ជំនួយ​អំពី​បញ្ហា​អូផឹន​ស៊ូស៊ី​ជាក់លាក់ ពិនិត្យ​មើល​ការ​គាំទ្រ​មូលដ្ឋាន​ទិន្នន័យ​នៅ www.opensuse.org"
 
 #: slideshow.xml:197(title)
 msgid "Novell and Linux"
@@ -166,5 +156,3 @@ msgstr "ផលិតផល​លីនុច​សហគ្រាស​​ដែ
 msgid "translator-credits"
 msgstr "ខឹម សុខែម <khoemsokhem@khmeros.info>, ប៉ុច សុគន្ធ <sokun_poch@khmeros.info>, អេង វណ្ណៈ <evannak@khmeros.info>, អោក ពិសិដ្ឋ <piseth_dv@khmeros.info>"
 
-#~ msgid "Also included with openSUSE are Novell Evolution and Kontact. These complete e-mail and contact managers help you organize and maintain all your e-mail accounts. The openSUSE distribution also comes with state-of-the-art Voice over IP (VoIP) solutions that let you communicate with people connected to the Internet all over the world."
-#~ msgstr "ណូវែល Evolution និង​ Kontact ក៏​បាន​រួម​បញ្ចូល​ជា​មួយ​អូផឹន​ស៊ូស៊ីដែរ ។ កម្មវិធី​គ្រប់គ្រង​ទំនាក់ទំនង និង​អ៊ីមែល​ពេញលេញ ដោយ​ជួយ​អ្នក​ឲ្យ​រៀបចំ​ និង​ថែទាំ​គណនី​អ៊ីមែល​ទាំង​អស់ ។ ការ​ចេញ​ផ្សាយ​របស់​អូផឹន​ស៊ូស៊ី​ក៏​រួមមាន​ដំណោះស្រាយ Voice over IP (VoIP) ដែល​អនុញ្ញាត​ឲ្យ​អ្នក​មាន​ទំនាក់ទំនង​ជា​មួយ​អ៊ីនធឺណិត​ទូទាំង​ពិភព​លោក ។"

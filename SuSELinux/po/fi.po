@@ -1,4 +1,4 @@
-# translation of slideshow.po to Suomi
+# translation of slideshow.po to
 # translation of slideshow.fi.po to
 # @TITLE@
 # Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
@@ -8,18 +8,21 @@
 # Jyri Palokangas <jmp@netti.fi>, 2006.
 # Jyri Palokangas <jmp@opensuse.fi>, 2007.
 # Mikko Piippo <piippo@cc.helsinki.fi>, 2007.
+# Mikko Piippo <piippo@opensuse.fi>, 2008.
+# Mikko Piippo <mikko.piippo@opensuse.fi>, 2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2007-09-12 20:17+0300\n"
-"Last-Translator: Jyri Palokangas <jmp@opensuse.fi>\n"
-"Language-Team: Suomi <fi@li.org>\n"
+"PO-Revision-Date: 2008-04-18 22:12+0300\n"
+"Last-Translator: Mikko Piippo <mikko.piippo@opensuse.fi>\n"
+"Language-Team:  <fi@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
+"Plural-Forms:  nplurals=2; plural=n != 1;\n"
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
@@ -30,18 +33,16 @@ msgid "Welcome to openSUSE™"
 msgstr "Tervetuloa: openSUSE™"
 
 #: slideshow.xml:20(para)
-#, fuzzy
 msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.0."
-msgstr "Käytätpä tietokonetta viestintään ystävien, sukulaisten tai työtovereiden kanssa, kuvien ja musiikin hallintaan, uusimman tiedon tai uutisten etsintään Internetistä, raporttien ja budjettien laatimiseen tai oman Internet-sivuston tai lähiverkon ylläpitoon, löydät kaiken tarvittavan openSUSE 10.3:sta."
+msgstr "Käytätpä tietokonetta viestintään ystävien, sukulaisten tai työtovereiden kanssa, kuvien ja musiikin hallintaan, uusimman tiedon tai uutisten etsintään Internetistä, raporttien ja budjettien laatimiseen tai oman Internet-sivuston tai lähiverkon ylläpitoon, löydät kaiken tarvittavan openSUSE 11.0:sta."
 
 #: slideshow.xml:30(title)
 msgid "openSUSE.org"
 msgstr "openSUSE.org"
 
 #: slideshow.xml:32(para)
-#, fuzzy
 msgid "openSUSE is a community project created and sponsored by Novell to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
-msgstr "Tämä julkaisu on osa Novellin tukemaa openSUSE-projektia. Se on yhteistyöprojekti, jonka pyrkimyksenä on luoda maailman käytettävin vapaan lähdekoodin käyttöjärjestelmä, openSUSE. Projekti tarjoaa kotisivuillaan (http://opensuse.org) tietoa SUSEn kehitysprosessista, yksinkertaisia osallistumismalleja, laajat kehitystyökalut sekä vapaan pääsyn varhaisiin testiversioihin ja virallisiin julkaisuihin. "
+msgstr "Tämä julkaisu on osa Novellin tukemaa openSUSE-projektia. Se on yhteistyöprojekti, jonka pyrkimyksenä on luoda maailman käyttäjäystävällisin vapaan lähdekoodin käyttöjärjestelmä, openSUSE. Projekti tarjoaa kotisivuillaan (http://opensuse.org) tietoa SUSEn kehitysprosessista, yksinkertaisia osallistumismalleja, laajat kehitystyökalut sekä vapaan pääsyn varhaisiin testiversioihin ja virallisiin julkaisuihin. "
 
 #: slideshow.xml:40(para)
 msgid "Visit www.opensuse.org to learn how you can join the openSUSE community."
@@ -60,63 +61,56 @@ msgid "Connect and Communicate"
 msgstr "Yhdistä ja pidä yhteyttä"
 
 #: slideshow.xml:58(para)
-#, fuzzy
 msgid "You can communicate more effectively with openSUSE 11.0 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
-msgstr "openSUSE 10.3 tarjoaa kattavan valikoiman työkaluja internetin selailuun, sähköpostin hallintaan ja jopa Internet-puheluihin."
+msgstr "openSUSE 11.0 tarjoaa kattavan valikoiman työkaluja Internetin selailuun, sähköpostin hallintaan ja jopa Internet-puheluihin."
 
 #: slideshow.xml:64(para)
-#, fuzzy
 msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox 3.0 also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "Firefox on yksi markkinoiden parhaista Internet-selaimista. Se loistaa monipuolisilla ominaisuuksillaan, joita ovat Java, Adobe Reader, RealPlayer, Macromedian Flash-liitännäiset ja salamannopea suorituskyky."
+msgstr "Firefox on yksi markkinoiden parhaista Internet-selaimista. Se loistaa monipuolisilla ominaisuuksillaan, joita ovat Java-, Adobe Acrobat Reader -, RealPlayer- ja  Macromedian Flash -liitännäiset. Firefox 3.0 on salamannopea ja lisäksi sitä on parannettu monin tavoin, jotka suojaavat yksityisyyttäsi ja estävät phishing-hyökkäyksiä."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
-msgstr ""
+msgstr "Myös Novell Evolution ja Kontact tulevat openSUSEn mukana. Ne ovat täysiverisiä sähköposti- ja yhteystieto-ohjelmistoja. Pikaviestintää varten käytettävissäsi on useita eri asiakasohjelmia, jotka tukevat kaikkia suosittuja yhteyskäytäntöjä."
 
 #: slideshow.xml:80(title)
 msgid "Create, View and Listen"
 msgstr "Luo, katsele ja kuuntele"
 
 #: slideshow.xml:81(para)
-#, fuzzy
 msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
-msgstr "Lataa musiikkia Internetistä, kaappaa lempikappaleesi CD-levyltä ja luo oma henkilökohtainen musiikkikirjastosi. Kuuntele Internet-radiota, polta musiikkisi CD:lle tai DVD:lle tai kopioi tiedostosi kannettavalle musiikkisoittimelle. Hallitse ja muokkaa valokuviasi tehokkailla kuvankäsittelyohjelmilla tai luo täysin omia taideteoksia. Tämä kaikki on yksinkertaista ja helppoa openSUSE:lla!"
+msgstr "Lataa musiikkia Internetistä, kaappaa lempikappaleesi CD-levyltä ja luo oma henkilökohtainen musiikkikirjastosi. Kuuntele Internet-radiota, polta musiikkisi CD:lle tai DVD:lle tai kopioi tiedostosi kannettavalle musiikkisoittimelle. Hallitse ja muokkaa valokuviasi tehokkailla kuvankäsittelyohjelmilla. Tämä kaikki on helppoa openSUSE:lla."
 
 #: slideshow.xml:91(title)
 msgid "Documents, Spreadsheets and More"
 msgstr "Toimistosovellukset"
 
 #: slideshow.xml:93(para)
-#, fuzzy
 msgid "The openSUSE 11.0 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr "openSUSE 10.2 sisältää uusimman version johtavasta toimisto-ohjelmistosta, OpenOffice.org:sta. OpenOffice.org 2.2 sisältää tekstinkäsittelyohjelman, taulukkolaskennan, verkkosivujen teko-ohjelman, esitysgrafiikka- ja tietokantaohjelmistot. OpenOffice.org on yhteensopiva lukuisien eri ohjelmien tiedostomuotojen kanssa. Se on erinomainen ratkaisu, kun haluat luoda raportteja, kirjeitä, budjetteja, esityksiä tai yksinkertaista grafiikkaa."
+msgstr "openSUSE 11.0 sisältää uusimman version johtavasta toimisto-ohjelmistosta, OpenOffice.org:sta. OpenOffice.org sisältää tekstinkäsittelyohjelman, taulukkolaskennan, verkkosivujen teko-ohjelman, esitysgrafiikka- ja tietokantaohjelmistot. OpenOffice.org on yhteensopiva lukuisien eri ohjelmien tiedostomuotojen kanssa. Se on erinomainen ratkaisu, kun haluat luoda raportteja, kirjeitä, budjetteja, esityksiä tai yksinkertaista grafiikkaa."
 
 #: slideshow.xml:104(title)
 msgid "Graphics, Graphics, Graphics"
-msgstr "Piirtämistä, kuvienmuokkausta ja diagrammeja"
+msgstr "Grafiikkaa, grafiikkaa, grafiikkaa"
 
 #: slideshow.xml:106(para)
-#, fuzzy
 msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
-msgstr "openSUSE:n työkalujen avulla voi luoda tai lähes millaista grafiikkaa tahansa. Vaativaan kuvamanipulaatioon ja grafiikanluontiin sopii GIMP -- se on kattava väline kuvankäsittelyyn, kuvakoosteisiin ja muuhun kuvienhallintaan. GIMP:n ominaisuustarjonta tyydyttää varmasti vaativimmatkin taiteilijat."
+msgstr "Käyttämällä openSUSE:n työkaluja voi lähes millaista grafiikkaa tahansa. Vaativaan kuvamanipulaatioon ja grafiikanluontiin sopii GIMP -- se on kattava väline kuvankäsittelyyn."
 
 #: slideshow.xml:112(para)
-#, fuzzy
 msgid "For vector graphics, openSUSE includes Inkscape—a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
-msgstr "Vektorigrafiikkaa varten kannattaa kokeilla Inkscapea, monipuolista piirto-ohjelmaa, johon kuuluu läpinäkyvien tasojen, bitmap-diagrammien, tekstiratojen ynnä muiden kehittyneiden ominaisuuksien tuki."
+msgstr "Vektorigrafiikkaa varten kannattaa kokeilla Inkscape-ohjelmaa. Se on monipuolinen piirto-ohjelma, joka tukee läpinäkyviä tasoja, tekstipolkuja ja monia muita ominaisuuksia."
 
 #: slideshow.xml:120(title)
 msgid "Computing On-the-Go"
 msgstr "Työskentele tien päällä"
 
 #: slideshow.xml:122(para)
-#, fuzzy
 msgid "openSUSE includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager from openSUSE. Connect with mobile devices like mobile phones and PDAs via Bluetooth, or use infrared ports to synchronize your data."
-msgstr "Jakelu sisältää pitkälle kehitetyt ominaisuudet liikkuvaa tietojenkäsittelyä varten. NetworkManager auttaa vaihtamaan vaivatta kiinteästä verkosta langattomaan verkkoon. Liitä tietokoneesi kannettaviin laitteisiin, esimerkiksi matkapuhelimiin tai PDA-laitteisiin käyttäen bluetooth- tai infrapunayhteyttä. Uusimmat virranhallinnan innovaatiot auttavat sinua tekemään työtäsi kaikissa olosuhteissa."
+msgstr "Jakelu sisältää pitkälle kehitetyt ominaisuudet liikkuvaa tietojenkäsittelyä varten. NetworkManager auttaa vaihtamaan vaivatta kiinteästä verkosta langattomaan verkkoon. Liitä tietokoneesi kannettaviin laitteisiin, esimerkiksi matkapuhelimiin tai PDA-laitteisiin käyttäen bluetooth- tai infrapunayhteyttä. "
 
 #: slideshow.xml:128(para)
 msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
-msgstr ""
+msgstr "Virranhallinnan uusimmat innovaatiot parantavat liikkuvuuttasia ja antavat sinulle mahdollisuuden ottaa työsi mukaan, minne sitten menetkään."
 
 #: slideshow.xml:136(title)
 msgid "Keep Your System Secure and Up to Date"
@@ -148,12 +142,11 @@ msgstr "Opi lisää"
 
 #: slideshow.xml:175(para)
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
-msgstr "openSUSE tarjoaa sekä jakelua että Linuxia ylipäänsä koskevan kattavan dokumentaation. "
+msgstr "openSUSE tarjoaa sekä jakelua että Linuxia ylipäänsä koskevan kattavan dokumentaation.  Ohjeet löytyvät myös PDF-muodossa. Voit ladata ja tulostaa ne (http://en.opensuse.org/Documentation)."
 
 #: slideshow.xml:184(para)
-#, fuzzy
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
-msgstr "Lisää dokumentaatiota on saatavilla openSUSE wiki:ssa osoitteessa http://en.opensuse.org/. Dokumentaatiosta löytyy linkkejä monenlaiseen hyödylliseen tietoon, jota tuottavat ja ylläpitävät muut openSUSE-käyttäjät. Löydät myös linkkejä Novellin verkkosivuilla tarjolla olevaan dokumentaatioon. openSUSE:en liittyviin ongelmiin voit saada apua www.opensuse.org:in Support Database:sta"
+msgstr "Lisätietoja on saatavilla openSUSE wikissä osoitteessa http://en.opensuse.org/. Dokumentaatiosta löytyy linkkejä monenlaiseen hyödylliseen tietoon, jota muut openSUSE-käyttäjät tuottavat ja ylläpitävät. Löydät myös linkkejä Novellin verkkosivuilla tarjolla olevaan dokumentaatioon. Jakeluun liittyvissä ongelmissa voit saada apua www.opensuse.org-sivuston Support Database -tietokannastasta"
 
 #: slideshow.xml:197(title)
 msgid "Novell and Linux"
@@ -170,7 +163,5 @@ msgstr "Novellin SUSE Linux Enterprise -tuoteperheeseen kuuluvat SUSE Linux Ente
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: slideshow.xml:0(None)
 msgid "translator-credits"
-msgstr "Jyri Palokangas <jmp@opensuse.fi>,<br>Janne Ahlskog,<br>Erkka Hakkarainen,<br>Tom Himanen,<br>Jani-Matti Hätinen,<br>Jouni Hätinen,<br>Asko Isonokari,<br>Joonas Niilola <juippis@roskakori.org>,<br>Mikko Piippo, <br>Ilkka Pirskanen <upylkkanen@novell.com>,<br>Ulla Pylkkänen,<br>Jami Saarikoski <jami.saarikoski@gmail.com>,<br>Janne Tanskanen,<br>Jarno Tukiainen,<br>Ilkka Tuohela,<br>Juho Valkila,"
+msgstr "Jyri Palokangas <jmp@opensuse.fi>,<br>Janne Ahlskog,<br>Erkka Hakkarainen,<br>Tom Himanen,<br>Jani-Matti Hätinen,<br>Jouni Hätinen,<br>Asko Isonokari,<br>Joonas Niilola <juippis@roskakori.org>,<br>Mikko Piippo <mikko.piippo@opensuse.fi>, <br>Ilkka Pirskanen <upylkkanen@novell.com>,<br>Ulla Pylkkänen,<br>Jami Saarikoski <jami.saarikoski@gmail.com>,<br>Janne Tanskanen,<br>Jarno Tukiainen,<br>Ilkka Tuohela,<br>Juho Valkila,"
 
-#~ msgid "Also included with openSUSE are Novell Evolution and Kontact. These complete e-mail and contact managers help you organize and maintain all your e-mail accounts. The openSUSE distribution also comes with state-of-the-art Voice over IP (VoIP) solutions that let you communicate with people connected to the Internet all over the world."
-#~ msgstr "Novell Evolution ja Kontact ovat kattavia välineitä kaikkien sähköpostiesi ja yhteystietojesi helppoon hallintaan. openSUSE tarjoaa myös kehittyneet Internet-pohjaiset VoIP-puhelinratkaisut, joiden avulla pidät yhteyttä tuttaviisi ympäri maailman."

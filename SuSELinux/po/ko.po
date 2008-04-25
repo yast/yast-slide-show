@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: slideshow.ko\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2008-03-21 11:09+0900\n"
+"PO-Revision-Date: 2008-04-21 00:02+0900\n"
 "Last-Translator: YunSeok Choi <xein@naver.com>\n"
 "Language-Team: Korean <xein@naver.com>\n"
 "MIME-Version: 1.0\n"
@@ -29,18 +29,16 @@ msgid "Welcome to openSUSE™"
 msgstr "오픈수세™에 오신것을 환영합니다."
 
 #: slideshow.xml:20(para)
-#, fuzzy
 msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.0."
-msgstr "컴퓨터로 친구, 친척, 동료와 대화하고, 사진과 음악을 관리하며, 인터넷으로 최신 뉴스와 정보를 받아보고, 보고서나 예산 작성,  개인 웹사이트 개설 그리고 홈 네트워크! 이 모든 것을 오픈수세에서 할 수 있습니다."
+msgstr "컴퓨터로 친구, 친척, 동료와 대화하고, 사진과 음악을 관리하며 즐기고, 인터넷으로 최신 뉴스와 정보를 받아보고, 보고서나 예산 작성,  개인 웹사이트 개설 그리고 홈 네트워크! 이 모든 것을 오픈수세 11 에서 할 수 있습니다."
 
 #: slideshow.xml:30(title)
 msgid "openSUSE.org"
 msgstr "openSUSE.org"
 
 #: slideshow.xml:32(para)
-#, fuzzy
 msgid "openSUSE is a community project created and sponsored by Novell to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
-msgstr "오픈수세는 커뮤니티의 노력으로 이루어지는 세계적인 오픈 소스 컴퓨팅 플렛폼입니다. 오픈수세 배포판의 설명서, 다국어화, 소프트웨어, 테스트 프로그램은 많은 사용자의 참여로 만들졌습니다. 오픈수세 프로젝트와 노벨(Novell)의 지원이 함께 합니다.오픈수세 사이트 : www.opensuse.org "
+msgstr "오픈수세는 커뮤니티의 참여로 이루어지는 세계적인 오픈 소스 컴퓨팅 플렛폼입니다. 오픈수세 배포판의 설명서, 다국어화, 소프트웨어, 테스트 프로그램은 많은 사용자의 참여로 만들졌습니다. 오픈수세 프로젝트와 노벨(Novell)의 지원이 함께 합니다. 오픈수세 사이트 : www.opensuse.org "
 
 #: slideshow.xml:40(para)
 msgid "Visit www.opensuse.org to learn how you can join the openSUSE community."
@@ -59,25 +57,22 @@ msgid "Connect and Communicate"
 msgstr "연결하고 대화하고"
 
 #: slideshow.xml:58(para)
-#, fuzzy
 msgid "You can communicate more effectively with openSUSE 11.0 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
-msgstr "오픈수세에서 보다 효과적으로 의사 소통을 하실 수 있습니다. 웹 브라우징 기능과 이메일 관리가 포함되어 있고, 인터넷 전화 같은 최신 기술을 지원 합니다."
+msgstr "오픈수세 11 에서 보다 효과적으로 의사 소통을 하실 수 있습니다. 웹 브라우징 기능과 이메일 관리가 포함되어 있고, 인터넷 전화(VoIP-Voice over IP) 같은 최신 기술을 지원 합니다."
 
 #: slideshow.xml:64(para)
-#, fuzzy
 msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox 3.0 also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "오픈수세 배포판에는 모질라 불여우 웹 브라우저(세계적으로 쓰이는 최고의 웹 브라우저입니다.) 풀버전과, 자바, 어도비 리더, 리얼플레이어, 매크로미디어 플래시 플러그인이 함께 포함되어 있습니다."
+msgstr "오픈수세 배포판에는 모질라 불여우 웹 브라우저(세계적으로 쓰이는 최고의 웹 브라우저) 풀버전과, 자바, 어도비 리더, 리얼플레이어, 매크로미디어 플래시 플러그인이 함께 포함되어 있습니다. 여기에 파이어폭스 3.0 은 가볍고 빠른 성능, 개인 정보 보호 및 피싱 공격으로부터 사용자를 보호하는 기능을 갖추고 있습니다."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
-msgstr ""
+msgstr "오픈수세에는 노벨 에볼루션(메일)과 콘탁(연락처 관리) 응용프로그램이 포함되어 있습니다. 인스턴트 메시지를 위해 초보자도 사용 할 수 있는 IM 클라이언트를 제공하고 있습니다. 지원하는 프로토콜은 AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, 네이트온 등이 있습니다."
 
 #: slideshow.xml:80(title)
 msgid "Create, View and Listen"
 msgstr "만들고, 보고, 듣고"
 
 #: slideshow.xml:81(para)
-#, fuzzy
 msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
 msgstr "인터넷에서 음악을 다운로드 합니다. CD에서 음악을 추출하여 자신만의 음악 라이브러리를 만듭니다. 온라인으로 자신의 재생목록을 듣습니다. CD와 DVD를 굽습니다. iPod나 mp3 플레이어로 자신의 음악파일을 복사합니다. 강력한 그래픽 관리자로 사진 및 이미지를 편집하거나 관리 합니다. 이 모든것이 오픈수세에서는 너무 쉽습니다."
 
@@ -86,36 +81,32 @@ msgid "Documents, Spreadsheets and More"
 msgstr "문서, 스프레드시트 그리고 여러가지"
 
 #: slideshow.xml:93(para)
-#, fuzzy
 msgid "The openSUSE 11.0 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr "오픈수세 배포판은 항상 오픈오피스의 최신버전을 유지하여 생산성을 향상 시킵니다. 여기에는 문서 작성기, 스프레드시트 응용 프로그램, HTML 편집기, 프리젠테이션 디자이너, 데이터베이스 관리자가 있습니다. 여러개의 확장자를 읽고 기록하는것을 쉽고 편리하게 할 수 있습니다. 오픈오피스는 보고서, 논문, 가계부, 간단한 그래픽 등 여러기능에 대한 최고의 선택이 될것입니다."
+msgstr "오픈수세 11 배포판은 항상 오픈오피스의 최신버전을 유지하여 생산성을 향상 시킵니다. 여기에는 문서 작성기, 스프레드시트 응용 프로그램, HTML 편집기, 프리젠테이션 디자이너, 데이터베이스 관리자가 있습니다. 여러개의 확장자를 읽고 기록하는것을 쉽고 편리하게 할 수 있습니다. 오픈오피스는 보고서, 논문, 가계부, 간단한 그래픽 등 여러기능에 대한 최고의 선택이 될것입니다."
 
 #: slideshow.xml:104(title)
 msgid "Graphics, Graphics, Graphics"
 msgstr "그래픽, 그래픽, 그래픽"
 
 #: slideshow.xml:106(para)
-#, fuzzy
 msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
 msgstr "오픈수세의 그래픽 도구와 함께 하세요. 전문적인 이미지 편집과 생성에 강력한 GIMP 프로그램이 들어 있습니다."
 
 #: slideshow.xml:112(para)
-#, fuzzy
 msgid "For vector graphics, openSUSE includes Inkscape—a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
-msgstr "백터 그래픽을 위해 잉크스케이프가 들어 있습니다. 투명층 지원, 비트맵 추적, 텍스트 경로 같은 다양한 그래픽 솔루션을 제공 합니다."
+msgstr "백터 그래픽을 위해 오픈수세에는 잉크스케이프가 들어 있습니다. 투명층 지원, 비트맵 추적, 텍스트 경로 같은 다양한 그래픽 솔루션을 제공 합니다."
 
 #: slideshow.xml:120(title)
 msgid "Computing On-the-Go"
 msgstr "켜고 쓰는 컴퓨터"
 
 #: slideshow.xml:122(para)
-#, fuzzy
 msgid "openSUSE includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager from openSUSE. Connect with mobile devices like mobile phones and PDAs via Bluetooth, or use infrared ports to synchronize your data."
-msgstr "오픈수세 배포판에는 고급 모바일 기능을 지원합니다. 무선과 유선 네트워크를 네트워크 관리자에서 쉽게 전환 시킬 수 있습니다.  휴대전화, PDA, 블루투스 같은 모바일 장치와 연결하여 데이터를 동기화시키거나 적외선 포트를 이용할 수 있습니다. 혁신적인 새로운 전원 관리는 사용자의 이동성 확장으로 이어져 어디서나 언제나 사용할 수 있도록 도와줍니다."
+msgstr "오픈수세 배포판은 고급 모바일 기능을 지원합니다. 무선과 유선 네트워크를 NetworkManager에서 쉽게 전환 시킬 수 있습니다.  휴대폰, PDA, 블루투스 같은 모바일 장치와 연결하여 데이터를 동기화시키거나 적외선 포트를 이용할 수 있습니다."
 
 #: slideshow.xml:128(para)
 msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
-msgstr ""
+msgstr "오픈수세에 있는 전원관리 기능으로 컴퓨터의 휴대성을 높이고, 가고싶은 곳 어디에라도 가지고 다니며 작업 할 수 있도록 도와줍니다."
 
 #: slideshow.xml:136(title)
 msgid "Keep Your System Secure and Up to Date"
@@ -150,9 +141,8 @@ msgid "The openSUSE distribution provides extensive documentation for specific o
 msgstr "오픈수세 배포판에 대한 설명서와 오픈수세에 관한 질문 혹은 일반 리눅스에 관한 질문을 제공합니다. 메인 메뉴의 도움말 센터에서 바로 검색할 수 있고, PDF나 웹사이트에서 다운로드하여 출력할 수 있습니다.(http://en.opensuse.org/Documentation)"
 
 #: slideshow.xml:184(para)
-#, fuzzy
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
-msgstr "더 많은 정보는 오픈수세 위키(http://en.opensuse.org/)에서 확인 할 수 있습니다. “Documentation” 에서는 오픈수세 사용자에 의해 제작된 유용한 정보가 있습니다. 또한 노벨(Novell) 웹사이트에서도 documentation 링크를 찾을 수 있습니다. www.opensuse.org의 Support Databse 에서는 특정 오픈수세 문제점에 관해 도움을 받을 수 있습니다."
+msgstr "더 많은 정보는 오픈수세 위키(http://en.opensuse.org/)에서 확인 할 수 있습니다. \"Documentation,\" 에서는 오픈수세 사용자에 의해 제작된 유용한 정보가 있습니다. 또한 노벨(Novell) 웹사이트에서도 documentation 링크를 찾을 수 있습니다. www.opensuse.org 의 Support Databse 에서는 특정 오픈수세 문제점에 관해 도움을 받을 수 있습니다."
 
 #: slideshow.xml:197(title)
 msgid "Novell and Linux"
@@ -173,3 +163,4 @@ msgstr "최윤석 <xein@naver.com>, 2008"
 
 #~ msgid "Also included with openSUSE are Novell Evolution and Kontact. These complete e-mail and contact managers help you organize and maintain all your e-mail accounts. The openSUSE distribution also comes with state-of-the-art Voice over IP (VoIP) solutions that let you communicate with people connected to the Internet all over the world."
 #~ msgstr "오픈수세에는 노벨(Novell) 에볼루션과 콘탁이 포함되어 있습니다. 이 이메일과 연락처 관리자는 귀하가 메일계정을 구성하고 유지 관리하는데 많은 도움을 줄 수 있습니다. 또한 오픈수세에 있는 Voice over IP(VoIP) 솔루션으로 인터넷에 연결되어 있는 모든 사람들과 대화가 가능합니다."
+
