@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.wa\n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2008-02-24 14:30+0100\n"
+"PO-Revision-Date: 2008-04-14 21:51+0200\n"
 "Last-Translator: Jean Cayron <jean.cayron@gmail.com>\n"
 "Language-Team: Walloon <linux-wa@walon.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: LoKalize 0.2\n"
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
@@ -26,18 +26,16 @@ msgid "Welcome to openSUSE™"
 msgstr "Bénvnowe so openSUSE™"
 
 #: slideshow.xml:20(para)
-#, fuzzy
 msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.0."
-msgstr "Cwè ki ç' ki vs fijhîz avou voste éndjole: houkî vos soçons, les djins d' vosse famile oudonbén les cénk ki vs boutez avou; arindjî ou rloukî vos fotos et vosse muzike, cachî avå l' daegntoele après l' dierinnès noveles ou informåcions; sicrire on rapoirt ou on budjet; ou co bén lodjî li waibe da vosse ou ene rantoele di måjhon, vos trovroz tot ç' ki vs avoz dandjî dins openSUSE 10.3"
+msgstr "Cwè ki ç' ki vs fijhîz avou voste éndjole: houkî vos soçons, les djins d' vosse famile oudonbén les cénk ki vs boutez avou; arindjî ou rloukî vos fotos et schoûter vosse muzike, cachî avå l' daegntoele après l' dierinnès noveles ou pol plaijhi; sicrire on rapoirt ou on budjet; ou co bén lodjî li waibe da vosse ou ene rantoele di måjhon, vos trovroz tot ç' ki vs avoz dandjî dins openSUSE 11.0."
 
 #: slideshow.xml:30(title)
 msgid "openSUSE.org"
 msgstr "openSUSE.org"
 
 #: slideshow.xml:32(para)
-#, fuzzy
 msgid "openSUSE is a community project created and sponsored by Novell to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
-msgstr "Ahivé pal pordjet openSUSE eyet sponsorijhî pa Novell, openSUSE est en efoirt comunåltaire po dner al daegne li pus ahessåve sistinme d' operance libe po copiutrece. Bråmint des djins fijhèt des pacaedjes avou les programes, sicrijhèt l' documintåcion eyet ratournèt les componints pol distibucion openSUSE eyet s' lodjoe waibe: www.opensuse.org"
+msgstr "openSUSE est on cominåltaire pordjet ahivé eyet sponsorijhî pa Novell po dner al Daegne li pus ahessåve sistinme d' operance libe po copiutrece. Bråmint des djins di totafwait l' daegne aidnut l' pordjet openSUSE e fijhant des pacaedjes di programes, e sicrijhant del documintåcion eyet e ratournant les componints dins bråmint des lingaedjes. On pout awè ttafwait cist ovraedje po rén el distribucion openSUSE Linux sol waibe www.opensuse.org."
 
 #: slideshow.xml:40(para)
 msgid "Visit www.opensuse.org to learn how you can join the openSUSE community."
@@ -56,63 +54,58 @@ msgid "Connect and Communicate"
 msgstr "Raloyîz vs et comunikez"
 
 #: slideshow.xml:58(para)
-#, fuzzy
 msgid "You can communicate more effectively with openSUSE 11.0 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
-msgstr "Vos ploz mia comuniker avou openSUSE 10.3 ca i dene on djeu complet d' usteyes pol betchtaedje waibe eyet l' manaedjmint des emiles — i gn a minme divins l' pus nouve tecnolodjeye d' telefone båzé sol daegntoele."
+msgstr "Vos ploz mia comuniker avou openSUSE 11.0 ca i dene on djeu complet d' usteyes pol betchtaedje waibe eyet l' manaedjmint des emiles — i gn a minme divins l' pus nouve tecnolodjeye d' telefone båzé sol daegntoele (VoIP)."
 
 #: slideshow.xml:64(para)
-#, fuzzy
 msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox 3.0 also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "Vos avoz dins l' distribucion openSUSE li betchteu waibe Mozilla Firefox — on des meyeus betchteu waibe sol martchî. Firefox a tos les usteyes po naivyî so l' etrernet come les tchôkes-divins Java, Adobe Reader, RealPlayer eyet Macromedia Flash mins est ossu mo roed."
+msgstr "Vos avoz dins l' distribucion openSUSE li betchteu waibe Mozilla Firefox, on des meyeus betchteu waibe del daegne. Firefox a tos les usteyes po naivyî so l' etrernet avou les tchôkes-divins Java, Adobe Acrobat Reader, RealPlayer eyet Macromedia Flash. Firefox 3.0, c' est ossu des performances al roedeu del loumire eyet beacôp des amidraedjes pinsés po waeranti vosse privaceye eyet espaitchî les atakes d' anzinaedje (phishing)."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
-msgstr ""
+msgstr "I gn a dvins openSUSE, eto, Novell Evolution eyet Kontact, des programes complets po ls emiles eyet l' manaedjmint do calpin d' adresses. Pol messaedjreye sol moumint, openSUSE a des cliyints MSM åjheys a eployî ki sopoitnut tos les protocoles populaires: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise et co ds ôtes!"
 
 #: slideshow.xml:80(title)
 msgid "Create, View and Listen"
 msgstr "Ahivez, voeyoz et schoûtez"
 
 #: slideshow.xml:81(para)
-#, fuzzy
 msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
-msgstr "Aberwetez del muzike del daegntoele. Eredjistrîz çou ki gn a so vos plakes lazer po ahiver l' livreye di muzike da vosse. Schoûtez vos djivêyes di léjhaedje so fyis. Broûlez vos plakes lazer CD ou DVD. Copyîz vos fitchîs viè on iPod oudonbén on djouweu mp3 eyet purdoz avou vos vosse muzike tolminme ewou ç' ki vs voloz. Manaedjîz eyet aspougnîz vos fotos limerikes avou des pouxhants aspougneus grafikes. Tot est åjhey avou openSUSE."
+msgstr "Aberwetez del muzike del daegntoele. Eredjistrîz çou ki gn a so vos plakes lazer po ahiver l' livreye di muzike da vosse. Schoûtez vos djivêyes di léjhaedje so fyis. Broûlez vos plakes lazer CD ou DVD. Copyîz vos fitchîs viè on iPod oudonbén on djouweu d' media eyet purdoz avou vos vosse muzike tolminme ewou ç' ki vs voroz. Manaedjîz eyet aspougnîz vos fotos limerikes avou des pouxhants aspougneus d' imådje. Tot ça est est åjhey avou openSUSE."
 
 #: slideshow.xml:91(title)
 msgid "Documents, Spreadsheets and More"
 msgstr "Documints, tåvleas et co pus"
 
 #: slideshow.xml:93(para)
-#, fuzzy
 msgid "The openSUSE 11.0 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr "Li distribucion openSUSE 10.3 arive complete avou l' dierinne modêye do mwaisse shûte di burotike da Linux, OpenOffice.org. I gn a dvins en aspougneu d' tecse, on programe po fé des tåvleas, en aspougneu HTML, en usteye po fé des prezintaedje eyet on manaedjeu d' båze di dnêyes. Ele lét eyet scrît ossu bråmint des cawetes di fitchî. Insi, vos ploz rivni en erî åjheymint eyet bodjî inte openSUSE eyet en ôte populaire programe di burotike nén Linix. OpenOffice.org est l' meyeus tchoes po fé des rapoirts, des årtikes, des budjet pol måjhon, des simpes grafikes et co pus."
+msgstr ""
+"Li distribucion openSUSE 11.0 arive complete avou l' dierinne modêye do mwaisse shûte di burotike da Linux, OpenOffice.org. I gn a dvins en aspougneu d' tecse, on programe po fé des tåvleas, en aspougneu HTML, en usteye po fé des prezintaedje eyet on manaedjeu d' båze di dnêyes. Ele lét eyet scrît ossu bråmint des cawetes di fitchî —come les cognes Microsoft Office— po k' vos poloxhe rivni en eri eyet passer åjheymint inte openSUSE eyet en ôte populaire programe di burotike nén Linux. OpenOffice.org est l' parfait tchoes po fé des rapoirts, des årtikes, des budjets pol "
+"måjhon, des simpes grafikes et co pus."
 
 #: slideshow.xml:104(title)
 msgid "Graphics, Graphics, Graphics"
 msgstr "Imådjes, imådjes, imådjes"
 
 #: slideshow.xml:106(para)
-#, fuzzy
 msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
-msgstr "Avou ls usteyes k' i gn a dvins openSUSE, vos ploz ahiver eyet aspougnî cåzu totes les sôres d' imådjes. Po l' sipepieus apougnaedje eyet l' ahivaedje d' imådjes , eployî l' pouxhante usteye GIMP, ene fele usteye po candjî des imådjes, fé des compôzucions eyet des edvintaedjes."
+msgstr "Avou ls usteyes k' i gn a dvins openSUSE, vos ploz ahiver eyet aspougnî cåzu totes les sôres d' imådjes. Po l' sipepieus apougnaedje eyet l' ahivaedje d' imådjes , eployîz l' GIMP, ene fele usteye po candjî des imådjes, fé des compôzucions eyet des edvintaedjes."
 
 #: slideshow.xml:112(para)
-#, fuzzy
 msgid "For vector graphics, openSUSE includes Inkscape—a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
-msgstr "Po les dessins pa royes, gn a dvins openSUSE Inkscape. Ci programe di dessinaedje ki sait tot fé dene li sopoirt po des transparinte coûtches, do metaedje e royes di bitmaps, des tchimins di tecses et co pus."
+msgstr "Po les dessins pa royes, gn a dvins openSUSE Inkscape— ene solucion di dessinaedje ki sait tot fé et ki dene li sopoirt po des transparinte coûtches, do metaedje e royes di bitmaps, des tchimins di tecses et co pus.                                         "
 
 #: slideshow.xml:120(title)
 msgid "Computing On-the-Go"
 msgstr "Copiutrece presse a-z eployî"
 
 #: slideshow.xml:122(para)
-#, fuzzy
 msgid "openSUSE includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager from openSUSE. Connect with mobile devices like mobile phones and PDAs via Bluetooth, or use infrared ports to synchronize your data."
-msgstr "Li distribucion openSUSE a les ahesses les pus nouves. Passez sins vs sicrandi inte les rantoeles sins ou avou fyis en eployant NetworkManager d' openSUSE. Raloyîz vs avou des axhlåves éndjins come des GSM oudonbén des PDAs pa Bluetooth oudonbén eployî les pôrts infrarodje po sincronijhî vos dnêyes. Les pus noûs advintaedjes d' openSUSE e manaedje d' enerdjeye fwait crexhe vos possibilités di bodjî eyet vs dene li liberté d' ovrer tolminme ewou ç' ki vs alanxhe."
+msgstr "openSUSE a les ahesses les pus nouves po -z les agayons axhlåves. Vos ploz passez sins vs sicrandi inte les rantoeles sins ou avou fyis en eployant NetworkManager d' openSUSE. Raloyîz vs avou des axhlåves éndjins come des GSM oudonbén des PDAs pa Bluetooth oudonbén eployîz les pôrts infrarodje po sincronijhî vos dnêyes."
 
 #: slideshow.xml:128(para)
 msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
-msgstr ""
+msgstr " Les pus noûs advintaedjes d' openSUSE e manaedje d' enerdjeye fwait crexhe vos possibilités d' axhler eyet vs dene li liberté d' ovrer tolminme ewou ç' ki vs aloxhe."
 
 #: slideshow.xml:136(title)
 msgid "Keep Your System Secure and Up to Date"
@@ -147,9 +140,8 @@ msgid "The openSUSE distribution provides extensive documentation for specific o
 msgstr "Li distribucion openSUSE a ene grande documintåcion po des kesse åd fwait d' openSUSE oudonbén åd fwait di Linux. Li Cinte d' aidance est accessibe pal mwaisse dressêye. Les lives d' aidance sont ossu disponibes e PDF, polèt esse aberwetés eyet imprimés (http://en.opensuse.org/Documentation)."
 
 #: slideshow.xml:184(para)
-#, fuzzy
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
-msgstr "Gn a co dpus d' informåcions sol wiki d' openSUSE so http://fr.opensuse.org/. Divins «Documentation», discovroz ds hårdeyes viè des ahessåvès informåcions ahivêyes eyet mintnowes pa ds ôtes uzeus d' openSUSE. Vos ploz ossu trover des loyéns viè l' documintåcion k' i gn a sol oficire waibe di Novell. Po d' l' aidance avou des problinmes sipecifikes a openSUSE, verifyîz sol Båze di dnêye Sopoirt so www.opensuse.org"
+msgstr "Gn a co dpus d' pondants et djondants sol wiki d' openSUSE so http://fr.opensuse.org/. Divins «Documentation», vos discovroz ds hårdêyes viè des ahessåvès informåcions ahivêyes eyet mintnowes pa ds ôtes uzeus d' openSUSE. Vos ploz ossu trover des loyéns viè l' documintåcion k' i gn a sol oficire waibe di Novell. Po d' l' aidance avou des problinmes sipecifikes a openSUSE, verifyîz sol Båze di dnêye Sopoirt so www.opensuse.org"
 
 #: slideshow.xml:197(title)
 msgid "Novell and Linux"
@@ -170,3 +162,4 @@ msgstr "Djan Cayron <jean.cayron@gmail.com>, 2007, 2008."
 
 #~ msgid "Also included with openSUSE are Novell Evolution and Kontact. These complete e-mail and contact managers help you organize and maintain all your e-mail accounts. The openSUSE distribution also comes with state-of-the-art Voice over IP (VoIP) solutions that let you communicate with people connected to the Internet all over the world."
 #~ msgstr "Vos avoz ossu dvins openSUSE Evolucion di Novelle eyet Kontact. Ces complets programes d' emilaedje eyet d' manaedjmint di vosse calpin d' adresse vos aidront a assonrer eyet waitî a tos vos contes emile. Li distribucion openSUSE avou l' meyeuse voye po fé del Vwès dzeu IP (Voice over IP - VoIP) ki vs permete di comuniker avou des djins raloyîs sol daegntoele totavå l' daegn."
+

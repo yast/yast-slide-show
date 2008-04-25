@@ -1,18 +1,20 @@
-# translation of slideshow.po to Portuguese
-# Antonio Cardoso Martins <digiplan.pt@gmail.com>, 2006, 2007.
+# translation of slideshow.pt.po to Portuguese
+# Antonio Cardoso Martins <digiplan.pt@gmail.com>, 2006, 2007, 2008.
 # Carlos Gonçalves <cgoncalves@opensuse.org>, 2007.
 msgid ""
 msgstr ""
-"Project-Id-Version: slideshow\n"
+"Project-Id-Version: slideshow.pt\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2007-08-10 18:09+0100\n"
-"Last-Translator: Carlos Gonçalves <cgoncalves@opensuse.org>\n"
-"Language-Team: Portuguese <opensuse-pt@opensuse.org>\n"
+"PO-Revision-Date: 2008-04-21 23:16+0100\n"
+"Last-Translator: Antonio Cardoso Martins <digiplan.pt@gmail.com>\n"
+"Language-Team: Portuguese <opensuse-pt@opensuse.org"
+">\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
@@ -23,18 +25,16 @@ msgid "Welcome to openSUSE™"
 msgstr "Bem-vindo ao openSUSE™"
 
 #: slideshow.xml:20(para)
-#, fuzzy
 msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.0."
-msgstr "Se utiliza o seu computador para comunicar com amigos, parentes ou colegas, para gerir e divertir-se com as suas músicas e fotografias, navegar na Internet para saber as últimas informações ou notícias, escrever relatórios ou orçamentos, albergar um sítio Web pessoal ou uma rede doméstica, certamente que encontrará tudo o que necessita no openSUSE 10.3."
+msgstr "Se utiliza o seu computador para comunicar com amigos, família ou colegas, para gerir e divertir-se com as suas músicas e fotografias, navegar na Internet para saber as últimas informações ou para se divertir, escrever relatórios ou orçamentos, albergar um sítio Web pessoal ou uma rede doméstica, certamente que encontrará tudo o que necessita no openSUSE 11.0."
 
 #: slideshow.xml:30(title)
 msgid "openSUSE.org"
 msgstr "openSUSE.org"
 
 #: slideshow.xml:32(para)
-#, fuzzy
 msgid "openSUSE is a community project created and sponsored by Novell to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
-msgstr "Criado pelo projecto openSUSE.org e patrocionado pela Novell, o openSUSE é um esforço colaborativo da comunidade para concretizar a plataforma de computação de software aberto mais utilizada no mundo. Muitas pessoas estão envolvidas na criação de pacotes de software, nos testes de programas, na escrita de documentação e também nos componentes de localização para a distribuição openSUSE no seu sítio: www.opensuse.org"
+msgstr "openSUSE.org é um projecto da comunidade criado e patrocinado pela Novell, para entregar a plataforma de computação de software aberto mais amigável do mundo. Muitas pessoas à volta do mundo contribuem para o projecto openSUSE com a criação de pacotes de software, testes de programas, na escrita de documentação e também traduzindo componentes em dezenas de idiomas. Todo este trabalho está disponível gratuitamente na distribuição openSUSE Linux disponível em www.opensuse.org"
 
 #: slideshow.xml:40(para)
 msgid "Visit www.opensuse.org to learn how you can join the openSUSE community."
@@ -53,9 +53,8 @@ msgid "Connect and Communicate"
 msgstr "Ligue-se e Comunique"
 
 #: slideshow.xml:58(para)
-#, fuzzy
 msgid "You can communicate more effectively with openSUSE 11.0 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
-msgstr "Poderá comunicar mais eficazmente com o openSUSE 10.3 pois este fornece um conjunto completo de ferramentas para navegação Web e gestão de correio electrónico—este até inclui as mais recentes tenocologias de telefonia por Internet."
+msgstr "Poderá comunicar mais eficazmente com o openSUSE 11.0 pois este fornece um conjunto completo de ferramentas para navegação Web e gestão de correio electrónico—este até inclui as mais recentes tecnologias de voz sobre IP."
 
 #: slideshow.xml:64(para)
 #, fuzzy
@@ -71,9 +70,8 @@ msgid "Create, View and Listen"
 msgstr "Criar, Ver e Escutar"
 
 #: slideshow.xml:81(para)
-#, fuzzy
 msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
-msgstr "Descarregue músicas da Internet. Extraia CDs para criar a sua própria biblioteca personalizada de músicas. Escute a sua lista de músicas online. Grave CDs ou DVDs. Copie os seus ficheiros para um iPod ou leitor mp3 e leve a sua música para qualquer lugar. Faça a gestão e edite fotografias digitais com editores gráficos poderosos. É tudo fácil com o openSUSE."
+msgstr "Descarregue músicas da Internet. Extraia CDs para criar a sua própria biblioteca personalizada de músicas. Escute a sua lista de músicas online. Grave CDs ou DVDs. Copie os seus ficheiros para um iPod ou reprodutor de música e leve a sua música para qualquer lugar. Faça a gestão e edite fotografias digitais com editores gráficos poderosos. É tudo fácil com o openSUSE."
 
 #: slideshow.xml:91(title)
 msgid "Documents, Spreadsheets and More"
@@ -165,5 +163,3 @@ msgstr "Os produtos Linux Enterprise da Novell incluem o SUSE Linux Enterprise S
 msgid "translator-credits"
 msgstr "António Cardoso Martins <digiplan.pt@gmail.com>, 2004, 2006Elísio André Martins Catana <eacatana@netvisao.pt>, 2004, 2006Rui Malheiro <rmalheiro@6mil.pt>, 2004, 2006"
 
-#~ msgid "Also included with openSUSE are Novell Evolution and Kontact. These complete e-mail and contact managers help you organize and maintain all your e-mail accounts. The openSUSE distribution also comes with state-of-the-art Voice over IP (VoIP) solutions that let you communicate with people connected to the Internet all over the world."
-#~ msgstr "Também incluido no openSUSE está o Novell Evolution e o Kontact. Estes gestores de correio electrónico ajudam-o a organizar e a manter todas as suas contas de correio. A distribuição openSUSE trás ainda soluções 'Voice over IP' (VoIP) em estado-de-arte que lhe permitem comunicar com pessoas ligadas à Internet em todo o mundo."
