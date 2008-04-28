@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2008-04-17 03:08-0300\n"
+"PO-Revision-Date: 2008-04-28 02:36-0300\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive68@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <opensuse-pt@opensuse.org>\n"
 "MIME-Version: 1.0\n"
@@ -77,7 +77,7 @@ msgstr "Documentos, Planilhas e Mais"
 
 #: slideshow.xml:93(para)
 msgid "The openSUSE 11.0 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr "A distribuição openSUSE 11.0 vem completa com a versão mais recente da principal suíte de produtividade Linux, o OpenOffice.org. Ele inclui um processador de texto, uma planilha eletrônica, um editor de HTML, um designer de apresentações e um gerenciador de banco de dados. Ele também lê e grava múltiplos formatos de arquivos—incluindo os formatos do Microsoft Office—assim, você pode mover-se para frente e para trás facilmente entre o openSUSE e outro software de produtividade popular não-Linux. O OpenOffice.org é a escolha perfeita para relatórios, artigos, orçamentos domésticos, gráficos simples e muito mais."
+msgstr "A distribuição openSUSE 11.0 vem completa com a versão mais recente da principal suíte de produtividade Linux, o OpenOffice.org. Ele inclui um processador de texto, uma planilha eletrônica, um editor de HTML, um designer de apresentações e um gerenciador de banco de dados. Ele também lê e salva múltiplos formatos de arquivos—incluindo os formatos do Microsoft Office—assim, você pode mover-se para frente e para trás facilmente entre o openSUSE e outro software de produtividade popular não-Linux. O OpenOffice.org é a escolha perfeita para relatórios, artigos, orçamentos domésticos, gráficos simples e muito mais."
 
 #: slideshow.xml:104(title)
 msgid "Graphics, Graphics, Graphics"
@@ -121,7 +121,7 @@ msgstr "Tecnologia de Virtualização e Ferramentas de Desenvolvimento de Aplica
 
 #: slideshow.xml:159(para)
 msgid "Included with openSUSE is the Xen hypervisor—the highest performing virtualization software available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "Incluído no openSUSE vem o Xen hypervisor—o software de virtualização com o maior desempenho disponível. Adicionalmente, o openSUSE provê ferramentas para compartilhar arquivos em rede, impressão(Samba) e hopedagem da Internet (Apache). Para o desenvolvimento de aplicativos, o openSUSE vem com um conjunto completo de ambientes de execução mais uma extensa gama de ferramentas de desenvolvimento de aplicativos, incluindo o KDevelop, o Eclipse e o Mono."
+msgstr "Incluído no openSUSE vem o Xen hypervisor—o software de virtualização com o maior desempenho disponível. Adicionalmente, o openSUSE fornece ferramentas para compartilhar arquivos em rede, impressão(Samba) e hopedagem da Internet (Apache). Para o desenvolvimento de aplicativos, o openSUSE vem com um conjunto completo de ambientes de execução mais uma extensa gama de ferramentas de desenvolvimento de aplicativos, incluindo o KDevelop, o Eclipse e o Mono."
 
 #: slideshow.xml:166(para)
 msgid "You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
@@ -133,7 +133,7 @@ msgstr "Aprenda Mais"
 
 #: slideshow.xml:175(para)
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
-msgstr "A distribuição openSUSE provê extensa documentação para questões específicas do openSUSE assim como para questões gerais relaciondas ao Linux. O Centro de Ajuda é acessado pelo menu principal. Manuais também estão disponíveis em PDF e podem ser baixados e impressos (http://pt.opensuse.org/Documentation)."
+msgstr "A distribuição openSUSE fornece extensa documentação para questões específicas do openSUSE assim como para questões gerais relaciondas ao Linux. O Centro de Ajuda é acessado pelo menu principal. Manuais também estão disponíveis em PDF e podem ser baixados e impressos (http://pt.opensuse.org/Documentation)."
 
 #: slideshow.xml:184(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
@@ -153,6 +153,7 @@ msgstr "Os produtos Enterprise Linux da Novell incluem o SUSE Linux Enterprise S
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: slideshow.xml:0(None)
+#, fuzzy
 msgid "translator-credits"
 msgstr "Luiz Fernando Ranghetti <elchevive68@gmail.com>,2007Gilberto Medeiros Nakamura <gilberto@ifsc.usp.br>,2007Gustavo Maciel Dias Vieira <gustavo@sagui.org>,2006Afonso Celso Medina <afmedina@uol.com.br>,2006"
 
