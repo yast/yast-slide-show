@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: slideshow.ro\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2008-04-25 10:41+0200\n"
+"PO-Revision-Date: 2008-04-25 15:12+0200\n"
 "Last-Translator: Alexandru Romanescu <a_romanescu@yahoo.co.uk>\n"
 "Language-Team: romanian <fr@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -151,11 +151,11 @@ msgstr "Novell şi Linux"
 
 #: slideshow.xml:198(para)
 msgid "Novell is committed to your success with Linux. In addition to openSUSE, Novell also delivers an exciting suite of products designed to meet the needs of businesses large and small."
-msgstr ""
+msgstr "Novell se dedică succesului dumneavoastră cu Linux. În plus faţă de openSUSE, Novell oferă, de asemenea, o întreagă suită de produse proiectată pentru a satisface nevoile afacerii dumneavoastră, la orice nivel."
 
 #: slideshow.xml:203(para)
 msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit www.novell.com/linux"
-msgstr ""
+msgstr "Produsele Linux din clasa întreprindere cuprind SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop şi Novell Open Enterprise Server. Produsele noastre profesionale sunt oferite cu un plan de întreţinere pe 7 ani garantat şi programe opţionale de asistenţă tehnică. Pentru mai multe informaţii despre Linuxul la nivel de întreprindere oferit de Novell, vizitaţi www.novell.com/linux"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: slideshow.xml:0(None)
