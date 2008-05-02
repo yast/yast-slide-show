@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2008-04-28 02:36-0300\n"
+"PO-Revision-Date: 2008-04-29 21:46-0300\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive68@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <opensuse-pt@opensuse.org>\n"
 "MIME-Version: 1.0\n"
@@ -57,7 +57,7 @@ msgstr "Você pode se comunicar mais efetivamente com o openSUSE 11.0 porque ele
 
 #: slideshow.xml:64(para)
 msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox 3.0 also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "O openSUSE inclui o Mozilla Firefox, um dos melhores navegadores de Internet do mundo. O Firefox inclui todos os recursos que você precisa para desfrutar a Internet, incluindo o Java, o Adobe Acrobat Reader, o RealPlayer e os plugins Macromedia Flash. O Firefox 3.0 também se orgulha de um desempenho fantástico, e uma série de melhorias destinadas a proteger sua privacidade e prevenir ataques do tipo phising."
+msgstr "O openSUSE inclui o Mozilla Firefox, um dos melhores navegadores de Internet do mundo. O Firefox inclui todos os recursos que você precisa para desfrutar a Internet, incluindo o Java, o Adobe Acrobat Reader, o RealPlayer e os plug-ins Macromedia Flash. O Firefox 3.0 também se orgulha de um desempenho fantástico, e uma série de melhorias destinadas a proteger sua privacidade e prevenir ataques do tipo phising."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
@@ -153,7 +153,16 @@ msgstr "Os produtos Enterprise Linux da Novell incluem o SUSE Linux Enterprise S
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: slideshow.xml:0(None)
-#, fuzzy
 msgid "translator-credits"
-msgstr "Luiz Fernando Ranghetti <elchevive68@gmail.com>,2007Gilberto Medeiros Nakamura <gilberto@ifsc.usp.br>,2007Gustavo Maciel Dias Vieira <gustavo@sagui.org>,2006Afonso Celso Medina <afmedina@uol.com.br>,2006"
+msgstr ""
+"Luiz Fernando Ranghetti <elchevive@gmail.com>, 2007, 2008.\n"
+"Isis Binder <isis.binder@gmail.com>, 2007, 2008.\n"
+"Rafael Reuber <psico.indie@gmail.com>, 2008.\n"
+"Fahad Kalil <fahadkalil@gmail.com>, 2008.\n"
+"Issao Hanaoka Junior <issaojr@gmail.com>, 2008.\n"
+"Leonardo Ferreira <leonardoluc1975@gmail.com>, 2008.\n"
+"Luana Leonor Coimbra <lulyis@gmail.com> , 2008.\n"
+"Gilberto Medeiros Nakamura <gilberto@ifsc.usp.br>, 2007.\n"
+"Gustavo Maciel Dias Vieira <gustavo@sagui.org>, ?, 2006.\n"
+"Afonso Celso Medina <afmedina@uol.com.br>, ?, 2006."
 

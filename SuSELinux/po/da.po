@@ -32,7 +32,7 @@ msgstr "Velkommen til openSUSE™"
 
 #: slideshow.xml:20(para)
 msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.0."
-msgstr "Uanset om du bruger din computer til at kommunikere med venner, familie eller kolleger, håndtere og nyde dine billeder og din musik, surfe på internettet efter de seneste nyheder eller informationer, skrive en rapport eller lave budget, have din private hjemmeside liggende eller lave dit eget hjemmenetværk, vil du finde alt hvad du behøver i openSUSE 11.0."
+msgstr "Uanset, om du bruger din computer til at kommunikere med venner, familie eller kolleger, håndtere og nyde dine billeder og din musik, surfe på internettet efter de seneste nyheder eller informationer, skrive en rapport eller lave budget, have din private hjemmeside liggende eller lave dit eget hjemmenetværk, vil du finde alt hvad du behøver i openSUSE 11.0."
 
 #: slideshow.xml:30(title)
 msgid "openSUSE.org"
@@ -40,7 +40,7 @@ msgstr "openSUSE.org"
 
 #: slideshow.xml:32(para)
 msgid "openSUSE is a community project created and sponsored by Novell to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
-msgstr "openSUSE er et community-projekt skabt og sponsoreret af Novell for at levere verdens mest brugervenlige computerplatform. Mange mennesker overalt i verden bidrager til openSUSE-projektet ved at pakke software, teste programmer, skrive dokumentation og at oversætte komponenter til dusinvis af sprog. Alt det arbejde er tilgængeligt gratis i  Linux-distributionen openSUSE som kan hentes på www.opensuse.org."
+msgstr "openSUSE er et community-projekt skabt og sponsoreret af Novell for at levere verdens mest brugervenlige computerplatform. Mange mennesker overalt i verden bidrager til openSUSE-projektet ved at pakke software, teste programmer, skrive dokumentation og at oversætte komponenter til dusinvis af sprog. Alt det arbejde er tilgængeligt gratis i  Linux-distributionen openSUSE, som kan hentes på www.opensuse.org."
 
 #: slideshow.xml:40(para)
 msgid "Visit www.opensuse.org to learn how you can join the openSUSE community."
@@ -60,7 +60,7 @@ msgstr "Tilslut og kommunikér"
 
 #: slideshow.xml:58(para)
 msgid "You can communicate more effectively with openSUSE 11.0 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
-msgstr "Du kan kommunikere mere effektivt med openSUSE 11.0 fordi den leverer et komplet sæt af værktøjer til at surfe på internettet og håndtering af e-mail - og indeholder endda den nyeste internet-baserede teknologi til telefoni."
+msgstr "Du kan kommunikere mere effektivt med openSUSE 11.0 fordi den leverer et komplet sæt af værktøjer til at surfe på internettet og håndtering af e-mail - og indeholder endda den nyeste teknologi til internet-baseret telefoni (VoIP)."
 
 #: slideshow.xml:64(para)
 msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox 3.0 also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
@@ -68,7 +68,7 @@ msgstr "openSUSE inkluderer Mozilla Firefox, en af verdens bedste webbrowsere. F
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
-msgstr "Kontact og Novell Evolution, komplette programmer til e-mail og kontakthåndtering er er også inkluderet i openSUSE. Til instant messaging indeholder openSUSE IM-klienter som er nemme at bruge og understøtter alle de populære protokoller: AIM, Google Talk, MSN, Yahoo!, Groupwise og mange andre."
+msgstr "Kontact og Novell Evolution - to komplette programmer til e-mail og kontakthåndtering - er er også inkluderet i openSUSE. Til instant messaging indeholder openSUSE IM-klienter som er nemme at bruge og understøtter alle de populære protokoller: AIM, Jabber, Google Talk, MSN, Yahoo!, Groupwise og mange andre."
 
 #: slideshow.xml:80(title)
 msgid "Create, View and Listen"
@@ -76,7 +76,7 @@ msgstr "Skab, se og lyt"
 
 #: slideshow.xml:81(para)
 msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
-msgstr "Download sange fra internettet. Rip CDer for at oprette dit eget tilpassede musikbibliotek. Lyt til din spilleliste online. Brænd CD'er eller DVD'er. Kopiér dine filer til en iPod eller medieafspiller og tag din musik med overalt. Håndtér og redigér digitale billeder med kraftfulde programmer til billedredigering. Det er alt sammen let med openSUSE."
+msgstr "Download sange fra internettet. Rip CDer for at oprette dit eget tilpassede musikbibliotek. Lyt til din spilleliste online. Brænd CD'er eller DVD'er. Kopiér dine filer til en iPod eller medieafspiller, og tag din musik med overalt. Håndtér og redigér digitale billeder med kraftfulde programmer til billedredigering. Det er alt sammen let med openSUSE."
 
 #: slideshow.xml:91(title)
 msgid "Documents, Spreadsheets and More"
@@ -92,7 +92,7 @@ msgstr "Grafik, grafik, grafik"
 
 #: slideshow.xml:106(para)
 msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
-msgstr "Med værktøjerne i openSUSE kan du skabe og redigere så godt som al slags grafik. Til avanceret billedbehandling og grafik anvendes kraftfulde værktøjer såsom GIMP, et komplet værktøj til retouchering, sammensætning og skabelse af billeder."
+msgstr "Med værktøjerne i openSUSE kan du skabe og redigere så godt som al slags grafik. Til avanceret billedbehandling og grafiske kreationer anvendes GIMP, et kraftfuldt værktøj til retouchering, sammensætning og skabelse af billeder."
 
 #: slideshow.xml:112(para)
 msgid "For vector graphics, openSUSE includes Inkscape—a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
@@ -108,7 +108,7 @@ msgstr "openSUSE inkluderer de mest avancerede mobilitetsfunktioner. Skift helt 
 
 #: slideshow.xml:128(para)
 msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
-msgstr "De nyeste innovationer indenfor strømstyring fra openSUSE øger din mobilitet og giver dig frihed til at tage dit arbejde med dig hvor du end færdes."
+msgstr "De nyeste innovationer indenfor strømstyring fra openSUSE øger din mobilitet, og giver dig frihed til at tage dit arbejde med dig, hvor du end færdes."
 
 #: slideshow.xml:136(title)
 msgid "Keep Your System Secure and Up to Date"
@@ -144,7 +144,7 @@ msgstr "openSUSE-distributionen leverer omfattende dokumentation til openSUSE-sp
 
 #: slideshow.xml:184(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
-msgstr "Endnu mere information er til rådighed på openSUSE-wikien på http://en.opensuse.org/. Under \"Documentation\" findes links til nyttig information skabt og vedligeholdt af andre openSUSE-brugere. Du kan også finde links til den dokumentation som findes på Novells officielle hjemmeside. For hjælp til specifikke problemer med openSUSE, se Supportdatabasen på www.opensuse.org"
+msgstr "Endnu mere information er til rådighed på openSUSE-wikien på http://en.opensuse.org/. Under \"Documentation\" findes links til nyttig information, skabt og vedligeholdt af andre openSUSE-brugere. Du kan også finde links til den dokumentation, som findes på Novells officielle hjemmeside. For hjælp til specifikke problemer med openSUSE, se Supportdatabasen på www.opensuse.org"
 
 #: slideshow.xml:197(title)
 msgid "Novell and Linux"
