@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: slideshow.hu\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2008-04-29 16:55+0200\n"
+"PO-Revision-Date: 2008-05-06 12:00+0200\n"
 "Last-Translator: Kalman Kemenczy <kkemenczy@novell.com>\n"
 "Language-Team:  <hu@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -62,7 +62,7 @@ msgstr "Az openSUSE 11.0 tartalmazza a webböngészéshez és a levelezéshez sz
 
 #: slideshow.xml:64(para)
 msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox 3.0 also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "Az openSUSE disztribúció része a piac alighanem legjobb webböngészője, a Mozilla Firefox, ami mindent tud, ami az internetezéshez szükséges, beleértve a Java, az Adobe Reader, a RealPlayer és a Macromedia Flash bővítményeket. A Firefox 3 lenyűgöző sebességű és számtalan újítást tartalmaz, amely megvédi a személyes adatokat és megelőzést nyújt az adathalászok támadásai ellen."
+msgstr "Az openSUSE disztribúció része a piac alighanem legjobb webböngészője, a Mozilla Firefox, ami mindent tud, ami az internetezéshez szükséges, beleértve a Java, az Adobe Reader, a RealPlayer és az Adobe Flash bővítményeket. A Firefox 3 lenyűgöző sebességű és számtalan újítást tartalmaz, amely megvédi a személyes adatokat és megelőzést nyújt az adathalászok támadásai ellen."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
