@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: slideshow.pt\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2008-04-21 23:16+0100\n"
+"PO-Revision-Date: 2008-05-13 23:14+0100\n"
 "Last-Translator: Antonio Cardoso Martins <digiplan.pt@gmail.com>\n"
 "Language-Team: Portuguese <opensuse-pt@opensuse.org"
 ">\n"
@@ -107,7 +107,7 @@ msgstr "A distribuição openSUSE inclui as mais avançadas funcionalidades de m
 
 #: slideshow.xml:128(para)
 msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
-msgstr ""
+msgstr "A mais modernas inovações do openSUSE em gestão de energia melhoram a sua mobilidade e dão-lhe a liberdade de levar o seu trabalho para onde vai."
 
 #: slideshow.xml:136(title)
 msgid "Keep Your System Secure and Up to Date"

@@ -130,7 +130,7 @@ msgstr "오픈수세에는 Xen hypervisor(높은 수준의 가상화 소프트�
 
 #: slideshow.xml:166(para)
 msgid "You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
-msgstr "오픈수세에서 모든것을 만들수 있습니다. 새로운 패키지를 만들고 공유 하는 방법은 매우 간단합니다. 오픈수세가 아닌 여러 리눅스 배포판에 대한 패키지도 가능합니다. 강력한 오픈수세 빌드 서비스를 만나보세요."
+msgstr "오픈수세에서 모든것을 만들수 있습니다. 새로운 꾸러미를 만들고 공유 하는 방법은 매우 간단합니다. 오픈수세가 아닌 여러 리눅스 배포판에 대한 꾸러미도 가능합니다. 강력한 오픈수세 빌드 서비스를 만나보세요."
 
 #: slideshow.xml:174(title)
 msgid "Learn More"
