@@ -7,13 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2008-04-29 21:46-0300\n"
+"PO-Revision-Date: 2008-05-15 01:29-0300\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive68@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <opensuse-pt@opensuse.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
@@ -69,7 +70,7 @@ msgstr "Criar, Ver e Escutar"
 
 #: slideshow.xml:81(para)
 msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
-msgstr "Baixe músicas da Internet. Copie CDs para criar sua própria biblioteca de músicas personalizada. Ouça sua lista de músicas online. Grave CDs ou DVDs. Copie seus arquivos para um iPod ou reprodutor multimídia e leve suas músicas para qualquer lugar. Gerencie e edit fotografias digitais com poderosos editores gráficos. É tudo fácil com o openSUSE."
+msgstr "Baixe músicas da Internet. Copie CDs para criar sua própria biblioteca de músicas personalizada. Ouça sua lista de músicas online. Grave CDs ou DVDs. Copie seus arquivos para um iPod ou player multimídia e leve suas músicas para qualquer lugar. Gerencie e edit fotografias digitais com poderosos editores gráficos. É tudo fácil com o openSUSE."
 
 #: slideshow.xml:91(title)
 msgid "Documents, Spreadsheets and More"

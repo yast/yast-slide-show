@@ -1,16 +1,19 @@
+# translation of slideshow.po to Chinese Traditional
 # Copyright (C) 2006 SuSE Linux Products GmbH, Nuernberg
 # This file is distributed under the same license as the package.
 #
+# swyear <swyear@gmail.com>, 2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2006-11-09 12:00\n"
-"Last-Translator: Novell Language <language@novell.com>\n"
-"Language-Team: Novell Language <language@novell.com>\n"
+"PO-Revision-Date: 2008-05-10 03:00+0800\n"
+"Last-Translator: swyear <swyear@gmail.com>\n"
+"Language-Team: Chinese Traditional <zh@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
@@ -21,18 +24,16 @@ msgid "Welcome to openSUSE™"
 msgstr "歡迎使用 openSUSE"
 
 #: slideshow.xml:20(para)
-#, fuzzy
 msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.0."
-msgstr "無論您要用電腦做什麼，像是與朋友、親戚或同事連絡，享受及管理您的音樂和圖片，瀏覽網路上最新消息或資訊，撰寫報告或編寫預算，甚至管理個人網站主機或家庭網路，openSUSE 10.3 都能滿足您的需求。"
+msgstr "無論您要用電腦做什麼，像是與朋友、親戚或同事連絡，享受及管理您的音樂和圖片，瀏覽網路上最新消息或享樂，撰寫報告或編寫預算，甚至管理個人網站主機或家庭網路，openSUSE 11.0 都能滿足您的需求。"
 
 #: slideshow.xml:30(title)
 msgid "openSUSE.org"
 msgstr "openSUSE.org"
 
 #: slideshow.xml:32(para)
-#, fuzzy
 msgid "openSUSE is a community project created and sponsored by Novell to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
-msgstr "由 openSUSE.org 專案建立，Novell 所贊助，openSUSE 藉由社群的努力，將世界上最好用的開放原始碼平台呈獻給大家。許多個人都參與了為 openSUSE 包裝軟體、測試程式、撰寫文件以及將這些部份本土化的工作。我們的網站在： www.opensuse.org"
+msgstr "openSUSE 是一個由 Novell 所建立與贊助的社群計畫，提供世界上最友善的電腦平台。全世界許多人都經由包裝軟體、測試程式、撰寫文件以及將這些部份翻譯成各種語言來參與 openSUSE 社群。所有這些成果都包含在 openSUSE Linux 發行版本，您可以在 www.opensuse.org 免費取得。"
 
 #: slideshow.xml:40(para)
 msgid "Visit www.opensuse.org to learn how you can join the openSUSE community."
@@ -51,48 +52,42 @@ msgid "Connect and Communicate"
 msgstr "連繫與溝通"
 
 #: slideshow.xml:58(para)
-#, fuzzy
 msgid "You can communicate more effectively with openSUSE 11.0 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
-msgstr "使用 openSUSE 10.3 您可以更有效的進行溝通與連繫，他提供了完整的工具組讓您能進行網頁瀏覽和電子郵件管理，甚至包含最新的網路電話技術。"
+msgstr "使用 openSUSE 11.0 您可以更有效的進行溝通與連繫，他提供了完整的工具組讓您能進行網頁瀏覽和電子郵件管理，甚至包含最新的網路 IP 電話技術。"
 
 #: slideshow.xml:64(para)
-#, fuzzy
 msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox 3.0 also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "使用 openSUSE，您會擁有 Mozilla Firefox 網頁瀏覽器 - 市面上最好的網頁瀏覽器。它最引以為傲的是：擁有完整的瀏覽器功能(包括 Java、Adobe Reader、RealPlayer 與 Macromedia Flash 外掛程式)加上快如閃電的執行效能。"
+msgstr "openSUSE 包含了 Mozilla Firefox 網頁瀏覽器 - 市面上最好的網頁瀏覽器。Firefox 包含了所有享受網頁所需要的功能，包括 Java、Adobe  Acrobat Reader、RealPlayer 與 Macromedia Flash 外掛程式。Firefox 3.0 具有快如閃電的執行效能並改進了一些設計來保護您的隱私並防止網路釣魚攻擊。"
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
-msgstr ""
+msgstr "在 openSUSE 中也包含了 Novell Evolution 和 Kontact 這兩個完整的電子郵件與通訊錄管理應用程式。即時通訊方面， openSUSE 具備了非常簡單使用的 IM 客戶端，可以支援所有受歡迎的協定：AIM, Google Talk, Jabber, MSN, 雅虎！奇摩, Groupwise, 和很多其他的協定。"
 
 #: slideshow.xml:80(title)
 msgid "Create, View and Listen"
 msgstr "創作、觀賞與聆聽"
 
 #: slideshow.xml:81(para)
-#, fuzzy
 msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
-msgstr "從網際網路下載音樂。擷取 CD 建立您自己的音樂庫。線上聆聽您的播放清單。燒錄 CD 或 DVD。複製檔案到 iPod 或 mp3 裝置上，帶著您的音樂到任何地方。編輯與管理您的數位照片。使用 openSUSE 這些事都很容易達成。"
+msgstr "從網際網路下載音樂。擷取 CD 建立您自己的音樂庫。線上聆聽您的播放清單。燒錄 CD 或 DVD。複製檔案到 iPod 或媒體播放裝置上，帶著您的音樂到任何地方。使用強力的圖形編輯器編輯與管理您的數位照片。使用 openSUSE 這些事都能輕鬆達成。"
 
 #: slideshow.xml:91(title)
 msgid "Documents, Spreadsheets and More"
 msgstr "文件、試算表及其他"
 
 #: slideshow.xml:93(para)
-#, fuzzy
 msgid "The openSUSE 11.0 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr "openSUSE 10.3 包含了完整最先進的新版 Linux 辦公室套裝軟體 - OpenOffice.org。它包含了文書處理程式、試算表、HTML 編輯器、簡報設計和資料庫管理。它可以讀寫多種的檔案格式，所以您能夠很輕易的在 openSUSE 和其他非-Linux 系統的套裝軟體間轉換。OpenOffice.org 對於報告、文書、家庭預算、簡易圖形處理及其他方面都是您最佳的選擇。"
+msgstr "openSUSE 11.0 包含了完整最先進的新版 Linux 生產力套裝軟體， OpenOffice.org。它包含了文書處理程式、試算表、HTML 編輯器、簡報設計和資料庫管理。它可以讀寫多種的檔案格式—包含Microsoft Office 格式—所以您能夠很輕易的在 openSUSE 和其他非-Linux 系統的生產力套裝軟體間轉換。OpenOffice.org 對於報告、文書、家庭預算、簡易圖形處理及其他方面都是您的最完美選擇。"
 
 #: slideshow.xml:104(title)
 msgid "Graphics, Graphics, Graphics"
 msgstr "圖形、圖形、圖形"
 
 #: slideshow.xml:106(para)
-#, fuzzy
 msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
 msgstr "透過 openSUSE 中的工具，您可以建立或編輯任何類型的圖形。對於進階的影像操控和建立圖形，可使用 GIMP 這個超強的工具，他是一個完整的影像修飾、處理和創作工具。"
 
 #: slideshow.xml:112(para)
-#, fuzzy
 msgid "For vector graphics, openSUSE includes Inkscape—a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
 msgstr "對於向量圖形，openSUSE 提供了 Inkscape。這個多功能的圖形解決方案支援完備的透明圖層、點陣圖描繪、文字路徑與許許多多其他的功能。"
 
@@ -101,13 +96,12 @@ msgid "Computing On-the-Go"
 msgstr "活力機動的電腦功能"
 
 #: slideshow.xml:122(para)
-#, fuzzy
 msgid "openSUSE includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager from openSUSE. Connect with mobile devices like mobile phones and PDAs via Bluetooth, or use infrared ports to synchronize your data."
-msgstr "openSUSE 包含了最先進的機動功能。使用 openSUSE 提供的網路管理員在有線與無線網路間無痛的切換。使用藍芽技術或紅外線埠和您的行動電話或 PDA 進行資料同步。openSUSE 創新先進電源管理技術提昇您的機動力，讓您擁有隨處工作的自由。"
+msgstr "openSUSE 包含了最先進的機動功能。使用 openSUSE 提供的網路管理員在有線與無線網路間任意輕鬆切換。使用藍芽技術連結您的行動裝置像是行動電話和 PDA，或使用紅外線埠進行資料同步。"
 
 #: slideshow.xml:128(para)
 msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
-msgstr ""
+msgstr "openSUSE 在電源管理的最新革新增加了您的行動力，並給更多自由讓您能將工作與娛樂帶到所到達的每個地方。"
 
 #: slideshow.xml:136(title)
 msgid "Keep Your System Secure and Up to Date"
@@ -142,9 +136,8 @@ msgid "The openSUSE distribution provides extensive documentation for specific o
 msgstr "openSUSE 提供了擴充的文件，包含了關於 openSUSE 以及一般 Linux 相關的問題。求助中心可以由主選單進入。手冊也提供了 PDF 的版本供您下載和列印 (http://en.opensuse.org/Documentation)。"
 
 #: slideshow.xml:184(para)
-#, fuzzy
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
-msgstr "您甚至可以在 http://en.opensuse.org 的 openSUSE 維基百科上獲得更多的資訊。在「文件」中，您會發現由其他 openSUSE 使用者撰寫與維護的有用資訊連結。您也可以找到 Novell 官方網站所提供的文件連結。關於 openSUSE 的問題，您還可以從 www.opensuse.org 的支援資料庫取得更多幫助。"
+msgstr "您可以在 http://en.opensuse.org 的 openSUSE 維基百科上獲得更多的資訊。在「文件」中，您會發現由其他 openSUSE 使用者撰寫與維護的有用資訊連結。您也可以找到 Novell 官方網站所提供的文件連結。關於 openSUSE 的問題，您可以從 www.opensuse.org 的支援資料庫取得更多幫助。"
 
 #: slideshow.xml:197(title)
 msgid "Novell and Linux"
@@ -171,23 +164,3 @@ msgstr ""
 "Joe Man <trmetal@yahoo.com.hk>, 2001\n"
 "Ray Chen <swyear@gmail.com>,2007"
 
-#~ msgid "Also included with openSUSE are Novell Evolution and Kontact. These complete e-mail and contact managers help you organize and maintain all your e-mail accounts. The openSUSE distribution also comes with state-of-the-art Voice over IP (VoIP) solutions that let you communicate with people connected to the Internet all over the world."
-#~ msgstr "openSUSE 也包含了 Novell Evolution 和 Kontact。這些完整的電子郵件和聯絡人管理程式，可以幫助您組織管理您所有的郵件帳戶。openSUSE 也包含最新的 IP 聲訊 (VoIP) 解決方案，可讓您和全世界連上網際網路的人通話。"
-
-#~ msgid "Keep Your System Secure and Up-to-Date"
-#~ msgstr "讓您的系統保持安全與最新狀態"
-
-#~ msgid "The Latest Desktop Innovations"
-#~ msgstr "最新的桌面創新"
-
-#~ msgid "openSUSE provides you with a choice of the most usable graphical desktop environments. Choose from the most up-to-date Linux graphical environments--GNOME and KDE--each combining ease of use, contemporary functionality, and outstanding graphical design with the technological superiority of the Linux operating system."
-#~ msgstr "openSUSE 讓您可選擇最實用的圖形桌面環境。您可以使用 Linux 作業系統所提供的優良技術，從最新的 Linux 圖形環境 --GNOME 2.16 和 KDE 3.5-- 中執行容易操作功能的組合、現代化的功能、傑出的圖形設計。"
-
-#~ msgid "If you run Linux on a laptop, you will be glad you chose openSUSE. It includes the most advanced mobility features. Switch between wireless and wired networks with our NetworkManager, connect with mobile phones and PDAs that support Bluetooth, and even use infrared ports to synchronize with cell phones or PalmOS devices. Of course, USB memory sticks are no problem. Finally, new power management features give you the option to \"suspend\" your session, saving it to disk or RAM. Not only does suspend allow you to turn off and restart the system faster, but when you do restart, you are exactly where you were when you stopped."
-#~ msgstr "如果您是在筆記型電腦上執行 Linux，您會很高興所使用的是 openSUSE。它包括了最先進的行動功能。您可使用 NetworkManager 在無線網路和有線網路間切換，與支援藍芽功能的行動電話和 PDA 連接，使用紅外線連接埠與行動電話或 PalmOS 裝置同步化。當然，USB 記憶體晶晶片組是沒問題的。最後，新的電源管理功能可讓您選擇 \"暫停\" 您的工作階段，儲存工作階段至磁碟或 RAM。暫停不只可讓您更快速地關掉和重新啟動系統，當您重新啟動時，還可讓您確實回到您先前停止的地方。"
-
-#~ msgid "Learn More with Documentation"
-#~ msgstr "透過說明文件深入瞭解"
-
-#~ msgid "openSUSE includes both SUSE-specific and general Linux documentation. The SUSE Help Center, available from the main menu or with the susehelp command, provides one-stop access to all the help included with your system. For example, use it to read the SUSE manuals, man pages, and info pages. If you want to print your own copy of the manuals, you can download a PDF version. Find the URL for the PDFs at http://en.opensuse.org/Documentation."
-#~ msgstr "openSUSE 包含專屬 SUSE 的說明文件和一般的 Linux 說明文件。SUSE 求助中心位於主功能表上，也可透過 susehelp 命令啟動，此中心只要一個步驟即可存取您系統所提供的所有說明。例如，使用此中心可讀取 SUSE 手冊、主要網頁和資訊網頁。如果您要列印手冊，您可以下載 PDF 版。這些 PDF 的 URL 為 http://en.opensuse.org/Documentation。"
