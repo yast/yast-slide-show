@@ -68,7 +68,7 @@ msgstr "System openSUSE zawiera programy Novell Evolution i Kontact, kompletne r
 
 #: slideshow.xml:80(title)
 msgid "Create, View and Listen"
-msgstr "Tworzenie obrazów i dźwięku"
+msgstr "Tworzenie obrazów i nagrań"
 
 #: slideshow.xml:81(para)
 msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."

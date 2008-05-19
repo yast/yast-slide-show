@@ -11,14 +11,14 @@ msgstr ""
 "Project-Id-Version: slideshow.hu\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2008-05-06 12:00+0200\n"
+"PO-Revision-Date: 2008-05-18 22:26+0200\n"
 "Last-Translator: Kalman Kemenczy <kkemenczy@novell.com>\n"
 "Language-Team:  <hu@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
@@ -94,7 +94,7 @@ msgstr "Az openSUSE eszközeivel gyakorlatilag bármilyen típusú rajz és graf
 
 #: slideshow.xml:112(para)
 msgid "For vector graphics, openSUSE includes Inkscape—a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
-msgstr "Vektorgrafikákhoz az openSUSE az Inkscape-et tartalmazza, amely egy sokoldalú megoldás képes átlátszó rétegek kezelésére, bittérképes képek vektorizálására, szövegek adott görbére írására, és még sok-sok minden másra."
+msgstr "Vektorgrafikákhoz az openSUSE az Inkscape-et tartalmazza, amely egy sokoldalú megoldás. Képes átlátszó rétegek kezelésére, bittérképes képek vektorizálására, szövegek adott görbére írására, és még sok-sok minden másra."
 
 #: slideshow.xml:120(title)
 msgid "Computing On-the-Go"
