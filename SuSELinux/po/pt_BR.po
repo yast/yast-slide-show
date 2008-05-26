@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2008-05-18 13:58-0300\n"
+"PO-Revision-Date: 2008-05-19 23:25-0300\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive68@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <opensuse-pt@opensuse.org>\n"
 "MIME-Version: 1.0\n"
@@ -89,7 +89,7 @@ msgstr "Gráficos, Gráficos, Gráficos"
 
 #: slideshow.xml:106(para)
 msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
-msgstr "Usando as ferramentas do openSUSE você pode criar ou editar praticamente qualquer tipo de gráfico. Para manipulação de imagens e criação de gráficos avançadas, use o poderoso GIMP, uma ferramenta completa de retoque, composição e criação de imagens."
+msgstr "Usando as ferramentas do openSUSE você pode criar ou editar praticamente qualquer tipo de gráfico. Para manipulação de imagens e criação de gráficos avançados, use o poderoso GIMP, uma ferramenta completa de retoque, composição e criação de imagens."
 
 #: slideshow.xml:112(para)
 msgid "For vector graphics, openSUSE includes Inkscape—a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
@@ -113,7 +113,7 @@ msgstr "Mantenha Seu Sistema Seguro e Atualizado"
 
 #: slideshow.xml:138(para)
 msgid "Help secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
-msgstr "Ajude a proteger seu sistema e dados de intrusos da Internet com o SUSE Firewall. Este dispositivo de segurança é ativado por padrão e é fácil de configurar. Mas você pode fazer ainda mais para proteger o seu sistema com o openSUSE porque porque ele também inclui o AppArmor, o aplicativo Linux mais efetivo e fácil de usar disponível hoje. O AppArmor protege proativamente seu sistema operacional e aplicativos de ameças internas ou externas."
+msgstr "Ajude a proteger seu sistema e dados de intrusos da Internet com o SUSE Firewall. Este dispositivo de segurança é ativado por padrão e é fácil de configurar. Mas você pode fazer ainda mais para proteger o seu sistema com o openSUSE porque ele também inclui o AppArmor, o aplicativo Linux mais efetivo e fácil de usar disponível hoje. O AppArmor protege proativamente seu sistema operacional e aplicativos de ameças internas ou externas."
 
 #: slideshow.xml:146(para)
 msgid "In addition to SUSE Firewall and AppArmor, openSUSE also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure. And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."

@@ -1,21 +1,21 @@
-# translation of slideshow.cs.po to Czech
+# translation of slideshow.po to cs_CZ
 # @TITLE@
 # Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
 #
 # This file is distributed under the same license as @PACKAGE@ package. FIRST
 #
 # Jakub Friedl <jfriedl@suse.cz>, 2006.
-# Klara Cihlarova <koty@seznam.cz>, 2006.
+# Klara Cihlarova <koty@seznam.cz>, 2006, 2008.
 # Klára Cihlářová <koty@seznam.cz>, 2007, 2008.
 # Jakub Hegenbart <jhegenbart@suse.cz>, 2007.
 msgid ""
 msgstr ""
-"Project-Id-Version: slideshow.cs\n"
+"Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2008-04-14 20:11+0200\n"
-"Last-Translator: Klára Cihlářová <koty@seznam.cz>\n"
-"Language-Team: Czech <cs@li.org>\n"
+"PO-Revision-Date: 2008-05-21 12:29+0200\n"
+"Last-Translator: Klara Cihlarova <koty@seznam.cz>\n"
+"Language-Team: cs_CZ <cs@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -63,13 +63,12 @@ msgid "You can communicate more effectively with openSUSE 11.0 because it provid
 msgstr "S distribucí openSUSE 11.0 můžete efektivněji komunikovat. Obsahuje totiž úplnou sadu nástrojů pro prohlížení webu, správu e-mailů, a podporuje i nejnovější technologii internetové telefonie."
 
 #: slideshow.xml:64(para)
-#, fuzzy
 msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox 3.0 also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "S distribucí openSUSE získáváte webový prohlížeč Mozilla Firefox, jeden z nejlepších webových prohlížečů na trhu. Pyšní se všemi funkcemi správného webového prohlížeče včetně modulů pro jazyk Java, technologii Macromedia Flash a programy Adobe Reader a RealPlayer - a navíc je pekelně rychlý."
+msgstr "S distribucí openSUSE získáváte webový prohlížeč Mozilla Firefox, jeden z nejlepších webových prohlížečů na trhu. Pyšní se všemi funkcemi správného webového prohlížeče včetně modulů pro jazyk Java, technologii Macromedia Flash a programy Adobe Reader a RealPlayer. Firefox 3.0 je navíc pekelně rychlý a navržený k ochraně vašeho soukromí a k ochraně před phishingem."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
-msgstr ""
+msgstr "V openSUSE najdete také aplikace Novell Evolution a Kontact, kompletní řešení pro správu emailů a kontaktů. Pro pokec můžete použít některý z obsažených uživatelsky přívětivých IM programů podporujících protokoly AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise a řadu dalších."
 
 #: slideshow.xml:80(title)
 msgid "Create, View and Listen"
@@ -104,9 +103,8 @@ msgid "Computing On-the-Go"
 msgstr "Počítače na cestách"
 
 #: slideshow.xml:122(para)
-#, fuzzy
 msgid "openSUSE includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager from openSUSE. Connect with mobile devices like mobile phones and PDAs via Bluetooth, or use infrared ports to synchronize your data."
-msgstr "Distribuce openSUSE obsahuje nejnovější funkce pro mobilní využívání počítače. Mezi pevnými a bezdrátovými sítěmi se můžete v distribuci openSUSE snadno přepínat pomocí programu NetworkManager. Pomocí technologie Bluetooth nebo infračervených portů se můžete připojovat k zařízením, jako jsou mobilní telefony a zařízení PDA, a synchronizovat svá data. "
+msgstr "openSUSE obsahuje nejnovější funkce pro mobilní využívání počítače. Mezi pevnými a bezdrátovými sítěmi se můžete v distribuci openSUSE snadno přepínat pomocí programu NetworkManager. Pomocí technologie Bluetooth nebo infračervených portů se můžete připojovat k zařízením, jako jsou mobilní telefony a zařízení PDA, a synchronizovat svá data. "
 
 #: slideshow.xml:128(para)
 msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
