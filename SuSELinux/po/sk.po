@@ -128,7 +128,7 @@ msgstr "Xen hypervisor — najvýkonnejší virtualizačný softvér, ktorý je 
 
 #: slideshow.xml:166(para)
 msgid "You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
-msgstr "S&nbsp;openSUSE si môžete vytvoriť softvérový balík takmer pre akýkoľvek program. Vytvoriť a zdieľať nové softvérové balíky pre rozličné linuxové distribúcie pomocou jedinečnej a mocnej služby openSUSE Build Service je jednoduché . Pripojte sa k&nbsp;spolupráci na projekte openSUSE.org."
+msgstr "S&nbsp;openSUSE si môžete vytvoriť softvérový balík takmer pre akýkoľvek program. Vytvoriť a zdieľať nové softvérové balíky pre rozličné linuxové distribúcie pomocou jedinečnej a mocnej služby openSUSE Build Service je jednoduché. Pripojte sa k&nbsp;spolupráci na projekte openSUSE.org."
 
 #: slideshow.xml:174(title)
 msgid "Learn More"
@@ -140,7 +140,7 @@ msgstr "V&nbsp;distribúcii openSUSE nájdete vyčerpávajúcu dokumentáciu, kt
 
 #: slideshow.xml:184(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
-msgstr "Ešte viac informácií nájdete na openSUSE wiki-stránkach http://cs.opensuse.org/. V sekcii “Dokumentácia” nájdete odkazy s užitočnými informáciami, ktoré sú vytvorené a udržiavané ostatnými používateľmi openSUSE. Sú tam aj odkazy k dokumentácii, ktorá je umiestnená na oficiálnych stránkach firmy Novell. Ak hľadáte pomoc k vyriešeniu špecifických problémov, nazrite do databázy znalostí na www.opensuse.org&nbsp;."
+msgstr "Ešte viac informácií nájdete na openSUSE wiki-stránkach http://cs.opensuse.org/. V sekcii “Dokumentácia” nájdete odkazy s užitočnými informáciami, ktoré sú vytvorené a udržiavané ostatnými používateľmi openSUSE. Sú tam aj odkazy k&nbsp;dokumentácii, ktorá je umiestnená na oficiálnych stránkach firmy Novell. Ak hľadáte pomoc k vyriešeniu špecifických problémov, nazrite do databázy znalostí na www.opensuse.org&nbsp;."
 
 #: slideshow.xml:197(title)
 msgid "Novell and Linux"

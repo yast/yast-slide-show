@@ -1,21 +1,21 @@
-# translation of slideshow.po to Russian
+# translation of slideshow.ru.po to Russian
 # translation of slideshow.po to
 # @TITLE@
 # Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
 #
 # This file is distributed under the same license as @PACKAGE@ package. FIRST
 #
-# Aleksey Osipov <aliks-os@yandex.ru>, 2006, 2007.
+# Aleksey Osipov <aliks-os@yandex.ru>, 2006, 2007, 2008.
 # Nikolay Derkach <nderkach@gmail.com>, 2007, 2008.
 # Igor Kondrashkin <poseidos@mail.ru>, 2007.
 msgid ""
 msgstr ""
-"Project-Id-Version: slideshow\n"
+"Project-Id-Version: slideshow.ru\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2008-04-27 02:33+0400\n"
-"Last-Translator: Nikolay Derkach <nderkach@gmail.com>\n"
-"Language-Team: Russian <opensuse-ru@opensuse.org>\n"
+"PO-Revision-Date: 2008-05-25 23:31+0300\n"
+"Last-Translator: Aleksey Osipov <aliks-os@yandex.ru>\n"
+"Language-Team: Russian <opensuse-translation-ru@opensuse.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -64,7 +64,7 @@ msgstr "При помощи openSUSE 11.0 вы можете общаться б�
 
 #: slideshow.xml:64(para)
 msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox 3.0 also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "openSUSE включает Mozilla Firefox—один из лучших веб-обозревателей в мире. Firefox включает всевозможности, необходимые вам, чтобы наслаждаться веб, включая Java, Adobe Acrobat Reader, RealPlayer и подключаемые модули Macromedia Flash. Firefox 3.0 может также похвастаться молниеносным быстродействием и большим числом улучшений, созданных для защиты вашей конфиденциальности и предотвращения щения фишинговых атак."
+msgstr "openSUSE включает Mozilla Firefox—один из лучших веб-обозревателей в мире. Firefox включает всевозможности, необходимые вам, чтобы наслаждаться веб, включая Java, Adobe Acrobat Reader, RealPlayer и подключаемые модули Macromedia Flash. Firefox 3.0 может также похвастаться молниеносным быстродействием и большим числом улучшений, созданных для защиты вашей конфиденциальности и предотвращения фишинговых атак."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
