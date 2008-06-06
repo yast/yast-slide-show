@@ -36,11 +36,11 @@ msgstr "openSUSE.org"
 
 #: slideshow.xml:32(para)
 msgid "openSUSE is a community project created and sponsored by Novell to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
-msgstr "Komunitný projekt openSUSE založila a sponzoruje firma Novell, aby vytvorila používateľsky najprívetivšiu počítačovú platformu na svete. Mnoho ľudí z&nbsp;celého sveta prispieva do tohto projektu, či už tvorbou softvérových balíkov, testovania programov, písania dokumentácie, alebo prekladaním jednotlivých častí do množstva jazykov. Výsledky práce sú dostupné zadarmo v&nbsp;linuxovej distribúcii openSUSE, ktorú nájdete na stránke: www.opensuse.org&nbsp;."
+msgstr "Komunitný projekt openSUSE založila a sponzoruje firma Novell, aby vytvorila používateľsky najprívetivejšiu počítačovú platformu na svete. Mnoho ľudí z&nbsp;celého sveta prispieva do tohto projektu, či už tvorbou softvérových balíkov, testovania programov, písania dokumentácie, alebo prekladaním jednotlivých častí do množstva jazykov. Výsledky práce sú dostupné zadarmo v&nbsp;linuxovej distribúcii openSUSE, ktorú nájdete na stránke: www.opensuse.org&nbsp;."
 
 #: slideshow.xml:40(para)
 msgid "Visit www.opensuse.org to learn how you can join the openSUSE community."
-msgstr "Navštívte stránky www.opensuse.org a zistíte ako sa môžete zapojiť do komunity."
+msgstr "Navštívte stránky www.opensuse.org a zistíte ako sa môžete stať súčasťou komunity."
 
 #: slideshow.xml:45(title)
 msgid "openSUSE in Many Languages"
@@ -64,7 +64,7 @@ msgstr "S&nbsp;distribúciou openSUSE dostanete prehliadač webových stránok M
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
-msgstr "Ďalšou výbavou openSUSE sú programy Novell Evolution a Kontakt, komplexné aplikácie pre správu kontaktov a&nbsp;e-mailov. Pre posielanie krátkych správ sú v&nbsp;openSUSE klienti s&nbsp;jednoduchým ovládaním, ktorí majú podporu všeobecne rozšírených protokolov: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, a plno ďalších."
+msgstr "Ďalšou výbavou openSUSE sú programy Novell Evolution a Kontakt, komplexné aplikácie pre správu kontaktov a&nbsp;e-mailov. Pre posielanie krátkych správ sú v&nbsp;openSUSE klienti s&nbsp;jednoduchým ovládaním, ktorí majú podporu všeobecne rozšírených protokolov: AIM, ICQ, Google Talk, Jabber, MSN, Yahoo!, Groupwise, a plno ďalších."
 
 #: slideshow.xml:80(title)
 msgid "Create, View and Listen"
@@ -112,7 +112,7 @@ msgstr "Udržujte svoj systém zabezpečený a aktualizovaný"
 
 #: slideshow.xml:138(para)
 msgid "Help secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
-msgstr "SUSE Firewall vám pomôže ochrániť váš systém a dáta pred nepozvaným vniknutím z&nbsp;internetu. Táto ochrana je zapnutá automaticky a ľahko sa nastavuje. Ale to nie je všetko čo môžete urobiť pre zabezpečenie vášho systému. V&nbsp;openSUSE je AppArmor, ktorý je to najefektívnejšie najjednoduchšie na používanie, čo môžete v Linuxe v&nbsp;súčasnosti používať. AppArmor aktívne ochraňuje operačný systém a samotné aplikácie pred vnútornými a aj vonkajšími hrozbami."
+msgstr "SUSE Firewall vám pomôže ochrániť váš systém a dáta pred nepozvaným vniknutím z&nbsp;internetu. Táto ochrana je zapnutá automaticky a ľahko sa nastavuje. Ale to nie je všetko, čo môžete urobiť pre zabezpečenie vášho systému. V&nbsp;openSUSE je AppArmor, ktorý je to najefektívnejšie najjednoduchšie na používanie, čo môžete v Linuxe v&nbsp;súčasnosti používať. AppArmor aktívne ochraňuje operačný systém a samotné aplikácie pred vnútornými a aj vonkajšími hrozbami."
 
 #: slideshow.xml:146(para)
 msgid "In addition to SUSE Firewall and AppArmor, openSUSE also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure. And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
