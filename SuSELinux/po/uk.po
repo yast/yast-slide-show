@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2008-04-15 08:01+0300\n"
+"PO-Revision-Date: 2008-06-04 17:02+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <translation@linux.org.ua>\n"
 "MIME-Version: 1.0\n"
@@ -126,7 +126,7 @@ msgstr "Технологія віртуалізації та засоби роз
 
 #: slideshow.xml:159(para)
 msgid "Included with openSUSE is the Xen hypervisor—the highest performing virtualization software available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "openSUSE включає в себе Xen hypervisor — ПЗ віртуалізації з найкращою швидкодією. Крім цього, openSUSE надає засоби для спільного доступу до файлів в мережі, друку (Samba) і веб-гостингу (Apache). Для розробки програм, openSUSE має повний набір середовищ виконання, а ще містить засоби розробки програмного забезпечення, такі як KDevelop, Eclipse і Mono."
+msgstr "openSUSE включає в себе Xen hypervisor — ПЗ віртуалізації з найкращою швидкодією. Крім цього, openSUSE надає засоби для спільного доступу до файлів в мережі, друку (Samba) і виконання обов’язків провідного вузла мережі (Apache). Для розробки програм, openSUSE має повний набір середовищ виконання, а ще містить засоби розробки програмного забезпечення, такі як KDevelop, Eclipse і Mono."
 
 #: slideshow.xml:166(para)
 msgid "You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."

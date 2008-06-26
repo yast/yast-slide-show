@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.de\n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2008-04-25 11:59+0200\n"
+"PO-Revision-Date: 2008-06-09 17:45+0200\n"
 "Last-Translator: Michael Skiba <trans@michael-skiba.de>\n"
 "Language-Team: German <opensuse-translation-de@opensuse.org>\n"
 "MIME-Version: 1.0\n"
@@ -75,7 +75,7 @@ msgstr "Dokumente, Tabellenkalkulationen und mehr"
 
 #: slideshow.xml:93(para)
 msgid "The openSUSE 11.0 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr "Im Lieferumfang von openSUSE 11.0 ist die neueste Version der führenden Office Suit von Linux, OpenOffice.org. Openoffice.org enthält ein Textverarbeitungsprogramm, eine Tabellenkalkulationsanwendung, einen HTML-Editor, ein Programm zur Erstellung von Präsentationen und eine Datenbankanwendung. Es liest und schreibt in vielen Formaten — u.a. auch den Microsoft Office Formaten — So können Sie sich bequem zwischen openSUSE und populärer nicht-linux Anwendungen bewegen. Es ist optimal für das erstellen von Berichten, Dokumenten, privaten Finanzkalkulationen, einfachen Grafiken und vieles mehr geeignet."
+msgstr "Im Lieferumfang von openSUSE 11.0 ist die neueste Version der führenden Office-Suite von Linux, OpenOffice.org. Openoffice.org enthält ein Textverarbeitungsprogramm, eine Tabellenkalkulationsanwendung, einen HTML-Editor, ein Programm zur Erstellung von Präsentationen und eine Datenbankanwendung. Es liest und schreibt in vielen Formaten — u.a. auch den Microsoft Office Formaten — So können Sie sich bequem zwischen openSUSE und populärer nicht-linux Anwendungen bewegen. Es ist optimal für das erstellen von Berichten, Dokumenten, privaten Finanzkalkulationen, einfachen Grafiken und vieles mehr geeignet."
 
 #: slideshow.xml:104(title)
 msgid "Graphics, Graphics, Graphics"
