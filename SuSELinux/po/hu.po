@@ -8,10 +8,10 @@
 # Kalman Kemenczy <kkemenczy@novell.com>, 2006, 2007, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: slideshow.hu\n"
+"Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2008-05-18 22:26+0200\n"
+"PO-Revision-Date: 2008-06-01 20:01+0200\n"
 "Last-Translator: Kalman Kemenczy <kkemenczy@novell.com>\n"
 "Language-Team:  <hu@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -74,7 +74,7 @@ msgstr "Alkotás, megtekintés és zenehallgatás"
 
 #: slideshow.xml:81(para)
 msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
-msgstr "Letölthet zenéket az internetről vagy másolatot készíthet a CD lemezein szereplő dalokról saját zenekönyvtár kialakításához. Hallgathatja a számokat online, írhat belőlük CD-t és DVD-t, vagy átmásolhatja a hanganyagokat iPod vagy más médialejátszójára, hogy magával vihesse őket bárhová. A digitális képek szerkesztését nagyszerű grafikus programok segítik. Mindezek pofonegyszerűek az openSUSE használatával."
+msgstr "Letölthet zenéket az internetről vagy másolatot készíthet a CD-lemezein szereplő dalokról saját zenekönyvtár kialakításához. Hallgathatja a számokat online, írhat belőlük CD-t és DVD-t, vagy átmásolhatja a hanganyagokat iPod vagy más médialejátszójára, hogy magával vihesse őket bárhová. A digitális képek szerkesztését nagyszerű grafikus programok segítik. Mindezek pofonegyszerűek az openSUSE használatával."
 
 #: slideshow.xml:91(title)
 msgid "Documents, Spreadsheets and More"
@@ -90,7 +90,7 @@ msgstr "Grafikák, grafikák és... grafikák"
 
 #: slideshow.xml:106(para)
 msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
-msgstr "Az openSUSE eszközeivel gyakorlatilag bármilyen típusú rajz és grafika elkészíthető és módosítható. Kifinomult képkezeléshez a GIMP fotóretusáló, képszerkesztő és -rajzoló program széleskörű funkcionalitást biztosít, amely a legigényesebb művészek igényeit is kielégíti."
+msgstr "Az openSUSE eszközeivel gyakorlatilag bármilyen típusú rajz és grafika elkészíthető és módosítható. Kifinomult képkezeléshez a GIMP fotóretusáló, képszerkesztő és -rajzoló program széles körű funkcionalitást biztosít, amely a legigényesebb művészek igényeit is kielégíti."
 
 #: slideshow.xml:112(para)
 msgid "For vector graphics, openSUSE includes Inkscape—a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
@@ -130,7 +130,7 @@ msgstr "Az openSUSE tartalmazza a legnagyobb teljesítményű virtualizációs s
 
 #: slideshow.xml:166(para)
 msgid "You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
-msgstr "Szinte bármit fejleszthet az openSUSE segítségével. Könnyedén készíthet és publikálhat új csomagokat a legkülönbözőbb Linux disztribúciókhoz a nagy teljesítményű openSUSE Build Service szolgáltatásainak segítségével. Csatlakozzon Ön is az openSUSE.org közösségéhez."
+msgstr "Szinte bármit fejleszthet az openSUSE segítségével. Könnyedén készíthet és publikálhat új csomagokat a legkülönbözőbb Linux-disztribúciókhoz a nagy teljesítményű openSUSE Build Service szolgáltatásainak segítségével. Csatlakozzon Ön is az openSUSE.org közösségéhez."
 
 #: slideshow.xml:174(title)
 msgid "Learn More"

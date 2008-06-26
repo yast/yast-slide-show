@@ -1,16 +1,19 @@
+# translation of slideshow.po to Italiano
 # Copyright (C) 2006 SuSE Linux Products GmbH, Nuernberg
 # This file is distributed under the same license as the package.
 #
+# Andrea Florio <andrea@opensuse.org>, 2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2008-05-15 17:31-0600\n"
-"Last-Translator: Alberto Passalacqua <alberto.passalacqua@tin.it>\n"
-"Language-Team: Novell Language <language@novell.com>\n"
+"PO-Revision-Date: 2008-06-01 12:47+0200\n"
+"Last-Translator: Andrea Florio <andrea@opensuse.org>\n"
+"Language-Team: Italiano <opensuse-translation@opensuse.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
@@ -30,7 +33,7 @@ msgstr "openSUSE.org"
 
 #: slideshow.xml:32(para)
 msgid "openSUSE is a community project created and sponsored by Novell to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
-msgstr "openSUSE è un progetto della communiti creata e sponsorizzata da Novell per fornire la piattaforma informatica più user-friendly al mondo. Molte persone sono contribuiscono da tutto il mondo al progetto openSUSE con la preparazione di pacchetti software, la verifica dei programmi, nella scrittura della documentazione e nella localizzazione dei componenti in decine di lingue. il frutto di tutto questo impegno è disponibile liberamente nella distribuzione Linux openSUSE, scaricabile al'indirizzo www.opensuse.org"
+msgstr "openSUSE è un progetto della comunità creata e sponsorizzata da Novell per fornire la piattaforma informatica più user-friendly al mondo. Molte persone contribuiscono da tutto il mondo al progetto openSUSE con la preparazione di pacchetti software, la verifica dei programmi, nella scrittura della documentazione e nella localizzazione dei componenti in decine di lingue. il frutto di tutto questo impegno è disponibile liberamente nella distribuzione Linux openSUSE, scaricabile al'indirizzo www.opensuse.org"
 
 #: slideshow.xml:40(para)
 msgid "Visit www.opensuse.org to learn how you can join the openSUSE community."
@@ -62,7 +65,7 @@ msgstr "In openSUSE sono inclusi anche Novell Evolution e Kontact, applicazioni 
 
 #: slideshow.xml:80(title)
 msgid "Create, View and Listen"
-msgstr "Create, visualizzate e ascontate"
+msgstr "Create, visualizzate e ascoltate"
 
 #: slideshow.xml:81(para)
 msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
@@ -110,7 +113,7 @@ msgstr "Proteggete il vostro sistema e i vostri dati dagli attacchi provenienti 
 
 #: slideshow.xml:146(para)
 msgid "In addition to SUSE Firewall and AppArmor, openSUSE also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure. And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
-msgstr "Oltre a SUSE Firewall e AppArmor, openSUSE include uno speciale sistema per gli aggiornamenti di sicurezza. Per essere certi che gli ultimi aggiornamenti di sicurezza siano installati sul vostro sistema, è possibile scegliere di effettuare un aggiornamento online al termine della procedura di installazione. In futuro, sarete automaticamente informati della disponibilità di importanti aggiornamenti di sicurezza, così che possiate installarle a seconda delle vostre esigenze."
+msgstr "Oltre a SUSE Firewall e AppArmor, openSUSE include uno speciale sistema per gli aggiornamenti di sicurezza. Per essere certi che gli ultimi aggiornamenti di sicurezza siano installati sul vostro sistema, è possibile scegliere di effettuare un aggiornamento online al termine della procedura di installazione. In futuro, sarete automaticamente informati della disponibilità di importanti aggiornamenti di sicurezza, così che possiate installarli a seconda delle vostre esigenze."
 
 #: slideshow.xml:157(title)
 msgid "Virtualization Technology and Application Development Tools"
@@ -159,7 +162,7 @@ msgstr ""
 "Ringraziamenti particolari a:\n"
 "  * Giuseppe Bevacqua <gepeppe@gmail.com>, 2008 \n"
 "  * Luca Giusti <addictedtox@hotmail.it>, 2008 \n"
-"  * Andrea Florio <andreafl@libero.it>, 2008 \n"
+"  * Andrea Florio <andreafl@opensuse.org>, 2008 \n"
 "  * Ezio Tonetto <murdock2000@email.it>, 2007, 2008 \n"
 "  * Craig Jeffare ed i traduttori della Novell\n"
 "  * Monica Badia ed i traduttori della SUN\n"
@@ -168,21 +171,4 @@ msgstr ""
 "  * Marco Ciampa\n"
 "  * tutti i revisori del TP\n"
 "  * Ettore Perazzoli, perso, ma mai dimenticato"
-
-#~ msgid "Also included with openSUSE are Novell Evolution and Kontact. These complete e-mail and contact managers help you organize and maintain all your e-mail accounts. The openSUSE distribution also comes with state-of-the-art Voice over IP (VoIP) solutions that let you communicate with people connected to the Internet all over the world."
-#~ msgstr "Novell Evolution e Kontact sono anche inclusi in openSUSE. Queste suite complete per la gestione della posta elettronica e dei contatti vi aiuteranno ad organizzare e gestire i vostri account di posta elettronica. La distribuzione openSUSE è fornita con le soluzioni allo stato dell'arte per il Voice over IP (VoIP), che vi consentiranno di comunicare con le persone connesse alla rete in tutto il mondo."
-#~ msgid "Keep Your System Secure and Up-to-Date"
-#~ msgstr "Mantenere il sistema protetto e aggiornato"
-#~ msgid "The Latest Desktop Innovations"
-#~ msgstr "Ultime innovazioni Desktop"
-
-#, fuzzy
-#~ msgid "openSUSE provides you with a choice of the most usable graphical desktop environments. Choose from the most up-to-date Linux graphical environments--GNOME and KDE--each combining ease of use, contemporary functionality, and outstanding graphical design with the technological superiority of the Linux operating system."
-#~ msgstr "openSUSE include una vasta scelta dei più utilizzabili ambienti grafici desktop, tra cui le ultime versioni GNOME 2.16 e KDE 3.5 per Linux, ciascuna delle quali combina facilità d'uso, funzionalità innovative e disegno grafico avanzato con la superiorità tecnologica del sistema operativo Linux."
-#~ msgid "If you run Linux on a laptop, you will be glad you chose openSUSE. It includes the most advanced mobility features. Switch between wireless and wired networks with our NetworkManager, connect with mobile phones and PDAs that support Bluetooth, and even use infrared ports to synchronize with cell phones or PalmOS devices. Of course, USB memory sticks are no problem. Finally, new power management features give you the option to \"suspend\" your session, saving it to disk or RAM. Not only does suspend allow you to turn off and restart the system faster, but when you do restart, you are exactly where you were when you stopped."
-#~ msgstr "openSUSE è particolarmente indicato agli utenti che eseguono Linux in un computer portatile poiché include le più avanzate soluzioni mobile, ad esempio NetworkManager che consente di passare velocemente da reti wireless a reti cablate e viceversa, di connettersi ai telefoni cellulari e ai dispositivi PDA che supportano la tecnologia Bluetooth e persino di utilizzare porte a infrarossi per effettuare la sincronizzazione con telefoni cellulari o dispositivi PalmOS. È possibile utilizzare le memory stick senza problemi grazie alle efficienti funzioni di risparmio energetico che consentono di \"sospendere\" la sessione salvandola sul disco o sulla memoria RAM. Questa funzionalità di sospensione consente di spegnere e riavviare il computer più velocemente, visualizzando, dopo il riavvio, il punto esatto di interruzione."
-#~ msgid "Learn More with Documentation"
-#~ msgstr "Ulteriori informazioni con la documentazione"
-#~ msgid "openSUSE includes both SUSE-specific and general Linux documentation. The SUSE Help Center, available from the main menu or with the susehelp command, provides one-stop access to all the help included with your system. For example, use it to read the SUSE manuals, man pages, and info pages. If you want to print your own copy of the manuals, you can download a PDF version. Find the URL for the PDFs at http://en.opensuse.org/Documentation."
-#~ msgstr "openSUSE include la documentazione generale su Linux e specifica su SUSE. l'Help Center SUSE, disponibile dal menu principale o con il comando susehelp, consente di accedere in maniera dettagliata a tutte le Guide presenti nel sistema. È possibile utilizzare questa funzionalità, ad esempio per leggere i manuali SUSE, le pagine di manuale e quelle informative. Per stampare una copia dei manuali, scaricare una versione PDF. Gli URL del materiale PDF sono disponibili sul sito Web all'indirizzo: http://en.opensuse.org/Documentation."
 
