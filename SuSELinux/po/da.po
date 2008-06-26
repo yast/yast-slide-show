@@ -108,7 +108,7 @@ msgstr "openSUSE inkluderer de mest avancerede mobilitetsfunktioner. Skift helt 
 
 #: slideshow.xml:128(para)
 msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
-msgstr "De nyeste innovationer indenfor strømstyring fra openSUSE øger din mobilitet, og giver dig frihed til at tage dit arbejde med dig, hvor du end færdes."
+msgstr "De nyeste innovationer inden for strømstyring fra openSUSE øger din mobilitet, og giver dig frihed til at tage dit arbejde med dig, hvor du end færdes."
 
 #: slideshow.xml:136(title)
 msgid "Keep Your System Secure and Up to Date"
