@@ -4,7 +4,7 @@
 <!ENTITY suse "SUSE">
 <!ENTITY suselinux "&suse; Linux">
 <!ENTITY opensuse "openSUSE">
-<!ENTITY suse-version "11.0">
+<!ENTITY suse-version "11.1">
 ]>
 <!-- <table cellspacing="10" cellpadding="5"> -->
 <!--   <tr> -->
@@ -37,8 +37,8 @@ software, testing programs, writing documentation, and translating
 components into dozens of languages. All of that work is available 
 for free in the openSUSE Linux distribution available at www.opensuse.org.
 </para>
-<para>Visit www.opensuse.org to learn how you can join the openSUSE
-  community.</para>
+<para>Visit www.opensuse.org/How_to_Participate to learn how you can join 
+the openSUSE community.</para>
  </section>
 
  <section label="02_z_opensuse">
@@ -56,15 +56,15 @@ Find the localization portal at: http://i18n.opensuse.org/</para>
   <title>Connect and Communicate</title>
 
 <para>
-You can communicate more effectively with openSUSE 11.0 because it
+You can communicate more effectively with openSUSE &suse-version; because it
 provides a complete set of tools for Web browsing and e-mail
-management—it even includes the newest Voice over IP technology.
+management - it even includes the newest Voice over IP technology.
 </para>
 
 <para>openSUSE includes Mozilla Firefox, one of the best Web browsers
 in the world. Firefox includes all the features you need to enjoy
-the Web, including the Java, Adobe Acrobat Reader, RealPlayer, and 
-Macromedia Flash plugins. Firefox 3.0 also boasts lightning-fast
+the Web, including Java, Adobe Acrobat Reader, RealPlayer, and 
+Macromedia Flash plugins. Firefox also boasts lightning-fast
 performance, and a number of improvements designed to protect your
 privacy and prevent phishing attacks.</para>
 
@@ -156,17 +156,12 @@ important security updates, so you can install them at your convenience.
  <section label="10_devel">
   <title>Virtualization Technology and Application Development Tools</title>
 
-  <para>Included with openSUSE is the Xen hypervisor—the highest 
-performing virtualization software available. In addition, openSUSE 
+  <para>The Xen hypervisor is included with openSUSE. Xen is one of the most 
+robust solutions for virtualization available. In addition, openSUSE 
 provides tools for network file sharing, printing (Samba) and Web hosting 
 (Apache). For application development, openSUSE comes with a complete 
 set of runtime environments plus extensive application development tools, 
 including KDevelop, Eclipse and Mono.</para>
-
-<para>You can build almost anything with openSUSE. It's easy to create and
-share new packages for multiple Linux distributions using the unique and
-powerful openSUSE Build Service. Join openSUSE.org to collaborate.
-</para>
 
  </section>
 
@@ -179,6 +174,7 @@ Center is accessible via the main menu . Manuals are also available in
 PDF and can be downloaded and printed <!-- translator: check whether a
 dedicated page exists for your language and use it instead of "en" -->
 (http://en.opensuse.org/Documentation).
+
     </para>
 
     <para>
@@ -191,6 +187,20 @@ documentation available on the official Novell Web site. For help with
 specific openSUSE problems, check out the Support Database at
 www.opensuse.org
     </para>
+
+<para>For support from other openSUSE users, visit the official openSUSE
+forums at http://forums.opensuse.org/. Here you'll find thousands of other
+openSUSE users, eager to help you get everything you can out of Linux. If 
+you're an experienced openSUSE user, the forums are a great place to meet 
+other users, and help out other Linux users.
+</para>
+
+<para>Want to make openSUSE even better? You can build almost anything 
+with openSUSE. It's easy to create and share new packages for multiple 
+Linux distributions using the unique and powerful openSUSE Build Service. 
+Join openSUSE.org to collaborate.
+</para>
+
   </section>
 
  <section label="12_novell">
@@ -205,7 +215,7 @@ The enterprise Linux products from Novell include SUSE Linux Enterprise Server,
 SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise
 products are delivered with a seven-year maintenance guarantee and optional
 support programs. For more information on enterprise Linux from Novell, visit
-www.novell.com/linux
+http://www.novell.com/linux
 </para>
 
  </section>
