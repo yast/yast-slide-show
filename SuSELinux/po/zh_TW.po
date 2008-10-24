@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
-"POT-Creation-Date: 2008-04-14 15:05+0200\n"
+"POT-Creation-Date: 2008-10-22 11:30+0200\n"
 "PO-Revision-Date: 2008-05-10 03:00+0800\n"
 "Last-Translator: swyear <swyear@gmail.com>\n"
 "Language-Team: Chinese Traditional <zh@li.org>\n"
@@ -24,7 +24,8 @@ msgid "Welcome to openSUSE™"
 msgstr "歡迎使用 openSUSE"
 
 #: slideshow.xml:20(para)
-msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.0."
+#, fuzzy
+msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.1."
 msgstr "無論您要用電腦做什麼，像是與朋友、親戚或同事連絡，享受及管理您的音樂和圖片，瀏覽網路上最新消息或享樂，撰寫報告或編寫預算，甚至管理個人網站主機或家庭網路，openSUSE 11.0 都能滿足您的需求。"
 
 #: slideshow.xml:30(title)
@@ -36,7 +37,8 @@ msgid "openSUSE is a community project created and sponsored by Novell to delive
 msgstr "openSUSE 是一個由 Novell 所建立與贊助的社群計畫，提供世界上最友善的電腦平台。全世界許多人都經由包裝軟體、測試程式、撰寫文件以及將這些部份翻譯成各種語言來參與 openSUSE 社群。所有這些成果都包含在 openSUSE Linux 發行版本，您可以在 www.opensuse.org 免費取得。"
 
 #: slideshow.xml:40(para)
-msgid "Visit www.opensuse.org to learn how you can join the openSUSE community."
+#, fuzzy
+msgid "Visit www.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
 msgstr "請造訪 www.opensuse.org 加入成為 openSUSE 社群的一份子。"
 
 #: slideshow.xml:45(title)
@@ -52,11 +54,13 @@ msgid "Connect and Communicate"
 msgstr "連繫與溝通"
 
 #: slideshow.xml:58(para)
-msgid "You can communicate more effectively with openSUSE 11.0 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
+#, fuzzy
+msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
 msgstr "使用 openSUSE 11.0 您可以更有效的進行溝通與連繫，他提供了完整的工具組讓您能進行網頁瀏覽和電子郵件管理，甚至包含最新的網路 IP 電話技術。"
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox 3.0 also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+#, fuzzy
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
 msgstr "openSUSE 包含了 Mozilla Firefox 網頁瀏覽器 - 市面上最好的網頁瀏覽器。Firefox 包含了所有享受網頁所需要的功能，包括 Java、Adobe  Acrobat Reader、RealPlayer 與 Macromedia Flash 外掛程式。Firefox 3.0 具有快如閃電的執行效能並改進了一些設計來保護您的隱私並防止網路釣魚攻擊。"
 
 #: slideshow.xml:71(para)
@@ -76,7 +80,8 @@ msgid "Documents, Spreadsheets and More"
 msgstr "文件、試算表及其他"
 
 #: slideshow.xml:93(para)
-msgid "The openSUSE 11.0 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
+#, fuzzy
+msgid "The openSUSE 11.1 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
 msgstr "openSUSE 11.0 包含了完整最先進的新版 Linux 生產力套裝軟體， OpenOffice.org。它包含了文書處理程式、試算表、HTML 編輯器、簡報設計和資料庫管理。它可以讀寫多種的檔案格式—包含Microsoft Office 格式—所以您能夠很輕易的在 openSUSE 和其他非-Linux 系統的生產力套裝軟體間轉換。OpenOffice.org 對於報告、文書、家庭預算、簡易圖形處理及其他方面都是您的最完美選擇。"
 
 #: slideshow.xml:104(title)
@@ -120,35 +125,42 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "虛擬技術與應用程式開發工具"
 
 #: slideshow.xml:159(para)
-msgid "Included with openSUSE is the Xen hypervisor—the highest performing virtualization software available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
+#, fuzzy
+msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
 msgstr "openSUSE 配備了 Xen 超管理工具 - 目前最高效能的虛擬機器軟體。另外，openSUSE 也提供了網路檔案分享、列印 (Samba) 以及網站管理 (Apache) 工具。在應用程式開發方面，openSUSE 擁有完整的執行環境加上擴充的應用程式開發工具，包括 KDevelop、Eclipse 和 Mono。"
 
-#: slideshow.xml:166(para)
-msgid "You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
-msgstr "您幾乎可以在 openSUSE 上建構所有東西。使用唯一且強力的 openSUSE Build Service，您可以輕易的建構與分享適用於許多 Linux 發行版本的新套件。請加入 openSUSE.org 共同合作。"
-
-#: slideshow.xml:174(title)
+#: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "了解更多"
 
-#: slideshow.xml:175(para)
+#: slideshow.xml:170(para)
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "openSUSE 提供了擴充的文件，包含了關於 openSUSE 以及一般 Linux 相關的問題。求助中心可以由主選單進入。手冊也提供了 PDF 的版本供您下載和列印 (http://en.opensuse.org/Documentation)。"
 
-#: slideshow.xml:184(para)
+#: slideshow.xml:180(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
 msgstr "您可以在 http://en.opensuse.org 的 openSUSE 維基百科上獲得更多的資訊。在「文件」中，您會發現由其他 openSUSE 使用者撰寫與維護的有用資訊連結。您也可以找到 Novell 官方網站所提供的文件連結。關於 openSUSE 的問題，您可以從 www.opensuse.org 的支援資料庫取得更多幫助。"
 
-#: slideshow.xml:197(title)
+#: slideshow.xml:191(para)
+msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
+msgstr ""
+
+#: slideshow.xml:198(para)
+#, fuzzy
+msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
+msgstr "您幾乎可以在 openSUSE 上建構所有東西。使用唯一且強力的 openSUSE Build Service，您可以輕易的建構與分享適用於許多 Linux 發行版本的新套件。請加入 openSUSE.org 共同合作。"
+
+#: slideshow.xml:207(title)
 msgid "Novell and Linux"
 msgstr "Novell 與 Linux"
 
-#: slideshow.xml:198(para)
+#: slideshow.xml:208(para)
 msgid "Novell is committed to your success with Linux. In addition to openSUSE, Novell also delivers an exciting suite of products designed to meet the needs of businesses large and small."
 msgstr "Novell 用 Linux 幫助您實現成功的願望。除了 openSUSE 之外，Novell 還提供專為滿足中小型企業需求而設定的套裝產品。"
 
-#: slideshow.xml:203(para)
-msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit www.novell.com/linux"
+#: slideshow.xml:213(para)
+#, fuzzy
+msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit http://www.novell.com/linux"
 msgstr "Novell 的企業級 Linux 產品包括 SUSE Linux Enterprise Server、SUSE Linux Enterprise Desktop 和 Novell Open Enterprise Server。我們的企業級產品提供 7 年的維護保證以及選購的支援程式。關於 Novell 的企業級 Linux 產品的更多資訊，請造訪 www.novell.com/linux。"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
@@ -163,4 +175,3 @@ msgstr ""
 "Craig Jeffares <cjeffares@novell.com>, 2004\n"
 "Joe Man <trmetal@yahoo.com.hk>, 2001\n"
 "Ray Chen <swyear@gmail.com>,2007"
-

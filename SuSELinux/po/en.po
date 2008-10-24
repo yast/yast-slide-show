@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2008-04-14 15:05+0200\n"
+"POT-Creation-Date: 2008-10-22 11:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,13 +23,13 @@ msgid ""
 "colleagues; to manage and enjoy your pictures and music; to browse the "
 "Internet for the latest news or for fun; to write a report or budget; or to "
 "host a personal Web site or home network, you will find everything you need "
-"in openSUSE 11.0."
+"in openSUSE 11.1."
 msgstr ""
 "Whether you use your computer to communicate with friends, family, or "
 "colleagues; to manage and enjoy your pictures and music; to browse the "
 "Internet for the latest news or for fun; to write a report or budget; or to "
 "host a personal Web site or home network, you will find everything you need "
-"in openSUSE 11.0."
+"in openSUSE 11.1."
 
 #: slideshow.xml:30(title)
 msgid "openSUSE.org"
@@ -53,9 +53,11 @@ msgstr ""
 
 #: slideshow.xml:40(para)
 msgid ""
-"Visit www.opensuse.org to learn how you can join the openSUSE community."
+"Visit www.opensuse.org/How_to_Participate to learn how you can join the "
+"openSUSE community."
 msgstr ""
-"Visit www.opensuse.org to learn how you can join the openSUSE community."
+"Visit www.opensuse.org/How_to_Participate to learn how you can join the "
+"openSUSE community."
 
 #: slideshow.xml:45(title)
 msgid "openSUSE in Many Languages"
@@ -79,26 +81,26 @@ msgstr "Connect and Communicate"
 
 #: slideshow.xml:58(para)
 msgid ""
-"You can communicate more effectively with openSUSE 11.0 because it provides "
-"a complete set of tools for Web browsing and e-mail management—it even "
+"You can communicate more effectively with openSUSE 11.1 because it provides "
+"a complete set of tools for Web browsing and e-mail management - it even "
 "includes the newest Voice over IP technology."
 msgstr ""
-"You can communicate more effectively with openSUSE 11.0 because it provides "
-"a complete set of tools for Web browsing and e-mail management—it even "
+"You can communicate more effectively with openSUSE 11.1 because it provides "
+"a complete set of tools for Web browsing and e-mail management - it even "
 "includes the newest Voice over IP technology."
 
 #: slideshow.xml:64(para)
 msgid ""
 "openSUSE includes Mozilla Firefox, one of the best Web browsers in the "
 "world. Firefox includes all the features you need to enjoy the Web, "
-"including the Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash "
-"plugins. Firefox 3.0 also boasts lightning-fast performance, and a number of "
+"including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash "
+"plugins. Firefox also boasts lightning-fast performance, and a number of "
 "improvements designed to protect your privacy and prevent phishing attacks."
 msgstr ""
 "openSUSE includes Mozilla Firefox, one of the best Web browsers in the "
 "world. Firefox includes all the features you need to enjoy the Web, "
-"including the Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash "
-"plugins. Firefox 3.0 also boasts lightning-fast performance, and a number of "
+"including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash "
+"plugins. Firefox also boasts lightning-fast performance, and a number of "
 "improvements designed to protect your privacy and prevent phishing attacks."
 
 #: slideshow.xml:71(para)
@@ -137,7 +139,7 @@ msgstr "Documents, Spreadsheets and More"
 
 #: slideshow.xml:93(para)
 msgid ""
-"The openSUSE 11.0 distribution comes complete with the latest version of the "
+"The openSUSE 11.1 distribution comes complete with the latest version of the "
 "leading Linux productivity suite, OpenOffice.org. It features a word "
 "processor, spreadsheet application, HTML editor, presentation designer, and "
 "database manager. It reads and writes multiple formats—including Microsoft "
@@ -145,7 +147,7 @@ msgid ""
 "popular non-Linux productivity software. OpenOffice.org is the perfect "
 "choice for reports, papers, home budgets, simple graphics and more."
 msgstr ""
-"The openSUSE 11.0 distribution comes complete with the latest version of the "
+"The openSUSE 11.1 distribution comes complete with the latest version of the "
 "leading Linux productivity suite, OpenOffice.org. It features a word "
 "processor, spreadsheet application, HTML editor, presentation designer, and "
 "database manager. It reads and writes multiple formats—including Microsoft "
@@ -243,35 +245,25 @@ msgstr "Virtualization Technology and Application Development Tools"
 
 #: slideshow.xml:159(para)
 msgid ""
-"Included with openSUSE is the Xen hypervisor—the highest performing "
-"virtualization software available. In addition, openSUSE provides tools for "
-"network file sharing, printing (Samba) and Web hosting (Apache). For "
+"The Xen hypervisor is included with openSUSE. Xen is one of the most robust "
+"solutions for virtualization available. In addition, openSUSE provides tools "
+"for network file sharing, printing (Samba) and Web hosting (Apache). For "
 "application development, openSUSE comes with a complete set of runtime "
 "environments plus extensive application development tools, including "
 "KDevelop, Eclipse and Mono."
 msgstr ""
-"Included with openSUSE is the Xen hypervisor—the highest performing "
-"virtualization software available. In addition, openSUSE provides tools for "
-"network file sharing, printing (Samba) and Web hosting (Apache). For "
+"The Xen hypervisor is included with openSUSE. Xen is one of the most robust "
+"solutions for virtualization available. In addition, openSUSE provides tools "
+"for network file sharing, printing (Samba) and Web hosting (Apache). For "
 "application development, openSUSE comes with a complete set of runtime "
 "environments plus extensive application development tools, including "
 "KDevelop, Eclipse and Mono."
 
-#: slideshow.xml:166(para)
-msgid ""
-"You can build almost anything with openSUSE. It's easy to create and share "
-"new packages for multiple Linux distributions using the unique and powerful "
-"openSUSE Build Service. Join openSUSE.org to collaborate."
-msgstr ""
-"You can build almost anything with openSUSE. It's easy to create and share "
-"new packages for multiple Linux distributions using the unique and powerful "
-"openSUSE Build Service. Join openSUSE.org to collaborate."
-
-#: slideshow.xml:174(title)
+#: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "Learn More"
 
-#: slideshow.xml:175(para)
+#: slideshow.xml:170(para)
 msgid ""
 "The openSUSE distribution provides extensive documentation for specific "
 "openSUSE questions as well as general Linux-related questions. The Help "
@@ -283,7 +275,7 @@ msgstr ""
 "Center is accessible via the main menu . Manuals are also available in PDF "
 "and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 
-#: slideshow.xml:184(para)
+#: slideshow.xml:180(para)
 msgid ""
 "Even more information is available in the openSUSE wiki at http://en."
 "opensuse.org/. Under \"Documentation,\" you'll discover links to useful "
@@ -299,12 +291,38 @@ msgstr ""
 "For help with specific openSUSE problems, check out the Support Database at "
 "www.opensuse.org"
 
-#: slideshow.xml:197(title)
-msgid "Novell and Linux"
-msgstr "Novell and Linux"
+#: slideshow.xml:191(para)
+msgid ""
+"For support from other openSUSE users, visit the official openSUSE forums at "
+"http://forums.opensuse.org/. Here you'll find thousands of other openSUSE "
+"users, eager to help you get everything you can out of Linux. If you're an "
+"experienced openSUSE user, the forums are a great place to meet other users, "
+"and help out other Linux users."
+msgstr ""
+"For support from other openSUSE users, visit the official openSUSE forums at "
+"http://forums.opensuse.org/. Here you'll find thousands of other openSUSE "
+"users, eager to help you get everything you can out of Linux. If you're an "
+"experienced openSUSE user, the forums are a great place to meet other users, "
+"and help out other Linux users."
 
 #: slideshow.xml:198(para)
 msgid ""
+"Want to make openSUSE even better? You can build almost anything with "
+"openSUSE. It's easy to create and share new packages for multiple Linux "
+"distributions using the unique and powerful openSUSE Build Service. Join "
+"openSUSE.org to collaborate."
+msgstr ""
+"Want to make openSUSE even better? You can build almost anything with "
+"openSUSE. It's easy to create and share new packages for multiple Linux "
+"distributions using the unique and powerful openSUSE Build Service. Join "
+"openSUSE.org to collaborate."
+
+#: slideshow.xml:207(title)
+msgid "Novell and Linux"
+msgstr "Novell and Linux"
+
+#: slideshow.xml:208(para)
+msgid ""
 "Novell is committed to your success with Linux. In addition to openSUSE, "
 "Novell also delivers an exciting suite of products designed to meet the "
 "needs of businesses large and small."
@@ -313,19 +331,19 @@ msgstr ""
 "Novell also delivers an exciting suite of products designed to meet the "
 "needs of businesses large and small."
 
-#: slideshow.xml:203(para)
+#: slideshow.xml:213(para)
 msgid ""
 "The enterprise Linux products from Novell include SUSE Linux Enterprise "
 "Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our "
 "enterprise products are delivered with a seven-year maintenance guarantee "
 "and optional support programs. For more information on enterprise Linux from "
-"Novell, visit www.novell.com/linux"
+"Novell, visit http://www.novell.com/linux"
 msgstr ""
 "The enterprise Linux products from Novell include SUSE Linux Enterprise "
 "Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our "
 "enterprise products are delivered with a seven-year maintenance guarantee "
 "and optional support programs. For more information on enterprise Linux from "
-"Novell, visit www.novell.com/linux"
+"Novell, visit http://www.novell.com/linux"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: slideshow.xml:0(None)

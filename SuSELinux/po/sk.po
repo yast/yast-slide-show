@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-04-14 15:05+0200\n"
+"POT-Creation-Date: 2008-10-22 11:30+0200\n"
 "PO-Revision-Date: 2008-04-16 15:35+0100\n"
 "Last-Translator: Ladislav Michnovič <lmichnovic@suse.cz>\n"
 "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
@@ -27,7 +27,8 @@ msgid "Welcome to openSUSE™"
 msgstr "Vítame Vás v openSUSE™"
 
 #: slideshow.xml:20(para)
-msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.0."
+#, fuzzy
+msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.1."
 msgstr "Či už chcete používať počítač na komunikáciu s&nbsp;kamoššmi, príbuznými, alebo spolupracovníkmi; alebo si vytvoriť albumy hudby a fotiek, počúvať hudbu, prezerať si webové stránky Internetu, kde nájdete najčerstvejšie správy&nbsp;a informácie; či napísať výročnú správu alebo navrhnúť rozpočet; poskytovať osobné webové stránky a rozchodiť domácu sieť: v&nbsp;openSUSE 11.0 nájdete všetko potrebné pre zrealizovanie týchto vecí na vašom počítači."
 
 #: slideshow.xml:30(title)
@@ -39,7 +40,8 @@ msgid "openSUSE is a community project created and sponsored by Novell to delive
 msgstr "Komunitný projekt openSUSE založila a sponzoruje firma Novell, aby vytvorila používateľsky najprívetivejšiu počítačovú platformu na svete. Mnoho ľudí z&nbsp;celého sveta prispieva do tohto projektu, či už tvorbou softvérových balíkov, testovania programov, písania dokumentácie, alebo prekladaním jednotlivých častí do množstva jazykov. Výsledky práce sú dostupné zadarmo v&nbsp;linuxovej distribúcii openSUSE, ktorú nájdete na stránke: www.opensuse.org&nbsp;."
 
 #: slideshow.xml:40(para)
-msgid "Visit www.opensuse.org to learn how you can join the openSUSE community."
+#, fuzzy
+msgid "Visit www.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
 msgstr "Navštívte stránky www.opensuse.org a zistíte ako sa môžete stať súčasťou komunity."
 
 #: slideshow.xml:45(title)
@@ -55,11 +57,13 @@ msgid "Connect and Communicate"
 msgstr "Pripojte sa a komunikujte"
 
 #: slideshow.xml:58(para)
-msgid "You can communicate more effectively with openSUSE 11.0 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
+#, fuzzy
+msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
 msgstr "S&nbsp;openSUSE 11.0 môžete komunikovať efektívnejšie, pretože poskytuje kompletnú sadu nástrojov na prehľadávanie webových stránok, správu e-mailov&nbsp;a dokonca obsahuje aj najnovšiu technológiu VOIP - telefonovanie cez Internet."
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox 3.0 also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+#, fuzzy
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
 msgstr "S&nbsp;distribúciou openSUSE dostanete prehliadač webových stránok Mozilla Firefox, ktorý je jedným z&nbsp;najlepších prehliadačov na svete. Firefox sa pýši kompletnou sadou vlastností, ktoré webový prehliadač má mať, napr. zásuvné moduly pre Javu, Adobe Reader, RealPlayer a&nbsp;Macromedia Flash. Firefox verzie 3.0 má aj bleskurýchly výkon a&nbsp;množstvo vylepšení, ktoré ochránia vaše súkromie a&nbsp;zabránia útokom ukradnúť vašu internetovú identitu (tzv. phishing)."
 
 #: slideshow.xml:71(para)
@@ -79,7 +83,8 @@ msgid "Documents, Spreadsheets and More"
 msgstr "Dokumenty, tabuľky, prezentácie, atď."
 
 #: slideshow.xml:93(para)
-msgid "The openSUSE 11.0 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
+#, fuzzy
+msgid "The openSUSE 11.1 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
 msgstr "Distribúcia openSUSE 11.0 prichádza opäť s&nbsp;najnovšou verziou linuxovej sady kancelárskych aplikácií - OpenOffice.org. Obsahuje program na spracovanie textov, tabuľkový procesor, editor HTML stránok, dizajnéra prezentácií a správcu databáz. Umožňuje pracovať s&nbsp;rozličnými súborovými formátmi vrátane toho od firmy Microsoft, takže môžete bez námahy prenášať súbory medzi OpenOffice.org a tým rozšíreným nelinuxovým kancelárskym balíkom. OpenOffice.org je skvelou voľbou pre tvorbu referátov, zápisov, domáceho rozpočtu, jednoduchej grafiky a ďalších vecí."
 
 #: slideshow.xml:104(title)
@@ -123,35 +128,42 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "Virtualizačné technológie a nástroje pre vývoj aplikácií"
 
 #: slideshow.xml:159(para)
-msgid "Included with openSUSE is the Xen hypervisor—the highest performing virtualization software available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
+#, fuzzy
+msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
 msgstr "Xen hypervisor — najvýkonnejší virtualizačný softvér, ktorý je v&nbsp;súčasnosti dostupný. Okrem toho obsahuje openSUSE nástroje pre sieťové zdieľanie súborov a tlače (Samba) a&nbsp;webový server Apache. Ak chcete vyvíjať vlastné aplikácie, v&nbsp;openSUSE nájdete kompletnú sadu behových prostredí a nástroje pre ich vývoj, ako sú KDevelop, Eclipse a Mono."
 
-#: slideshow.xml:166(para)
-msgid "You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
-msgstr "S&nbsp;openSUSE si môžete vytvoriť softvérový balík takmer pre akýkoľvek program. Vytvoriť a zdieľať nové softvérové balíky pre rozličné linuxové distribúcie pomocou jedinečnej a mocnej služby openSUSE Build Service je jednoduché. Pripojte sa k&nbsp;spolupráci na projekte openSUSE.org."
-
-#: slideshow.xml:174(title)
+#: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "Chcete vediet viac?"
 
-#: slideshow.xml:175(para)
+#: slideshow.xml:170(para)
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "V&nbsp;distribúcii openSUSE nájdete vyčerpávajúcu dokumentáciu, ktorá vyrieši vaše otázky, či už sa budú týkať openSUSE, alebo Linuxu obecne. Pomocné centrum spustíte cez hlavné menu. Návody sú aj vo formáte PDF a sú prístupné tiež na Internete, odkiaľ si ich môžete stiahnuť a vytlačiť (http://en.opensuse.org/Documentation)."
 
-#: slideshow.xml:184(para)
+#: slideshow.xml:180(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
 msgstr "Ešte viac informácií nájdete na openSUSE wiki-stránkach http://cs.opensuse.org/. V sekcii “Dokumentácia” nájdete odkazy s užitočnými informáciami, ktoré sú vytvorené a udržiavané ostatnými používateľmi openSUSE. Sú tam aj odkazy k&nbsp;dokumentácii, ktorá je umiestnená na oficiálnych stránkach firmy Novell. Ak hľadáte pomoc k vyriešeniu špecifických problémov, nazrite do databázy znalostí na www.opensuse.org&nbsp;."
 
-#: slideshow.xml:197(title)
+#: slideshow.xml:191(para)
+msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
+msgstr ""
+
+#: slideshow.xml:198(para)
+#, fuzzy
+msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
+msgstr "S&nbsp;openSUSE si môžete vytvoriť softvérový balík takmer pre akýkoľvek program. Vytvoriť a zdieľať nové softvérové balíky pre rozličné linuxové distribúcie pomocou jedinečnej a mocnej služby openSUSE Build Service je jednoduché. Pripojte sa k&nbsp;spolupráci na projekte openSUSE.org."
+
+#: slideshow.xml:207(title)
 msgid "Novell and Linux"
 msgstr "Novell a Linux"
 
-#: slideshow.xml:198(para)
+#: slideshow.xml:208(para)
 msgid "Novell is committed to your success with Linux. In addition to openSUSE, Novell also delivers an exciting suite of products designed to meet the needs of businesses large and small."
 msgstr "Novell verí vo váš úspech s Linuxom. Okrem openSUSE, Novell ponúka zaujímavý balík produktov určených pre uspokojenie potreby malých aj veľkých podnikov."
 
-#: slideshow.xml:203(para)
-msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit www.novell.com/linux"
+#: slideshow.xml:213(para)
+#, fuzzy
+msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit http://www.novell.com/linux"
 msgstr "Linuxové produkty od spoločnosti Novell pre korporácie sú SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop a Novell Open Enterprise Server. Naše korporátne produkty majú sedem-ročnú garanciu podpory a voliteľné programy podpory. Viac informácií o linuxových Enterprise produktoch spoločnosti Novell nájdete na stránkach www.novell.com/linux&nbsp;."
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
@@ -165,4 +177,3 @@ msgstr "Ladislav Michnovič <lmichnovic@suse.cz>, 2006, 2007, 2008"
 #, fuzzy
 #~ msgid "openSUSE provides you with a choice of the most usable graphical desktop environments. Choose from the most up-to-date Linux graphical environments--GNOME and KDE--each combining ease of use, contemporary functionality, and outstanding graphical design with the technological superiority of the Linux operating system."
 #~ msgstr "KDE je  výkonné grafické prostredie a slobodný softvér, pre linuxové pracovné stanice. Kombinuje jednoduchosž použitia, modernú funkcionalitu a výnimočný grafický dizajn spolu s technológiou operačného systému Linux."
-
