@@ -1,22 +1,26 @@
+# translation of slideshow.po to norsk bokmål
 # translation of slideshow.nb.po to
-# Olav Pettershagen <olav.pet@online.no>, 2006, 2007.
-# Rune Nordbøe Skillingstad <rune@skillingstad.no>, 2007.
 # translation of slideshow.po to
 # @TITLE@
 # Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
 # This file is distributed under the same license as @PACKAGE@ package. FIRST
+# Olav Pettershagen <olav.pet@online.no>, 2006, 2007.
+# Rune Nordbøe Skillingstad <rune@skillingstad.no>, 2007.
+# Olav Pettershagen <olav.pet@gmail.com>, 2008.
+# Olav P. <olav.pet@gmail.com>, 2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2007-08-11 14:42+0200\n"
-"Last-Translator: Olav Pettershagen <olav.pet@online.no>\n"
-"Language-Team:  <nb@li.org>\n"
+"POT-Creation-Date: 2008-10-22 11:30+0200\n"
+"PO-Revision-Date: 2008-10-22 21:58+0200\n"
+"Last-Translator: Olav P. <olav.pet@gmail.com>\n"
+"Language-Team: Norwegian Bokmål <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: Lokalize 0.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
@@ -27,22 +31,20 @@ msgid "Welcome to openSUSE™"
 msgstr "Velkommen til openSUSE™"
 
 #: slideshow.xml:20(para)
-#, fuzzy
-msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.0."
-msgstr "Enten du bruker datamaskinen til å kommunisere med venner, familie og kolleger, til bilder og musikk, til å lete etter nyheter og informasjon på nettet, til å skrive rapporter eller sette opp et budsjett eller til å administrere en hjemmeside eller et hjemmenettverk, finner du alt du trenger i openSUSE 10.3."
+msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.1."
+msgstr "Enten du bruker datamaskinen til å kommunisere med venner, familie og kolleger, til bilder og musikk, til å lete etter nyheter og informasjon på nettet, til å skrive rapporter eller sette opp et budsjett eller til å administrere en hjemmeside eller et hjemmenettverk, finner du alt du trenger i openSUSE 11.1."
 
 #: slideshow.xml:30(title)
 msgid "openSUSE.org"
 msgstr "openSUSE.org"
 
 #: slideshow.xml:32(para)
-#, fuzzy
 msgid "openSUSE is a community project created and sponsored by Novell to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
-msgstr "openSUSE-prosjektet er støttet av Novell. openSUSE er et samarbeidsprosjekt, der målet er å levere verdens mest effektive dataplattform basert på åpen kildekode. Mange mennesker er involvert i å pakke programvare, teste programmer, skrive dokumentasjon og oversette komponenter for openSUSE-distribusjonen med utgangspunkt i nettstedet www.opensuse.org"
+msgstr "openSUSE-prosjektet er opprettet og støttet av Novell. openSUSE er et frivillig samarbeidsprosjekt, der målet er å levere verdens mest brukervennlige dataplattform. Mange mennesker over hele verden bidrar til openSUSE-prosjektet ved å pakke programvare, teste programmer, skrive dokumentasjon og oversette komponenter til en lang rekke språk. Resultatet av alt dette arbeidet er fritt tilgjengelig i openSUSE-distribusjonen på www.opensuse.org."
 
 #: slideshow.xml:40(para)
-msgid "Visit www.opensuse.org to learn how you can join the openSUSE community."
-msgstr "Besøk www.opensuse.org for å se hvordan du kan bli med i openSUSE-fellesskapet."
+msgid "Visit www.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
+msgstr "Besøk www.opensuse.org/How_to_Participate for å se hvordan du kan bli med i openSUSE-fellesskapet."
 
 #: slideshow.xml:45(title)
 msgid "openSUSE in Many Languages"
@@ -57,25 +59,22 @@ msgid "Connect and Communicate"
 msgstr "Grenseløs kommunikasjon"
 
 #: slideshow.xml:58(para)
-#, fuzzy
-msgid "You can communicate more effectively with openSUSE 11.0 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
-msgstr "Du kan kommunisere mer effektivt med openSUSE 10.3 fordi det har et komplett verktøysett for internett og e-post, og inneholder til og med de nyeste teknologiene for internettbasert telefoni."
+msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
+msgstr "Du kan kommunisere mer effektivt med openSUSE 11.1 fordi systemet har et komplett verktøysett for Internett og e-post, og inneholder til og med de nyeste teknologiene for internettbasert telefoni."
 
 #: slideshow.xml:64(para)
-#, fuzzy
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox 3.0 also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "Med openSUSE-distribusjonen, får du Mozilla Firefox, en av de beste nettleserne på markedet. Den har et komplett sett med funksjoner, blant annet programtillegg for Java, Adobe Reader, RealPlayer og Macromedia Flash samt lynrask gjengivelse av nettsider."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "Med openSUSE får du Mozilla Firefox, en av de beste nettleserne på markedet. Firefox har alle funksjonene du trenger for å få fullt utbytte av Internett, blant annet programtillegg for Java, Adobe Acrobat Reader, RealPlayer og Macromedia Flash. Firefox gjengir nettsidene lynraskt, og inneholder mange nye funksjoner for bedre personvern og sikkerhet."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
-msgstr ""
+msgstr "openSUSE kommer også med Novell Evolution og Kontact, komplette programmer for e-post og kontaktadministrasjon. For hurtigmeldinger tilbyr openSUSE brukervennlige meldingsprogrammer som støtter alle de populære protokollene: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise og mange andre."
 
 #: slideshow.xml:80(title)
 msgid "Create, View and Listen"
 msgstr "Grenseløs multimedia"
 
 #: slideshow.xml:81(para)
-#, fuzzy
 msgid "Download tunes from the Internet. Rip CDs to create your own customized music library. Listen to your playlist online. Burn CDs or DVDs. Copy your files to an iPod or media player and take your music anywhere. Manage and edit digital pictures with powerful graphics editors. It's all easy with openSUSE."
 msgstr "Last ned musikk fra Internett. Kopier favorittmusikken fra CD til din egen skreddersydde musikksamling. Lytt til låtene på spillelisten online. Brenn en CD eller DVD. Du kan til og med kopiere filene til en iPod eller andre mediespillere for å ta med deg musikken hvor som helst. Administrer og rediger digitale bilder med effektive grafiske verktøy. Med openSUSE er det enkelt."
 
@@ -84,36 +83,34 @@ msgid "Documents, Spreadsheets and More"
 msgstr "Dokumenter, regneark og mye mer"
 
 #: slideshow.xml:93(para)
-#, fuzzy
-msgid "The openSUSE 11.0 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr "openSUSE 10.3 kommer med den nyeste versjonen av den ledende kontorpakken for Linux, OpenOffice.org. Openoffice.org har effektive programmer for blant annet tekstbehandling, regneark, HTML-redigering, presentasjoner og database. Du kan også lese og lagre filer i formater som er populære på andre plattformer enn Linux, slik at du kan bruke andre kontorpakker parallelt med OpenOffice.org. OpenOffice.org er det perfekte valget for rapporter, dokumenter, budsjetter og enkel grafikk."
+msgid "The openSUSE 11.1 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
+msgstr ""
+"openSUSE 11.1 kommer med den nyeste versjonen av den ledende kontorpakken for Linux, OpenOffice.org. Openoffice.org har effektive programmer for blant annet tekstbehandling, regneark, HTML-redigering, presentasjoner og database. Du kan også lese og lagre filer i formater som er populære på andre plattformer enn Linux, også MS Office-formater, slik at du enkelt kan flytte filer mellom ulike programmer og kontorpakker. OpenOffice.org er det perfekte valget for rapporter, dokumenter, budsjetter, enkel grafikk og "
+"mye mer."
 
 #: slideshow.xml:104(title)
 msgid "Graphics, Graphics, Graphics"
 msgstr "Grafikk, grafikk og enda mer grafikk"
 
 #: slideshow.xml:106(para)
-#, fuzzy
 msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
 msgstr "Med verktøyene i openSUSE kan du lage og redigere praktisk talt alle typer grafikk. For bildebehandling og kreativ grafikk er GIMP ett av flere effektive verktøy for fotoretusjering, bilderedigering og annet kreativt grafisk arbeid."
 
 #: slideshow.xml:112(para)
-#, fuzzy
 msgid "For vector graphics, openSUSE includes Inkscape—a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
-msgstr "For vektorgrafikk tilbyr openSUSE Inkscape. Et allsidig grafisk verktøy som støtter transparente lag, punktgrafikk, grafisk tekst og mye mer."
+msgstr "For vektorgrafikk tilbyr openSUSE Inkscape, et allsidig grafisk verktøy som støtter transparente lag, punktgrafikk, grafisk tekst og mye mer."
 
 #: slideshow.xml:120(title)
 msgid "Computing On-the-Go"
 msgstr "Mobil databehandling"
 
 #: slideshow.xml:122(para)
-#, fuzzy
 msgid "openSUSE includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager from openSUSE. Connect with mobile devices like mobile phones and PDAs via Bluetooth, or use infrared ports to synchronize your data."
-msgstr "openSUSE har svært avanserte funksjoner for mobil databehandling. Bytt mellom trådløst nettverk og kabelnettverk med NetworkManager. Kommuniser med mobile enheter som mobiltelefoner og PDAer via Bluetooth. Bruk infrarøde porter for å synkronisere data. Avanserte strømstyringsfunksjoner fra openSUSE gjør deg enda mer mobil og en økt frihet til å ta med det ditt arbeid hvor enn du går."
+msgstr "openSUSE har svært avanserte funksjoner for mobil databehandling. Bytt mellom trådløst nettverk og kabelnettverk med NetworkManager. Kommuniser med mobile enheter som mobiltelefoner og PDA-er via Bluetooth, eller bruk infrarøde porter for å synkronisere data."
 
 #: slideshow.xml:128(para)
 msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
-msgstr ""
+msgstr "Avanserte strømstyringsfunksjoner fra openSUSE gjør deg enda mer mobil og gir deg større frihet til å ta med deg arbeidet overalt."
 
 #: slideshow.xml:136(title)
 msgid "Keep Your System Secure and Up to Date"
@@ -132,42 +129,43 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "Avansert virtualiseringsteknologi og verktøy for programvareutvikling"
 
 #: slideshow.xml:159(para)
-msgid "Included with openSUSE is the Xen hypervisor—the highest performing virtualization software available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "openSUSE kommer med XEN hypervisor, den mest effektive virtualiseringsprogramvaren på markedet. openSUSE har også verktøy for fildeling på nettverket, utskrift (Samba) og webtjenere (Apache). For programutvikling har openSUSE et komplett sett kjøremiljøer samt en lang rekke utviklingsverktøy, blant annet KDevelop, Eclipse og Mono."
+msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
+msgstr "openSUSE kommer med XEN hypervisor, en av de mest robuste virtualiseringsløsningene på markedet. openSUSE har også verktøy for fildeling på nettverket, utskrift (Samba) og webservere (Apache). For programutvikling har openSUSE et komplett sett kjøremiljøer samt en lang rekke utviklingsverktøy, blant annet KDevelop, Eclipse og Mono."
 
-#: slideshow.xml:166(para)
-msgid "You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
-msgstr "Du kan bygge nesten hva som helst med openSUSE. Det er enkelt å lage og dele nye pakker for flere Linux-distribusjoner med openSUSE Build Service. Bli med i openSUSE.org-fellesskapet for å gi ditt bidrag."
-
-#: slideshow.xml:174(title)
+#: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "Mer informasjon"
 
-#: slideshow.xml:175(para)
+#: slideshow.xml:170(para)
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "openSUSE tilbyr omfattende dokumentasjon i forbindelse med openSUSE-spesifikke og generelle Linux-relaterte spørsmål. Hjelpesenteret er tilgjengelig via hovedmenyen. Du kan også laste ned og skrive ut dokumentasjon i PDF-format (http://en.opensuse.org/Documentation)."
 
-#: slideshow.xml:184(para)
-#, fuzzy
+#: slideshow.xml:180(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
-msgstr "Du finner enda mer dokumentasjon på openSUSE wiki på http://en.opensuse.org/. Under «Documentation» finner du lenker til en mengde nyttig informasjon som er lagt inn og vedlikeholdes av andre openSUSE-brukere. Det er også lenker til tilgjengelig dokumentasjon på Novells nettsider. Hvis du trenger hjelp med spesifikke openSUSE-problemer, kan du søke i Support Database på www.opensuse.org"
+msgstr "Du finner enda mer dokumentasjon i openSUSE wiki på http://en.opensuse.org/. Under «Documentation» finner du lenker til en mengde nyttig informasjon som legges inn og vedlikeholdes av andre openSUSE-brukere. Det er også lenker til tilgjengelig dokumentasjon på Novells nettsider. Hvis du trenger hjelp med spesifikke openSUSE-problemer, kan du søke i Support Database på www.opensuse.org."
 
-#: slideshow.xml:197(title)
+#: slideshow.xml:191(para)
+msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
+msgstr "Besøk det offisielle         -    met på                             for å få hjelp fra andre openSUSE-brukere      møter du tusenvis av andre         -brukere som gjerne vil hjelpe deg med å få maksimalt ut av        Hvis du er en erfaren         -bruker  er forumet et perfekt sted å møte andre brukere på, og kanskje du har noen tips å bidra med selv."
+
+#: slideshow.xml:198(para)
+msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
+msgstr "Vil du gjøre openSUSE enda bedre? Du kan bygge nesten hva som helst med openSUSE. Det er enkelt å lage og dele nye pakker for flere Linux-distribusjoner med openSUSE Build Service. Bli med i openSUSE.org-fellesskapet for å gi ditt bidrag."
+
+#: slideshow.xml:207(title)
 msgid "Novell and Linux"
 msgstr "Novell og Linux"
 
-#: slideshow.xml:198(para)
+#: slideshow.xml:208(para)
 msgid "Novell is committed to your success with Linux. In addition to openSUSE, Novell also delivers an exciting suite of products designed to meet the needs of businesses large and small."
 msgstr "Novell ønsker å gi deg en god Linux-opplevelse. I tillegg til openSUSE har Novell en spennende produktportefølje, som er utformet for å oppfylle behovene i store og små bedrifter."
 
-#: slideshow.xml:203(para)
-msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit www.novell.com/linux"
-msgstr "Novells LINUX-produkter for bedriftsmarkedet består blant annet av SUSE Linux Enterprise Server, SUSE Linux Enterprose Desktop og Novell Open Enterprise Server. Våre bedriftsprodukter leveres med sju års vedlikeholdsgaranti og mulige tilleggsavtaler for brukerstøtte. Besøk www.novell.com/linux for mer informasjon om Linux-bedriftsproduktene fra Novell"
+#: slideshow.xml:213(para)
+msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit http://www.novell.com/linux"
+msgstr "Novells LINUX-produkter for bedriftsmarkedet består blant annet av SUSE Linux Enterprise Server, SUSE Linux Enterprose Desktop og Novell Open Enterprise Server. Våre bedriftsprodukter leveres med sju års vedlikeholdsgaranti og mulige tilleggsavtaler for brukerstøtte. På www.novell.com/linux finner du mer informasjon om Linux-bedriftsproduktene fra Novell."
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: slideshow.xml:0(None)
 msgid "translator-credits"
 msgstr "Oversettelse: Olav Pettershagen, Sveinung Marvik, Rune Nordbøe Skillingstad"
 
-#~ msgid "Also included with openSUSE are Novell Evolution and Kontact. These complete e-mail and contact managers help you organize and maintain all your e-mail accounts. The openSUSE distribution also comes with state-of-the-art Voice over IP (VoIP) solutions that let you communicate with people connected to the Internet all over the world."
-#~ msgstr "openSUSE inneholder også Novell Evolution og Kontact. Dette er komplette løsninger for e-post og kontaktadministrasjon som holder orden på alle dine e-postkontoer. openSUSE kommer også med de nyeste IP-telefoniløsningene, slik at du kan ringe opp mennesker som er koblet til Internett hvor som helst i verden."

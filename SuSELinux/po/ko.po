@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.ko\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
-"POT-Creation-Date: 2008-04-14 15:05+0200\n"
+"POT-Creation-Date: 2008-10-22 11:30+0200\n"
 "PO-Revision-Date: 2008-04-21 00:02+0900\n"
 "Last-Translator: YunSeok Choi <xein@naver.com>\n"
 "Language-Team: Korean <xein@naver.com>\n"
@@ -29,7 +29,8 @@ msgid "Welcome to openSUSE™"
 msgstr "오픈수세™에 오신것을 환영합니다."
 
 #: slideshow.xml:20(para)
-msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.0."
+#, fuzzy
+msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.1."
 msgstr "컴퓨터로 친구, 친척, 동료와 대화하고, 사진과 음악을 관리하며 즐기고, 인터넷으로 최신 뉴스와 정보를 받아보고, 보고서나 예산 작성,  개인 웹사이트 개설 그리고 홈 네트워크! 이 모든 것을 오픈수세 11 에서 할 수 있습니다."
 
 #: slideshow.xml:30(title)
@@ -41,7 +42,8 @@ msgid "openSUSE is a community project created and sponsored by Novell to delive
 msgstr "오픈수세는 커뮤니티의 참여로 이루어지는 세계적인 오픈 소스 컴퓨팅 플렛폼입니다. 오픈수세 배포판의 설명서, 다국어화, 소프트웨어, 테스트 프로그램은 많은 사용자의 참여로 만들졌습니다. 오픈수세 프로젝트와 노벨(Novell)의 지원이 함께 합니다. 오픈수세 사이트 : www.opensuse.org "
 
 #: slideshow.xml:40(para)
-msgid "Visit www.opensuse.org to learn how you can join the openSUSE community."
+#, fuzzy
+msgid "Visit www.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
 msgstr "www.opensuse.org 에 방문하여 오픈수세 커뮤니티에 참여하시면 보다 자세한 것을 알아 볼 수 있습니다."
 
 #: slideshow.xml:45(title)
@@ -57,11 +59,13 @@ msgid "Connect and Communicate"
 msgstr "연결하고 대화하고"
 
 #: slideshow.xml:58(para)
-msgid "You can communicate more effectively with openSUSE 11.0 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
+#, fuzzy
+msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
 msgstr "오픈수세 11 에서 보다 효과적으로 의사 소통을 하실 수 있습니다. 웹 브라우징 기능과 이메일 관리가 포함되어 있고, 인터넷 전화(VoIP-Voice over IP) 같은 최신 기술을 지원 합니다."
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox 3.0 also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+#, fuzzy
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
 msgstr "오픈수세 배포판에는 모질라 불여우 웹 브라우저(세계적으로 쓰이는 최고의 웹 브라우저) 풀버전과, 자바, 어도비 리더, 리얼플레이어, 매크로미디어 플래시 플러그인이 함께 포함되어 있습니다. 여기에 파이어폭스 3.0 은 가볍고 빠른 성능, 개인 정보 보호 및 피싱 공격으로부터 사용자를 보호하는 기능을 갖추고 있습니다."
 
 #: slideshow.xml:71(para)
@@ -81,7 +85,8 @@ msgid "Documents, Spreadsheets and More"
 msgstr "문서, 스프레드시트 그리고 여러가지"
 
 #: slideshow.xml:93(para)
-msgid "The openSUSE 11.0 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
+#, fuzzy
+msgid "The openSUSE 11.1 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
 msgstr "오픈수세 11 배포판은 항상 오픈오피스의 최신버전을 유지하여 생산성을 향상 시킵니다. 여기에는 문서 작성기, 스프레드시트 응용 프로그램, HTML 편집기, 프리젠테이션 디자이너, 데이터베이스 관리자가 있습니다. 여러개의 확장자를 읽고 기록하는것을 쉽고 편리하게 할 수 있습니다. 오픈오피스는 보고서, 논문, 가계부, 간단한 그래픽 등 여러기능에 대한 최고의 선택이 될것입니다."
 
 #: slideshow.xml:104(title)
@@ -125,35 +130,42 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "가상화 기술과, 응용프로그램 개발 도구"
 
 #: slideshow.xml:159(para)
-msgid "Included with openSUSE is the Xen hypervisor—the highest performing virtualization software available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
+#, fuzzy
+msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
 msgstr "오픈수세에는 Xen hypervisor(높은 수준의 가상화 소프트웨어입니다.)가 들어 있습니다. 여기에는 네트워크 파일 공유, 인쇄(삼바) 및 웹호스팅(아파치)가 포함됩니다. 응용 프로그램 개발을 위해 완벽한 런타임 환경과 함께 광범위한 응용 프로그램 개발 도구인 KDevelop, 이클립스, 모노가 있습니다."
 
-#: slideshow.xml:166(para)
-msgid "You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
-msgstr "오픈수세에서 모든것을 만들수 있습니다. 새로운 꾸러미를 만들고 공유 하는 방법은 매우 간단합니다. 오픈수세가 아닌 여러 리눅스 배포판에 대한 꾸러미도 가능합니다. 강력한 오픈수세 빌드 서비스를 만나보세요."
-
-#: slideshow.xml:174(title)
+#: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "자세히 알아보기"
 
-#: slideshow.xml:175(para)
+#: slideshow.xml:170(para)
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "오픈수세 배포판에 대한 설명서와 오픈수세에 관한 질문 혹은 일반 리눅스에 관한 질문을 제공합니다. 메인 메뉴의 도움말 센터에서 바로 검색할 수 있고, PDF나 웹사이트에서 다운로드하여 출력할 수 있습니다.(http://en.opensuse.org/Documentation)"
 
-#: slideshow.xml:184(para)
+#: slideshow.xml:180(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
 msgstr "더 많은 정보는 오픈수세 위키(http://en.opensuse.org/)에서 확인 할 수 있습니다. \"Documentation,\" 에서는 오픈수세 사용자에 의해 제작된 유용한 정보가 있습니다. 또한 노벨(Novell) 웹사이트에서도 documentation 링크를 찾을 수 있습니다. www.opensuse.org 의 Support Databse 에서는 특정 오픈수세 문제점에 관해 도움을 받을 수 있습니다."
 
-#: slideshow.xml:197(title)
+#: slideshow.xml:191(para)
+msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
+msgstr ""
+
+#: slideshow.xml:198(para)
+#, fuzzy
+msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
+msgstr "오픈수세에서 모든것을 만들수 있습니다. 새로운 꾸러미를 만들고 공유 하는 방법은 매우 간단합니다. 오픈수세가 아닌 여러 리눅스 배포판에 대한 꾸러미도 가능합니다. 강력한 오픈수세 빌드 서비스를 만나보세요."
+
+#: slideshow.xml:207(title)
 msgid "Novell and Linux"
 msgstr "노벨(Novell)과 리눅스"
 
-#: slideshow.xml:198(para)
+#: slideshow.xml:208(para)
 msgid "Novell is committed to your success with Linux. In addition to openSUSE, Novell also delivers an exciting suite of products designed to meet the needs of businesses large and small."
 msgstr "노벨(Novell)은 귀하의 성공을 위해 노력하고 있습니다. 크고 작은 기업의 필요에 만족 할만한 흥미로운 제품군을 제공하도록 노력하고 있습니다."
 
-#: slideshow.xml:203(para)
-msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit www.novell.com/linux"
+#: slideshow.xml:213(para)
+#, fuzzy
+msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit http://www.novell.com/linux"
 msgstr "노벨(Novell)은 기업 리눅스 제품인 수세 리눅스 엔터프라이즈 서버(SLES), 수세 리눅스 엔터프라이즈 데스크탑(SLED), 노벨 오픈 엔터프라이즈 서버(NOES)를 출시하고 있습니다. 기업 제품은 7년간의 유지 보수와 선택적 지원 프로그램을 제공합니다. 여기에 관한 자세한 내용은 www.novell.com/linux 를  참조하세요. 한국은 www.novellkorea.com 입니다."
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
@@ -163,4 +175,3 @@ msgstr "최윤석 <xein@naver.com>, 2008"
 
 #~ msgid "Also included with openSUSE are Novell Evolution and Kontact. These complete e-mail and contact managers help you organize and maintain all your e-mail accounts. The openSUSE distribution also comes with state-of-the-art Voice over IP (VoIP) solutions that let you communicate with people connected to the Internet all over the world."
 #~ msgstr "오픈수세에는 노벨(Novell) 에볼루션과 콘탁이 포함되어 있습니다. 이 이메일과 연락처 관리자는 귀하가 메일계정을 구성하고 유지 관리하는데 많은 도움을 줄 수 있습니다. 또한 오픈수세에 있는 Voice over IP(VoIP) 솔루션으로 인터넷에 연결되어 있는 모든 사람들과 대화가 가능합니다."
-

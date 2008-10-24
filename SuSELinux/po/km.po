@@ -1,19 +1,19 @@
 # translation of slideshow.km.po to Khmer
-# Poch Sokun <sokunpoch@khmeros.info>, 2006.
 # Auk Piseth <piseth_dv@khmeros.info>, 2006, 2007.
 # Khoem Sokhem <khoemsokhem@khmeros.info>, 2006, 2007, 2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.km\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
-"POT-Creation-Date: 2008-04-14 15:05+0200\n"
-"PO-Revision-Date: 2008-04-22 11:01+0700\n"
+"POT-Creation-Date: 2008-10-22 11:30+0200\n"
+"PO-Revision-Date: 2008-10-23 11:27+0700\n"
 "Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
-"Language-Team: Khmer <en@li.org>\n"
+"Language-Team: Khmer <support@khmeros.info>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
@@ -24,8 +24,8 @@ msgid "Welcome to openSUSE™"
 msgstr "សូម​ស្វាគមន៍​ការ​មក​កាន់​អូផឹន​ស៊ូស៊ី"
 
 #: slideshow.xml:20(para)
-msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.0."
-msgstr "ថាតើ​អ្នក​ប្រើ​កុំព្យូទ័រ​របស់​អ្នក​ដើម្បី​ទាក់ទង​ជា​មួយ​មិត្តភក្ដិ សាច់ញាតិ ឬ​សហការី ដើម្បី​​គ្រប់គ្រង និង​រីករាយ​ជា​មួយ​តន្ត្រី និង​រូបភាព រុករក​អ៊ីនធឺណិត​សម្រាប់​ព័ត៌មាន​ថ្មីៗ​បំផុត​ សរសេរ​របាយការណ៍ ឬ​គម្រោង​ថវិកា បង្ហោះ​តំបន់​បណ្ដាញ​ផ្ទាល់​ខ្លួន ឬ​កិច្ចការ​សាលា អ្នក​នឹង​រក​អ្វីៗ​ទាំងអស់​តាម​ដែលអ្នក​ត្រូវ​ការ​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ១១.០ ។"
+msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.1."
+msgstr "ថាតើ​អ្នក​ប្រើ​កុំព្យូទ័រ​របស់​អ្នក​ដើម្បី​ទាក់ទង​ជា​មួយ​មិត្តភក្ដិ សាច់ញាតិ ឬ​សហការី ដើម្បី​​គ្រប់គ្រង និង​រីករាយ​ជា​មួយ​តន្ត្រី និង​រូបភាព រុករក​អ៊ីនធឺណិត​សម្រាប់​ព័ត៌មាន​ថ្មីៗ​បំផុត​ សរសេរ​របាយការណ៍ ឬ​គម្រោង​ថវិកា បង្ហោះ​តំបន់​បណ្ដាញ​ផ្ទាល់​ខ្លួន ឬ​កិច្ចការ​សាលា អ្នក​នឹង​រក​អ្វីៗ​ទាំងអស់​តាម​ដែលអ្នក​ត្រូវ​ការ​នៅ​ក្នុង​អូផឹន​ស៊ូស៊ី ១១.១ ។"
 
 #: slideshow.xml:30(title)
 msgid "openSUSE.org"
@@ -36,8 +36,8 @@ msgid "openSUSE is a community project created and sponsored by Novell to delive
 msgstr "អូផឹន​ស៊ូស៊ី​គឺ​ជា​គម្រោង​សហគមន៍​ដែល​បាន​បង្កើត និង​គាំទ្រ​ដោយ​ណូវែល ដើម្បី​ផ្ដល់​នូវ​វេទិកាកុំព្យូទ័រ​ងាយស្រួល​ប្រើ​របស់​ពិភពលោក ។ មនុស្ស​ជា​ច្រើន​ជុំវិញ​ពិភព​លោក​ចែកចាយ​គម្រោង​អូផឹន​ស៊ូស៊ី​ដោយ​ខ្ចប់​កម្មវិធី សាកល្បង​កម្មវិធី សរសេរ​ឯកសារ និង​បកប្រែ​សមាសភាគ​ជា​ច្រើន​ជា​ភាសា​ជា​ច្រើន ។ ការងារ​ទាំងអស់​នោះ​គឺ​អាច​ប្រើ​បាន​​ដោយ​ស៊េរី​នៅ​ក្នុង​កា​រចែកចាយ​លីនុច​អូផឹន​ស៊ូស៊ី អាច​រក​បាន​នៅ​ក្នុង www.opensuse.org ។"
 
 #: slideshow.xml:40(para)
-msgid "Visit www.opensuse.org to learn how you can join the openSUSE community."
-msgstr "ចូល​ទស្សនា www.opensuse.org ដើម្បី​សិក្សា​អំពី​របៀប​ចូលរួម​សហគមន៍​អូផឹន​ស៊ូស៊ី ។"
+msgid "Visit www.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
+msgstr "ចូល​ទស្សនា www.opensuse.org/How_to_Participate ដើម្បី​សិក្សា​អំពី​របៀប​ចូលរួម​សហគមន៍​អូផឹន​ស៊ូស៊ី ។"
 
 #: slideshow.xml:45(title)
 msgid "openSUSE in Many Languages"
@@ -52,11 +52,11 @@ msgid "Connect and Communicate"
 msgstr "តភ្ជាប់ និង​ទំនាក់ទំនង"
 
 #: slideshow.xml:58(para)
-msgid "You can communicate more effectively with openSUSE 11.0 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
-msgstr "អ្នក​អាច​ទាក់ទង​ឲ្យ​កាន់​តែ​មាន​ប្រសិទ្ធិភាព​ថែមទៀត​ជា​មួយ​អូផឹន​ស៊ូស៊ី ១១.០ ពីព្រោះ​វា​ផ្ដល់​សំណុំ​ឧបករណ៍​ពេញលេញ​សម្រាប់​ការ​រុករក​បណ្ដាញ និង​ការ​គ្រប់គ្រង​អ៊ីមែល—វា​រួម​បញ្ចូល​បច្ចេកវិទ្យា​ Voice over IP ដ៏​ថ្មី​បំផុត ។"
+msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
+msgstr "អ្នក​អាច​ទាក់ទង​ឲ្យ​កាន់​តែ​មាន​ប្រសិទ្ធិភាព​ថែមទៀត​ជា​មួយ​អូផឹន​ស៊ូស៊ី ១១.១ ពីព្រោះ​វា​ផ្ដល់​សំណុំ​ឧបករណ៍​ពេញលេញ​សម្រាប់​ការ​រុករក​បណ្ដាញ និង​ការ​គ្រប់គ្រង​អ៊ីមែល—វា​រួម​បញ្ចូល​បច្ចេកវិទ្យា​ Voice over IP ដ៏​ថ្មី​បំផុត ។"
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox 3.0 also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
 msgstr "អូផឹនស៊ូស៊ី​រួ​ម​មាន Mozilla Firefox គឺ​ជា​កម្មវិធី​រុករក​បណ្ដាញ​មួយ​ក្នុង​ចំណោម​កម្មវិធី​រុករក​បណ្ដាញ​ដ៏​ល្អបំផុត​ក្នុង​ពិភពលោក ។ Firefox រួម​មាន​លក្ខណៈពិសេស​ទាំងអស់ ដែល​អ្នក​ត្រូវការ​ដើម្បី​រីករាយ​ជា​មួយ​បណ្ដាញ រួម​មាន Java, Adobe Acrobat Reader, RealPlayer និង​កម្មវិធី​ជំនួយ Macromedia Flash ។ Firefox 3.0 ក៏​អាច​លើកស្ទួយ​ការ​អនុវត្ត​យ៉ាង​លឿន និង​កា​ររីកចម្រើន​ជា​ច្រើន​ជា​ច្រើន​បាន​រចនា​ដើម្បីការពារភាគ​ឯកជន​របស់អ្នក និងការពារ​ការវាយប្រហារ phishing ។"
 
 #: slideshow.xml:71(para)
@@ -76,8 +76,8 @@ msgid "Documents, Spreadsheets and More"
 msgstr "ឯកសារ សៀវភៅ​បញ្ជី និង​អ្វីៗ​ជា​ច្រើន​ទៀត"
 
 #: slideshow.xml:93(para)
-msgid "The openSUSE 11.0 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr "អូផឹន​​​ស៊ូស៊ី ១១.០ ភ្ជាប់មក​ជាមួយ​នូវ​កំណែ​ចុងក្រោយ​បំផុត​របស់​ឈុត​កម្មវិធី​របស់​​លីនុច​ដែល​នាំមុខ​គេ​គឺ OpenOffice.org ។ Openoffice.org រួមមាន​កម្មវិធី​វាយ​អត្ថបទ កម្មវិធី​សៀវភៅ​បញ្ជី កម្មវិធី​និពន្ធ HTML កម្មវិធី​រចនា​ការ​បង្ហាញ និង​កម្មវិធី​គ្រប់គ្រង​​មូលដ្ឋាន​ទិន្នន័យ ។ វា​ក៏អាច​សរសេរ និង​អាន​​ផ្នែក​បន្ថែម​ឯកសារ​ជា​ច្រើន​ ដូច្នេះ​អ្នក​អាច​ផ្លាស់ទី​ទៅ​មុខ ទៅ​ក្រោយ​បាន​យ៉ាង​ងាយ​រវាង​អូផឹន​ស៊ូស៊ី និង​ឈុត​កម្មវិធី​ដែល​ពេញនិយម​ដែល​មិនមែន​ជា​របស់​លីនុច ។ OpenOffice.org គឺ​ជា​ជម្រើស​ដ៏​ល្អ​បំផុត​សម្រាប់​ការ​ធ្វើ​របាយការណ៍ កិច្ចការផ្សេងៗ គ្រោង​ថវិកា​ប្រចាំ​គ្រួសារ ក្រាហ្វិក​ធម្មតា និង​អាច​ធ្វើ​អ្វីៗ​បាន​មួយ​ចំនួន​ទៀត ។"
+msgid "The openSUSE 11.1 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
+msgstr "អូផឹន​​​ស៊ូស៊ី ១១.១ ភ្ជាប់មក​ជាមួយ​នូវ​កំណែ​ចុងក្រោយ​បំផុត​របស់​ឈុត​កម្មវិធី​របស់​​លីនុច​ដែល​នាំមុខ​គេ​គឺ OpenOffice.org ។ Openoffice.org រួមមាន​កម្មវិធី​វាយ​អត្ថបទ កម្មវិធី​សៀវភៅ​បញ្ជី កម្មវិធី​និពន្ធ HTML កម្មវិធី​រចនា​ការ​បង្ហាញ និង​កម្មវិធី​គ្រប់គ្រង​​មូលដ្ឋាន​ទិន្នន័យ ។ វា​ក៏អាច​សរសេរ និង​អាន​​ផ្នែក​បន្ថែម​ឯកសារ​ជា​ច្រើន​ ដូច្នេះ​អ្នក​អាច​ផ្លាស់ទី​ទៅ​មុខ ទៅ​ក្រោយ​បាន​យ៉ាង​ងាយ​រវាង​អូផឹន​ស៊ូស៊ី និង​ឈុត​កម្មវិធី​ដែល​ពេញនិយម​ដែល​មិនមែន​ជា​របស់​លីនុច ។ OpenOffice.org គឺ​ជា​ជម្រើស​ដ៏​ល្អ​បំផុត​សម្រាប់​ការ​ធ្វើ​របាយការណ៍ កិច្ចការផ្សេងៗ គ្រោង​ថវិកា​ប្រចាំ​គ្រួសារ ក្រាហ្វិក​ធម្មតា និង​អាច​ធ្វើ​អ្វីៗ​បាន​មួយ​ចំនួន​ទៀត ។"
 
 #: slideshow.xml:104(title)
 msgid "Graphics, Graphics, Graphics"
@@ -120,39 +120,43 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "បច្ចេកទេស​ក្លែង​ធ្វើ និង​ឧបករណ៍​អភិវឌ្ឍ​កម្មវិធី"
 
 #: slideshow.xml:159(para)
-msgid "Included with openSUSE is the Xen hypervisor—the highest performing virtualization software available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
+msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
 msgstr "អូផឹន​ស៊ូស៊ី រួមបញ្ចូល​នូវ​កម្មវិធី​និម្មិត​ដែល​មាន​សមត្ថភាព​ខ្ពស់​បំផុត គឺ​កម្មវិធី​ត្រួតពិនិត្យ​ម៉ាស៊ីន​និម្មិត XEN ។ លើស​ពីនេះ អូផឹន​ស៊ូស៊ី​ផ្ដល់​នូវ​ឧបករណ៍​សម្រាប់​ការ​ចែករំលែក​ឯកសារ​តាម​បណ្ដាញ ការ​បោះពុម្ព (Samba) និង​ការ​បង្ហោះ​បណ្ដាញ (Apache) ។ ចំពោះ​ការ​អភិវឌ្ឍន៍​កម្មវិធី អូផឹន​ស៊ូស៊ី​មាន​ភ្ជាប់​មក​ជាមួយ​នូវ​សំណុំ​បរិស្ថាន​ពេលវេលា​រត់​ពេញលេញ បូក​បញ្ចូល​នឹង​ឧបករណ៍​អភិវឌ្ឍន៍​កម្មវិធី​ដ៏​ធំ​ទូលាយ រួម​មាន KDevelop, Eclipse, និង Mono ។ ស្ទើរ​តែ​គ្រប់អ្វីៗ​ទាំងអស់​គឺ​អាច​ត្រូវ​បាន​ស្ថាបនា​ដោយ​ប្រើ​អូផឹន​ស៊ូស៊ី ។"
 
-#: slideshow.xml:166(para)
-msgid "You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
-msgstr "អ្នក​អាច​ស្ថាបនា​ស្ទើរ​តែ​គ្រប់​អ្វីទាំងអស់​ជា​មួយ​អូផឹន​ស៊ូស៊ី ។ វា​ងាយស្រួល​បង្កើត និង​ចែករំលែក​កញ្ចប់​ថ្មី​សម្រាប់​ការ​ចេញ​ផ្សាយរបស់​លីនុច​ជា​ច្រើន ដោយ​ប្រើ​សេវាស្ថាបនា​របស់​អូផឹន​ស៊ូស៊ី​ដ៏​មាន​អានុភាព ។ ចូលរួម​ជា​មួយ openSUSE.org ដើម្បី​សហប្រតិបត្តិការ ។"
-
-#: slideshow.xml:174(title)
+#: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "សិក្សា​បន្ថែម"
 
-#: slideshow.xml:175(para)
+#: slideshow.xml:170(para)
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "​ការ​ចេញ​​ផ្សាយ​នូវ​អូផឹន​​ស៊ូស៊ី​ផ្ដល់​នូវ​ឯកសារ​​ដ៏​ធំ​សម្រាប់​អូផឹន​​ស៊ូស៊ី​ជាក់លាក់​ ដូច​នឹង​សំណួរ​ដែល​ទាក់ទង​នឹង​លីនុច​ទូទៅ​ដែរ ។ មជ្ឈមណ្ឌល​ជំនួយ​គឺ​អាច​ចូល​ដំណើរការ​បាន​តាម​រយៈ​ម៉ឺនុយ​មេ ។ សៀវភៅ​ដៃ​ជា​ទ្រង់ទ្រាយ PDF ក៏​មាន​ផង​ដែរ ហើយ​អាច​ទាញ​យក និង​បោះ​ពុម្ព​បាន​ថែម​ទៀត​ផង (http://en.opensuse.org/Documentation) ។"
 
-#: slideshow.xml:184(para)
+#: slideshow.xml:180(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
 msgstr "ចំពោះ​ព័ត៌មាន​បន្ថែម​អាច​រក​បាននៅ​ក្នុង​វីគី​អូផឹន​ស៊ូស៊ី នៅ http://en.opensuse.org/ ។ ក្រោម \"ឯកសារ\" អ្នក​នឹង​រក​ឃើញ​នូវ​តំណ​ទៅ​កាន​ព័ត៌មាន​ដ៏មាន​ប្រយោជន៍ ដែល​បាន​បង្កើត និង​ថែទាំ​ដោយ​អ្នក​ប្រើ​អូផឹន​ស៊ូស៊ី​ផ្សេងៗ​ទៀត ។ អ្នក​ក៏​អាច​រក​តំណ​ទៅ​កាន់​ឯកសារ​ដែល​អាច​រក​បាន​នៅ​លើ​តំបន់​បណ្ដាញ​ណូវែល​ជា​ផ្លូវការ ។ ចំពោះ​ជំនួយ​អំពី​បញ្ហា​អូផឹន​ស៊ូស៊ី​ជាក់លាក់ ពិនិត្យ​មើល​ការ​គាំទ្រ​មូលដ្ឋាន​ទិន្នន័យ​នៅ www.opensuse.org"
 
-#: slideshow.xml:197(title)
+#: slideshow.xml:191(para)
+msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
+msgstr "សម្រាប់​ការ​គាំទ្រ​ពី​អ្នកប្រើ​អូផឹន​ស៊ូស៊ី​ផ្សេង​ទៀតៗ ទស្សនា​វេទិកា​ផ្លូវការ​របស់​អូផឹន​ស៊ូស៊ីនៅ http://forums.opensuse.org/ ។ នៅ​ទីនេះ​អ្នក​នឹង​​ឃើញ​អ្នក​ប្រើ​អូផឹន​ស៊ូស៊ី​រាប់ពាន់នាក់ ដែល​ចង់​ជួយ​អ្នក​ឲ្យ​ទទួល​បាន​អ្វីៗ​គ្រប់យ៉ាង​ដែល​អ្នក​អាច​រក​បាន​នៅ​ក្នុង​លីនុច ។ ប្រសិនបើ​អ្នក​​ជា​អ្នក​​ប្រើ​អូផឹន​ស៊ូស៊ី​ដែល​មាន​​ពិសោធន៍​ វេទិកា​គឺ​ជា​កន្លែង​ដ៏​ល្អ​ដើម្បី​ជួប​អ្នក​ប្រើ​ផ្សេងៗ និង​ជួយ​អ្នកប្រើ​លីនុច​ផ្សេង​ទៀត ។"
+
+#: slideshow.xml:198(para)
+msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
+msgstr "អ្នក​អាច​ស្ថាបនា​ស្ទើរ​តែ​គ្រប់​អ្វីទាំងអស់​ជា​មួយ​អូផឹន​ស៊ូស៊ី ។ វា​ងាយស្រួល​បង្កើត និង​ចែករំលែក​កញ្ចប់​ថ្មី​សម្រាប់​ការ​ចេញ​ផ្សាយរបស់​លីនុច​ជា​ច្រើន ដោយ​ប្រើ​សេវាស្ថាបនា​របស់​អូផឹន​ស៊ូស៊ី​ដ៏​មាន​អានុភាព ។ ចូលរួម​ជា​មួយ openSUSE.org ដើម្បី​សហប្រតិបត្តិការ ។"
+
+#: slideshow.xml:207(title)
 msgid "Novell and Linux"
 msgstr "ណូវែល និង​លីនុច"
 
-#: slideshow.xml:198(para)
+#: slideshow.xml:208(para)
 msgid "Novell is committed to your success with Linux. In addition to openSUSE, Novell also delivers an exciting suite of products designed to meet the needs of businesses large and small."
 msgstr "ណូវែល​ គឺ​ត្រូវបាន​ដាក់​បញ្ចូល​ដោយ​ជោគជ័យ​​ជា​មួយ​នឹង​អ្នក​ដោយ​ប្រើ​លីនុច​របស់​អ្នក​ ។ ក្រៅពី​អូផឹន​ស៊ូស៊ី​ គឺណូវែល​បញ្ជូន​ឈុត​កម្មវិធី​ដែល​​គួរ​ឲ្យ​ភ្ញាក់ផ្អើល​ ដែល​ត្រូវបាន​រចនា​ឡើង​ដើម្បី​​បំពេញ​តម្រូវការ​ផ្នែក​​ពាណិជ្ជកម្ម​ខ្នាត​តូច និង​ធំ ។"
 
-#: slideshow.xml:203(para)
-msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit www.novell.com/linux"
+#: slideshow.xml:213(para)
+msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit http://www.novell.com/linux"
 msgstr "ផលិតផល​លីនុច​សហគ្រាស​​ដែល​បាន​ពី​ណូវែល ដែល​រួម​បញ្ចូល​នូវ ម៉ាស៊ីន​បម្រើ​សហគ្រាស​របស់​ស៊ូស៊ី​លីនុច​ផ្ទៃតុ​សហគ្រាស​របស់​ស៊ូស៊ី​លីនុច និង​ម៉ាស៊ីន​បម្រើ​សហគ្រាស​បើក​ចំហ​របស់​ណូវែល ។ ផលិតផល​សហគ្រាស​​របស់​យើង​គឺ​ត្រូវបាន​បញ្ជូន​ទៅ​ជាមួយ​​នឹង​ការ​ធានា​ជួសជុល​រយៈពេល ៧ ឆ្នាំ កម្ម​វិធី​ដែល​គាំទ្រ​ស្រេចចិត្ត និង​កម្មវិធី​ធានា​សម្រាប់​លីនុច​ដែល​មាន​តែ​មួយ​គត់ ។"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: slideshow.xml:0(None)
 msgid "translator-credits"
-msgstr "ខឹម សុខែម <khoemsokhem@khmeros.info>, ប៉ុច សុគន្ធ <sokun_poch@khmeros.info>, អេង វណ្ណៈ <evannak@khmeros.info>, អោក ពិសិដ្ឋ <piseth_dv@khmeros.info>"
+msgstr "ខឹម សុខែម; អេង វណ្ណៈ; អោក ពិសិដ្ឋ ​"
 

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.wa\n"
-"POT-Creation-Date: 2008-04-14 15:05+0200\n"
+"POT-Creation-Date: 2008-10-22 11:30+0200\n"
 "PO-Revision-Date: 2008-04-14 21:51+0200\n"
 "Last-Translator: Jean Cayron <jean.cayron@gmail.com>\n"
 "Language-Team: Walloon <linux-wa@walon.org>\n"
@@ -26,7 +26,8 @@ msgid "Welcome to openSUSE™"
 msgstr "Bénvnowe so openSUSE™"
 
 #: slideshow.xml:20(para)
-msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.0."
+#, fuzzy
+msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.1."
 msgstr "Cwè ki ç' ki vs fijhîz avou voste éndjole: houkî vos soçons, les djins d' vosse famile oudonbén les cénk ki vs boutez avou; arindjî ou rloukî vos fotos et schoûter vosse muzike, cachî avå l' daegntoele après l' dierinnès noveles ou pol plaijhi; sicrire on rapoirt ou on budjet; ou co bén lodjî li waibe da vosse ou ene rantoele di måjhon, vos trovroz tot ç' ki vs avoz dandjî dins openSUSE 11.0."
 
 #: slideshow.xml:30(title)
@@ -38,7 +39,8 @@ msgid "openSUSE is a community project created and sponsored by Novell to delive
 msgstr "openSUSE est on cominåltaire pordjet ahivé eyet sponsorijhî pa Novell po dner al Daegne li pus ahessåve sistinme d' operance libe po copiutrece. Bråmint des djins di totafwait l' daegne aidnut l' pordjet openSUSE e fijhant des pacaedjes di programes, e sicrijhant del documintåcion eyet e ratournant les componints dins bråmint des lingaedjes. On pout awè ttafwait cist ovraedje po rén el distribucion openSUSE Linux sol waibe www.opensuse.org."
 
 #: slideshow.xml:40(para)
-msgid "Visit www.opensuse.org to learn how you can join the openSUSE community."
+#, fuzzy
+msgid "Visit www.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
 msgstr "Vizitez www.opensuse.org po-z aprinde comint vos ploz djonde li cominålté openSUSE."
 
 #: slideshow.xml:45(title)
@@ -54,11 +56,13 @@ msgid "Connect and Communicate"
 msgstr "Raloyîz vs et comunikez"
 
 #: slideshow.xml:58(para)
-msgid "You can communicate more effectively with openSUSE 11.0 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
+#, fuzzy
+msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
 msgstr "Vos ploz mia comuniker avou openSUSE 11.0 ca i dene on djeu complet d' usteyes pol betchtaedje waibe eyet l' manaedjmint des emiles — i gn a minme divins l' pus nouve tecnolodjeye d' telefone båzé sol daegntoele (VoIP)."
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including the Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox 3.0 also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+#, fuzzy
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
 msgstr "Vos avoz dins l' distribucion openSUSE li betchteu waibe Mozilla Firefox, on des meyeus betchteu waibe del daegne. Firefox a tos les usteyes po naivyî so l' etrernet avou les tchôkes-divins Java, Adobe Acrobat Reader, RealPlayer eyet Macromedia Flash. Firefox 3.0, c' est ossu des performances al roedeu del loumire eyet beacôp des amidraedjes pinsés po waeranti vosse privaceye eyet espaitchî les atakes d' anzinaedje (phishing)."
 
 #: slideshow.xml:71(para)
@@ -78,10 +82,9 @@ msgid "Documents, Spreadsheets and More"
 msgstr "Documints, tåvleas et co pus"
 
 #: slideshow.xml:93(para)
-msgid "The openSUSE 11.0 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr ""
-"Li distribucion openSUSE 11.0 arive complete avou l' dierinne modêye do mwaisse shûte di burotike da Linux, OpenOffice.org. I gn a dvins en aspougneu d' tecse, on programe po fé des tåvleas, en aspougneu HTML, en usteye po fé des prezintaedje eyet on manaedjeu d' båze di dnêyes. Ele lét eyet scrît ossu bråmint des cawetes di fitchî —come les cognes Microsoft Office— po k' vos poloxhe rivni en eri eyet passer åjheymint inte openSUSE eyet en ôte populaire programe di burotike nén Linux. OpenOffice.org est l' parfait tchoes po fé des rapoirts, des årtikes, des budjets pol "
-"måjhon, des simpes grafikes et co pus."
+#, fuzzy
+msgid "The openSUSE 11.1 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
+msgstr "Li distribucion openSUSE 11.0 arive complete avou l' dierinne modêye do mwaisse shûte di burotike da Linux, OpenOffice.org. I gn a dvins en aspougneu d' tecse, on programe po fé des tåvleas, en aspougneu HTML, en usteye po fé des prezintaedje eyet on manaedjeu d' båze di dnêyes. Ele lét eyet scrît ossu bråmint des cawetes di fitchî —come les cognes Microsoft Office— po k' vos poloxhe rivni en eri eyet passer åjheymint inte openSUSE eyet en ôte populaire programe di burotike nén Linux. OpenOffice.org est l' parfait tchoes po fé des rapoirts, des årtikes, des budjets pol måjhon, des simpes grafikes et co pus."
 
 #: slideshow.xml:104(title)
 msgid "Graphics, Graphics, Graphics"
@@ -124,35 +127,42 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "Tecnolodjeye di virtouwålizåcion et usteyes di disvelopmint des programes"
 
 #: slideshow.xml:159(para)
-msgid "Included with openSUSE is the Xen hypervisor—the highest performing virtualization software available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
+#, fuzzy
+msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
 msgstr "L' hipervizeu Xen — li meyeu programe di virtouwålizåcion k' i gn a — est dvins openSUSE. Di pus, openSUSE dene des usteyes rantoele pol pårtaedje di fitchîs, l' imprimaedje (Samba) eyet l' lodjaedje waibe (Apache). Pol disvelopmint di programes, openSUSE a ene chilêye d' evironmints d' enondaedje eyet des completès usteyes pol programaedje di programes come KDevelop, Eclipse eyet Mono."
 
-#: slideshow.xml:166(para)
-msgid "You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
-msgstr "Vos ploz cåzu tot costrure avou openSUSE. Il est åjhey d' ahiver eyet pårtaedjî des noveas pacaedjes po bråmint des distribucions Linux en eployant l' mierseu eyet pouxhant openSUSE Build Service. Djondoz openSUSE.org po-z ovrer avou nosôte."
-
-#: slideshow.xml:174(title)
+#: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "Endè saveur di pus"
 
-#: slideshow.xml:175(para)
+#: slideshow.xml:170(para)
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "Li distribucion openSUSE a ene grande documintåcion po des kesse åd fwait d' openSUSE oudonbén åd fwait di Linux. Li Cinte d' aidance est accessibe pal mwaisse dressêye. Les lives d' aidance sont ossu disponibes e PDF, polèt esse aberwetés eyet imprimés (http://en.opensuse.org/Documentation)."
 
-#: slideshow.xml:184(para)
+#: slideshow.xml:180(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
 msgstr "Gn a co dpus d' pondants et djondants sol wiki d' openSUSE so http://fr.opensuse.org/. Divins «Documentation», vos discovroz ds hårdêyes viè des ahessåvès informåcions ahivêyes eyet mintnowes pa ds ôtes uzeus d' openSUSE. Vos ploz ossu trover des loyéns viè l' documintåcion k' i gn a sol oficire waibe di Novell. Po d' l' aidance avou des problinmes sipecifikes a openSUSE, verifyîz sol Båze di dnêye Sopoirt so www.opensuse.org"
 
-#: slideshow.xml:197(title)
+#: slideshow.xml:191(para)
+msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
+msgstr ""
+
+#: slideshow.xml:198(para)
+#, fuzzy
+msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
+msgstr "Vos ploz cåzu tot costrure avou openSUSE. Il est åjhey d' ahiver eyet pårtaedjî des noveas pacaedjes po bråmint des distribucions Linux en eployant l' mierseu eyet pouxhant openSUSE Build Service. Djondoz openSUSE.org po-z ovrer avou nosôte."
+
+#: slideshow.xml:207(title)
 msgid "Novell and Linux"
 msgstr "Novell eyet Linux"
 
-#: slideshow.xml:198(para)
+#: slideshow.xml:208(para)
 msgid "Novell is committed to your success with Linux. In addition to openSUSE, Novell also delivers an exciting suite of products designed to meet the needs of businesses large and small."
 msgstr "Novell vout k' totafwait våye bén por vos avou Linux. Di pus k' openSUSE, Novelle eplaide ossu ene zûnante shûte di prodûts apougnîs po rescontrer çou k' ont dandjî les ptitès eyet les grandès societés."
 
-#: slideshow.xml:203(para)
-msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit www.novell.com/linux"
+#: slideshow.xml:213(para)
+#, fuzzy
+msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit http://www.novell.com/linux"
 msgstr "Dins les prodûts Linux di Novell po les eterprijhes, i gn a SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop eyet Novell Open Enterprise Server. Nos prodûts po ls eterprijhes sont dnêyes avou ene waeranteye di mintnance di set anêyes eyet des programes di sopoirt al tchuze. Endè saveur di pus so Linux di Novell po les eterprijhes? Vizitez www.novell.com/linux"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
@@ -162,4 +172,3 @@ msgstr "Djan Cayron <jean.cayron@gmail.com>, 2007, 2008."
 
 #~ msgid "Also included with openSUSE are Novell Evolution and Kontact. These complete e-mail and contact managers help you organize and maintain all your e-mail accounts. The openSUSE distribution also comes with state-of-the-art Voice over IP (VoIP) solutions that let you communicate with people connected to the Internet all over the world."
 #~ msgstr "Vos avoz ossu dvins openSUSE Evolucion di Novelle eyet Kontact. Ces complets programes d' emilaedje eyet d' manaedjmint di vosse calpin d' adresse vos aidront a assonrer eyet waitî a tos vos contes emile. Li distribucion openSUSE avou l' meyeuse voye po fé del Vwès dzeu IP (Voice over IP - VoIP) ki vs permete di comuniker avou des djins raloyîs sol daegntoele totavå l' daegn."
-
