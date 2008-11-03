@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-10-22 11:30+0200\n"
-"PO-Revision-Date: 2008-10-22 15:10+0200\n"
+"POT-Creation-Date: 2008-11-03 11:49+0100\n"
+"PO-Revision-Date: 2008-10-25 14:11+0200\n"
 "Last-Translator: Martin Schlander <mschlander@opensuse.org>\n"
 "Language-Team: Danish <opensuse-translation@opensuse.org>\n"
 "MIME-Version: 1.0\n"
@@ -60,12 +60,12 @@ msgid "Connect and Communicate"
 msgstr "Tilslut og kommunikér"
 
 #: slideshow.xml:58(para)
-msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
-msgstr "Du kan kommunikere mere effektivt med openSUSE 11.1, fordi den leverer et komplet sæt af værktøjer til at surfe på internettet og håndtering af e-mail - og indeholder endda den nyeste teknologi til internet-baseret telefoni (VoIP)."
+msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
+msgstr "Du kan kommunikere mere effektivt med openSUSE 11.1, fordi den leverer et komplet sæt af værktøjer til at surfe på internettet og håndtering af e-mail, og indeholder endda den nyeste teknologi til internet-baseret telefoni (VoIP)."
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "openSUSE inkluderer Mozilla Firefox, en af verdens bedste webbrowsere. Firefox indeholder alle de funktioner du behøver for at nyde nettet, inklusiv Java, Adobe Acrobat Reader, RealPlayer og Macromedia Flash plugins. Firefox kan også prale af  lynhurtig ydelse et antal forbedringer designet til at beskytte dine personlige oplysninger og undgå phishing-angreb."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "openSUSE inkluderer Mozilla Firefox, en af verdens bedste webbrowsere. Firefox indeholder alle de funktioner, du behøver for at nyde nettet, inklusiv plugins til Java, Adobe Acrobat Reader, RealPlayer og Macromedia Flash. Firefox kan også prale af  lynhurtig ydelse et antal forbedringer designet til at beskytte dine personlige oplysninger og undgå phishing-angreb."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
@@ -128,7 +128,8 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "Virtualiseringsteknologi og værktøjer til applikationsudvikling"
 
 #: slideshow.xml:159(para)
-msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
+#, fuzzy
+msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
 msgstr "Xen Hypervisor er inkluderet i openSUSE. Xen er er en af de mest robuste virtualiseringsløsninger der findes. Derudover leverer openSUSE værktøjer til fil- og printdeling (Samba) og webhosting (Apache). Til applikationsudvikling kommer openSUSE med et komplet sæt af runtime-miljøer plus talrige værktøjer til applikationsudvikling, inklusive KDevelop, Eclipse og Mono."
 
 #: slideshow.xml:169(title)
@@ -136,7 +137,8 @@ msgid "Learn More"
 msgstr "Find ud af mere"
 
 #: slideshow.xml:170(para)
-msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
+#, fuzzy
+msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "openSUSE-distributionen leverer omfattende dokumentation til openSUSE-specifikke såvel som generelle Linux-relaterede spørgsmål. Hjælpecentret er tilgængeligt via menuen. Manualer er også tilgængelige i PDF-format og kan downloades og udskrives (http://en.opensuse.org/Documentation)."
 
 #: slideshow.xml:180(para)
@@ -147,19 +149,19 @@ msgstr "Endnu mere information er til rådighed på openSUSE-wikien på http://e
 msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
 msgstr "For at få support fra andre openSUSE-brugere, kan du besøge det officielle openSUSE-forum på http://forums.opensuse.org/. Her vil du finde tusindvis af andre openSUSE-brugere, som er ivrige efter at hjælpe dig, med at få så meget som muligt ud af Linux. Hvis du er en erfaren openSUSE-bruger, er forummet et godt sted at møde og hjælpe andre Linux-brugere."
 
-#: slideshow.xml:198(para)
+#: slideshow.xml:200(para)
 msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
 msgstr "Vil du gøre openSUSE endnu bedre? Du kan bygge næsten alt med openSUSE. Det er let at skabe og dele nye pakker til flere forskellige Linux-distributioner ved at bruge den unikke og kraftfulde openSUSE Build Service. Tilmeld dig på openSUSE.org for at samarbejde."
 
-#: slideshow.xml:207(title)
+#: slideshow.xml:209(title)
 msgid "Novell and Linux"
 msgstr "Novell og Linux"
 
-#: slideshow.xml:208(para)
+#: slideshow.xml:210(para)
 msgid "Novell is committed to your success with Linux. In addition to openSUSE, Novell also delivers an exciting suite of products designed to meet the needs of businesses large and small."
 msgstr "Novell tager din oplevelse med Linux alvorligt. Udover openSUSE leverer Novell også en spændende portefølje af produkter designet til at imødekomme virksomheders behov, store som små."
 
-#: slideshow.xml:213(para)
+#: slideshow.xml:215(para)
 msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit http://www.novell.com/linux"
 msgstr "Novells Linuxprodukter til erhvervslivet omfatter SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop og Novell Open Enterprise Server. Vores erhvervsprodukter leveres med garanti om syv års vedligeholdelse, valgfri supportydelser. For mere information om Linux til erhvervslivet fra Novell besøg http://www.novell.com/linux"
 
@@ -168,3 +170,5 @@ msgstr "Novells Linuxprodukter til erhvervslivet omfatter SUSE Linux Enterprise 
 msgid "translator-credits"
 msgstr "Martin Schlander <suse@linuxin.dk>, 2006, 2007.Martin Møller <martin@martinm-76.dk>, 2005, 2007.Ib Larsen <i.la@tele2adsl.dk>, 2006, 2007.Jan Madsen <jan.madsen.pt@gmail.com>, 2006, 2007."
 
+#~ msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
+#~ msgstr "Du kan kommunikere mere effektivt med openSUSE 11.1, fordi den leverer et komplet sæt af værktøjer til at surfe på internettet og håndtering af e-mail - og indeholder endda den nyeste teknologi til internet-baseret telefoni (VoIP)."

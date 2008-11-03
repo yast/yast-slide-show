@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.uk\n"
-"POT-Creation-Date: 2008-10-22 11:30+0200\n"
-"PO-Revision-Date: 2008-10-22 22:45-0700\n"
+"POT-Creation-Date: 2008-11-03 11:49+0100\n"
+"PO-Revision-Date: 2008-10-24 19:32-0700\n"
 "Last-Translator: Ivan Petrouchtchak <fr.ivan@ukrainian-orthodox.org>\n"
 "Language-Team: Ukrainian <translation@linux.org.ua>\n"
 "MIME-Version: 1.0\n"
@@ -58,11 +58,11 @@ msgid "Connect and Communicate"
 msgstr "З'єднання з Інтернетом і комунікація"
 
 #: slideshow.xml:58(para)
-msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
-msgstr "Ви зможете обмінюватися інформацією ефективніше, тому що openSUSE 11.1 надає повний набір засобів для навігації Тенетами і керування електронною поштою — у ньому навіть присутня найновіша телефонна технологія зв'язку через Інтернет."
+msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
+msgstr "Ви зможете обмінюватися інформацією ефективніше, тому що openSUSE 11.1 надає повний набір засобів для навігації Тенетами і керування електронною поштою — у ньому є, навіть, найновіша телефонна технологія зв'язку через Інтернет."
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
 msgstr "Дистрибутив openSUSE містить переглядач Тенет Mozilla Firefox — це один з найкращих переглядачів, які є сьогодні у світі. Він має повний набір можливостей навігації Інтернету, включно з Java, Adobe Acrobat Reader, RealPlayer і Macromedia Flash. Firefox також має покращену швидкодію, а також ряд покращень для захисту вашої інформації і боротьби з атаками на вашу інформацію."
 
 #: slideshow.xml:71(para)
@@ -126,7 +126,8 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "Технологія віртуалізації та засоби розробки програм"
 
 #: slideshow.xml:159(para)
-msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
+#, fuzzy
+msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
 msgstr "openSUSE включає в себе Xen hypervisor — ПЗ віртуалізації з найкращою швидкодією. Крім цього, openSUSE надає засоби для спільного доступу до файлів в мережі, друку (Samba) і виконання обов’язків провідного вузла мережі (Apache). Для розробки програм, openSUSE має повний набір середовищ виконання, а ще містить засоби розробки програмного забезпечення, такі як KDevelop, Eclipse і Mono."
 
 #: slideshow.xml:169(title)
@@ -134,7 +135,8 @@ msgid "Learn More"
 msgstr "Дізнайтесь більше"
 
 #: slideshow.xml:170(para)
-msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
+#, fuzzy
+msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "Дистрибутив openSUSE має багато документації щодо питань, які стосуються openSUSE, а також і загальних питань щодо Linux. Центр довідки доступний з головного меню . Інструкції в форматі PDF можна звантажити і надрукувати (http://en.opensuse.org/Documentation)."
 
 #: slideshow.xml:180(para)
@@ -145,19 +147,19 @@ msgstr "Докладнішу інформацію можна знайти у ope
 msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
 msgstr "Щоб отримати допомогу від інших користувачів openSUSE, відвідайте офіційні форуми openSUSE на http://forums.opensuse.org/. Там ви зустрінете тисячі інших користувачів openSUSE, які з завзяттям допоможуть вам отримати якнайбільше користі від Linux. Якщо ви досвідчений користувач openSUSE, на форумах ви можете зустріти нових людей і допомогти іншим користувачам Linux."
 
-#: slideshow.xml:198(para)
+#: slideshow.xml:200(para)
 msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
 msgstr "За допомогою openSUSE можна скласти будь-який пакунок. Дуже просто створювати і поширювати нові пакунки для багатьох дистрибутивів Linux за допомогою унікальної і потужної служби складання openSUSE. Приєднуйтесь до openSUSE.org, щоб працювати разом."
 
-#: slideshow.xml:207(title)
+#: slideshow.xml:209(title)
 msgid "Novell and Linux"
 msgstr "Novell і Linux"
 
-#: slideshow.xml:208(para)
+#: slideshow.xml:210(para)
 msgid "Novell is committed to your success with Linux. In addition to openSUSE, Novell also delivers an exciting suite of products designed to meet the needs of businesses large and small."
 msgstr "Novell має твердий намір забезпечити вам успіх з використанням Linux. Крім openSUSE, Novell випускає чудовий ряд продуктів, які призначені для задоволення потреб великих і малих підприємств."
 
-#: slideshow.xml:213(para)
+#: slideshow.xml:215(para)
 msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit http://www.novell.com/linux"
 msgstr "Бізнес-продукти Linux від Novell складаються з SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop і Novell Open Enterprise Server. Продукти для компаній включають гарантію підтримки на сім років і додаткові програми технічної підтримки. Більше інформації про Linux для бізнесу від Novell можна отримати відвідавши http://www.novell.com/linux"
 
@@ -165,4 +167,3 @@ msgstr "Бізнес-продукти Linux від Novell складаються
 #: slideshow.xml:0(None)
 msgid "translator-credits"
 msgstr "Іван Петрущак <ivanpetrouchtchak@yahoo.com>"
-

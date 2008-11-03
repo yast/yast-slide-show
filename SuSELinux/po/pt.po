@@ -1,19 +1,19 @@
 # translation of slideshow.pt.po to Portuguese
 # Antonio Cardoso Martins <digiplan.pt@gmail.com>, 2006, 2007, 2008.
-# Carlos Gonçalves <cgoncalves@opensuse.org>, 2007.
+# Carlos Gonçalves <cgoncalves@opensuse.org>, 2007, 2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.pt\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-10-22 11:30+0200\n"
-"PO-Revision-Date: 2008-05-27 22:54+0100\n"
-"Last-Translator: Antonio Cardoso Martins <digiplan.pt@gmail.com>\n"
+"POT-Creation-Date: 2008-11-03 11:49+0100\n"
+"PO-Revision-Date: 2008-10-29 23:06+0000\n"
+"Last-Translator: Carlos Gonçalves <cgoncalves@opensuse.org>\n"
 "Language-Team: Portuguese <opensuse-pt@opensuse.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 ">\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: Lokalize 0.2\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 
 #: slideshow.xml:15(title)
@@ -25,9 +25,8 @@ msgid "Welcome to openSUSE™"
 msgstr "Bem-vindo ao openSUSE™"
 
 #: slideshow.xml:20(para)
-#, fuzzy
 msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.1."
-msgstr "Se utiliza o seu computador para comunicar com amigos, família ou colegas, para gerir e divertir-se com as suas músicas e fotografias, navegar na Internet para saber as últimas informações ou para se divertir, escrever relatórios ou orçamentos, albergar um sítio Web pessoal ou uma rede doméstica, certamente que encontrará tudo o que necessita no openSUSE 11.0."
+msgstr "Se utiliza o seu computador para comunicar com amigos, família ou colegas, para gerir e divertir-se com as suas músicas e fotografias, navegar na Internet para saber as últimas informações ou para se divertir, escrever relatórios ou orçamentos, albergar um sítio Web pessoal ou uma rede doméstica, certamente que encontrará tudo o que necessita no openSUSE 11.1."
 
 #: slideshow.xml:30(title)
 msgid "openSUSE.org"
@@ -38,9 +37,8 @@ msgid "openSUSE is a community project created and sponsored by Novell to delive
 msgstr "openSUSE.org é um projecto da comunidade criado e patrocinado pela Novell, para entregar a plataforma de computação de software aberto mais amigável do mundo. Muitas pessoas à volta do mundo contribuem para o projecto openSUSE com a criação de pacotes de software, testes de programas, na escrita de documentação e também traduzindo componentes em dezenas de idiomas. Todo este trabalho está disponível gratuitamente na distribuição openSUSE Linux disponível em www.opensuse.org"
 
 #: slideshow.xml:40(para)
-#, fuzzy
 msgid "Visit www.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
-msgstr "Visite www.opensuse.org para saber como se pode juntar à comunidade openSUSE."
+msgstr "Visite www.opensuse.org/How_to_Participate para saber como se pode juntar à comunidade openSUSE."
 
 #: slideshow.xml:45(title)
 msgid "openSUSE in Many Languages"
@@ -55,14 +53,12 @@ msgid "Connect and Communicate"
 msgstr "Ligue-se e Comunique"
 
 #: slideshow.xml:58(para)
-#, fuzzy
-msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
-msgstr "Poderá comunicar mais eficazmente com o openSUSE 11.0 pois este fornece um conjunto completo de ferramentas para navegação Web e gestão de correio electrónico—este até inclui as mais recentes tecnologias de voz sobre IP."
+msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
+msgstr "Poderá comunicar mais eficazmente com o openSUSE 11.1 pois este fornece um conjunto completo de ferramentas para navegação Web e gestão de correio electrónico—este até inclui as mais recentes tecnologias de voz sobre IP."
 
 #: slideshow.xml:64(para)
-#, fuzzy
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "O openSUSE, inclui o Mozilla Firefox, um dos melhores navegadores Web do mundo. O Firefox inclui todas as funcionalidades que necessita para apreciar a web, incluindo Java, Adobe Acrobat Reader, RealPlayer e plug-ins de Macromedia Flash. O Firefox 3 aumenta drasticamente o desempenho, e tem um número de melhoramentos desenhados para proteger a sua privacidade e prevenir ataques de phishing."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "O openSUSE inclui o Mozilla Firefox, um dos melhores navegadores Web do mundo. O Firefox inclui todas as funcionalidades que necessita para apreciar a web, incluindo Java, Adobe Acrobat Reader, RealPlayer e plug-ins de Adobe Flash. O Firefox aumenta drasticamente o desempenho, e tem um número de melhoramentos desenhados para proteger a sua privacidade e prevenir ataques de phishing."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
@@ -81,9 +77,8 @@ msgid "Documents, Spreadsheets and More"
 msgstr "Documentos, Folhas de Cálculo e Mais"
 
 #: slideshow.xml:93(para)
-#, fuzzy
 msgid "The openSUSE 11.1 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr "A distribuição openSUSE 11.0 vem completa com a última versão da suite Linux de produtividade, o OpenOffice.org. Esta inclui um processador de texto, uma aplicação de folha de cálculo, um editor de HTML, um desenhador de apresentações e um gestor de base de dados. Também lê e escreve multiplos formatos - por isso pode converter em ambas as direcções entre o openSUSE e outro software popular de produtividade não-Linux. O OpenOffice.org é a escolha perfeita para relatórios, artigos, contas domésticas, gráficos simples e muito mais."
+msgstr "A distribuição openSUSE 11.1 vem completa com a última versão da suite Linux de produtividade, o OpenOffice.org. Esta inclui um processador de texto, uma aplicação de folha de cálculo, um editor de HTML, um desenhador de apresentações e um gestor de base de dados. Também lê e escreve multiplos formatos—incluíndo formatos Microsoft Office—por isso pode converter em ambas as direcções entre o openSUSE e outro software popular de produtividade não-Linux. O OpenOffice.org é a escolha perfeita para relatórios, artigos, contas domésticas, gráficos simples e muito mais."
 
 #: slideshow.xml:104(title)
 msgid "Graphics, Graphics, Graphics"
@@ -127,15 +122,16 @@ msgstr "Tecnologia de Virtualização e Ferramentas de Desenvolvimento de Aplica
 
 #: slideshow.xml:159(para)
 #, fuzzy
-msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "Incluído no openSUSE vem o Xen hypervisor—o software de virtualização com melhor desempenho disponível. Para além disso, o openSUSE oferece ferramentas de partilha de ficheiros em rede, impressão (Samba) e alojamento Web (Apache). Para o desenvolvimento de aplicações, o openSUSE vem com um conjunto completo de ambientes de execução, para além de várias ferramentas de desenvolvimento de aplicações, incluindo o KDevelop, Eclipse e Mono."
+msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
+msgstr "Incluído no openSUSE vem o Xen hypervisor. O Xen é o software de virtualização com melhor desempenho disponível. Para além disso, o openSUSE oferece ferramentas de partilha de ficheiros em rede, impressão (Samba) e alojamento Web (Apache). Para o desenvolvimento de aplicações, o openSUSE vem com um conjunto completo de ambientes de execução, para além de várias ferramentas de desenvolvimento de aplicações, incluindo o KDevelop, Eclipse e Mono."
 
 #: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "Saber Mais"
 
 #: slideshow.xml:170(para)
-msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
+#, fuzzy
+msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "A distribuição openSUSE disponibiliza documentação extensiva para questões específicas do openSUSE assim como questões relacionadas com o Linux. O Centro de Ajuda está acessível no menu principal. Manuais estão também disponíveis em formato PDF e podem ser descarregados e imprimidos (http://en.opensuse.org/Documentation)."
 
 #: slideshow.xml:180(para)
@@ -144,27 +140,29 @@ msgstr "Está disponível ainda mais documentação no wiki openSUSE em http://e
 
 #: slideshow.xml:191(para)
 msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
-msgstr ""
+msgstr "Para suporte de outros utilizadores de openSUSE, visite os fóruns oficiais em http://forums.opensuse.org/. Poderá encontrar milhares de utilizadores de openSUSE à sua espera para o ajudar a ter tudo o que necessita no Linux. Se for um utilizador experiente de openSUSE, os fóruns são óptimos sítios para conhecer e também ajudar outros utilizadores de Linux."
 
-#: slideshow.xml:198(para)
-#, fuzzy
+#: slideshow.xml:200(para)
 msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
-msgstr "Pode construir praticamente tudo com o openSUSE. É fácil de criar e partilhar novos pacotes para múltiplas distribuições Linux utilizando o único e poderoso Serviço de Compilação openSUSE. Junte-se ao openSUSE.org para colaborar."
+msgstr "Quer tornar o openSUSE ainda melhor? Pode construir praticamente tudo com o openSUSE. É fácil de criar e partilhar novos pacotes para múltiplas distribuições Linux utilizando o único e poderoso openSUSE Build Service. Junte-se ao openSUSE.org para colaborar."
 
-#: slideshow.xml:207(title)
+#: slideshow.xml:209(title)
 msgid "Novell and Linux"
 msgstr "Novell e Linux"
 
-#: slideshow.xml:208(para)
+#: slideshow.xml:210(para)
 msgid "Novell is committed to your success with Linux. In addition to openSUSE, Novell also delivers an exciting suite of products designed to meet the needs of businesses large and small."
 msgstr "A Novell está comprometida no seu sucesso com o Linux. Além do openSUSE, a Novell também entrega uma excitante gama de produtos desenhados para ir de encontro às necessidades empresariais, sejam grandes ou pequenas."
 
-#: slideshow.xml:213(para)
-#, fuzzy
+#: slideshow.xml:215(para)
 msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit http://www.novell.com/linux"
-msgstr "Os produtos Linux Enterprise da Novell incluem o SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop, e Novell Open Enterprise Server. Os nossos produtos empresariais são entregues com uma garantia de suporte de sete anos e programas de suporte opcional. Para mais informação sobre Linux empresarial da Novell, visite www.novell.com/linux"
+msgstr "Os produtos Linux Enterprise da Novell incluem o SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop, e Novell Open Enterprise Server. Os nossos produtos empresariais são entregues com uma garantia de suporte de sete anos e programas de suporte opcional. Para mais informação sobre Linux empresarial da Novell, visite http://www.novell.com/linux"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: slideshow.xml:0(None)
 msgid "translator-credits"
 msgstr "António Cardoso Martins <digiplan.pt@gmail.com>, 2004, 2008Carlos Gonçalves <carlos@pinguix.com>, 2007, 2008Elísio André Martins Catana <eacatana@netvisao.pt>, 2004, 2008Rui Malheiro <rmalheiro@6mil.pt>, 2004, 2006"
+
+#, fuzzy
+#~ msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
+#~ msgstr "Poderá comunicar mais eficazmente com o openSUSE 11.0 pois este fornece um conjunto completo de ferramentas para navegação Web e gestão de correio electrónico—este até inclui as mais recentes tecnologias de voz sobre IP."

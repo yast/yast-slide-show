@@ -1,14 +1,15 @@
-# translation of slideshow.pt_BR.po to Brazilian Portuguese
+# translation of slideshow.po to Brazilian Portuguese
 # Copyright (C) 2006 SuSE Linux Products GmbH, Nuernberg
 # This file is distributed under the same license as the package.
 #
 # Luiz Fernando Ranghetti <elchevive68@gmail.com>, 2008.
+# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: slideshow.pt_BR\n"
-"POT-Creation-Date: 2008-10-22 11:30+0200\n"
-"PO-Revision-Date: 2008-10-22 12:20-0300\n"
-"Last-Translator: Isis Binder <isis.binder@gmail.com>\n"
+"Project-Id-Version: slideshow\n"
+"POT-Creation-Date: 2008-11-03 11:49+0100\n"
+"PO-Revision-Date: 2008-11-03 10:33-0300\n"
+"Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
 "Language-Team: Brazilian Portuguese <opensuse-pt@opensuse.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -56,12 +57,12 @@ msgid "Connect and Communicate"
 msgstr "Conectar e comunicar"
 
 #: slideshow.xml:58(para)
-msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
-msgstr "Você pode se comunicar mais efetivamente com o openSUSE 11.1 porque ele fornece um conjunto completo de ferramentas para a navegação na Internet e gerenciamento de e-mails— inclui até a mais recente tecnologia baseada em voz sobre IP (VoIP)."
+msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
+msgstr "Você pode se comunicar mais efetivamente com o openSUSE 11.1 porque ele fornece um conjunto completo de ferramentas para a navegação na Internet e gerenciamento de e-mails—inclui até a mais recente tecnologia baseada em voz sobre IP (VoIP)."
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "O openSUSE inclui o Mozilla Firefox, um dos melhores navegadores de Internet do mundo. O Firefox inclui todos os recursos que você precisa para desfrutar a Internet, incluindo o Java, o Adobe Acrobat Reader, o RealPlayer e os plug-ins Macromedia Flash. O Firefox 3 também se orgulha de um desempenho fantástico e uma série de melhorias destinadas a proteger sua privacidade e prevenir ataques do tipo phishing."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "O openSUSE inclui o Mozilla Firefox, um dos melhores navegadores de Internet do mundo. O Firefox inclui todos os recursos que você precisa para desfrutar a Internet, incluindo o Java, o Adobe Acrobat Reader, o RealPlayer e os plug-ins Adobe Flash. O Firefox também se orgulha de um desempenho fantástico e uma série de melhorias destinadas a proteger sua privacidade e prevenir ataques do tipo phishing."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
@@ -124,16 +125,16 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "Tecnologia de virtualização e ferramentas para o desenvolvimento de aplicativos"
 
 #: slideshow.xml:159(para)
-msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "Incluído no openSUSE está o Xen hypervisor, um dos softwares de virtualização com o maior desempenho. Adicionalmente, o openSUSE fornece ferramentas para compartilhar arquivos em rede, impressão (Samba) e hospedagem na Internet (Apache). Para o desenvolvimento de aplicativos, o openSUSE vem com um conjunto completo de ambientes de execução mais uma extensa gama de ferramentas de desenvolvimento de aplicativos, incluindo o KDevelop, o Eclipse e o Mono."
+msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
+msgstr "Incluído no openSUSE está o Xen hypervisor, uma das soluções de virtualização mais robustas disponível. Adicionalmente, o openSUSE fornece ferramentas para compartilhar arquivos em rede (Samba, NFS, etc.), impressão (CUPS) e hospedagem na Internet (Apache). Para o desenvolvimento de aplicativos, o openSUSE vem com um conjunto completo de ambientes de execução mais uma extensa gama de ferramentas de desenvolvimento de aplicativos, incluindo o KDevelop, o Eclipse e o Mono."
 
 #: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "Aprenda mais"
 
 #: slideshow.xml:170(para)
-msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
-msgstr "A distribuição openSUSE fornece extensa documentação para questões específicas do openSUSE assim como para questões gerais relacionadas ao Linux. O Centro de ajuda é acessado pelo menu principal. Manuais também estão disponíveis em PDF e podem ser baixados e impressos (http://pt.opensuse.org/Documentation)."
+msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
+msgstr "A distribuição openSUSE fornece extensa documentação para questões específicas do openSUSE assim como para questões gerais relacionadas ao Linux. O Centro de ajuda é acessado pelo menu principal. Manuais também estão disponíveis em PDF e podem ser baixados e impressos (http://en.opensuse.org/Documentation)."
 
 #: slideshow.xml:180(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
@@ -141,21 +142,21 @@ msgstr "Há ainda mais informação disponível no wiki do openSUSE em http://en
 
 #: slideshow.xml:191(para)
 msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
-msgstr "Para obter suporte de outros usuários do openSUSE, visite os fóruns oficiais do openSUSE em  http://forums.opensuse.org/. Lá você encontrará milhares de outros usuários do openSUSE, prontos para ajudá-lo a obter o máximo do Linux. Se você é um usuário experiente do openSUSE, os fóruns são ótimos lugares para encontrar outros usuários e ajudar outros usuários Linux."
+msgstr "Para obter suporte de outros usuários do openSUSE, visite os fóruns oficiais do openSUSE em  http://forums.opensuse.org/. Lá você encontrará milhares de outros usuários do openSUSE, prontos para ajudá-lo a obter o máximo do Linux. Se você é um usuário avançado do openSUSE, os fóruns são ótimos lugares para encontrar outros usuários e ajudar outros usuários Linux."
 
-#: slideshow.xml:198(para)
+#: slideshow.xml:200(para)
 msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
 msgstr "Quer tornar o openSUSE melhor? Você pode construir quase tudo com o openSUSE. É fácil criar e compartilhar novos pacotes para múltiplas distribuições Linux usando o único e poderoso openSUSE Build Service (Serviço de compilação openSUSE). Entre em openSUSE.org para colaborar."
 
-#: slideshow.xml:207(title)
+#: slideshow.xml:209(title)
 msgid "Novell and Linux"
 msgstr "Novell e Linux"
 
-#: slideshow.xml:208(para)
+#: slideshow.xml:210(para)
 msgid "Novell is committed to your success with Linux. In addition to openSUSE, Novell also delivers an exciting suite of products designed to meet the needs of businesses large and small."
 msgstr "A Novell está comprometida em garantir o seu sucesso com o Linux. Além do openSUSE, a Novell fornece uma empolgante suíte de produtos projetados para atender às necessidades de empresas de pequeno e grande porte."
 
-#: slideshow.xml:213(para)
+#: slideshow.xml:215(para)
 msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit http://www.novell.com/linux"
 msgstr "Os produtos Enterprise Linux da Novell incluem o SUSE Linux Enterprise Server, o SUSE Linux Enterprise Desktop e o Novell Open Enterprise Server. Nossos produtos empresariais são fornecidos com uma garantia de manutenção de sete anos e programas de suporte opcionais. Para mais informações sobre as soluções empresariais Linux da Novell, visite www.novell.com/linux"
 
