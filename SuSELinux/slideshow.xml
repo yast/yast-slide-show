@@ -156,11 +156,11 @@ important security updates, so you can install them at your convenience.
  <section label="10_devel">
   <title>Virtualization Technology and Application Development Tools</title>
 
-  <para>The Xen hypervisor is included with openSUSE. Xen is one of the most 
-robust solutions for virtualization available. In addition, openSUSE 
-provides tools for network file sharing, printing (Samba) and Web hosting 
-(Apache). For application development, openSUSE comes with a complete 
-set of runtime environments plus extensive application development tools, 
+  <para>The Xen hypervisor is included with openSUSE. Xen is one of the most
+robust solutions for virtualization available. In addition, openSUSE provides
+tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web
+hosting (Apache). For application development, openSUSE comes with a complete
+set of runtime environments plus extensive application development tools,
 including KDevelop, Eclipse and Mono.</para>
 
  </section>
@@ -170,7 +170,7 @@ including KDevelop, Eclipse and Mono.</para>
     <para>
 The openSUSE distribution provides extensive documentation for specific
 openSUSE questions as well as general Linux-related questions. The Help
-Center is accessible via the main menu . Manuals are also available in
+Center is accessible via the main menu. Manuals are also available in
 PDF and can be downloaded and printed <!-- translator: check whether a
 dedicated page exists for your language and use it instead of "en" -->
 (http://en.opensuse.org/Documentation).
@@ -188,7 +188,9 @@ specific openSUSE problems, check out the Support Database at
 www.opensuse.org
     </para>
 
-<para>For support from other openSUSE users, visit the official openSUSE
+<para><!-- translator: adjust the snippet about forums according to your
+language; see https://bugzilla.novell.com/show_bug.cgi?id=439101 -->
+For support from other openSUSE users, visit the official openSUSE
 forums at http://forums.opensuse.org/. Here you'll find thousands of other
 openSUSE users, eager to help you get everything you can out of Linux. If 
 you're an experienced openSUSE user, the forums are a great place to meet 
