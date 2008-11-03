@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
-"POT-Creation-Date: 2008-10-22 11:30+0200\n"
-"PO-Revision-Date: 2008-10-22 21:14+0900\n"
+"POT-Creation-Date: 2008-11-03 11:49+0100\n"
+"PO-Revision-Date: 2008-10-25 10:06+0900\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
 "Language-Team: Japanese <opensuse-ja@opensuse.org>\n"
 "MIME-Version: 1.0\n"
@@ -52,12 +52,12 @@ msgid "Connect and Communicate"
 msgstr "接続と通信"
 
 #: slideshow.xml:58(para)
-msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
-msgstr "openSUSE 11.1 を利用することで便利なコミュニケーションを図ることができます。 Web ブラウザや電子メール管理、もちろん IP ネットワーク上の音声通信 (Voice over IP; VoIP) にも対応しています。"
+msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
+msgstr "openSUSE 11.1 を利用することで便利にコミュニケーションを図ることができます。 Web ブラウザや電子メール管理、もちろん IP ネットワーク上の音声通信 (Voice over IP; VoIP) にも対応しています。"
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "openSUSE ディストリビューションには世界最高のブラウザの 1 つである Mozilla Firefox ブラウザが含まれています。 Firefox には Web を楽しむ上で必要な機能が全て揃っています。たとえば Java や Adobe Acrobat Reader, RealPlayer, Macromedia Flash プラグインなどがあります。また Firefox は驚くほど高い性能を誇るだけでなく、プライバシーを守ったりフィッシング攻撃からの防御を行なうための機能も多数備えています。"
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "openSUSE には世界最高のブラウザの 1 つである Mozilla Firefox ブラウザが含まれています。 Firefox には Web を楽しむ上で必要な機能が全て揃っています。たとえば Java や Adobe Acrobat Reader, RealPlayer, Macromedia Flash プラグインなどがあります。また Firefox は驚くほど高い性能を誇るだけでなく、プライバシーを守ったりフィッシング攻撃からの防御を行なうための機能も多数備えています。"
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
@@ -120,7 +120,8 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "仮想化技術とアプリケーション開発ツール"
 
 #: slideshow.xml:159(para)
-msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
+#, fuzzy
+msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
 msgstr "openSUSE には最高のパフォーマンスを提供する仮想化ソフトウエア Xen ハイパーバイザが含まれています。さらに openSUSE にはネットワークファイル共有や印刷 (Samba)、Web サーバ機能 (Apache) もあります。アプリケーション開発向けには openSUSE の完全なランタイム環境のほか、 KDevelop, Eclipse, Mono などのアプリケーション開発ツールが付属しています。"
 
 #: slideshow.xml:169(title)
@@ -128,7 +129,8 @@ msgid "Learn More"
 msgstr "さらなる情報"
 
 #: slideshow.xml:170(para)
-msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
+#, fuzzy
+msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "openSUSE ディストリビューションには広範囲にわたる openSUSE や一般的な Linux 関連の質問に答えるためのドキュメントが用意されています。たとえばヘルプセンターはメインメニューからアクセスできますし、マニュアルは pdf 形式でダウンロード・印刷することができます (http://ja.opensuse.org/Documentation) 。"
 
 #: slideshow.xml:180(para)
@@ -139,19 +141,19 @@ msgstr "より多くの情報が openSUSE wiki http://ja.opensuse.org/ にあり
 msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
 msgstr "他の openSUSE ユーザからのサポートを受けるには、 openSUSE の公式フォーラム http://forums.opensuse.org/ をお訪ねください。ここには多くの openSUSE ユーザが集まっていて、何か困っている人を助けたがっています。経験のある openSUSE ユーザであれば、フォーラムは他のユーザと出会ったり助けをさしのべるのに便利な場所でしょう。"
 
-#: slideshow.xml:198(para)
+#: slideshow.xml:200(para)
 msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
 msgstr "openSUSE をもっと便利に使用したいですか？ openSUSE のではほとんど全てのアプリケーションを構築できます。ユニークでパワフルな openSUSE ビルドサービスを用いて、複数の Linux ディストリビューション向けの新しいパッケージを簡単に作成・共有したりすることができます。 openSUSE.org にご協力いただくのも一つの方法です。"
 
-#: slideshow.xml:207(title)
+#: slideshow.xml:209(title)
 msgid "Novell and Linux"
 msgstr "Novell と Linux"
 
-#: slideshow.xml:208(para)
+#: slideshow.xml:210(para)
 msgid "Novell is committed to your success with Linux. In addition to openSUSE, Novell also delivers an exciting suite of products designed to meet the needs of businesses large and small."
 msgstr "Novell は Linux を使ってあなたの成功に奉仕します。openSUSE に加え、 Novell では大企業から中小企業に至るまで様々なビジネスニーズを満たすべく設計された製品を提供しています。"
 
-#: slideshow.xml:213(para)
+#: slideshow.xml:215(para)
 msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit http://www.novell.com/linux"
 msgstr "Novell から発売されている企業向け Linux 製品には、 SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop, Novell Open Enterprise Server があります。これら企業向け製品には 7 年間のメンテナンス保証があるほか、オプションでサポートプログラムも提供されています。Novell の企業向け Linux について詳しく知るには http://www.novell.com/linux をご覧ください。"
 
@@ -165,4 +167,3 @@ msgstr ""
 "Takuo KITAME <kitame@debian.org>\n"
 "日本GNOMEユーザー会 http://www.gnome.gr.jp\n"
 "Yasuhiko Kamata <belphegor@belbel.or.jp>"
-

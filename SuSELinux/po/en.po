@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2008-10-22 11:30+0200\n"
+"POT-Creation-Date: 2008-11-03 11:49+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -82,26 +82,26 @@ msgstr "Connect and Communicate"
 #: slideshow.xml:58(para)
 msgid ""
 "You can communicate more effectively with openSUSE 11.1 because it provides "
-"a complete set of tools for Web browsing and e-mail management - it even "
+"a complete set of tools for Web browsing and e-mail management—it even "
 "includes the newest Voice over IP technology."
 msgstr ""
 "You can communicate more effectively with openSUSE 11.1 because it provides "
-"a complete set of tools for Web browsing and e-mail management - it even "
+"a complete set of tools for Web browsing and e-mail management—it even "
 "includes the newest Voice over IP technology."
 
 #: slideshow.xml:64(para)
 msgid ""
 "openSUSE includes Mozilla Firefox, one of the best Web browsers in the "
 "world. Firefox includes all the features you need to enjoy the Web, "
-"including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash "
-"plugins. Firefox also boasts lightning-fast performance, and a number of "
-"improvements designed to protect your privacy and prevent phishing attacks."
+"including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. "
+"Firefox also boasts lightning-fast performance, and a number of improvements "
+"designed to protect your privacy and prevent phishing attacks."
 msgstr ""
 "openSUSE includes Mozilla Firefox, one of the best Web browsers in the "
 "world. Firefox includes all the features you need to enjoy the Web, "
-"including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash "
-"plugins. Firefox also boasts lightning-fast performance, and a number of "
-"improvements designed to protect your privacy and prevent phishing attacks."
+"including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. "
+"Firefox also boasts lightning-fast performance, and a number of improvements "
+"designed to protect your privacy and prevent phishing attacks."
 
 #: slideshow.xml:71(para)
 msgid ""
@@ -247,16 +247,16 @@ msgstr "Virtualization Technology and Application Development Tools"
 msgid ""
 "The Xen hypervisor is included with openSUSE. Xen is one of the most robust "
 "solutions for virtualization available. In addition, openSUSE provides tools "
-"for network file sharing, printing (Samba) and Web hosting (Apache). For "
-"application development, openSUSE comes with a complete set of runtime "
-"environments plus extensive application development tools, including "
+"for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting "
+"(Apache). For application development, openSUSE comes with a complete set of "
+"runtime environments plus extensive application development tools, including "
 "KDevelop, Eclipse and Mono."
 msgstr ""
 "The Xen hypervisor is included with openSUSE. Xen is one of the most robust "
 "solutions for virtualization available. In addition, openSUSE provides tools "
-"for network file sharing, printing (Samba) and Web hosting (Apache). For "
-"application development, openSUSE comes with a complete set of runtime "
-"environments plus extensive application development tools, including "
+"for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting "
+"(Apache). For application development, openSUSE comes with a complete set of "
+"runtime environments plus extensive application development tools, including "
 "KDevelop, Eclipse and Mono."
 
 #: slideshow.xml:169(title)
@@ -267,12 +267,12 @@ msgstr "Learn More"
 msgid ""
 "The openSUSE distribution provides extensive documentation for specific "
 "openSUSE questions as well as general Linux-related questions. The Help "
-"Center is accessible via the main menu . Manuals are also available in PDF "
+"Center is accessible via the main menu. Manuals are also available in PDF "
 "and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr ""
 "The openSUSE distribution provides extensive documentation for specific "
 "openSUSE questions as well as general Linux-related questions. The Help "
-"Center is accessible via the main menu . Manuals are also available in PDF "
+"Center is accessible via the main menu. Manuals are also available in PDF "
 "and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 
 #: slideshow.xml:180(para)
@@ -305,7 +305,7 @@ msgstr ""
 "experienced openSUSE user, the forums are a great place to meet other users, "
 "and help out other Linux users."
 
-#: slideshow.xml:198(para)
+#: slideshow.xml:200(para)
 msgid ""
 "Want to make openSUSE even better? You can build almost anything with "
 "openSUSE. It's easy to create and share new packages for multiple Linux "
@@ -317,11 +317,11 @@ msgstr ""
 "distributions using the unique and powerful openSUSE Build Service. Join "
 "openSUSE.org to collaborate."
 
-#: slideshow.xml:207(title)
+#: slideshow.xml:209(title)
 msgid "Novell and Linux"
 msgstr "Novell and Linux"
 
-#: slideshow.xml:208(para)
+#: slideshow.xml:210(para)
 msgid ""
 "Novell is committed to your success with Linux. In addition to openSUSE, "
 "Novell also delivers an exciting suite of products designed to meet the "
@@ -331,7 +331,7 @@ msgstr ""
 "Novell also delivers an exciting suite of products designed to meet the "
 "needs of businesses large and small."
 
-#: slideshow.xml:213(para)
+#: slideshow.xml:215(para)
 msgid ""
 "The enterprise Linux products from Novell include SUSE Linux Enterprise "
 "Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our "

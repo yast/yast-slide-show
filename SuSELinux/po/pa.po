@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.pa\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-10-22 11:30+0200\n"
+"POT-Creation-Date: 2008-11-03 11:49+0100\n"
 "PO-Revision-Date: 2008-05-05 22:17+0530\n"
 "Last-Translator: Amanpreet Singh Alam <aalam@users.sf.net>\n"
 "Language-Team: Panjabi <punjabi-l10n@lists.sf.net>\n"
@@ -59,12 +59,12 @@ msgstr "ਕੁਨੈਕਟ ਅਤੇ ਕਮਿਊਨੀਕੇਸ਼ਨ"
 
 #: slideshow.xml:58(para)
 #, fuzzy
-msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
+msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
 msgstr "ਤੁਸੀਂ ਓਪਨ-ਸੂਸੇ 11.0 ਨਾਲ ਹੋਰ ਪਰਭਾਵੀ ਢੰਗ ਨਾਲ ਕਮਿਊਨੀਕੇਟ ਕਰ ਸਕਦੇ ਹੋ, ਕਿਉਂਕਿ ਇਹ ਵੈੱਬ ਬਰਾਊਜ਼ਿੰਗ ਅਤੇ ਈਮੇਲ ਪਰਬੰਧ ਲਈ ਸਭ ਟੂਲ ਦਿੰਦਾ ਹੈ—ਇਸ ਵਿੱਚ ਨਵੀਂ ਵਾਇਸ ਓਵਰ ਆਈ ਪੀ (VoIP) ਫੋਨ ਤਕਨਾਲੋਜੀ ਵੀ ਹੈ।"
 
 #: slideshow.xml:64(para)
 #, fuzzy
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
 msgstr "ਓਪਨਸੂਸੇ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਵਿੱਚ ਤੁਸੀਂ ਲਵੋਗੇ ਮੋਜ਼ੀਲਾ ਫਾਇਰਫਾਕਸ ਵੈੱਬ ਬਰਾਊਜ਼ਰ-ਮਾਰਕੀਟ ਵਿੱਚ ਉਪਲੱਬਧ ਸਭ ਤੋਂ ਵਧੀਆ ਵੈੱਬ ਬਰਾਊਜ਼ਰ। ਫਾਇਰਫਾਕਸ ਵਿੱਚ ਬਰਾਊਜ਼ਰ ਦੇ ਸਭ ਫੀਚਰ, ਜਿੰਨ੍ਹਾਂ ਵਿੱਚ ਜਾਵਾ, ਅਡੋਬ ਰੀਡਰ, ਰੀਅਲ-ਪਲੇਅਰ ਅਤੇ ਮਾਈਕਰੋਮੀਡਿਆ ਫਲੈਸ਼ ਪਲੱਗਇਨ ਆਦਿ ਫੀਚਰ ਦੇ ਨਾਲ ਨਾਲ ਬਹੁਤ ਤੇਜ਼ ਕਾਰਗੁਜ਼ਾਰੀ ਵੀ ਸ਼ਾਮਲ ਹੈ। ਫਾਇਰਫਾਕਸ 3.0 ਵਿੱਚ ਬਿਜਲੀ ਦੀ ਤੇਜ਼ੀ, ਅਤੇ ਤੁਹਾਡੀ ਪਰਾਈਵੇਸੀ ਨੂੰ ਬਚਾਉਣ ਅਤੇ ਫਿਸ਼ਿੰਗ ਹਮਲਿਆਂ ਨੂੰ ਰੋਕਣ ਲਈ ਡਿਜ਼ਾਇਨ ਕੀਤਾ ਗਿਆ ਹੈ।"
 
 #: slideshow.xml:71(para)
@@ -130,7 +130,7 @@ msgstr "ਵੁਰਚੁਅਲ ਤਕਨਾਲੋਜੀ ਅਤੇ ਐਪਲੀਕ
 
 #: slideshow.xml:159(para)
 #, fuzzy
-msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
+msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
 msgstr "ਓਪਨ-ਸੂਸੇ ਵਿੱਚ ਜ਼ੈਨ ਹਾਈਪਰਵਿਜ਼ਰ (Xen hypervisor) ਹੈ - ਸਭ ਤੋਂ ਵਧੀਆ ਉਪਲੱਬਧ ਵੁਰਚੁਲਾਈਜ਼ੇਸ਼ਨ ਸਾਫਟਵੇਅਰ ਹੈ। ਇਸ ਤੋਂ ਇਲਾਵਾ, ਓਪਨ-ਸੂਸੇ ਵਿੱਚ ਨੈੱਟਵਰਕ ਫਾਇਲ ਸ਼ੇਅਰਿੰਗ, ਪਰਿੰਟਿੰਗ (ਸਾਂਬਾ) ਅਤੇ ਵੈੱਬ ਹੋਸਟਿੰਗ (ਆਪਚੇ) ਲਈ ਟੂਲ ਉਪਲੱਬਧ ਹਨ। ਐਪਲੀਕੇਸ਼ਨ (ਕਾਰਜ) ਡਿਵੈਲਪਮਿੰਟ ਲਈ, ਓਪਨ-ਸੂਸੇ ਵਿੱਚ ਰਨ-ਟਾਇਮ ਇੰਵਾਇਰਨਮਿੰਟ ਦੇ ਪੂਰੇ ਸੈੱਟ ਤੋਂ ਬਿਨਾਂ, ਖਾਸ ਐਪਲੀਕੇਸ਼ਨ ਡਿਵੈਲਪਮਿੰਟ ਟੂਲ ਉਪਲੱਬਧ ਹਨ, ਜਿਸ ਵਿੱਚ KDevelop, Eclipse, ਅਤੇ ਮੋਨੋ ਹਨ।"
 
 #: slideshow.xml:169(title)
@@ -138,7 +138,8 @@ msgid "Learn More"
 msgstr "ਹੋਰ ਜਾਣੋ"
 
 #: slideshow.xml:170(para)
-msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
+#, fuzzy
+msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "ਓਪਨ-ਸੂਸੇ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਵਿੱਚ ਖਾਸ ਓਪਨ-ਸੂਸੇ ਸਵਾਲਾਂ ਦੇ ਨਾਲ ਨਾਲ ਆਮ ਲੀਨਕਸ ਨਾਲ ਸਬੰਧਿਤ ਸਵਾਲਾਂ ਲਈ ਖਾਸ ਡੌਕੂਮੈਂਟ ਵੀ ਉਪਲੱਬਧ ਹਨ। ਮੱਦਦ ਸੈਂਟਰ ਮੁੱਖ ਮੇਨੂ ਰਾਹੀਂ ਵੀ ਉਪਲੱਬਧ ਹੈ। ਡੌਕੂਮੈਂਟ PDF ਦੇ ਰੂਪ ਵਿੱਚ ਵੀ ਉਪਲੱਬਧ ਹਨ ਅਤੇ (http://en.opensuse.org/Documentation) ਤੋਂ ਡਾਊਨਲੋਡ ਕੀਤੇ ਅਤੇ ਪਰਿੰਟ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ।"
 
 #: slideshow.xml:180(para)
@@ -149,20 +150,20 @@ msgstr "ਓਪਨ-ਸੂਸੇ ਵਿਕਿ (http://en.opensuse.org/ ਉੱਤ�
 msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
 msgstr ""
 
-#: slideshow.xml:198(para)
+#: slideshow.xml:200(para)
 #, fuzzy
 msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
 msgstr "ਤੁਸੀਂ ਓਪਨ-ਸੂਸੇ ਨਾਲ ਕੁਝ ਵੀ ਬਿਲਡ ਕਰ ਸਕਦੇ ਹੋ। ਨਵੇਂ ਪੈਕੇਜ ਵਿਲੱਖਣ ਅਤੇ ਪਰਭਾਵੀ ਓਪਨ-ਸੂਸੇ ਬਿਲਡ ਸਰਵਿਸ ਨਾਲ ਕਈ ਲਿਨਕਸ ਡਿਸਟਰੀਊਸ਼ਨਾਂ ਲਈ ਬਿਲਡ ਕਰਨੇ ਅਤੇ ਸਾਂਝੇ ਕਰਨੇ ਸੌਖੇ ਹੋ ਗਏ ਹਨ। ਆਓ openSUSE.org ਉੱਤੇ ਸਹਿਯੋਗ ਕਰੋ।"
 
-#: slideshow.xml:207(title)
+#: slideshow.xml:209(title)
 msgid "Novell and Linux"
 msgstr "ਨੋਵਲ ਅਤੇ ਲੀਨਕਸ"
 
-#: slideshow.xml:208(para)
+#: slideshow.xml:210(para)
 msgid "Novell is committed to your success with Linux. In addition to openSUSE, Novell also delivers an exciting suite of products designed to meet the needs of businesses large and small."
 msgstr "ਨੋਵਲ ਲੀਨਕਸ ਉੱਤੇ ਤੁਹਾਡੀ ਸਫ਼ਲਤਾ ਲਈ ਵਚਨਬੱਧ ਹੈ। openSUSE ਦੇ ਨਾਲ ਨਾਲ, ਨੋਵਲ ਤੁਹਾਡੇ ਵੱਡੇ ਅਤੇ ਛੋਟੇ ਬਿਜ਼ਨਸ ਦੀ ਲੋੜ ਮੁਤਾਬਕ ਕਈ ਵਧੀਆ ਪਰੋਡੱਕਟ ਸੂਟ ਉਪਲੱਬਧ ਕਰਵਾਉਦਾ ਹੈ।"
 
-#: slideshow.xml:213(para)
+#: slideshow.xml:215(para)
 #, fuzzy
 msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit http://www.novell.com/linux"
 msgstr "ਨੋਵਲ (Novell) ਵਲੋਂ ਇੰਟਰਪਰਾਈਜ਼ ਲਿਨਕਸ ਪਰੋਡੱਕਟ ਵਿੱਚ SUSE ਲਿਨਕਸ ਇੰਟਰਪਰਾਈਜ਼ ਸਰਵਰ (SLES), SUSE ਲਿਨਕਸ ਇੰਟਰਪਰਾਈਜ਼ ਡੈਸਕਟਾਪ (SLED) ਅਤੇ ਨੋਵਲ ਓਪਨ ਇੰਟਰਪਾਈਜ਼ ਸਰਵਰ (NOES) ਸ਼ਾਮਲ ਹਨ। ਸਾਡੇ ਇੰਟਰਪਰਾਈਜ਼ ਪਰੋਡੱਕਟ ਨੂੰ ਸੱਤ ਸਾਲ ਦੀ ਮੇਨਟੇਨਸ ਗਾਰੰਟੀ ਅਟੇ ਚੋਣਵੇਂ ਸਪੋਰਟ ਪਰੋਗਰਾਮਾਂ ਨਾਲ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ।ਨੋਵਲ ਤੋਂ ਇੰਟਰਪਰਾਈਜ਼ ਲਿਨਕਸ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਈ www.novell.com/linux ਵੇਖੋ।"
@@ -171,6 +172,10 @@ msgstr "ਨੋਵਲ (Novell) ਵਲੋਂ ਇੰਟਰਪਰਾਈਜ਼ ਲਿ
 #: slideshow.xml:0(None)
 msgid "translator-credits"
 msgstr "ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮ <aalam@users.sf.net> 2007, 2008"
+
+#, fuzzy
+#~ msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
+#~ msgstr "ਤੁਸੀਂ ਓਪਨ-ਸੂਸੇ 11.0 ਨਾਲ ਹੋਰ ਪਰਭਾਵੀ ਢੰਗ ਨਾਲ ਕਮਿਊਨੀਕੇਟ ਕਰ ਸਕਦੇ ਹੋ, ਕਿਉਂਕਿ ਇਹ ਵੈੱਬ ਬਰਾਊਜ਼ਿੰਗ ਅਤੇ ਈਮੇਲ ਪਰਬੰਧ ਲਈ ਸਭ ਟੂਲ ਦਿੰਦਾ ਹੈ—ਇਸ ਵਿੱਚ ਨਵੀਂ ਵਾਇਸ ਓਵਰ ਆਈ ਪੀ (VoIP) ਫੋਨ ਤਕਨਾਲੋਜੀ ਵੀ ਹੈ।"
 
 #~ msgid "Also included with openSUSE are Novell Evolution and Kontact. These complete e-mail and contact managers help you organize and maintain all your e-mail accounts. The openSUSE distribution also comes with state-of-the-art Voice over IP (VoIP) solutions that let you communicate with people connected to the Internet all over the world."
 #~ msgstr "ਓਪਨ-ਸੂਸੇ (openSUSE) ਵਿੱਚ ਨੋਵਲ ਈਵੋਲੂਸ਼ਨ ਅਤੇ Kontact ਸ਼ਾਮਲ ਕੀਤੇ ਗਏ ਹਨ। ਇਹ ਪੂਰੀ ਈਮੇਲ ਅਤੇ ਸੰਪਰਕ ਮੈਨੇਜਰ ਤੁਹਾਨੂੰ ਆਪਣੇ ਈਮੇਲ ਖਾਤੇ ਦੇ ਪਰਬੰਧ ਅਤੇ ਦੇਖਭਾਲ ਲਈ ਮੱਦਦ ਕਰਦੇ ਹਨ। ਓਪਨ-ਸੂਸੇ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਵਿੱਚ ਵਾਇਸ ਓਵਰ IP (VoIP) ਸਾਫਟਵੇਅਰ ਵੀ ਉਪਲੱਬਧ ਹਨ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਸਭ ਸੰਸਾਰ ਵਿੱਚ ਇੰਟਰਨੈੱਟ ਰਾਹੀਂ ਜੁੜੇ ਲੋਕਾਂ ਨਾਲ ਗੱਲਾਬਾਤਾਂ ਕਰਨ ਲਈ ਸਹਾਇਕ ਹੈ।"

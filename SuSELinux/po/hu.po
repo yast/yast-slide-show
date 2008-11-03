@@ -10,15 +10,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.hu\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-10-22 11:30+0200\n"
-"PO-Revision-Date: 2008-10-23 22:18+0200\n"
+"POT-Creation-Date: 2008-11-03 11:49+0100\n"
+"PO-Revision-Date: 2008-10-25 09:44+0200\n"
 "Last-Translator: Kalman Kemenczy <kkemenczy@novell.com>\n"
 "Language-Team:  <hu@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
@@ -57,11 +57,11 @@ msgid "Connect and Communicate"
 msgstr "Kapcsolódjon és kommunikáljon"
 
 #: slideshow.xml:58(para)
-msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
+msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
 msgstr "Az openSUSE 11.1 tartalmazza a webböngészéshez és a levelezéshez szükséges összes komponenst, valamint a legújabb internetes telefontechnológiát is."
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
 msgstr "Az openSUSE disztribúció része a piac alighanem legjobb webböngészője, a Mozilla Firefox, ami mindent tud, ami az internetezéshez szükséges, beleértve a Java, az Adobe Acrobat Reader, a RealPlayer és az Adobe Flash bővítményeket. A Firefox lenyűgöző sebességű és számtalan újítást tartalmaz, amely megvédi a személyes adatokat és megelőzést nyújt az adathalászok támadásai ellen."
 
 #: slideshow.xml:71(para)
@@ -125,7 +125,8 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "Virtualizációs technológia és alkalmazásfejlesztő eszközök"
 
 #: slideshow.xml:159(para)
-msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
+#, fuzzy
+msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
 msgstr "Az openSUSE tartalmazza a legnagyobb teljesítményű virtualizációs szoftvert, a XEN hypervisort, hálózati fájl- és nyomtatómegosztási eszközöket (Samba), valamint webkiszolgáló (Apache). Alkalmazásfejlesztéshez az openSUSE többféle futtatókörnyezetet és alkalmazásfejlesztő eszközök széles választékát (KDevelop, Eclipse és Mono) nyújtja a fejlesztőknek."
 
 #: slideshow.xml:169(title)
@@ -133,7 +134,8 @@ msgid "Learn More"
 msgstr "Ha többre kíváncsi..."
 
 #: slideshow.xml:170(para)
-msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
+#, fuzzy
+msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "Az openSUSE disztribúció számtalan SUSE vonatkozású és általános Linux-dokumentációt biztosít. A SUSE Segítségnyújtó rendszer a főmenüből érhető el. A dokumentációk pedig online és PDF formátumban is megtalálhatóak a http://hu.opensuse.org/Dokumentáció oldalon."
 
 #: slideshow.xml:180(para)
@@ -144,19 +146,19 @@ msgstr "További információ az openSUSE wikiben található a http://hu.opensu
 msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
 msgstr "Ha más felhasználóktól szeretne segítséget kérni, akkor látogasson el a hivatalos openSUSE fórumra a http://forums.opensuse.org/ weboldalon. Amennyiben gyakorlott Linux felhasználó, akkor ez egy remek hely megismerkedni másokkal és segítséget nyújtani a többieknek."
 
-#: slideshow.xml:198(para)
+#: slideshow.xml:200(para)
 msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
 msgstr "Szinte bármit fejleszthet az openSUSE segítségével. Könnyedén készíthet és publikálhat új csomagokat a legkülönbözőbb Linux-disztribúciókhoz a nagy teljesítményű openSUSE Build Service szolgáltatásainak segítségével. Csatlakozzon az openSUSE.org közösségéhez!"
 
-#: slideshow.xml:207(title)
+#: slideshow.xml:209(title)
 msgid "Novell and Linux"
 msgstr "A Novell és a Linux"
 
-#: slideshow.xml:208(para)
+#: slideshow.xml:210(para)
 msgid "Novell is committed to your success with Linux. In addition to openSUSE, Novell also delivers an exciting suite of products designed to meet the needs of businesses large and small."
 msgstr "A Novell bízik abban, hogy Ön sikeres lesz a Linuxszal. Az openSUSE mellett a Novell számos termékkel rendelkezik, amelyeket az üzleti élet szereplői számára terveztek, legyenek kisvállalkozások vagy nagyvállalatok."
 
-#: slideshow.xml:213(para)
+#: slideshow.xml:215(para)
 msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit http://www.novell.com/linux"
 msgstr "A SUSE Enterprise Linux termékcsoport része a SUSE Linux Enterprise Server, a Novell Open Enterprise Server és a SUSE Linux Enterprise Desktop. A nagyvállalati termékek hétéves karbantartási garanciát tartalmaznak és igény szerint támogatási programok vásárolhatók hozzájuk. A Novell által forgalmazott nagyvállalati Linux-megoldásokkal kapcsolatban látogassa meg a http://www.novell.com/linux weboldalt."
 
@@ -164,4 +166,3 @@ msgstr "A SUSE Enterprise Linux termékcsoport része a SUSE Linux Enterprise Se
 #: slideshow.xml:0(None)
 msgid "translator-credits"
 msgstr "Kéménczy Kálmán <kkemenczy@novell.com>"
-

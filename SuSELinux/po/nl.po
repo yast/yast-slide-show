@@ -13,15 +13,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.nl\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-10-22 11:30+0200\n"
-"PO-Revision-Date: 2008-10-22 23:47+0200\n"
+"POT-Creation-Date: 2008-11-03 11:49+0100\n"
+"PO-Revision-Date: 2008-11-03 14:53+0100\n"
 "Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
 "Language-Team: Dutch <Yast-nl-l10n@lists.sf.kovoks.nl>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"Plural-Forms:  nplurals=2; plural= n != 1;\n"
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
@@ -60,12 +60,12 @@ msgid "Connect and Communicate"
 msgstr "Verbind en communiceer"
 
 #: slideshow.xml:58(para)
-msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
-msgstr "U kunt effectiever communiceren met openSUSE 11.1 omdat het een complete set programma's levert om te kunnen surfen op het internet, voor e-mailbeheer en bevat zelfs de nieuwste internet-gebaseerde telefoontechnologie."
+msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
+msgstr "U kunt effectiever communiceren met openSUSE 11.1 omdat het een complete set programma's levert om te kunnen surfen op het internet, voor e-mailbeheer en bevat zelfs de nieuwste op internet-gebaseerde telefoontechnologie."
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "openSUSE komt met de Mozilla Firefox-webbrowser, een van de beste webbrowser ter wereld. Deze bevat alle mogelijkheden om van het web te genieten, inclusief Java-, Adobe Reader-, RealPlayer- en Macromedia Flash-plug-ins. Firefox levert bliksemsnelle prestaties en een aantal verbeteringen die ontworpen zijn om uw privacy te beschermen en het vissen naar gevoelige gegevens te voorkomen."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "openSUSE komt met de Mozilla Firefox-webbrowser, een van de beste webbrowser ter wereld. Deze bevat alle mogelijkheden om van het web te genieten, inclusief Java, Adobe Acrobat Reader, RealPlayer- en Adobe Flash-plug-ins. Firefox levert bliksemsnelle prestaties en een aantal verbeteringen die ontworpen zijn om uw privacy te beschermen en het vissen naar gevoelige gegevens te voorkomen."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
@@ -128,16 +128,16 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "Virtualisatietechnologie en hulpmiddelen voor het ontwikkelen van software"
 
 #: slideshow.xml:159(para)
-msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "Voor virtualisatie levert openSUSE de Xen hypervisor. Xen is een van de meest robuuste oplossingen voor virtualisatie op de markt. Daarnaast levert openSUSE hulpmiddelen voor het delen van bestanden en printers over een netwerk (Samba) en voor webhosting (Apache). Voor het schrijven van software komt openSUSE met een complete set runtime-omgevingen en uitgebreide hulpmiddelen voor programma-ontwikkeling, waaronder KDevelop, Eclipse en Mono."
+msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
+msgstr "Voor virtualisatie levert openSUSE de Xen hypervisor. Xen is een van de meest robuuste oplossingen voor virtualisatie op de markt. Daarnaast levert openSUSE hulpmiddelen voor het delen van bestanden en printers over een netwerk (Samba, NFS etc.), afdrukken (CUPS) en webhosting (Apache). Voor het ontwikkelen van software komt openSUSE met een complete set runtime-omgevingen en uitgebreide hulpmiddelen voor programma-ontwikkeling, waaronder KDevelop, Eclipse en Mono."
 
 #: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "Meer informatie"
 
 #: slideshow.xml:170(para)
-msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
-msgstr "De openSUSE-distributie komt met een breed scala aan documentatie over openSUSE en Linux in het algemeen. Het documentatiecentrum is beschikbaar vanuit het hoofdmenu. De handleidingen zijn ook beschikbaar in pdf-formaat en kunnen worden gedownload en afgedrukt (http://en.opensuse.org/Documentation)."
+msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
+msgstr "De openSUSE-distributie komt met een breed scala aan documentatie over openSUSE en Linux in het algemeen. Het documentatiecentrum is beschikbaar vanuit het hoofdmenu. De handleidingen zijn ook beschikbaar in pdf-formaat en kunnen worden gedownload en afgedrukt (http://nl.opensuse.org/Documentatie)."
 
 #: slideshow.xml:180(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
@@ -147,19 +147,19 @@ msgstr "In de openSUSE-wiki (http://nl.opensuse.org/) vindt u nog meer informati
 msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
 msgstr "Voor ondersteuning door andere openSUSE gebruikers kunt u de openSUSE forums bezoeken op http://forums.opensuse.org/. Hier kunt u duizenden andere gebruikers van openSUSE vinden, die graag helpen om alles uit Linux te halen wat er in zit. Als u een ervaren openSUSE gebruiker bent dan zijn de forums een geweldige plaats om andere gebruikers te ontmoeten en ander gebruikers te helpen."
 
-#: slideshow.xml:198(para)
+#: slideshow.xml:200(para)
 msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
 msgstr "Wilt u openSUSE nog beter maken? U kunt bijna alles met openSUSE bouwen. Het is eenvoudig om voor meerdere Linux-distributies nieuwe pakketten aan te maken en te verspreiden via de unieke en krachtige openSUSE Build-service. Wordt lid van openSUSE.org om deel te kunnen nemen."
 
-#: slideshow.xml:207(title)
+#: slideshow.xml:209(title)
 msgid "Novell and Linux"
 msgstr "Novell en Linux"
 
-#: slideshow.xml:208(para)
+#: slideshow.xml:210(para)
 msgid "Novell is committed to your success with Linux. In addition to openSUSE, Novell also delivers an exciting suite of products designed to meet the needs of businesses large and small."
 msgstr "Novell is toegewijd aan uw succes met Linux. Naast openSUSE levert Novell een uitgebreide suite van producten die ontworpen zijn om tegemoet te komen aan de wensen en behoeften van het mkb en grote bedrijven."
 
-#: slideshow.xml:213(para)
+#: slideshow.xml:215(para)
 msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit http://www.novell.com/linux"
 msgstr "De enterprise Linux-producten van Novell bevatten SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop en Novell Open Enterprise Server.Onze enterprise-producten worden geleverd met 7 jaar onderhoudsgarantie en optionele ondersteuningsprogramma's. Voor meer informatie over enterprise Linux van Novell, ga naar http://www.novell.com/linux"
 

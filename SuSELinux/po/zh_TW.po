@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
-"POT-Creation-Date: 2008-10-22 11:30+0200\n"
+"POT-Creation-Date: 2008-11-03 11:49+0100\n"
 "PO-Revision-Date: 2008-05-10 03:00+0800\n"
 "Last-Translator: swyear <swyear@gmail.com>\n"
 "Language-Team: Chinese Traditional <zh@li.org>\n"
@@ -55,12 +55,12 @@ msgstr "連繫與溝通"
 
 #: slideshow.xml:58(para)
 #, fuzzy
-msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
+msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
 msgstr "使用 openSUSE 11.0 您可以更有效的進行溝通與連繫，他提供了完整的工具組讓您能進行網頁瀏覽和電子郵件管理，甚至包含最新的網路 IP 電話技術。"
 
 #: slideshow.xml:64(para)
 #, fuzzy
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Macromedia Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
 msgstr "openSUSE 包含了 Mozilla Firefox 網頁瀏覽器 - 市面上最好的網頁瀏覽器。Firefox 包含了所有享受網頁所需要的功能，包括 Java、Adobe  Acrobat Reader、RealPlayer 與 Macromedia Flash 外掛程式。Firefox 3.0 具有快如閃電的執行效能並改進了一些設計來保護您的隱私並防止網路釣魚攻擊。"
 
 #: slideshow.xml:71(para)
@@ -126,7 +126,7 @@ msgstr "虛擬技術與應用程式開發工具"
 
 #: slideshow.xml:159(para)
 #, fuzzy
-msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing, printing (Samba) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
+msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
 msgstr "openSUSE 配備了 Xen 超管理工具 - 目前最高效能的虛擬機器軟體。另外，openSUSE 也提供了網路檔案分享、列印 (Samba) 以及網站管理 (Apache) 工具。在應用程式開發方面，openSUSE 擁有完整的執行環境加上擴充的應用程式開發工具，包括 KDevelop、Eclipse 和 Mono。"
 
 #: slideshow.xml:169(title)
@@ -134,7 +134,8 @@ msgid "Learn More"
 msgstr "了解更多"
 
 #: slideshow.xml:170(para)
-msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu . Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
+#, fuzzy
+msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "openSUSE 提供了擴充的文件，包含了關於 openSUSE 以及一般 Linux 相關的問題。求助中心可以由主選單進入。手冊也提供了 PDF 的版本供您下載和列印 (http://en.opensuse.org/Documentation)。"
 
 #: slideshow.xml:180(para)
@@ -145,20 +146,20 @@ msgstr "您可以在 http://en.opensuse.org 的 openSUSE 維基百科上獲得�
 msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
 msgstr ""
 
-#: slideshow.xml:198(para)
+#: slideshow.xml:200(para)
 #, fuzzy
 msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
 msgstr "您幾乎可以在 openSUSE 上建構所有東西。使用唯一且強力的 openSUSE Build Service，您可以輕易的建構與分享適用於許多 Linux 發行版本的新套件。請加入 openSUSE.org 共同合作。"
 
-#: slideshow.xml:207(title)
+#: slideshow.xml:209(title)
 msgid "Novell and Linux"
 msgstr "Novell 與 Linux"
 
-#: slideshow.xml:208(para)
+#: slideshow.xml:210(para)
 msgid "Novell is committed to your success with Linux. In addition to openSUSE, Novell also delivers an exciting suite of products designed to meet the needs of businesses large and small."
 msgstr "Novell 用 Linux 幫助您實現成功的願望。除了 openSUSE 之外，Novell 還提供專為滿足中小型企業需求而設定的套裝產品。"
 
-#: slideshow.xml:213(para)
+#: slideshow.xml:215(para)
 #, fuzzy
 msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit http://www.novell.com/linux"
 msgstr "Novell 的企業級 Linux 產品包括 SUSE Linux Enterprise Server、SUSE Linux Enterprise Desktop 和 Novell Open Enterprise Server。我們的企業級產品提供 7 年的維護保證以及選購的支援程式。關於 Novell 的企業級 Linux 產品的更多資訊，請造訪 www.novell.com/linux。"
@@ -175,3 +176,7 @@ msgstr ""
 "Craig Jeffares <cjeffares@novell.com>, 2004\n"
 "Joe Man <trmetal@yahoo.com.hk>, 2001\n"
 "Ray Chen <swyear@gmail.com>,2007"
+
+#, fuzzy
+#~ msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
+#~ msgstr "使用 openSUSE 11.0 您可以更有效的進行溝通與連繫，他提供了完整的工具組讓您能進行網頁瀏覽和電子郵件管理，甚至包含最新的網路 IP 電話技術。"
