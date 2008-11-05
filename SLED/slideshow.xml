@@ -14,212 +14,270 @@
 <section>
  <title>Slide Show</title>
 
- <section label="01_welcome">
-  <title>Welcome to openSUSE™</title>
+<section label="01_welcome">
+  <title>Welcome to SUSE Linux Enterprise Desktop</title>
 
-    <para>
-Whether you use your computer to communicate with friends, family, or
-colleagues; to manage and enjoy your pictures and music; to browse the
-Internet for the latest news or for fun; to write a report or
-budget; or to host a personal Web site or home network, you will find
-everything you need in openSUSE &suse-version;.
-</para>
- </section>
+<para>SUSE Linux Enterprise Desktop is the industry's leading
+enterprise-quality Linux operating system that's optimized and ready
+for both business and personal use. SUSE Linux Enterprise Desktop
+provides market-leading usability, seamless interoperability with
+existing enterprise computer systems, and dozens of essential office
+applications that enable businesses to use Linux and open source with
+confidence. Designed for general-purpose use, SUSE Linux Enterprise
+Desktop can also be tailored to fit fixed-function or special-purpose
+roles such as on technical workstations, kiosks, and thin clients.</para>
+</section>
+<section label="02_innovation">
+  <title>The Latest Desktop Innovations</title>
 
- <section label="02_opensuse">
-  <title>openSUSE.org</title>
+<para>Novell's leadership in desktop innovation is unparalleled. Combining
+results from extensive and ongoing usability studies with an outstanding
+technology vision, Novell introduces SUSE Linux Enterprise Desktop 11 as
+the most integrated and powerful Linux desktop. SUSE Linux Enterprise
+Desktop can be installed on a wide range of client devices including
+desktops, notebooks, netbooks, nettops, workstations, and more and
+includes all of the applications you need to be productive at work
+or home.</para>
 
-  <para>
-openSUSE is a community project created and sponsored by Novell to 
-deliver the world's most user-friendly computing platform. Many people
-from around the world contribute to the openSUSE Project by packaging
-software, testing programs, writing documentation, and translating
-components into dozens of languages. All of that work is available 
-for free in the openSUSE Linux distribution available at www.opensuse.org.
-</para>
-<para>Visit www.opensuse.org/How_to_Participate to learn how you can join 
-the openSUSE community.</para>
- </section>
+<para>Novell's sponsorship and industry leadership in key open source
+projects such as the Linux kernel, OpenOffice.org, GNOME, Evolution,
+NetworkManager, Banshee, Mono, Compiz, F-Spot, Beagle, and many others
+illustrate Novell's unmatched innovation in the Linux desktop.</para>
 
- <section label="02_z_opensuse">
-  <title>openSUSE in Many Languages</title>
-
-  <para>
-The openSUSE distribution is available in many languages. Localization
-for openSUSE software occurs through the efforts of our hard-working,
-community-driven language teams. Thank you to all of our contributors.
-Find the localization portal at: http://i18n.opensuse.org/</para>
-  
- </section>
-
- <section label="03_connect">
+</section>
+<section label="03_connect">
   <title>Connect and Communicate</title>
 
-<para>
-You can communicate more effectively with openSUSE &suse-version; because it
-provides a complete set of tools for Web browsing and e-mail
-management—it even includes the newest Voice over IP technology.
-</para>
+  <para>SUSE Linux Enterprise Desktop 11 provides all the tools you need
+  to communicate with the world.</para>
 
-<para>openSUSE includes Mozilla Firefox, one of the best Web browsers
-in the world. Firefox includes all the features you need to enjoy
-the Web, including Java, Adobe Acrobat Reader, RealPlayer, and 
-Adobe Flash plugins. Firefox also boasts lightning-fast
-performance, and a number of improvements designed to protect your
-privacy and prevent phishing attacks.</para>
+  <para>The Firefox Web browser is the best Web browser in the market. It
+  boasts a complete set of browser features and lightning-fast performance
+  out of the box, and delivers a rich user experience through plug-ins
+  such Java, Adobe Acrobat Reader, Real RealPlayer, and Adobe Flash
+  Player, which are all included in SUSE Linux Enterprise Desktop
+  11.</para>
 
-<para>Also included with openSUSE are Novell Evolution and Kontact, 
-complete e-mail and contact management applications. For instant 
-messaging, openSUSE features easy to use IM clients that support all 
-of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, 
-Groupwise, and many others.</para> 
+  <para>Novell Evolution is a complete collaboration client suite
+  supporting collaboration open standards. It includes Novell GroupWise
+  and Microsoft Exchange connectivity for messaging, contact management,
+  calendaring and task management.</para>
 
- </section>
+ <para>SUSE Linux Enterprise Desktop also includes an instant messaging
+ client that lets you connect with people all over the world.</para>
 
- <section label="04_create">
-  <title>Create, View and Listen</title>
-  <para>
-Download tunes from the Internet. Rip CDs to create your own customized
-music library. Listen to your playlist online. Burn CDs or DVDs. Copy
-your files to an iPod or media player and take your music anywhere. Manage
-and edit digital pictures with powerful graphics editors. It's all easy
-with openSUSE.</para>
+ <para>So to always have you online NetworkManager, our easy-to-use
+ network configuration tool can access the most complex and secured
+ networks, including WEP, WPA, VPN and other technologies, or simply
+ the open wireless network from your coffee shop. Making sure to keep
+ connected to the Internet, no matter where you are.</para>
 
- </section>
+</section>
+<section label="04_office">
+  <title>Spreadsheets, Presentations, Text Documents and More</title>
+  <para>SUSE Linux Enterprise Desktop comes complete with the latest
+  version of the leading open source office productivity suite,
+  OpenOffice.org. OpenOffice.org Novell Edition comes with word
+  processing, spreadsheet, presentation, database, and drawing
+  applications.</para>
 
- <section label="05_office">
-  <title>Documents, Spreadsheets and More</title>
+<para>As the leading alternative to Microsoft Office, OpenOffice.org
+Novell Edition fully supports the latest open document format standards,
+the widest range of Microsoft Office file formats and many others.</para>
 
-  <para>
-The openSUSE &suse-version; distribution comes complete with the latest version
-of the leading Linux productivity suite, OpenOffice.org. It features a word
-processor, spreadsheet application, HTML editor, presentation designer, and
-database manager. It reads and writes multiple formats—including Microsoft
-Office formats—so you can move back and forth easily between openSUSE 
-and popular non-Linux productivity software. OpenOffice.org is the perfect 
-choice for reports, papers, home budgets, simple graphics and more.</para>
- </section>
+<para>OpenOffice.org Novell Edition also provides enhanced VBA macro
+support, an improved Solver, and pivot table capability. To spice up all
+your presentations, OpenOffice.org Novell Edition has great new slide
+transitions that nicely blend with our desktop effects.</p?
 
+</section>
+<section label="05_music">
+  <title>Banshee: Manage your Media library</title>
+
+<para>Novell is proud to sponsor the open source Banshee project,
+the easy-to-use and beautifully polished media management application.
+Listen to music, manage you music library, burn your own music CDs, or
+synchronize your music to your portable media player or smartphone so
+you listen to your music on the go. Banshee also gives you the ability
+to subscribe to a variety of sources, including streamed music and
+podcasts.</para>
+
+<para>To ensure the highest quality recordings and playback, Novell
+developed its own state of the art Advanced Audio Coding (AAC) encoder
+and decoder.</para>
+
+<para>New to SUSE Linux Enterprise Desktop 11, Banshee enables you to
+include videos into your media library, effortlessly letting you get
+entertained and up to date with video podcasts directly from your Linux
+desktop. Synchronize video podcasts to your  portable media player for
+viewing on the go.</para>
+
+<para>Discover new music through the use of greatly integrated web
+services like Last.fm radio.</para>
+
+</section>
 <section label="06_graphics">
-  <title>Graphics, Graphics, Graphics</title>
+  <title>Photos, Images, Drawings, Graphics</title>
 
-  <para>
-Using the tools in openSUSE, you can create or edit almost any type of
-graphic. For advanced image manipulation and graphics creation, use The
-GIMP a powerful tool for image retouching, composition, and 
-authoring.</para>
- 
-<para>For vector graphics, openSUSE includes Inkscape—a versatile 
-graphics solution delivers support for transparent layers, bitmap tracing, 
-text paths and much more.
-</para>
- 
+<para>Our Photo management tool in SUSE Linux Enterprise Desktop could
+very well be the most user-friendly one ever invented. Recognizing
+virtually all digital cameras and photo storage devices automatically,
+F-Spot will let you in very few clicks import and manage all your
+photos. It keeps an original copy of your photos, allowing you to be
+creative and try all kind of modifications while making sure you never
+lose any of those precious snapshots again. And uploading pictures to the
+Internet has never been easier. Whether it is for printing or for your
+friends and family to enjoy, your photos are just 1-click away.</para>
+
+
+<para>For advanced image manipulation and graphics creation, the
+open-source community created GIMP. It is a fantastic and a complete
+photo retouching, image composition, and image authoring application. GIMP
+has enough features to satisfy the most exacting artist.
+
+<para>Wondering about advanced vector graphics? Then Inkscape is for
+you. It is a versatile graphics solution using the W3C standard Scalable
+Vector Graphics (SVG) file format. Inkscape natively supports opening
+or importing SVG, SVGZ (gzipped SVG), PDF, and AI (Adobe Illustrator)
+formats.</para>
+
+</section>
+<section label="07_greenIT">
+  <title>Linux helps reduce your carbon footprint</title>
+
+<para>We are concerned about the environment. Whether you are a mobile
+worker or desktop user, SUSE Linux Enterprise Desktop reduces your
+power consumption without impacting your productivity in any way. With
+increasing reliability, the system will maximize energy saving and will
+even let you track it.</para>
+
+<para>Now with effective power management at the processor, chipsets,
+platform and operating system level, Novell and its partners optimize
+power consumption in order to provide you with the longest possible
+battery life.</para>
+
+<para>Novell works with its hardware manufacturing partners to ensure
+that their systems installed with SUSE Linux Enterprise Desktop can earn
+the ENERGY STARi qualification.</para>
+
+<para>By seamlessly providing remote desktop access, Novell aims to
+promote more electronic collaboration and even reduce your need for
+travel.</para>
+
+</section>
+<section label="08_security">
+  <title>Keep Your System Secure and Up to Date</title>
+
+  <para>When your system is connected to the Internet, you'll be happy
+  to know that we enabled the SUSE Linux Firewall to help secure
+  your system and data from intruders. We also include AppArmor,
+  the most effective and easy-to-use Linux application security system
+  available. It proactively protects the operating system and applications
+  from external or internal threats.</para>
+
+
+<para>In SUSE Linux Enterprise Desktop 11, we have introduced a new
+granular privilege system PolicyKit that greatly improves the ability
+for users and applications to be granted access to privileged operations
+when needed. Also in this release, we have improved wireless and wired
+network security connectivity and data encryption capabilities.</para>
+
+<para>Novell is dedicated to promptly providing its users with the latest
+security updates. To ensure that the latest security patches are installed
+on your system, Novell provides a comprehensive resource management
+solution that allows you to stay current with all security updates.</para>
+
+</section>
+<section label="09_opensuse">
+  <title>openSUSE.org</title> <para>The openSUSE project is a worldwide
+  community program sponsored by Novell that promotes the use of
+  Linux everywhere.  Please visit opensuse.org where you can find and
+  join a community of users and developers, who all have the same goal
+  in mind — to create and distribute the world's most usable Linux
+  distribution. openSUSE provides the base our award-winning SUSE Linux
+  Enterprise products.</para>
+
+<para>The openSUSE Build Service is an open and complete distribution
+development platform that provides a transparent infrastructure for
+development of the openSUSE distribution. With the openSUSE Build Service,
+you can easily find the latest open source packages you are looking
+for. It provides a bridge between developers and users with feedback and
+rating functionality. For developers it is an efficient place to build
+up groups and work together through its project model.</para>
+
+<para>ZYpp is our software management engine and open source project
+that powers products like YaST, ZYpper and ZENworks with a powerful
+dependency resolver and a convenient package management API.</para>
+
+
+</section>
+<section label="10_easy-management">
+  <title>Easy to deploy and manage</title>
+
+<para>SUSE Linux Enterprise supports many deployment strategies
+providing system administrators flexible ways to customize and tailor
+the distribution to their needs.</para>
+
+<para>AutoYaST is a integrated solution for installing one or more systems
+automatically without user intervention. Installations are performed
+using a control file with installation and configuration data.</para>
+
+<para>The openSUSE KIWI imaging system provides a complete operating
+system image solution for supported hardware platforms as well as
+virtualization systems.</para>
+
+<para>With these solutions combined with several key open source projects
+such as GConf, PolicyKit and Firstboot, SUSE Linux Enterprise Desktop
+is the easiest Linux desktop to deploy and manage.</para>
+
+</section>
+<section label="11_hardware">
+  <title>Certified for SUSE Linux Enterprise Desktop</title>
+
+<para>By successfully completing stringent compatibility testing
+requirements, Novell's partners qualify their systems for SUSE Linux
+Enterprise Desktop certification.</para>
+
+<para>With a system certified for SUSE Linux Enterprise Desktop you can
+in confidence use our software to manage your media library, collaborate
+on projects and stay connected with your friends.</para>
+
+<para>You can find all of the systems that have passed logo certification
+by visiting novell.com/desktop. Systems with certification fully take
+advantage of SUSE Linux Enterprise Desktop to deliver rich Internet
+experience, ease of use, and excellent performance.</para>
+
+<para>Novell is pleased to also be part of the Linux Driver Project
+focused on working with manufacturers to create and maintain open source
+Linux kernel drivers for all types of devices. Timely hardware enablement
+for desktop components is achieved by porting drivers to the Linux kernel
+that powers SUSE Linux Enterprise.</para>
+
+</section>
+<section label="12_interoperability">
+  <title>Interoperability: Work with Everyone</title>
+
+<para>SUSE Linux Enterprise Desktop is designed with today's heterogeneous
+world in mind. It is fully capable to seamlessly integrate into existing
+Windows file and print environments. In addition, it plugs into existing
+Microsoft Active Directory and Novell eDirectory environments. With
+its broad use of open standards, SUSE Linux Enterprise Desktop enables
+you to share information across any IT system so that you can easily
+communicate with all users around you.</para>
+
+<para>OpenOffice.org Novell Edition works with the widest range of
+document formats including Open Document Format, Microsoft Office formats
+(including OO XML),Works, WordPerfect and others.</para>
+
+<para>Novell is a leader in the Mono project an open source version
+of the Microsoft .NET development platform. Its objective is to enable
+developers to build and deploy cross-platform .NET Applications. Mono is
+the foundation for Moonlight enabling you to enjoy Microsoft Silverlight
+content on your Linux desktop.</para>
+
+<para>And, SUSE Linux Enterprise Desktop provides accessibility features
+so that anyone can take advantage of the improved productivity and lower
+cost that a Linux desktop provides.</para>
+
  </section>
-
- <section label="08_mobility">
-  <title>Computing On-the-Go</title>
-
-  <para>openSUSE includes the most advanced mobility features. You
-can switch effortlessly between wireless and wired networks using
-NetworkManager from openSUSE. Connect with mobile devices like mobile
-phones and PDAs via Bluetooth, or use infrared ports to synchronize your
-data.</para> 
-
-<para>The newest innovations in power management from openSUSE increase
-your mobility and give you the freedom to take your work wherever you
-go.
-</para>
-
- </section>
-
-<section label="09_security">
- <title>Keep Your System Secure and Up to Date</title>
-
-  <para>Help secure your system and data from Internet intruders with SUSE
-Firewall. This security device is activated by default and easy to
-configure. But you can do even more to protect your system with openSUSE
-because it also includes AppArmor, the most effective and easy-to-use
-Linux application security system available today. AppArmor proactively
-protects your operating system and applications from internal or
-external threats.</para>
-
-<para>In addition to SUSE Firewall and AppArmor, openSUSE also includes a
-special security patch update system. To ensure that the latest security
-patches are installed on your system, you can choose to perform an
-online update at the end of this installation procedure. And in the
-future, you will be automatically informed of the availability of
-important security updates, so you can install them at your convenience.
-</para>
- 
- </section>
-
- <section label="10_devel">
-  <title>Virtualization Technology and Application Development Tools</title>
-
-  <para>The Xen hypervisor is included with openSUSE. Xen is one of the most
-robust solutions for virtualization available. In addition, openSUSE provides
-tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web
-hosting (Apache). For application development, openSUSE comes with a complete
-set of runtime environments plus extensive application development tools,
-including KDevelop, Eclipse and Mono.</para>
-
- </section>
-
-  <section label="11_docs">
-    <title>Learn More</title>
-    <para>
-The openSUSE distribution provides extensive documentation for specific
-openSUSE questions as well as general Linux-related questions. The Help
-Center is accessible via the main menu. Manuals are also available in
-PDF and can be downloaded and printed <!-- translator: check whether a
-dedicated page exists for your language and use it instead of "en" -->
-(http://en.opensuse.org/Documentation).
-
-    </para>
-
-    <para>
-Even more information is available in the openSUSE wiki at <!--
-translator: check whether a dedicated page exists for your language and
-use it instead of "en" -->  http://en.opensuse.org/. Under
-"Documentation," you'll discover links to useful information created and
-maintained by other openSUSE users. You can also find links to the
-documentation available on the official Novell Web site. For help with
-specific openSUSE problems, check out the Support Database at
-www.opensuse.org
-    </para>
-
-<para><!-- translator: adjust the snippet about forums according to your
-language; see https://bugzilla.novell.com/show_bug.cgi?id=439101 -->
-For support from other openSUSE users, visit the official openSUSE
-forums at http://forums.opensuse.org/. Here you'll find thousands of other
-openSUSE users, eager to help you get everything you can out of Linux. If 
-you're an experienced openSUSE user, the forums are a great place to meet 
-other users, and help out other Linux users.
-</para>
-
-<para>Want to make openSUSE even better? You can build almost anything 
-with openSUSE. It's easy to create and share new packages for multiple 
-Linux distributions using the unique and powerful openSUSE Build Service. 
-Join openSUSE.org to collaborate.
-</para>
-
-  </section>
-
- <section label="12_novell">
-  <title>Novell and Linux</title>
-  <para>
-Novell is committed to your success with Linux. In addition to openSUSE,
-Novell also delivers an exciting suite of products designed to meet the
-needs of businesses large and small.</para>
-
-  <para>
-The enterprise Linux products from Novell include SUSE Linux Enterprise Server,
-SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise
-products are delivered with a seven-year maintenance guarantee and optional
-support programs. For more information on enterprise Linux from Novell, visit
-http://www.novell.com/linux
-</para>
-
- </section>
-
 </section>
