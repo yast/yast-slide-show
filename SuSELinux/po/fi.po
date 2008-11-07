@@ -12,18 +12,19 @@
 # Mikko Piippo <piippo@opensuse.fi>, 2008.
 # Mikko Piippo <mikko.piippo@opensuse.fi>, 2008.
 # Jyri Palokangas <jyri.palokangas@opensuse.org>, 2008.
+# Jyri palokangas <jyri.palokangas@opensuse.org>, 2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.fi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-10-25 23:46+0300\n"
-"Last-Translator: Mikko Piippo <mikko.piippo@opensuse.fi>\n"
-"Language-Team: Finnish <kde-i18n-doc@lists.kde.org>\n"
+"PO-Revision-Date: 2008-11-04 19:22+0200\n"
+"Last-Translator: Jyri palokangas <jyri.palokangas@opensuse.org>\n"
+"Language-Team: suomi <fi@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: LoKalize 0.2\n"
+"X-Generator: KBabel 1.11.4\n"
 "Plural-Forms:  nplurals=2; plural=n != 1;\n"
 
 #: slideshow.xml:15(title)
@@ -131,18 +132,16 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "Virtuaalisointi teknologia ja ohjelmistokehitystyökalut"
 
 #: slideshow.xml:159(para)
-#, fuzzy
 msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "Xen hypervisor kuuluu openSUSE-jakeluun. Xen on yksi parhaista virtualisointiratkaisuista. Lisäksi openSUSE sisältää työkalut tiedostonjakoon ja tulostukseen verkon kautta (Samba), Internet-sivuston ylläpitoon (Apache). Ohjelmistokehitystä varten openSUSE  tarjoaa joukon ajonaikaisia ympäristöjä sekä monipuolisia ohjelmistokehitystyökaluja, kuten KDevelop, Eclipse ja Mono. "
+msgstr "Xen hypervisor kuuluu openSUSE-jakeluun. Xen on yksi parhaista saatavilla virtualisointiratkaisuista. Lisäksi openSUSE sisältää työkalut tiedostonjakoon (Samba,NFS, jne.) ja tulostukseen (CUPS) verkon kautta, Internet-sivuston ylläpitoon (Apache). Ohjelmistokehitystä varten openSUSE  tarjoaa joukon ajonaikaisia ympäristöjä sekä monipuolisia ohjelmistokehitystyökaluja, kuten KDevelop, Eclipse ja Mono. "
 
 #: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "Opi lisää"
 
 #: slideshow.xml:170(para)
-#, fuzzy
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
-msgstr "openSUSE tarjoaa sekä jakelua että Linuxia ylipäänsä koskevan kattavan dokumentaation.  Ohjeet löytyvät myös PDF-muodossa. Voit ladata ja tulostaa ne (http://en.opensuse.org/Documentation)."
+msgstr "openSUSE tarjoaa sekä jakelua että Linuxia ylipäänsä koskevan kattavan dokumentaation. Ohjekeskus löytyy käynnistysvalikon kautta. Ohjeet löytyvät myös PDF-muodossa. Voit ladata ja tulostaa ne (http://en.opensuse.org/Documentation)."
 
 #: slideshow.xml:180(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
@@ -173,6 +172,3 @@ msgstr "Novellin SUSE Linux Enterprise -tuoteperheeseen kuuluvat SUSE Linux Ente
 msgid "translator-credits"
 msgstr "Jyri Palokangas <jmp@opensuse.fi>,<br>Janne Ahlskog,<br>Erkka Hakkarainen,<br>Tom Himanen,<br>Jani-Matti Hätinen,<br>Jouni Hätinen,<br>Asko Isonokari,<br>Joonas Niilola <juippis@roskakori.org>,<br>Mikko Piippo <mikko.piippo@opensuse.fi>, <br>Ilkka Pirskanen <upylkkanen@novell.com>,<br>Ulla Pylkkänen,<br>Jami Saarikoski <jami.saarikoski@gmail.com>,<br>Janne Tanskanen,<br>Jarno Tukiainen,<br>Ilkka Tuohela,<br>Juho Valkila,"
 
-#, fuzzy
-#~ msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
-#~ msgstr "openSUSE 11.0 tarjoaa kattavan valikoiman työkaluja Internetin selailuun, sähköpostin hallintaan ja jopa Internet-puheluihin."

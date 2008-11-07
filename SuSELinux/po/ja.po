@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-10-25 10:06+0900\n"
+"PO-Revision-Date: 2008-11-04 20:55+0900\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
 "Language-Team: Japanese <opensuse-ja@opensuse.org>\n"
 "MIME-Version: 1.0\n"
@@ -120,18 +120,16 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "仮想化技術とアプリケーション開発ツール"
 
 #: slideshow.xml:159(para)
-#, fuzzy
 msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "openSUSE には最高のパフォーマンスを提供する仮想化ソフトウエア Xen ハイパーバイザが含まれています。さらに openSUSE にはネットワークファイル共有や印刷 (Samba)、Web サーバ機能 (Apache) もあります。アプリケーション開発向けには openSUSE の完全なランタイム環境のほか、 KDevelop, Eclipse, Mono などのアプリケーション開発ツールが付属しています。"
+msgstr "openSUSE には Xen ハイパーバイザが含まれています。 Xen は利用可能な仮想化ソフトウエアの中でも最高のパフォーマンスを提供するものの 1 つです。加えて openSUSE にはネットワークファイル共有 (Samba, NFS など) や印刷 (CUPS)、Web サーバ機能 (Apache) などもあります。アプリケーション開発向けには openSUSE の完全なランタイム環境のほか、 KDevelop, Eclipse, Mono などのアプリケーション開発ツールが付属しています。"
 
 #: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "さらなる情報"
 
 #: slideshow.xml:170(para)
-#, fuzzy
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
-msgstr "openSUSE ディストリビューションには広範囲にわたる openSUSE や一般的な Linux 関連の質問に答えるためのドキュメントが用意されています。たとえばヘルプセンターはメインメニューからアクセスできますし、マニュアルは pdf 形式でダウンロード・印刷することができます (http://ja.opensuse.org/Documentation) 。"
+msgstr "openSUSE ディストリビューションには、 openSUSE や一般的な Linux 関連の広範囲にわたる質問に答えるためのドキュメントが用意されています。たとえばヘルプセンターはメインメニューからアクセスできますし、マニュアルは PDF 形式でダウンロード・印刷することができます (http://ja.opensuse.org/Documentation) 。"
 
 #: slideshow.xml:180(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
@@ -167,3 +165,4 @@ msgstr ""
 "Takuo KITAME <kitame@debian.org>\n"
 "日本GNOMEユーザー会 http://www.gnome.gr.jp\n"
 "Yasuhiko Kamata <belphegor@belbel.or.jp>"
+

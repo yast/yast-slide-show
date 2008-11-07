@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.de\n"
 "POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-11-02 19:21+0100\n"
+"PO-Revision-Date: 2008-11-05 21:20+0100\n"
 "Last-Translator: Hermann J. Beckers <hj.beckers@onlinehome.de>\n"
 "Language-Team: German <kde-i18n-de@lists.kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -120,16 +120,14 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "Virtualisierungs-Technologie und Entwicklungswerkzeuge für Anwendungen"
 
 #: slideshow.xml:159(para)
-#, fuzzy
 msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "Der Xen-Hypervisor ist in OpenSuSE enthalten. Xen ist eine der robustesten Lösungen für Virtualisierung. Zusätzlich enthält openSUSE Werkzeuge für Datei- und Druck-Freigabe im Netzwerk (Samba) und eine Webserver-Lösung (Apache). Für die Softwareentwicklung kommt openSUSE mit einem ganzen Set an Laufzeit-Umgebungen und umfassenden Entwicklungswerkzeugen, z.B. KDevelop, Eclipse und Mono."
+msgstr "Der Xen-Hypervisor ist in OpenSuSE enthalten. Xen ist eine der robustesten Lösungen für Virtualisierung. Zusätzlich enthält openSUSE Werkzeuge für Datefreigaben im Netzwerk (Samba, NFS usw. ), Drucken (CUPS) und eine Webserver-Lösung (Apache). Für die Softwareentwicklung kommt openSUSE mit einem ganzen Set an Laufzeit-Umgebungen und umfassenden Entwicklungswerkzeugen, z.B. KDevelop, Eclipse und Mono."
 
 #: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "Erfahren Sie mehr"
 
 #: slideshow.xml:170(para)
-#, fuzzy
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "OpenSUSE stellt eine ausführliche Dokumentation zu SUSE-spezifischen und allgemeinen Linux-Fragen zur Verfügung. Das SUSE Hilfezentrum ist über das Startmenü erreichbar. Anleitungen sind ebenfalls im PDF-Format erhältlich und können runtergeladen und ausgedruckt werden (http://de.opensuse.org/Documentation)."
 
@@ -164,3 +162,4 @@ msgstr "Übersetzer-Credits"
 
 #~ msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
 #~ msgstr "Mit openSUSE können Sie nun noch effektiver kommunizieren, denn openSUSE 11.1 bietet einen umfassenden Sammlung an Software für Webbrowsing und E-Mail-Verwaltung — Es beinhaltet sogar die neuste Voice over IP Technologie."
+

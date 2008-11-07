@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-10-26 19:23+0800\n"
+"PO-Revision-Date: 2008-11-07 13:07+0800\n"
 "Last-Translator: Eric Shan <ericalways@gmail.com>\n"
 "Language-Team: Simplified Chinese\n"
 "MIME-Version: 1.0\n"
@@ -21,9 +21,8 @@ msgid "Welcome to openSUSE™"
 msgstr "欢迎使用 openSUSE™"
 
 #: slideshow.xml:20(para)
-#, fuzzy
 msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.1."
-msgstr "无论是使用计算机与朋友、亲戚、同事通信，管理欣赏图片和音乐，上网查找最新资讯或娱乐，编写报告或预算，还是建立个人网站或家庭网络，在 openSUSE 11.0 中您将发现所需的一切。"
+msgstr "无论是使用计算机与朋友、亲戚、同事通信，管理欣赏图片和音乐，上网查找最新资讯或娱乐，编写报告或预算，还是建立个人网站或家庭网络，在 openSUSE 11.1 中您将发现所需的一切。"
 
 #: slideshow.xml:30(title)
 msgid "openSUSE.org"
@@ -118,18 +117,16 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "虚拟化技术和程序开发工具"
 
 #: slideshow.xml:159(para)
-#, fuzzy
 msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "openSUSE 包含性能最优的虚拟化工具, Xen 管理程序。此外，openSUSE 也为网络文件共享、打印（Samba）和 Web 主机服务(Apache)提供工具。对于应用程序开发，openSUSE 带有完整的一组运行时环境和大量应用程序开发工具，包括 KDevelop、Eclipse 和 Mono。"
+msgstr "openSUSE 包含 Xen 虚拟机。Xen 是目前最为健壮的虚拟解决方案之一。此外，openSUSE 也为网络文件共享（Samba, NFS等）、打印（CUPS）和 Web 主机服务（Apache）提供工具。对于应用程序开发，openSUSE 带有完整的一组运行时环境和大量应用程序开发工具，包括 KDevelop、Eclipse 和 Mono。"
 
 #: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "更多信息"
 
 #: slideshow.xml:170(para)
-#, fuzzy
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
-msgstr "openSUSE 发行版提供大量 openSUSE 相关问题的解决方法，也提供大量的 Linux 普遍相关的问题解决方法。帮助中心可以通过主菜单访问。用户手册以 PDF 格式发布，可以下载打印 (http://en.opensuse.org/Documentation)。"
+msgstr "openSUSE 发行版提供大量 openSUSE 相关问题的解决方法，也提供大量的 Linux 普遍相关的问题解决方法。通过主菜单就可以访问帮助中心。还有 PDF 格式的用户手册可以下载和打印 (http://en.opensuse.org/Documentation)。"
 
 #: slideshow.xml:180(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
@@ -140,9 +137,8 @@ msgid "For support from other openSUSE users, visit the official openSUSE forums
 msgstr "要得到其他 openSUSE 用户的帮助，请访问 openSUSE 官方论坛：http://forums.opensuse.org/。在这里您将找到数以千计的 openSUSE 用户，他们乐意帮助你解决关于 Linux 的各种问题。如果您是一位有经验的用户，论坛将是您结实其他用户并帮助他们的好去处。"
 
 #: slideshow.xml:200(para)
-#, fuzzy
 msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
-msgstr "使用 openSUSE.org ，您可以构建一切。使用独特强大的 openSUSE 包构建服务，仅通过简单的步骤就可以为众多 Linux 发行版创建和共享新软件包。加入 openSUSE.org，携手共进。"
+msgstr "希望 openSUSE 变得更好？使用 openSUSE，您几乎可以构建一切。因为有独特而强大的 openSUSE 包构建服务，简简单单就可以为众多 Linux 发行版创建和共享新软件包。加入 openSUSE.org，让我们携手共进。"
 
 #: slideshow.xml:209(title)
 msgid "Novell and Linux"
@@ -153,9 +149,8 @@ msgid "Novell is committed to your success with Linux. In addition to openSUSE, 
 msgstr "Novell 致力于通过 Linux 助您成功。除了 openSUSE，Novell 还设计了一套适合各种规模企业需要的优秀产品套件。"
 
 #: slideshow.xml:215(para)
-#, fuzzy
 msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit http://www.novell.com/linux"
-msgstr "Novell 生产的企业级 Linux 产品包括 SUSE Linux Enterprise Server、SUSE Linux Enterprise Desktop 和 Novell Open Enterprise Server。我们的企业产品有 7 年的维护保修期和可选的支持计划。更多关于 Novell 的企业级 Linux 信息在 www.novell.com/linux"
+msgstr "Novell 的企业级 Linux 产品包括 SUSE Linux Enterprise Server、SUSE Linux Enterprise Desktop 和 Novell Open Enterprise Server。我们的企业产品有 7 年的维护保证和可选的支持计划。更多关于 Novell 企业级 Linux 信息，请访问 http://www.novell.com/linux"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: slideshow.xml:0(None)
@@ -164,7 +159,3 @@ msgstr ""
 "开源软件国际化之简体中文组 <http://i18n.linux.net.cn>\n"
 "Thruth Wang <lihaow@opera.com>, 2007.\n"
 "Eric Shan <ericalways@gmail.com>, 2008."
-
-#, fuzzy
-#~ msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
-#~ msgstr "使用 openSUSE 11.0，沟通更加顺畅高效。系统提供了网络浏览和电子邮件管理一整套的工具 － 甚至包含了最新的网络电话技术。"

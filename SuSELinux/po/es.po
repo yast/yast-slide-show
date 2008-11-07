@@ -12,15 +12,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.es\n"
 "POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-10-28 17:14-0400\n"
-"Last-Translator: Ricardo Varas Santana <rvaras81@yahoo.com>\n"
+"PO-Revision-Date: 2008-11-03 20:50+0100\n"
+"Last-Translator: Carlos E. Robinson <carlos.e.r@opensuse.org>\n"
 "Language-Team: Spanish <opensuse-translation-es@opensuse.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
 "X-Poedit-Language: Spanish\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
@@ -127,18 +127,15 @@ msgstr "Además de SUSE Firewall y AppArmor, openSUSE también incluye un sistem
 msgid "Virtualization Technology and Application Development Tools"
 msgstr "Herramientas de desarrollo de aplicaciones y tecnología de virtualización"
 
-# Cer - Samba para imprimir?
 #: slideshow.xml:159(para)
-#, fuzzy
 msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "openSUSE incluye el hipervisor Xen. Xen es una de las soluciones de virtualización más robustas que existen. Además, openSUSE incluye herramientas para compartir archivos en red, impresión (Samba) y de alojamiento en web (Apache). Para el desarrollo de aplicaciones, openSUSE incorpora un completo conjunto de entornos de tiempo de ejecución, además de potentes herramientas de desarrollo de aplicaciones, como KDevelop, Eclipse y Mono."
+msgstr "openSUSE incluye el hipervisor Xen. Xen es una de las soluciones de virtualización más robustas que existen. Además, openSUSE incluye herramientas para compartir archivos en red (Samba, NFS, etc), impresión (CUPS) y de alojamiento en web (Apache). Para el desarrollo de aplicaciones, openSUSE incorpora un completo conjunto de entornos de tiempo de ejecución, además de potentes herramientas de desarrollo de aplicaciones, como KDevelop, Eclipse y Mono."
 
 #: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "Aprender más"
 
 #: slideshow.xml:170(para)
-#, fuzzy
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "La distribución openSUSE le proporciona una extensa documentación sobre cuestiones específicas relativas a openSUSE así como sobre otros temas relacionados con Linux en general. El Centro de ayuda es accesible desde el menú principal. Los manuales también están disponibles en PDF y pueden descargarse e imprimirse (http://es.opensuse.org/Documentación)."
 
@@ -169,4 +166,9 @@ msgstr "La línea de productos Linux de Novell para empresas incluye SUSE Linux 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: slideshow.xml:0(None)
 msgid "translator-credits"
-msgstr "Francisco Javier F. Serrador <>, ???César Sánchez Alonso <csalinux@gmail.com>, 2007.Sergio Gabriel Teves <gabriel@opensuse.org>, 2008.Carlos E. Robinson <carlos.e.r@opensuse.org>, 2008"
+msgstr ""
+"Francisco Javier F. Serrador <>, ???\n"
+"César Sánchez Alonso <csalinux@gmail.com>, 2007.\n"
+"Sergio Gabriel Teves <gabriel@opensuse.org>, 2008.\n"
+"Carlos E. Robinson <carlos.e.r@opensuse.org>, 2008"
+

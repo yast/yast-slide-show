@@ -1,4 +1,4 @@
-# translation of slideshow.ro.po to romanian
+# translation of slideshow.po to romana
 # translation of slideshow.ro.po to
 # @TITLE@
 # Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
@@ -9,12 +9,12 @@
 # Alexandru Romanescu <a_romanescu@yahoo.co.uk>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: slideshow.ro\n"
+"Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-04-25 15:12+0200\n"
-"Last-Translator: Alexandru Romanescu <a_romanescu@yahoo.co.uk>\n"
-"Language-Team: romanian <fr@li.org>\n"
+"PO-Revision-Date: 2008-11-06 22:28+0100\n"
+"Last-Translator: openSUSE translation\n"
+"Language-Team: romana\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -30,9 +30,8 @@ msgid "Welcome to openSUSE™"
 msgstr "Bine ați venit la openSUSE™"
 
 #: slideshow.xml:20(para)
-#, fuzzy
 msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.1."
-msgstr "În openSUSE 11 găsiți tot ce aveți nevoie pentru a comunica cu prietenii, rudele sau colegii, pentru a gestiona și a vă bucura de pozele și muzica dumneavoastră, pentru a naviga pe internet casa citiți ultimele știri sau pentru distracție, pentru a scrie rapoarte sau a planifica bugete, pentru a gazdui un sait web personal sau pentru a configura rețeau dvs. proprie."
+msgstr "În openSUSE 11.1 găsiți tot ce aveți nevoie pentru a comunica cu prietenii, rudele sau colegii, pentru a gestiona și a vă bucura de pozele și muzica dumneavoastră, pentru a naviga pe internet ca sa citiți ultimele știri sau pentru distracție, pentru a scrie rapoarte sau a planifica bugete, pentru a gazdui un sait web personal sau pentru a configura rețeau dvs. proprie."
 
 #: slideshow.xml:30(title)
 msgid "openSUSE.org"
@@ -43,9 +42,8 @@ msgid "openSUSE is a community project created and sponsored by Novell to delive
 msgstr "openSUSE este un proiect comunitar creat și sponsorizat de Novell cu scopul de a furniza cea mai prietenoasă platformă de calcul din lume. Un mare număr de oameni de pe tot Globul contribuie la Proiectul openSUSE, creând packete software, testând programe, scriind documentație și traducând componente în zeci de limbi. Toată acastă muncă este disponibilă gratuit în distribuția Linux openSUSE, pe care o găsiți la www.opensuse.org"
 
 #: slideshow.xml:40(para)
-#, fuzzy
 msgid "Visit www.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
-msgstr "Vizitați www.opensuse.org pentru a afla cum vă puteți alătura comunității openSUSE."
+msgstr "Vizitați www.opensuse.org/How_to_Participate pentru a afla cum vă puteți alătura comunității openSUSE."
 
 #: slideshow.xml:45(title)
 msgid "openSUSE in Many Languages"
@@ -60,14 +58,12 @@ msgid "Connect and Communicate"
 msgstr "Conectează-te și comunică"
 
 #: slideshow.xml:58(para)
-#, fuzzy
 msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
-msgstr "Puteți comunica mult mai eficient cu openSUSE 11.0 datorită setului complet de unelte pentru navigare Web și management al e-mail-urilor oferite - incluzând chiar și cea mai nouă tehnologie Voce peste IP (VoIP)."
+msgstr "Puteți comunica mult mai eficient cu openSUSE 11.1 datorită setului complet de utilitare pentru navigare Web și management al e-mail-urilor - incluzând chiar și cea mai nouă tehnologie Voce peste IP (VoIP)."
 
 #: slideshow.xml:64(para)
-#, fuzzy
 msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "openSUSE include Mozilla Firefox, unul dintre cele mai bune navigatoare Web din lume. Firefox include toate facilitățile necesare pentru a vă bucura de universul Web, incluzând modulele Java, Adobe Acrobat Reader, RealPlayer și Macromedia Flash. De asemenea, Firefox se mândrește cu o performanță fulgerătoare și un număr important de îmbunătățiri proiectate pentru a vă proteja intimitatea și a preveni atacurile de phishing."
+msgstr "openSUSE include Mozilla Firefox, unul dintre cele mai bune navigatoare Web din lume. Firefox include toate facilitățile necesare pentru a vă bucura de universul Web, incluzând modulele Java, Adobe Acrobat Reader, RealPlayer și Adobe Flash. De asemenea, Firefox se mândrește cu o performanță fulgerătoare și un număr important de îmbunătățiri proiectate pentru a vă proteja intimitatea și a preveni atacurile de phishing."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
@@ -86,9 +82,8 @@ msgid "Documents, Spreadsheets and More"
 msgstr "Documente, tabele de calcul și multe altele"
 
 #: slideshow.xml:93(para)
-#, fuzzy
 msgid "The openSUSE 11.1 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr "Distribuția openSUSE 11.0 vine cu ultima versiune a celei mai bune suite de aplicații de birou pentru Linux: OpenOffice.org. Aceasta conține procesor de text, aplicație de calcul tabelar, editor HTML, realizator de prezentări și manager de baze de date. Scrie și citește multiple formate - incluzând formatele Microsoft Office - astfel încât să vă puteți deplasa ușor între openSUSE și software popular non-Linux. OpenOffice.org este alegerea perfectă pentru rapoarte, bugete personale, grafică simplă și multe altele."
+msgstr "Distribuția openSUSE 11.1 vine cu ultima versiune a celei mai bune suite de aplicații de birou pentru Linux: OpenOffice.org. Aceasta conține procesor de text, aplicație de calcul tabelar, editor HTML, realizator de prezentări și manager de baze de date. Scrie și citește multiple formate - incluzând formatele Microsoft Office - astfel încât să vă puteți deplasa ușor între openSUSE și software popular non-Linux. OpenOffice.org este alegerea perfectă pentru rapoarte, bugete personale, grafică simplă și multe altele."
 
 #: slideshow.xml:104(title)
 msgid "Graphics, Graphics, Graphics"
@@ -96,7 +91,7 @@ msgstr "Grafică, grafică, grafică"
 
 #: slideshow.xml:106(para)
 msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
-msgstr "Folosind uneltele din openSUSE, puteți crea sau edita aproape orice tip de element grafic. Pentru prelucrare avansată de imagine și creare de grafică profesională, folosiți GIMP, un program puternic pentru retuș, compoziție și creație."
+msgstr "Folosind utilitarele din openSUSE, puteți crea sau edita aproape orice tip de element grafic. Pentru prelucrare avansată de imagine și creare de grafică profesională, folosiți GIMP, un program puternic pentru retuș, compoziție și creație."
 
 #: slideshow.xml:112(para)
 msgid "For vector graphics, openSUSE includes Inkscape—a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
@@ -128,19 +123,17 @@ msgstr "Pe lângă SUSE Firewall și AppArmor, openSUSE include și un sistem de
 
 #: slideshow.xml:157(title)
 msgid "Virtualization Technology and Application Development Tools"
-msgstr "Tehnologie de virtualizare si unelte pentru dezvoltarea de aplicații"
+msgstr "Tehnologie de virtualizare si utilitare pentru dezvoltarea de aplicații"
 
 #: slideshow.xml:159(para)
-#, fuzzy
 msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "În openSUSE este inclus Xen hypervisor - cel mai performant software de virtualizare disponibil. In plus, openSUSE furnizează unelte de rețea pentru partajarea fișierelor, imprimare (Samba) și găzduire Wev (Apache). Pentru dezvoltarea de aplicații, openSUSE vine cu un set complet de medii de dezvoltare plus o largă gamă de unelte, incluzând KDevelop, Eclipse și Mono."
+msgstr "În openSUSE este inclus Xen hypervisor.Xen este unul din cele mai performante programe de virtualizare disponibil. În plus, openSUSE furnizează utilitare de rețea pentru partajarea fișierelor, imprimare (Samba) și găzduire Web (Apache). Pentru dezvoltarea de aplicații, openSUSE vine cu un set complet de medii de execuţie plus o largă gamă de utilitare, incluzând KDevelop, Eclipse și Mono."
 
 #: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "Află mai multe"
 
 #: slideshow.xml:170(para)
-#, fuzzy
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "Distribuția openSUSE asigură o documentație extinsă, atât pentru probleme specifice openSUSE, cât și probleme de Linux, în general. Centrul de Ajutor este accesibil din meniul principal. Sunt, de asemenea, disponibile manuale în format PDF ce pot fi descărcate și tipărite (http://en.opensuse.org/Documentation)."
 
@@ -150,12 +143,11 @@ msgstr "Și mai multă informație găsiți pe wikiul openSUSE la http://en.open
 
 #: slideshow.xml:191(para)
 msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
-msgstr ""
+msgstr "Pentru asistenţă tehnică din partea altor utilizatori openSUSE, vizitaţi forumurile oficiale la http://forums.opensuse.org/. Aici veţi găsii mii de alţi utilizatori openSUSE, gata să vă sară în ajutor. Dacă sunteţi un utilizator openSUSE experimentat, forumurile sunt un loc bun pentru a întălnii şi ajuta alţi utilizatori."
 
 #: slideshow.xml:200(para)
-#, fuzzy
 msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
-msgstr "Poți crea aproape orice cu openSUSE. Este ușor să programezi și să distribui pachete noi pentru o multitudine de distribuții Linux, folosind unicul și puternicul openSUSE Build Service. Alătură-te openSUSE.org pentru a colabora."
+msgstr "Vrei să faceţi din openSUSE ceva şi mai bun? Poți crea aproape orice cu openSUSE. Este ușor să programezi și să distribui pachete noi pentru o multitudine de distribuții Linux, folosind unicul și puternicul openSUSE Build Service. Alătură-te openSUSE.org pentru a colabora."
 
 #: slideshow.xml:209(title)
 msgid "Novell and Linux"
@@ -166,15 +158,11 @@ msgid "Novell is committed to your success with Linux. In addition to openSUSE, 
 msgstr "Novell se dedică succesului dumneavoastră cu Linux. În plus față de openSUSE, Novell oferă, de asemenea, o întreagă suită de produse proiectată pentru a satisface nevoile afacerii dumneavoastră, la orice nivel."
 
 #: slideshow.xml:215(para)
-#, fuzzy
 msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit http://www.novell.com/linux"
 msgstr "Produsele Linux din clasa întreprindere cuprind SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop și Novell Open Enterprise Server. Produsele noastre profesionale sunt oferite cu un plan de întreținere pe 7 ani garantat și programe opționale de asistență tehnică. Pentru mai multe informații despre Linuxul la nivel de întreprindere oferit de Novell, vizitați www.novell.com/linux"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: slideshow.xml:0(None)
 msgid "translator-credits"
-msgstr "Daiana Heinrich <xdaiana@yahoo.com>, 2008 Stanciu-Lixandru Alec <stanciulixandru@gmail.com>, 2008, Alexandru Romanescu <alex.romanescu@gmail.com>, 2008, Andrei Cipu, 2008, Alexandru Szasz, 2008"
+msgstr "Daiana Heinrich <xdaiana@yahoo.com>, 2008, Alexandru Romanescu <alex.romanescu@gmail.com>, 2008, Andrei Cipu, 2008, Alexandru Szasz, 2008, Alec Stanciu-Lixandru, 2007"
 
-#, fuzzy
-#~ msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
-#~ msgstr "Puteți comunica mult mai eficient cu openSUSE 11.0 datorită setului complet de unelte pentru navigare Web și management al e-mail-urilor oferite - incluzând chiar și cea mai nouă tehnologie Voce peste IP (VoIP)."
