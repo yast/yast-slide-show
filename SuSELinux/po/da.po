@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-10-25 14:11+0200\n"
+"PO-Revision-Date: 2008-11-03 14:45+0100\n"
 "Last-Translator: Martin Schlander <mschlander@opensuse.org>\n"
 "Language-Team: Danish <opensuse-translation@opensuse.org>\n"
 "MIME-Version: 1.0\n"
@@ -128,18 +128,16 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "Virtualiseringsteknologi og værktøjer til applikationsudvikling"
 
 #: slideshow.xml:159(para)
-#, fuzzy
 msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "Xen Hypervisor er inkluderet i openSUSE. Xen er er en af de mest robuste virtualiseringsløsninger der findes. Derudover leverer openSUSE værktøjer til fil- og printdeling (Samba) og webhosting (Apache). Til applikationsudvikling kommer openSUSE med et komplet sæt af runtime-miljøer plus talrige værktøjer til applikationsudvikling, inklusive KDevelop, Eclipse og Mono."
+msgstr "Xen Hypervisor er inkluderet i openSUSE. Xen er er en af de mest robuste virtualiseringsløsninger der findes. Derudover leverer openSUSE værktøjer til fil- (Samba, NFS osv.) og printdeling (CUPS) og webhosting (Apache). Til applikationsudvikling kommer openSUSE med et komplet sæt af runtime-miljøer plus talrige værktøjer til applikationsudvikling, inklusive KDevelop, Eclipse og Mono."
 
 #: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "Find ud af mere"
 
 #: slideshow.xml:170(para)
-#, fuzzy
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
-msgstr "openSUSE-distributionen leverer omfattende dokumentation til openSUSE-specifikke såvel som generelle Linux-relaterede spørgsmål. Hjælpecentret er tilgængeligt via menuen. Manualer er også tilgængelige i PDF-format og kan downloades og udskrives (http://en.opensuse.org/Documentation)."
+msgstr "openSUSE-distributionen leverer omfattende dokumentation til openSUSE-specifikke såvel som generelle Linux-relaterede spørgsmål. Hjælpecentret er tilgængeligt via hovedmenuen. Manualer er også tilgængelige i PDF-format og kan downloades og udskrives (http://en.opensuse.org/Documentation)."
 
 #: slideshow.xml:180(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
@@ -172,3 +170,4 @@ msgstr "Martin Schlander <suse@linuxin.dk>, 2006, 2007.Martin Møller <martin@ma
 
 #~ msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
 #~ msgstr "Du kan kommunikere mere effektivt med openSUSE 11.1, fordi den leverer et komplet sæt af værktøjer til at surfe på internettet og håndtering af e-mail - og indeholder endda den nyeste teknologi til internet-baseret telefoni (VoIP)."
+

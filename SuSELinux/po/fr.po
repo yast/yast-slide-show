@@ -8,13 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-11-03 12:05+0100\n"
+"PO-Revision-Date: 2008-11-06 21:33+0100\n"
 "Last-Translator: Guillaume GARDET <guillaume.gardet@free.fr>\n"
-"Language-Team: French Team <opensuse-fr@opensuse.org>\n"
+"Language-Team: French <opensuse-fr@opensuse.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: Lokalize 0.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
@@ -90,7 +91,7 @@ msgstr "Grâce aux outils inclus dans openSUSE, vous pouvez créer et modifier p
 
 #: slideshow.xml:112(para)
 msgid "For vector graphics, openSUSE includes Inkscape—a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
-msgstr "Pour les dessins vectoriels, openSUSE inclut Inkscape, une solution graphique polyvalente complète avec prise en charge des couches transparentes, du traçage de bitmaps, des chemins de texte et bien plus encore."
+msgstr "Pour les dessins vectoriels, openSUSE inclut Inkscape, une solution graphique polyvalente complète avec prise en charge des couches transparentes, du traçage de bitmaps, des textes sur un chemin et bien plus encore."
 
 #: slideshow.xml:120(title)
 msgid "Computing On-the-Go"

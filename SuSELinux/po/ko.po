@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: slideshow.ko\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-11-02 03:54+0900\n"
+"PO-Revision-Date: 2008-11-04 15:06+0900\n"
 "Last-Translator: YunSeok Choi <xein@naver.com>\n"
 "Language-Team: Korean <xein@naver.com>\n"
 "MIME-Version: 1.0\n"
@@ -125,18 +125,16 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "가상화 기술과, 응용프로그램 개발 도구"
 
 #: slideshow.xml:159(para)
-#, fuzzy
 msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "오픈수세에는 Xen hypervisor(높은 수준의 가상화 소프트웨어입니다.)가 들어 있습니다. 여기에는 네트워크 파일 공유, 인쇄(삼바) 및 웹호스팅(아파치)가 포함됩니다. 응용 프로그램 개발을 위해 완벽한 런타임 환경과 함께 광범위한 응용 프로그램 개발 도구인 KDevelop, 이클립스, 모노가 있습니다."
+msgstr "오픈수세에는 Xen hypervisor(가상머신 소프트웨어)가 들어 있습니다. 여기에는 네트워크 파일 공유(삼바, NFS 등), 인쇄(CUPS) 및 웹호스팅(아파치)가 포함됩니다. 응용 프로그램 개발을 위해 완벽한 런타임 환경과 함께 광범위한 응용 프로그램 개발 도구인 KDevelop, 이클립스, 모노가 있습니다."
 
 #: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "자세히 알아보기"
 
 #: slideshow.xml:170(para)
-#, fuzzy
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
-msgstr "오픈수세 배포판에 대한 설명서와 오픈수세에 관한 질문 혹은 일반 리눅스에 관한 질문을 제공합니다. 메인 메뉴의 도움말 센터에서 바로 검색할 수 있고, PDF나 웹사이트에서 다운로드하여 출력할 수 있습니다.(http://en.opensuse.org/Documentation)"
+msgstr "오픈수세 배포판에 대한 설명서와 오픈수세에 관한 질문 혹은 일반 리눅스에 관한 답변을 제공합니다. 메인 메뉴의 도움말 센터에서 바로 검색할 수 있고, PDF나 웹사이트에서 다운로드하여 출력할 수 있습니다(http://en.opensuse.org/Documentation)."
 
 #: slideshow.xml:180(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
@@ -170,6 +168,6 @@ msgstr "최윤석 <xein@naver.com>, 2008"
 #, fuzzy
 #~ msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
 #~ msgstr "오픈수세 11 에서 보다 효과적으로 의사 소통을 하실 수 있습니다. 웹 브라우징 기능과 이메일 관리가 포함되어 있고, 인터넷 전화(VoIP-Voice over IP) 같은 최신 기술을 지원 합니다."
-
 #~ msgid "Also included with openSUSE are Novell Evolution and Kontact. These complete e-mail and contact managers help you organize and maintain all your e-mail accounts. The openSUSE distribution also comes with state-of-the-art Voice over IP (VoIP) solutions that let you communicate with people connected to the Internet all over the world."
 #~ msgstr "오픈수세에는 노벨(Novell) 에볼루션과 콘탁이 포함되어 있습니다. 이 이메일과 연락처 관리자는 귀하가 메일계정을 구성하고 유지 관리하는데 많은 도움을 줄 수 있습니다. 또한 오픈수세에 있는 Voice over IP(VoIP) 솔루션으로 인터넷에 연결되어 있는 모든 사람들과 대화가 가능합니다."
+

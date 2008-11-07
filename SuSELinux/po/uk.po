@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.uk\n"
 "POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-10-24 19:32-0700\n"
+"PO-Revision-Date: 2008-11-05 22:59-0800\n"
 "Last-Translator: Ivan Petrouchtchak <fr.ivan@ukrainian-orthodox.org>\n"
 "Language-Team: Ukrainian <translation@linux.org.ua>\n"
 "MIME-Version: 1.0\n"
@@ -126,16 +126,14 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "Технологія віртуалізації та засоби розробки програм"
 
 #: slideshow.xml:159(para)
-#, fuzzy
 msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "openSUSE включає в себе Xen hypervisor — ПЗ віртуалізації з найкращою швидкодією. Крім цього, openSUSE надає засоби для спільного доступу до файлів в мережі, друку (Samba) і виконання обов’язків провідного вузла мережі (Apache). Для розробки програм, openSUSE має повний набір середовищ виконання, а ще містить засоби розробки програмного забезпечення, такі як KDevelop, Eclipse і Mono."
+msgstr "openSUSE включає в себе Xen hypervisor — ПЗ віртуалізації з найкращою швидкодією. Крім цього, openSUSE надає засоби для спільного доступу до файлів в мережі(Samba, NFS, тощо), друку (CUPS) і виконання обов’язків провідного вузла мережі (Apache). Для розробки програм, openSUSE має повний набір середовищ виконання, а ще містить засоби розробки програмного забезпечення, такі як KDevelop, Eclipse і Mono."
 
 #: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "Дізнайтесь більше"
 
 #: slideshow.xml:170(para)
-#, fuzzy
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "Дистрибутив openSUSE має багато документації щодо питань, які стосуються openSUSE, а також і загальних питань щодо Linux. Центр довідки доступний з головного меню . Інструкції в форматі PDF можна звантажити і надрукувати (http://en.opensuse.org/Documentation)."
 
@@ -167,3 +165,4 @@ msgstr "Бізнес-продукти Linux від Novell складаються
 #: slideshow.xml:0(None)
 msgid "translator-credits"
 msgstr "Іван Петрущак <ivanpetrouchtchak@yahoo.com>"
+

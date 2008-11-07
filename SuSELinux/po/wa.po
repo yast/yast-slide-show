@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.wa\n"
 "POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-11-01 00:07+0100\n"
+"PO-Revision-Date: 2008-11-04 21:36+0100\n"
 "Last-Translator: Jean Cayron <jean.cayron@tele2allin.be>\n"
 "Language-Team: Walloon <linux-wa@walon.org>\n"
 "MIME-Version: 1.0\n"
@@ -123,16 +123,14 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "Tecnolodjeye di virtouwålizåcion et usteyes di disvelopmint des programes"
 
 #: slideshow.xml:159(para)
-#, fuzzy
 msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "L' hipervizeu Xen est dvins openSUSE. Xen est l' li programe di virtouwålizåcion li pus stocasse k' i gn åye. Di pus, openSUSE dene des usteyes rantoele pol pårtaedje di fitchîs, l' imprimaedje (Samba) eyet l' lodjaedje di waibes (Apache). Pol diswalpaedje des programes, openSUSE a ene chilêye d' evironmints d' enondaedje eyet des completès usteyes pol programaedje di programes come KDevelop, Eclipse eyet Mono."
+msgstr "L' hipervizeu Xen est dvins openSUSE. Xen est l' li programe di virtouwålizåcion li pus stocasse k' i gn åye. Di pus, openSUSE dene des usteyes rantoele pol pårtaedje di fitchîs (Samba, NFS, evnd.), l' imprimaedje (CUPS) eyet l' lodjaedje di waibes (Apache). Pol diswalpaedje des programes, openSUSE a ene chilêye d' evironmints d' enondaedje eyet des completès usteyes pol programaedje di programes come KDevelop, Eclipse eyet Mono."
 
 #: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "Endè saveur di pus"
 
 #: slideshow.xml:170(para)
-#, fuzzy
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "Li distribucion openSUSE a ene grande documintåcion po des kesse åd fwait d' openSUSE oudonbén åd fwait di Linux. Li Cinte d' aidance est accessibe pal mwaisse dressêye. Les lives d' aidance sont ossu disponibes e PDF, polèt esse aberwetés eyet imprimés (http://en.opensuse.org/Documentation)."
 
@@ -171,3 +169,4 @@ msgstr "Djan Cayron <jean.cayron@gmail.com>, 2007, 2008."
 
 #~ msgid "Also included with openSUSE are Novell Evolution and Kontact. These complete e-mail and contact managers help you organize and maintain all your e-mail accounts. The openSUSE distribution also comes with state-of-the-art Voice over IP (VoIP) solutions that let you communicate with people connected to the Internet all over the world."
 #~ msgstr "Vos avoz ossu dvins openSUSE Evolucion di Novelle eyet Kontact. Ces complets programes d' emilaedje eyet d' manaedjmint di vosse calpin d' adresse vos aidront a assonrer eyet waitî a tos vos contes emile. Li distribucion openSUSE avou l' meyeuse voye po fé del Vwès dzeu IP (Voice over IP - VoIP) ki vs permete di comuniker avou des djins raloyîs sol daegntoele totavå l' daegn."
+
