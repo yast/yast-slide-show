@@ -25,7 +25,7 @@ s/h2/title/g
 /<\/td/,/<\/table>/d' $f \
   | fmt
     echo "</section>"
-  } > slideshow.txt
+  } >> slideshow.txt
 done
 
 ls -l slideshow.txt
