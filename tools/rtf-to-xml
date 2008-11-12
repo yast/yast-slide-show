@@ -18,6 +18,7 @@ for f in $@ ; do
   }
   n=${f/\.rtf}; n=${n##*/}
   {
+    echo ""
     echo "<section label=\"$n\">"
     sed 's/p>/para>/g
 s/h2/title/g
