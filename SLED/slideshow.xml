@@ -54,8 +54,8 @@ illustrate Novell's unmatched innovation in the Linux desktop.</para>
   <para>The Firefox Web browser is the best Web browser in the market. It
   boasts a complete set of browser features and lightning-fast performance
   out of the box, and delivers a rich user experience through plug-ins
-  such Java, Adobe Acrobat Reader, Real RealPlayer, and Adobe Flash
-  Player, which are all included in SUSE Linux Enterprise Desktop
+  such as Java, Novell Moonlight, Adobe Acrobat Reader, and Adobe
+  Flash Player, which are all included in SUSE Linux Enterprise Desktop
   11.</para>
 
   <para>Novell Evolution is a complete collaboration client suite
@@ -158,7 +158,7 @@ battery life.</para>
 
 <para>Novell works with its hardware manufacturing partners to ensure
 that their systems installed with SUSE Linux Enterprise Desktop can earn
-the ENERGY STARi qualification.</para>
+the ENERGY STAR qualification.</para>
 
 <para>By seamlessly providing remote desktop access, Novell aims to
 promote more electronic collaboration and even reduce your need for
@@ -188,12 +188,12 @@ on your system, Novell provides a comprehensive resource management
 solution that allows you to stay current with all security updates.</para>
 
 </section>
-<section label="09_opensuse">
+<section label="09_openSUSE">
   <title>openSUSE.org</title> <para>The openSUSE project is a worldwide
   community program sponsored by Novell that promotes the use of
-  Linux everywhere.  Please visit opensuse.org where you can find and
-  join a community of users and developers, who all have the same goal
-  in mind — to create and distribute the world's most usable Linux
+  Linux everywhere.  Please visit opensuse.org where you can find
+  and join a community of users and developers, who all have the same
+  goal in mind - to create and distribute the world's most usable Linux
   distribution. openSUSE provides the base our award-winning SUSE Linux
   Enterprise products.</para>
 
