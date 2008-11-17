@@ -65,6 +65,7 @@ validate: $(valid)
 
 pot: $(fname).pot
 $(fname).pot: $(fname).xml
+	$(XMLLINT) --nonet --valid --noout $(fname).xml
 	$(XML2PO) --expand-all-entities -o $(fname).pot $(fname).xml
 
 # re-merge po translation files
