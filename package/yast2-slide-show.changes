@@ -1,8 +1,10 @@
 -------------------------------------------------------------------
-Mon Nov 17 09:24:36 CET 2008 - ke@suse.de
+Mon Nov 17 13:54:50 CET 2008 - ke@suse.de
 
 - V.2.17.11:
-- Do not mention RealPlayer; reported by Michael Loeffler (bnc#445174).
+- SLED: Fix syntax; #444907.
+- openSUSE: Do not mention RealPlayer; reported by Michael Loeffler
+  (bnc#445174).
 
 -------------------------------------------------------------------
 Wed Nov 12 10:53:18 CET 2008 - ke@suse.de
