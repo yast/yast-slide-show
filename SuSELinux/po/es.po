@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.es\n"
-"POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-11-03 20:50+0100\n"
+"POT-Creation-Date: 2008-11-17 09:33+0100\n"
+"PO-Revision-Date: 2008-11-20 03:58+0100\n"
 "Last-Translator: Carlos E. Robinson <carlos.e.r@opensuse.org>\n"
 "Language-Team: Spanish <opensuse-translation-es@opensuse.org>\n"
 "MIME-Version: 1.0\n"
@@ -63,8 +63,8 @@ msgid "You can communicate more effectively with openSUSE 11.1 because it provid
 msgstr "Puede comunicarse con la mayor funcionalidad con openSUSE 11.0 ya que proporciona un completo conjunto de herramientas para la navegación web y la gestión del correo electrónico — incluso incluye la tecnología más reciente de telefonía basada en Internet."
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "openSUSE incluye el navegador web Firefox, uno de los mejores navegadores de Internet del mercado. Firefox incluye todas las características que necesita para disfrutar de la web, incluyendo complementos para Java, Adobe Acrobat Reader, RealPlayer y Adobe Flash. Firefox también se enorgullece de un rendimiento extraordinariamente rápido, y de un número de mejoras diseñadas para proteger su privacidad y prevenir ataques de phishing."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "openSUSE incluye el navegador web Firefox, uno de los mejores navegadores de Internet del mercado. Firefox incluye todas las características que necesita para disfrutar de la web, incluyendo complementos para Java, Adobe Acrobat Reader, y Adobe Flash. Firefox también se enorgullece de un rendimiento extraordinariamente rápido, y de un número de mejoras diseñadas para proteger su privacidad y prevenir ataques de phishing."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."

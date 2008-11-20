@@ -1,4 +1,4 @@
-# translation of slideshow.po to Italiano
+# translation of slideshow.po to italian
 # Copyright (C) 2006 SuSE Linux Products GmbH, Nuernberg
 # This file is distributed under the same license as the package.
 #
@@ -6,10 +6,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
-"POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-11-04 17:37+0100\n"
-"Last-Translator: Giuseppe Bevacqua <gepeppe@gmail.com>\n"
-"Language-Team: Italiano <opensuse-translation@opensuse.org>\n"
+"POT-Creation-Date: 2008-11-17 09:33+0100\n"
+"PO-Revision-Date: 2008-11-17 15:51+0100\n"
+"Last-Translator: Andrea Florio <andrea@opensuse.org>\n"
+"Language-Team: italian <opensuse-translation@opensuse.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -56,8 +56,8 @@ msgid "You can communicate more effectively with openSUSE 11.1 because it provid
 msgstr "Con openSUSE 11.1 è possibile comunicare in modo più efficace perché avete a disposizione un insieme completo di strumenti per la navigazione sul Web e la gestione della posta elettronica, oltre alle più recenti tecnologie VoIP."
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "openSUSE include il browser web Mozilla Firefox, uno dei migliori browser sul mercato. Firefox si integra in un insieme completo di funzionalità di navigazione, quali Java, Adobe Reader, RealPlayer e Macromedia Flash. Inoltre, Firefox unisce leggerezza e performance, oltre a molti progressi sul fronte della privacy e della prevenzione da attacchi di phishing."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "openSUSE include Mozilla Firefox, uno dei migliori Web browser del mondo. Firefox si integra tutte le  funzionalità di cui hai bisogno per godere del Wibe , quali Java, Adobe Acrobat Reader, e Adobe Flash plugin. Inoltre, Firefox unisce leggerezza e performance, oltre a molti progressi sul fronte della privacy e della prevenzione da attacchi di phishing."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
@@ -175,8 +175,4 @@ msgstr ""
 "  * Marco Ciampa\n"
 "  * tutti i revisori del TP\n"
 "  * Ettore Perazzoli, perso, ma mai dimenticato"
-
-#, fuzzy
-#~ msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
-#~ msgstr "Con openSUSE 11.0 è possibile comunicare in modo più efficace perché avete a disposizione un insieme completo di strumenti per la navigazione sul Web e la gestione della posta elettronica, oltre alle più recenti tecnologie VoIP."
 

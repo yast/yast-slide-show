@@ -1,14 +1,14 @@
-# translation of slideshow.km.po to Khmer
-# Auk Piseth <piseth_dv@khmeros.info>, 2006, 2007.
+# translation of slideshow.po to khmer
+# Auk Piseth <piseth_dv@khmeros.info>, 2006, 2007, 2008.
 # Khoem Sokhem <khoemsokhem@khmeros.info>, 2006, 2007, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: slideshow.km\n"
+"Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
-"POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-10-27 09:03+0700\n"
-"Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"POT-Creation-Date: 2008-11-17 09:33+0100\n"
+"PO-Revision-Date: 2008-11-18 14:39+0700\n"
+"Last-Translator: Auk Piseth <piseth_dv@khmeros.info>\n"
+"Language-Team: khmer <support@khmeros.info>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -56,8 +56,8 @@ msgid "You can communicate more effectively with openSUSE 11.1 because it provid
 msgstr "អ្នក​អាច​ទាក់ទង​ឲ្យ​កាន់​តែ​មាន​ប្រសិទ្ធិភាព​ថែមទៀត​ជា​មួយ​អូផឹន​ស៊ូស៊ី ១១.១ ពីព្រោះ​វា​ផ្ដល់​សំណុំ​ឧបករណ៍​ពេញលេញ​សម្រាប់​ការ​រុករក​បណ្ដាញ និង​ការ​គ្រប់គ្រង​អ៊ីមែល—វា​រួម​បញ្ចូល​បច្ចេកវិទ្យា​ Voice over IP ដ៏​ថ្មី​បំផុត ។"
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "អូផឹនស៊ូស៊ី​រួ​ម​មាន Mozilla Firefox គឺ​ជា​កម្មវិធី​រុករក​បណ្ដាញ​មួយ​ក្នុង​ចំណោម​កម្មវិធី​រុករក​បណ្ដាញ​ដ៏​ល្អបំផុត​ក្នុង​ពិភពលោក ។ Firefox រួម​មាន​លក្ខណៈពិសេស​ទាំងអស់ ដែល​អ្នក​ត្រូវការ​ដើម្បី​រីករាយ​ជា​មួយ​បណ្ដាញ រួម​មាន Java, Adobe Acrobat Reader, RealPlayer និង​កម្មវិធី​ជំនួយ Macromedia Flash ។ Firefox ក៏​អាច​លើកស្ទួយ​ការ​អនុវត្ត​យ៉ាង​លឿន និង​កា​ររីកចម្រើន​ជា​ច្រើន​ជា​ច្រើន​បាន​រចនា​ដើម្បីការពារភាគ​ឯកជន​របស់អ្នក និងការពារ​ការវាយប្រហារ phishing ។"
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "អូផឹនស៊ូស៊ី​រួ​ម​មាន Mozilla Firefox គឺ​ជា​កម្មវិធី​រុករក​បណ្ដាញ​មួយ​ក្នុង​ចំណោម​កម្មវិធី​រុករក​បណ្ដាញ​ដ៏​ល្អបំផុត​ក្នុង​ពិភពលោក ។ Firefox រួម​មាន​លក្ខណៈពិសេស​ទាំងអស់ ដែល​អ្នក​ត្រូវការ​ដើម្បី​រីករាយ​ជា​មួយ​បណ្ដាញ រួម​មាន Java, Adobe Acrobat Reader, RealPlayer និង​កម្មវិធី​ជំនួយ Macromedia Flash ។ Firefox ក៏​អាច​លើកស្ទួយ​ការ​អនុវត្ត​យ៉ាង​លឿន និង​កា​ររីកចម្រើន​ជា​ច្រើន​ជា​ច្រើន​បាន​រចនា​ដើម្បីការពារភាគ​ឯកជន​របស់អ្នក និងការពារ​ការវាយប្រហារ phishing ។​"
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
@@ -120,16 +120,14 @@ msgid "Virtualization Technology and Application Development Tools"
 msgstr "បច្ចេកទេស​ក្លែង​ធ្វើ និង​ឧបករណ៍​អភិវឌ្ឍ​កម្មវិធី"
 
 #: slideshow.xml:159(para)
-#, fuzzy
 msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "អូផឹន​ស៊ូស៊ី រួមបញ្ចូល​នូវ​កម្មវិធី​និម្មិត​ដែល​មាន​សមត្ថភាព​ខ្ពស់​បំផុត គឺ​កម្មវិធី​ត្រួតពិនិត្យ​ម៉ាស៊ីន​និម្មិត XEN ។ លើស​ពីនេះ អូផឹន​ស៊ូស៊ី​ផ្ដល់​នូវ​ឧបករណ៍​សម្រាប់​ការ​ចែករំលែក​ឯកសារ​តាម​បណ្ដាញ ការ​បោះពុម្ព (Samba) និង​ការ​បង្ហោះ​បណ្ដាញ (Apache) ។ ចំពោះ​ការ​អភិវឌ្ឍន៍​កម្មវិធី អូផឹន​ស៊ូស៊ី​មាន​ភ្ជាប់​មក​ជាមួយ​នូវ​សំណុំ​បរិស្ថាន​ពេលវេលា​រត់​ពេញលេញ បូក​បញ្ចូល​នឹង​ឧបករណ៍​អភិវឌ្ឍន៍​កម្មវិធី​ដ៏​ធំ​ទូលាយ រួម​មាន KDevelop, Eclipse, និង Mono ។ ស្ទើរ​តែ​គ្រប់អ្វីៗ​ទាំងអស់​គឺ​អាច​ត្រូវ​បាន​ស្ថាបនា​ដោយ​ប្រើ​អូផឹន​ស៊ូស៊ី ។"
+msgstr "អូផឹន​ស៊ូស៊ី រួមបញ្ចូល​នូវ​កម្មវិធី​និម្មិត​ដែល​មាន​សមត្ថភាព​ខ្ពស់​បំផុត គឺ​កម្មវិធី​ត្រួតពិនិត្យ​ម៉ាស៊ីន​និម្មិត XEN ។ លើស​ពីនេះ អូផឹន​ស៊ូស៊ី​ផ្ដល់​នូវ​ឧបករណ៍​សម្រាប់​ការ​ចែករំលែក​ឯកសារ​តាម​បណ្ដាញ (Samba, NFS ។ល។) ការ​បោះពុម្ព (CUPS) និង​ការ​បង្ហោះ​បណ្ដាញ (Apache) ។ ចំពោះ​ការ​អភិវឌ្ឍន៍​កម្មវិធី អូផឹន​ស៊ូស៊ី​មាន​ភ្ជាប់​មក​ជាមួយ​នូវ​សំណុំ​បរិស្ថាន​ពេលវេលា​រត់​ពេញលេញ បូក​បញ្ចូល​នឹង​ឧបករណ៍​អភិវឌ្ឍន៍​កម្មវិធី​ដ៏​ធំ​ទូលាយ រួម​មាន KDevelop, Eclipse, និង Mono ។"
 
 #: slideshow.xml:169(title)
 msgid "Learn More"
 msgstr "សិក្សា​បន្ថែម"
 
 #: slideshow.xml:170(para)
-#, fuzzy
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "​ការ​ចេញ​​ផ្សាយ​នូវ​អូផឹន​​ស៊ូស៊ី​ផ្ដល់​នូវ​ឯកសារ​​ដ៏​ធំ​សម្រាប់​អូផឹន​​ស៊ូស៊ី​ជាក់លាក់​ ដូច​នឹង​សំណួរ​ដែល​ទាក់ទង​នឹង​លីនុច​ទូទៅ​ដែរ ។ មជ្ឈមណ្ឌល​ជំនួយ​គឺ​អាច​ចូល​ដំណើរការ​បាន​តាម​រយៈ​ម៉ឺនុយ​មេ ។ សៀវភៅ​ដៃ​ជា​ទ្រង់ទ្រាយ PDF ក៏​មាន​ផង​ដែរ ហើយ​អាច​ទាញ​យក និង​បោះ​ពុម្ព​បាន​ថែម​ទៀត​ផង (http://en.opensuse.org/Documentation) ។"
 
@@ -161,3 +159,4 @@ msgstr "ផលិតផល​លីនុច​សហគ្រាស​​ដែ
 #: slideshow.xml:0(None)
 msgid "translator-credits"
 msgstr "ខឹម សុខែម; អេង វណ្ណៈ; អោក ពិសិដ្ឋ ​"
+

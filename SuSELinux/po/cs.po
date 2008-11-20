@@ -1,4 +1,4 @@
-# translation of slideshow.po to cs_CZ
+# translation of slideshow.po to czech
 # @TITLE@
 # Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
 #
@@ -8,14 +8,15 @@
 # Klara Cihlarova <koty@seznam.cz>, 2006, 2008.
 # Klára Cihlářová <koty@seznam.cz>, 2007, 2008.
 # Jakub Hegenbart <jhegenbart@suse.cz>, 2007.
+# Vojtěch Zeisek <vojta.sc@seznam.cz>, 2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-11-05 11:46+0100\n"
-"Last-Translator: Klara Cihlarova <koty@seznam.cz>\n"
-"Language-Team: cs_CZ <cs@li.org>\n"
+"POT-Creation-Date: 2008-11-17 09:33+0100\n"
+"PO-Revision-Date: 2008-11-17 10:54+0100\n"
+"Last-Translator: Vojtěch Zeisek <vojta.sc@seznam.cz>\n"
+"Language-Team: czech <cs@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -63,8 +64,8 @@ msgid "You can communicate more effectively with openSUSE 11.1 because it provid
 msgstr "S distribucí openSUSE 11.1 můžete efektivněji komunikovat. Obsahuje totiž úplnou sadu nástrojů pro prohlížení webu, správu e-mailů, a podporuje i nejnovější technologii internetové telefonie."
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "S distribucí openSUSE získáváte webový prohlížeč Mozilla Firefox, jeden z nejlepších webových prohlížečů na trhu. Pyšní se všemi funkcemi správného webového prohlížeče včetně modulů pro jazyk Java, technologii Macromedia Flash a programy Adobe Reader a RealPlayer. Firefox je navíc pekelně rychlý a navržený k ochraně vašeho soukromí a k ochraně před phishingem."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "S distribucí openSUSE získáváte webový prohlížeč Mozilla Firefox, jeden z nejlepších webových prohlížečů na trhu. Pyšní se všemi funkcemi správného webového prohlížeče včetně modulů pro jazyk Java, technologii Macromedia Flash. Firefox je navíc pekelně rychlý a navržený k ochraně vašeho soukromí a k ochraně před phishingem."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."

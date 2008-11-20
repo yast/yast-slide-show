@@ -13,15 +13,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.nl\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-11-03 14:53+0100\n"
+"POT-Creation-Date: 2008-11-17 09:33+0100\n"
+"PO-Revision-Date: 2008-11-17 10:23+0100\n"
 "Last-Translator: Freek de Kruijf <freek@opensuse.org>\n"
 "Language-Team: Dutch <Yast-nl-l10n@lists.sf.kovoks.nl>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms:  nplurals=2; plural= n != 1;\n"
+"Plural-Forms: nplurals=2; plural= n != 1;\n"
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
@@ -53,7 +53,7 @@ msgstr "openSUSE in vele talen"
 
 #: slideshow.xml:47(para)
 msgid "The openSUSE distribution is available in many languages. Localization for openSUSE software occurs through the efforts of our hard-working, community-driven language teams. Thank you to all of our contributors. Find the localization portal at: http://i18n.opensuse.org/"
-msgstr "De openSUSE-distributie is beschikbaar in vele talen. Het lokaliseren van openSUSE-software gebeurt door de inspanning van de hardwerkende vrijwilligers van de vertaalteams. Iedereen bedankt voor jullie bijdragen. U vindt de lokalisatie-portal op http://i18n.opensuse.org/"
+msgstr "De openSUSE-distributie is beschikbaar in vele talen. Het aan de taalregio aanpassen van de openSUSE-software gebeurt door de inspanning van hardwerkende vrijwilligers van de vertaalteams. Iedereen bedankt voor jullie bijdragen. U vindt de taalregionalisering op: http://i18n.opensuse.org/"
 
 #: slideshow.xml:56(title)
 msgid "Connect and Communicate"
@@ -64,8 +64,8 @@ msgid "You can communicate more effectively with openSUSE 11.1 because it provid
 msgstr "U kunt effectiever communiceren met openSUSE 11.1 omdat het een complete set programma's levert om te kunnen surfen op het internet, voor e-mailbeheer en bevat zelfs de nieuwste op internet-gebaseerde telefoontechnologie."
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "openSUSE komt met de Mozilla Firefox-webbrowser, een van de beste webbrowser ter wereld. Deze bevat alle mogelijkheden om van het web te genieten, inclusief Java, Adobe Acrobat Reader, RealPlayer- en Adobe Flash-plug-ins. Firefox levert bliksemsnelle prestaties en een aantal verbeteringen die ontworpen zijn om uw privacy te beschermen en het vissen naar gevoelige gegevens te voorkomen."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "openSUSE komt met de Mozilla Firefox-webbrowser, een van de beste webbrowser ter wereld. Deze bevat alle mogelijkheden om van het web te genieten, inclusief Java, Adobe Acrobat Reader en Adobe Flash-plug-ins. Firefox levert bliksemsnelle prestaties en een aantal verbeteringen die ontworpen zijn om uw privacy te beschermen en het vissen naar gevoelige gegevens te voorkomen."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
@@ -89,7 +89,7 @@ msgstr "openSUSE 11.1 wordt geleverd met de nieuwste versie van de leidende Linu
 
 #: slideshow.xml:104(title)
 msgid "Graphics, Graphics, Graphics"
-msgstr "Graphics, Graphics, Graphics"
+msgstr "Foto's, Tekeningen en Afbeeldingen"
 
 #: slideshow.xml:106(para)
 msgid "Using the tools in openSUSE, you can create or edit almost any type of graphic. For advanced image manipulation and graphics creation, use The GIMP a powerful tool for image retouching, composition, and authoring."
