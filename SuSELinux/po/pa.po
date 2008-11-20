@@ -5,14 +5,15 @@
 # This file is distributed under the same license as @PACKAGE@ package. FIRST
 #
 # A S Alam <aalam@users.sf.net>, 2007.
+# KDB <brar.kd@gmail.com>, 2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.pa\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-05-05 22:17+0530\n"
-"Last-Translator: Amanpreet Singh Alam <aalam@users.sf.net>\n"
-"Language-Team: Panjabi <punjabi-l10n@lists.sf.net>\n"
+"POT-Creation-Date: 2008-11-17 09:33+0100\n"
+"PO-Revision-Date: 2008-11-11 00:17+0530\n"
+"Last-Translator: KDB <brar.kd@gmail.com>\n"
+"Language-Team: Panjabi <punjabi-l10n@list.sf.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -28,9 +29,8 @@ msgid "Welcome to openSUSE™"
 msgstr "openSUSE™ ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ"
 
 #: slideshow.xml:20(para)
-#, fuzzy
 msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.1."
-msgstr "ਭਾਵੇਂ ਤੁਸੀਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਨੂੰ ਆਪਣੇ ਦੋਸਤਾਂ, ਰਿਸ਼ਤੇਦਾਰਾਂ ਜਾਂ ਸਹਿਯੋਗੀਆਂ ਨਾਲ ਕਮਿਊਨੀਕੇਸ਼ਨ ਕਰਨ ਲਈ ਵਰਤਣਾ ਹੋਵੇ, ਜਾਂ ਆਪਣੀਆਂ ਤਸਵੀਰਾਂ ਅਤੇ ਸੰਗੀਤ ਦਾ ਆਨੰਦ ਮਾਣਨ ਅਤੇ ਉਨ੍ਹਾਂ ਦੀ ਦੇਖਭਾਲ ਲਈ, ਜਾਂ ਤਾਜ਼ਾ ਖ਼ਬਰਾਂ ਜਾਂ ਜਾਣਕਾਰੀ ਲਈ ਲੈਣ ਵਾਸਤੇ ਇੰਟਰਨੈੱਟ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ, ਜਾਂ ਇੱਕ ਰਿਪੋਰਟ ਜਾਂ ਬਜਟ ਲਿਖਣ ਵਾਸਤੇ ਜਾਂ ਨਿੱਜੀ ਵੈੱਬ ਸਾਇਟ ਹੋਸਟ ਕਰਨ ਲਈ ਜਾਂ ਘਰੇ ਨੈੱਟਵਰਕ ਬਣਾਉਣ ਲਈ ਵਰਤਣ ਹੋਵੇ, ਤੁਸੀਂ openSUSE 11.0 ਵਿੱਚ ਸਭ ਕੁਝ ਲੱਭ ਸਕਦੇ ਹੋ।"
+msgstr "ਭਾਵੇਂ ਤੁਸੀਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਨੂੰ ਆਪਣੇ ਦੋਸਤਾਂ, ਰਿਸ਼ਤੇਦਾਰਾਂ ਜਾਂ ਸਹਿਯੋਗੀਆਂ ਨਾਲ ਕਮਿਊਨੀਕੇਸ਼ਨ ਕਰਨ ਲਈ ਵਰਤਣਾ ਹੋਵੇ, ਜਾਂ ਆਪਣੀਆਂ ਤਸਵੀਰਾਂ ਅਤੇ ਸੰਗੀਤ ਦਾ ਆਨੰਦ ਮਾਣਨ ਅਤੇ ਉਨ੍ਹਾਂ ਦੀ ਦੇਖਭਾਲ ਲਈ, ਜਾਂ ਤਾਜ਼ਾ ਖ਼ਬਰਾਂ ਜਾਂ ਜਾਣਕਾਰੀ ਲਈ ਲੈਣ ਵਾਸਤੇ ਇੰਟਰਨੈੱਟ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ, ਜਾਂ ਇੱਕ ਰਿਪੋਰਟ ਜਾਂ ਬਜਟ ਲਿਖਣ ਵਾਸਤੇ ਜਾਂ ਨਿੱਜੀ ਵੈੱਬ ਸਾਇਟ ਹੋਸਟ ਕਰਨ ਲਈ ਜਾਂ ਘਰੇ ਨੈੱਟਵਰਕ ਬਣਾਉਣ ਲਈ ਵਰਤਣ ਹੋਵੇ, ਤੁਸੀਂ openSUSE 11.1 ਵਿੱਚ ਸਭ ਕੁਝ ਲੱਭ ਸਕਦੇ ਹੋ।"
 
 #: slideshow.xml:30(title)
 msgid "openSUSE.org"
@@ -41,9 +41,8 @@ msgid "openSUSE is a community project created and sponsored by Novell to delive
 msgstr "ਓਪਨ-ਸੂਸੇ (openSUSE) ਪਰੋਜੈਕਟ ਰਾਹੀਂ ਬਣਾਇਆ ਅਤੇ ਨੋਵਲ (Novell) ਵਲੋਂ ਸਪਾਂਸਰ ਕੀਤਾ ਗਿਆ ਹੈ, ਓਪਨਸੂਸੇ ਸੰਸਾਰ ਦਾ ਸਭ ਤੋਂ ਵੱਧ ਵਰਤਣ ਲਈ ਆਸਾਨ ਓਪਨ ਸੋਰਸ ਕੰਪਿਊਟਿੰਗ ਪਲੇਟਫਾਰਮ ਦੇਣ ਲਈ ਕਮਿਊਨਟੀ ਦਾ ਜਤਨ ਹੈ। ਬਹੁਤ ਸਾਰੇ ਲੋਕ ਓਪਨ-ਸੂਸੇ ਪਰੋਜੈੱਕਟ ਲਈ ਸਾਫਟਵੇਅਰ ਪੈਕ ਕਰਨ, ਪਰੋਗਰਾਮ ਟੈਸਟਿੰਗ, ਦਸਤਾਵੇਜ਼ ਲਿਖਣ ਅਤੇ ਲੋਕਲ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਸਮੱਗਰੀ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਸਤੇ ਯੋਗਦਾਨ ਦਿੰਦੇ ਹਨ। ਉਹ ਸਭ ਕੰਮ ਓਪਨ-ਸੂਸੇ ਲੀਨਕਸ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਰਾਹੀਂ ਮੁਫ਼ਤ ਉਪਲੱਬਧ ਹੈ: www.opensuse.org"
 
 #: slideshow.xml:40(para)
-#, fuzzy
 msgid "Visit www.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
-msgstr "www.opensuse.org ਉੱਤੇ ਜਾਓ ਅਤੇ openSUSE ਕਮਿਊਨਟੀ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣ ਬਾਰੇ ਜਾਣੋ।"
+msgstr "www.opensuse.org/How_to_Participate ਉੱਤੇ ਜਾਓ ਅਤੇ openSUSE ਕਮਿਊਨਟੀ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣ ਬਾਰੇ ਜਾਣੋ।"
 
 #: slideshow.xml:45(title)
 msgid "openSUSE in Many Languages"
@@ -58,14 +57,13 @@ msgid "Connect and Communicate"
 msgstr "ਕੁਨੈਕਟ ਅਤੇ ਕਮਿਊਨੀਕੇਸ਼ਨ"
 
 #: slideshow.xml:58(para)
-#, fuzzy
 msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
-msgstr "ਤੁਸੀਂ ਓਪਨ-ਸੂਸੇ 11.0 ਨਾਲ ਹੋਰ ਪਰਭਾਵੀ ਢੰਗ ਨਾਲ ਕਮਿਊਨੀਕੇਟ ਕਰ ਸਕਦੇ ਹੋ, ਕਿਉਂਕਿ ਇਹ ਵੈੱਬ ਬਰਾਊਜ਼ਿੰਗ ਅਤੇ ਈਮੇਲ ਪਰਬੰਧ ਲਈ ਸਭ ਟੂਲ ਦਿੰਦਾ ਹੈ—ਇਸ ਵਿੱਚ ਨਵੀਂ ਵਾਇਸ ਓਵਰ ਆਈ ਪੀ (VoIP) ਫੋਨ ਤਕਨਾਲੋਜੀ ਵੀ ਹੈ।"
+msgstr "ਤੁਸੀਂ ਓਪਨ-ਸੂਸੇ 11.1 ਨਾਲ ਹੋਰ ਪਰਭਾਵੀ ਢੰਗ ਨਾਲ ਕਮਿਊਨੀਕੇਟ ਕਰ ਸਕਦੇ ਹੋ, ਕਿਉਂਕਿ ਇਹ ਵੈੱਬ ਬਰਾਊਜ਼ਿੰਗ ਅਤੇ ਈਮੇਲ ਪਰਬੰਧ ਲਈ ਸਭ ਟੂਲ ਦਿੰਦਾ ਹੈ—ਇਸ ਵਿੱਚ ਨਵੀਂ ਵਾਇਸ ਓਵਰ ਆਈ ਪੀ (VoIP) ਫੋਨ ਤਕਨਾਲੋਜੀ ਵੀ ਹੈ।"
 
 #: slideshow.xml:64(para)
 #, fuzzy
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "ਓਪਨਸੂਸੇ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਵਿੱਚ ਤੁਸੀਂ ਲਵੋਗੇ ਮੋਜ਼ੀਲਾ ਫਾਇਰਫਾਕਸ ਵੈੱਬ ਬਰਾਊਜ਼ਰ-ਮਾਰਕੀਟ ਵਿੱਚ ਉਪਲੱਬਧ ਸਭ ਤੋਂ ਵਧੀਆ ਵੈੱਬ ਬਰਾਊਜ਼ਰ। ਫਾਇਰਫਾਕਸ ਵਿੱਚ ਬਰਾਊਜ਼ਰ ਦੇ ਸਭ ਫੀਚਰ, ਜਿੰਨ੍ਹਾਂ ਵਿੱਚ ਜਾਵਾ, ਅਡੋਬ ਰੀਡਰ, ਰੀਅਲ-ਪਲੇਅਰ ਅਤੇ ਮਾਈਕਰੋਮੀਡਿਆ ਫਲੈਸ਼ ਪਲੱਗਇਨ ਆਦਿ ਫੀਚਰ ਦੇ ਨਾਲ ਨਾਲ ਬਹੁਤ ਤੇਜ਼ ਕਾਰਗੁਜ਼ਾਰੀ ਵੀ ਸ਼ਾਮਲ ਹੈ। ਫਾਇਰਫਾਕਸ 3.0 ਵਿੱਚ ਬਿਜਲੀ ਦੀ ਤੇਜ਼ੀ, ਅਤੇ ਤੁਹਾਡੀ ਪਰਾਈਵੇਸੀ ਨੂੰ ਬਚਾਉਣ ਅਤੇ ਫਿਸ਼ਿੰਗ ਹਮਲਿਆਂ ਨੂੰ ਰੋਕਣ ਲਈ ਡਿਜ਼ਾਇਨ ਕੀਤਾ ਗਿਆ ਹੈ।"
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "ਓਪਨਸੂਸੇ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਵਿੱਚ ਤੁਸੀਂ ਲਵੋਗੇ ਮੋਜ਼ੀਲਾ ਫਾਇਰਫਾਕਸ ਵੈੱਬ ਬਰਾਊਜ਼ਰ-ਮਾਰਕੀਟ ਵਿੱਚ ਉਪਲੱਬਧ ਸਭ ਤੋਂ ਵਧੀਆ ਵੈੱਬ ਬਰਾਊਜ਼ਰ। ਫਾਇਰਫਾਕਸ ਵਿੱਚ ਬਰਾਊਜ਼ਰ ਦੇ ਸਭ ਫੀਚਰ, ਜਿੰਨ੍ਹਾਂ ਵਿੱਚ ਜਾਵਾ, ਅਡੋਬ ਰੀਡਰ, ਰੀਅਲ-ਪਲੇਅਰ ਅਤੇ ਮਾਈਕਰੋਮੀਡਿਆ ਫਲੈਸ਼ ਪਲੱਗਇਨ ਆਦਿ ਫੀਚਰ ਦੇ ਨਾਲ ਨਾਲ ਬਹੁਤ ਤੇਜ਼ ਕਾਰਗੁਜ਼ਾਰੀ ਵੀ ਸ਼ਾਮਲ ਹੈ। ਫਾਇਰਫਾਕਸ ਵਿੱਚ ਬਿਜਲੀ ਦੀ ਤੇਜ਼ੀ, ਅਤੇ ਤੁਹਾਡੀ ਪਰਾਈਵੇਸੀ ਨੂੰ ਬਚਾਉਣ ਅਤੇ ਫਿਸ਼ਿੰਗ ਹਮਲਿਆਂ ਨੂੰ ਰੋਕਣ ਲਈ ਡਿਜ਼ਾਇਨ ਕੀਤਾ ਗਿਆ ਹੈ।"
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
@@ -84,9 +82,8 @@ msgid "Documents, Spreadsheets and More"
 msgstr "ਡੌਕੂਮੈਂਟ, ਸਪਰੈੱਡਸ਼ੀਟਾਂ ਅਤੇ ਹੋਰ"
 
 #: slideshow.xml:93(para)
-#, fuzzy
 msgid "The openSUSE 11.1 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr "ਓਪਨ-ਸੂਸੇ 11.0 ਡਿਸ਼ਟਰੀਬਿਊਸ਼ਨ ਮੋਹਰੀ ਲੀਨਕਸ ਪਰੋਡੱਕਟਵਿਟੀ ਸੂਟ, ਓਪਨ-ਆਫਿਸ.ਆਰਗ (OpenOffice.org) ਦੇ ਨਵੇਂ ਵਰਜਨ ਉਪਲੱਬਧ ਕਰਵਾ ਰਿਹਾ ਹੈ। ਇਸ ਦੇ ਫੀਚਰਾਂ ਵਿੱਚ ਇੱਕ ਵਰਡ ਪਰੋਸੈਸਰ, ਸਪਰੈੱਡ ਸ਼ੀਟ ਐਪਲੀਕੇਸ਼ਨ, HTML ਐਡੀਟਰ, ਪਰਿਜ਼ੈੱਨਟੇਸ਼ਨ ਡਿਜ਼ਾਇਨਰ ਅਤੇ ਡਾਟਾਬੇਸ ਮੈਨੇਜਰ ਹਨ। ਇਹ ਕਈ ਫਾਇਲ ਐਕਸ਼ਟੈਸ਼ਨਾਂ ਨੂੰ ਪੜ੍ਹ ਅਤੇ ਲਿਖ ਸਕਦਾ ਹੈ ਤਾਂ ਕਿ ਤੁਸੀਂ ਓਪਨ-ਸੂਸੇ ਅਤੇ ਹੋਰ ਹਰਮਨ-ਪਿਆਰੇ ਗ਼ੈਰ-ਲੀਨਕਸ ਪਰੋਡੱਕਟਵਿਟੀ ਸਾਫਟਵੇਅਰਾਂ ਵਿੱਚ ਆਸਾਨੀ ਨਾਲ ਲੈ ਕੇ ਜਾ ਆ ਸਕੋ। ਓਪਨ-ਆਫਿਸ ਰਿਪੋਰਟਾਂ, ਪੇਪਰਾਂ,ਘਰ ਬਜਟ, ਸਧਾਰਨ ਗਰਾਫਿਕਸ ਅਤੇ ਹੋਰ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਚੋਣ ਹੈ।"
+msgstr "ਓਪਨ-ਸੂਸੇ 11.1 ਡਿਸ਼ਟਰੀਬਿਊਸ਼ਨ ਮੋਹਰੀ ਲੀਨਕਸ ਪਰੋਡੱਕਟਵਿਟੀ ਸੂਟ, ਓਪਨ-ਆਫਿਸ.ਆਰਗ (OpenOffice.org) ਦੇ ਨਵੇਂ ਵਰਜਨ ਉਪਲੱਬਧ ਕਰਵਾ ਰਿਹਾ ਹੈ। ਇਸ ਦੇ ਫੀਚਰਾਂ ਵਿੱਚ ਇੱਕ ਵਰਡ ਪਰੋਸੈਸਰ, ਸਪਰੈੱਡ ਸ਼ੀਟ ਐਪਲੀਕੇਸ਼ਨ, HTML ਐਡੀਟਰ, ਪਰਿਜ਼ੈੱਨਟੇਸ਼ਨ ਡਿਜ਼ਾਇਨਰ ਅਤੇ ਡਾਟਾਬੇਸ ਮੈਨੇਜਰ ਹਨ। ਇਹ ਕਈ ਫਾਇਲ ਐਕਸ਼ਟੈਸ਼ਨਾਂ ਨੂੰ ਪੜ੍ਹ ਅਤੇ ਲਿਖ ਸਕਦਾ ਹੈ ਤਾਂ ਕਿ ਤੁਸੀਂ ਓਪਨ-ਸੂਸੇ ਅਤੇ ਹੋਰ ਹਰਮਨ-ਪਿਆਰੇ ਗ਼ੈਰ-ਲੀਨਕਸ ਪਰੋਡੱਕਟਵਿਟੀ ਸਾਫਟਵੇਅਰਾਂ ਵਿੱਚ ਆਸਾਨੀ ਨਾਲ ਲੈ ਕੇ ਜਾ ਆ ਸਕੋ। ਓਪਨ-ਆਫਿਸ ਰਿਪੋਰਟਾਂ, ਪੇਪਰਾਂ,ਘਰ ਬਜਟ, ਸਧਾਰਨ ਗਰਾਫਿਕਸ ਅਤੇ ਹੋਰ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਚੋਣ ਹੈ।"
 
 #: slideshow.xml:104(title)
 msgid "Graphics, Graphics, Graphics"
@@ -138,7 +135,6 @@ msgid "Learn More"
 msgstr "ਹੋਰ ਜਾਣੋ"
 
 #: slideshow.xml:170(para)
-#, fuzzy
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
 msgstr "ਓਪਨ-ਸੂਸੇ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਵਿੱਚ ਖਾਸ ਓਪਨ-ਸੂਸੇ ਸਵਾਲਾਂ ਦੇ ਨਾਲ ਨਾਲ ਆਮ ਲੀਨਕਸ ਨਾਲ ਸਬੰਧਿਤ ਸਵਾਲਾਂ ਲਈ ਖਾਸ ਡੌਕੂਮੈਂਟ ਵੀ ਉਪਲੱਬਧ ਹਨ। ਮੱਦਦ ਸੈਂਟਰ ਮੁੱਖ ਮੇਨੂ ਰਾਹੀਂ ਵੀ ਉਪਲੱਬਧ ਹੈ। ਡੌਕੂਮੈਂਟ PDF ਦੇ ਰੂਪ ਵਿੱਚ ਵੀ ਉਪਲੱਬਧ ਹਨ ਅਤੇ (http://en.opensuse.org/Documentation) ਤੋਂ ਡਾਊਨਲੋਡ ਕੀਤੇ ਅਤੇ ਪਰਿੰਟ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ।"
 
@@ -172,10 +168,3 @@ msgstr "ਨੋਵਲ (Novell) ਵਲੋਂ ਇੰਟਰਪਰਾਈਜ਼ ਲਿ
 #: slideshow.xml:0(None)
 msgid "translator-credits"
 msgstr "ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮ <aalam@users.sf.net> 2007, 2008"
-
-#, fuzzy
-#~ msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
-#~ msgstr "ਤੁਸੀਂ ਓਪਨ-ਸੂਸੇ 11.0 ਨਾਲ ਹੋਰ ਪਰਭਾਵੀ ਢੰਗ ਨਾਲ ਕਮਿਊਨੀਕੇਟ ਕਰ ਸਕਦੇ ਹੋ, ਕਿਉਂਕਿ ਇਹ ਵੈੱਬ ਬਰਾਊਜ਼ਿੰਗ ਅਤੇ ਈਮੇਲ ਪਰਬੰਧ ਲਈ ਸਭ ਟੂਲ ਦਿੰਦਾ ਹੈ—ਇਸ ਵਿੱਚ ਨਵੀਂ ਵਾਇਸ ਓਵਰ ਆਈ ਪੀ (VoIP) ਫੋਨ ਤਕਨਾਲੋਜੀ ਵੀ ਹੈ।"
-
-#~ msgid "Also included with openSUSE are Novell Evolution and Kontact. These complete e-mail and contact managers help you organize and maintain all your e-mail accounts. The openSUSE distribution also comes with state-of-the-art Voice over IP (VoIP) solutions that let you communicate with people connected to the Internet all over the world."
-#~ msgstr "ਓਪਨ-ਸੂਸੇ (openSUSE) ਵਿੱਚ ਨੋਵਲ ਈਵੋਲੂਸ਼ਨ ਅਤੇ Kontact ਸ਼ਾਮਲ ਕੀਤੇ ਗਏ ਹਨ। ਇਹ ਪੂਰੀ ਈਮੇਲ ਅਤੇ ਸੰਪਰਕ ਮੈਨੇਜਰ ਤੁਹਾਨੂੰ ਆਪਣੇ ਈਮੇਲ ਖਾਤੇ ਦੇ ਪਰਬੰਧ ਅਤੇ ਦੇਖਭਾਲ ਲਈ ਮੱਦਦ ਕਰਦੇ ਹਨ। ਓਪਨ-ਸੂਸੇ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਵਿੱਚ ਵਾਇਸ ਓਵਰ IP (VoIP) ਸਾਫਟਵੇਅਰ ਵੀ ਉਪਲੱਬਧ ਹਨ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਸਭ ਸੰਸਾਰ ਵਿੱਚ ਇੰਟਰਨੈੱਟ ਰਾਹੀਂ ਜੁੜੇ ਲੋਕਾਂ ਨਾਲ ਗੱਲਾਬਾਤਾਂ ਕਰਨ ਲਈ ਸਹਾਇਕ ਹੈ।"

@@ -9,9 +9,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-11-04 14:46+0100\n"
-"Last-Translator: Paulina Budzoń <paulina.bu@gmail.com>\n"
+"POT-Creation-Date: 2008-11-17 09:33+0100\n"
+"PO-Revision-Date: 2008-11-18 20:57+0100\n"
+"Last-Translator: Piotr Krakowiak <piotr.krakowiak@suse.pl>\n"
 "Language-Team:  <pl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -59,7 +59,7 @@ msgid "You can communicate more effectively with openSUSE 11.1 because it provid
 msgstr "Teraz możesz o wiele łatwiej komunikować się. openSUSE 11.1 zawiera kompletny zestaw narzędzi do przeglądania Internetu i korzystania z poczty elektronicznej. Dostępne są także najnowsze narzędzia wykorzystujące technologie telefonii internetowej (VoIP)."
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
 msgstr "openSUSE zawiera Mozilla Firefox, jedną z najlepszych przeglądarek internetowych. Firefox wszystko, co jest potrzebne by cieszyć się Internetem włączając w to takie elementy jak Java, Adobe Acrobat Reader, RealPlayer i wtyczki Macromedia Flash. Śmiało można powiedzieć, ż Firefox działa z szybkością błyskawicy a szereg dodatków pozwoli chronić prywatne dane i uniemożliwi oszustwa."
 
 #: slideshow.xml:71(para)
@@ -162,3 +162,4 @@ msgstr "Linia produktów Novell Enterprise Linux obejmuje SUSE Linux Enterprise 
 #: slideshow.xml:0(None)
 msgid "translator-credits"
 msgstr "Polska społeczność openSUSE 2006, 2007, 2008"
+

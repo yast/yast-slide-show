@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
-"POT-Creation-Date: 2008-11-03 11:49+0100\n"
+"POT-Creation-Date: 2008-11-17 09:33+0100\n"
 "PO-Revision-Date: 2008-04-24 22:32+0100\n"
 "Last-Translator: Leandro Regueiro <leandro DOT regueiro AT gmail DOT com>\n"
 "Language-Team: Galician <proxecto@trasno.net>\n"
@@ -64,7 +64,7 @@ msgstr "Pode comunicarse de xeito máis efectivo con openSUSE 11.0 porque propor
 
 #: slideshow.xml:64(para)
 #, fuzzy
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
 msgstr "openSUSE inclúe Mozilla Firefox, un dos mellores navegadores Web do mundo. Firefox inclúe tódalas funcionalidades que precisa para gozar da Web, incluíndo os plugins de Java, Adobe Acrobat Reader, RealPlayer, e Macromedia Flash. Firefox 3.0 tamén goza dun moi bo rendemento, e un gran número de melloras deseñadas para protexer a súa privacidade e previr os ataques de phishing"
 
 #: slideshow.xml:71(para)

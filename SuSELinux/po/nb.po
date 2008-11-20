@@ -12,9 +12,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-11-03 12:26+0100\n"
-"Last-Translator: Olav Pettershagen <olav.pet@gmail.com>\n"
+"POT-Creation-Date: 2008-11-17 09:33+0100\n"
+"PO-Revision-Date: 2008-11-17 10:11+0100\n"
+"Last-Translator: Olav P. <olav.pet@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -63,8 +63,8 @@ msgid "You can communicate more effectively with openSUSE 11.1 because it provid
 msgstr "Du kan kommunisere mer effektivt med openSUSE 11.1 fordi systemet har et komplett verktøysett for Internett og e-post, og inneholder til og med de nyeste teknologiene for internettbasert telefoni."
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "Med openSUSE får du Mozilla Firefox, en av de beste nettleserne på markedet. Firefox har alle funksjonene du trenger for å få fullt utbytte av Internett, blant annet programtillegg for Java, Adobe Acrobat Reader, RealPlayer og Adobe Flash. Firefox gjengir nettsidene lynraskt, og inneholder mange nye funksjoner for bedre personvern og sikkerhet."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "Med openSUSE får du Mozilla Firefox, en av de beste nettleserne på markedet. Firefox har alle funksjonene du trenger for å få fullt utbytte av Internett, blant annet programtillegg for Java, Adobe Acrobat Reader og Adobe Flash. Firefox gjengir nettsidene lynraskt, og inneholder mange nye funksjoner for bedre personvern og sikkerhet."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."

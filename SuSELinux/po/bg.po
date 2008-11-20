@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.bg\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-11-03 11:49+0100\n"
+"POT-Creation-Date: 2008-11-17 09:33+0100\n"
 "PO-Revision-Date: 2008-10-14 22:20+0300\n"
 "Last-Translator: Borislav Mitev <morbid_viper@tkzs.org>\n"
 "Language-Team: Bulgarian <bg@li.org>\n"
@@ -67,7 +67,7 @@ msgstr "Можете да комуникирате по-ефективно с op
 
 #: slideshow.xml:64(para)
 #, fuzzy
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
 msgstr "openSUSE включва Mozilla Firefox – един от най-добрият уеб браузъри на света. Той предоставя пълен набор от средства за разглеждане на уеб страници, включително на Java, Adobe Reader, RealPlayer и Macromedia Flash файлове. Firefox 3.0 също така ще ви покаже светкавична производителност и редица подобрения, създадени за да защитят вашите лични данни и за да ви предпазят от т.нар. „фишинг“ атаки."
 
 #: slideshow.xml:71(para)

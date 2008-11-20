@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.uk\n"
-"POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-11-05 22:59-0800\n"
+"POT-Creation-Date: 2008-11-17 09:33+0100\n"
+"PO-Revision-Date: 2008-11-17 19:02-0800\n"
 "Last-Translator: Ivan Petrouchtchak <fr.ivan@ukrainian-orthodox.org>\n"
 "Language-Team: Ukrainian <translation@linux.org.ua>\n"
 "MIME-Version: 1.0\n"
@@ -62,8 +62,8 @@ msgid "You can communicate more effectively with openSUSE 11.1 because it provid
 msgstr "Ви зможете обмінюватися інформацією ефективніше, тому що openSUSE 11.1 надає повний набір засобів для навігації Тенетами і керування електронною поштою — у ньому є, навіть, найновіша телефонна технологія зв'язку через Інтернет."
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "Дистрибутив openSUSE містить переглядач Тенет Mozilla Firefox — це один з найкращих переглядачів, які є сьогодні у світі. Він має повний набір можливостей навігації Інтернету, включно з Java, Adobe Acrobat Reader, RealPlayer і Macromedia Flash. Firefox також має покращену швидкодію, а також ряд покращень для захисту вашої інформації і боротьби з атаками на вашу інформацію."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "openSUSE містить переглядач Тенет Mozilla Firefox — це один з найкращих переглядачів, які є сьогодні у світі. Він має повний набір можливостей навігації Інтернету, включно з Java, Adobe Acrobat Reader, RealPlayer і Macromedia Flash. Firefox також має покращену швидкодію, а також ряд покращень для захисту вашої інформації і боротьби з атаками на вашу інформацію."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."

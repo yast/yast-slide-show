@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
-"POT-Creation-Date: 2008-11-03 11:49+0100\n"
+"POT-Creation-Date: 2008-11-17 09:33+0100\n"
 "PO-Revision-Date: 2008-11-06 22:28+0100\n"
 "Last-Translator: openSUSE translation\n"
 "Language-Team: romana\n"
@@ -62,7 +62,8 @@ msgid "You can communicate more effectively with openSUSE 11.1 because it provid
 msgstr "Puteți comunica mult mai eficient cu openSUSE 11.1 datorită setului complet de utilitare pentru navigare Web și management al e-mail-urilor - incluzând chiar și cea mai nouă tehnologie Voce peste IP (VoIP)."
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+#, fuzzy
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
 msgstr "openSUSE include Mozilla Firefox, unul dintre cele mai bune navigatoare Web din lume. Firefox include toate facilitățile necesare pentru a vă bucura de universul Web, incluzând modulele Java, Adobe Acrobat Reader, RealPlayer și Adobe Flash. De asemenea, Firefox se mândrește cu o performanță fulgerătoare și un număr important de îmbunătățiri proiectate pentru a vă proteja intimitatea și a preveni atacurile de phishing."
 
 #: slideshow.xml:71(para)
@@ -165,4 +166,3 @@ msgstr "Produsele Linux din clasa întreprindere cuprind SUSE Linux Enterprise S
 #: slideshow.xml:0(None)
 msgid "translator-credits"
 msgstr "Daiana Heinrich <xdaiana@yahoo.com>, 2008, Alexandru Romanescu <alex.romanescu@gmail.com>, 2008, Andrei Cipu, 2008, Alexandru Szasz, 2008, Alec Stanciu-Lixandru, 2007"
-

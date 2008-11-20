@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
-"POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-11-04 20:55+0900\n"
+"POT-Creation-Date: 2008-11-17 09:33+0100\n"
+"PO-Revision-Date: 2008-11-17 20:14+0900\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
 "Language-Team: Japanese <opensuse-ja@opensuse.org>\n"
 "MIME-Version: 1.0\n"
@@ -56,8 +56,8 @@ msgid "You can communicate more effectively with openSUSE 11.1 because it provid
 msgstr "openSUSE 11.1 を利用することで便利にコミュニケーションを図ることができます。 Web ブラウザや電子メール管理、もちろん IP ネットワーク上の音声通信 (Voice over IP; VoIP) にも対応しています。"
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "openSUSE には世界最高のブラウザの 1 つである Mozilla Firefox ブラウザが含まれています。 Firefox には Web を楽しむ上で必要な機能が全て揃っています。たとえば Java や Adobe Acrobat Reader, RealPlayer, Macromedia Flash プラグインなどがあります。また Firefox は驚くほど高い性能を誇るだけでなく、プライバシーを守ったりフィッシング攻撃からの防御を行なうための機能も多数備えています。"
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "openSUSE には世界最高のブラウザの 1 つである Mozilla Firefox ブラウザが含まれています。 Firefox には Web を楽しむ上で必要な機能が全て揃っています。たとえば Java や Adobe Acrobat Reader, Adobe Flash プラグインなどがあります。また Firefox は驚くほど高い性能を誇るだけでなく、プライバシーを守ったりフィッシング攻撃からの防御を行なうための機能も多数備えています。"
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."

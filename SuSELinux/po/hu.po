@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.hu\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-11-03 12:20+0100\n"
+"POT-Creation-Date: 2008-11-17 09:33+0100\n"
+"PO-Revision-Date: 2008-11-17 10:50+0100\n"
 "Last-Translator: Kalman Kemenczy <kkemenczy@novell.com>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -62,7 +62,7 @@ msgid "You can communicate more effectively with openSUSE 11.1 because it provid
 msgstr "Az openSUSE 11.1 tartalmazza a webböngészéshez és a levelezéshez szükséges összes komponenst, valamint a legújabb internetes telefontechnológiát is."
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
 msgstr "Az openSUSE disztribúció része a piac alighanem legjobb webböngészője, a Mozilla Firefox, ami mindent tud, ami az internetezéshez szükséges, beleértve a Java, az Adobe Acrobat Reader, a RealPlayer és az Adobe Flash bővítményeket. A Firefox lenyűgöző sebességű és számtalan újítást tartalmaz, amely megvédi a személyes adatokat és megelőzést nyújt az adathalászok támadásai ellen."
 
 #: slideshow.xml:71(para)

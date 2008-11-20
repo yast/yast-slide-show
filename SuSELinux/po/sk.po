@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-11-03 11:49+0100\n"
+"POT-Creation-Date: 2008-11-17 09:33+0100\n"
 "PO-Revision-Date: 2008-04-16 15:35+0100\n"
 "Last-Translator: Ladislav Michnovič <lmichnovic@suse.cz>\n"
 "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
@@ -63,7 +63,7 @@ msgstr "S&nbsp;openSUSE 11.0 môžete komunikovať efektívnejšie, pretože pos
 
 #: slideshow.xml:64(para)
 #, fuzzy
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
 msgstr "S&nbsp;distribúciou openSUSE dostanete prehliadač webových stránok Mozilla Firefox, ktorý je jedným z&nbsp;najlepších prehliadačov na svete. Firefox sa pýši kompletnou sadou vlastností, ktoré webový prehliadač má mať, napr. zásuvné moduly pre Javu, Adobe Reader, RealPlayer a&nbsp;Macromedia Flash. Firefox verzie 3.0 má aj bleskurýchly výkon a&nbsp;množstvo vylepšení, ktoré ochránia vaše súkromie a&nbsp;zabránia útokom ukradnúť vašu internetovú identitu (tzv. phishing)."
 
 #: slideshow.xml:71(para)

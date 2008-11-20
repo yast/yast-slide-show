@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.ko\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
-"POT-Creation-Date: 2008-11-03 11:49+0100\n"
-"PO-Revision-Date: 2008-11-04 15:06+0900\n"
+"POT-Creation-Date: 2008-11-17 09:33+0100\n"
+"PO-Revision-Date: 2008-11-18 10:12+0900\n"
 "Last-Translator: YunSeok Choi <xein@naver.com>\n"
 "Language-Team: Korean <xein@naver.com>\n"
 "MIME-Version: 1.0\n"
@@ -61,8 +61,8 @@ msgid "You can communicate more effectively with openSUSE 11.1 because it provid
 msgstr "오픈수세 11.1 에서 효과적으로 의사 소통을 하실 수 있습니다. 웹 브라우징 기능과 이메일 관리가 포함되어 있고, 인터넷 전화(VoIP-Voice over IP) 같은 최신 기술을 지원 합니다."
 
 #: slideshow.xml:64(para)
-msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, RealPlayer, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "오픈수세에는 세계 최고의 웹 브라우저 모질라 불여우가 포함되어있습니다. 불여우로 웹을 즐길수 있고, 자바, 어도비 아크로벳 리더, 리얼플레이어 및 어도비 플래시 플러그인 기능이 내장되어있습니다. 불여우는 여느 브라우저보다 가볍고 빠른 처리를 자랑합니다. 여기에 개인정보 보호 및 피싱 공격으로부터 사용자를 보호하는 기능을 갖추고 있습니다."
+msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
+msgstr "오픈수세에는 세계 최고의 웹 브라우저 모질라 불여우가 포함되어있습니다. 불여우에는 웹을 즐기기 위한 자바, 어도비 아크로벳 리더, 리얼플레이어 및 어도비 플래시 플러그인 기능이 내장되어있습니다. 불여우는 여느 브라우저보다 가볍고 빠른 속도를 자랑합니다. 여기에 개인정보 보호 및 피싱 공격으로부터 사용자를 보호하는 기능도 갖추고 있습니다."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
