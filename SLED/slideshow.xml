@@ -281,3 +281,78 @@ cost that a Linux desktop provides.</para>
 
  </section>
 </section>
+
+  <sect3 id="persistent-devices" status="2008-11-02">
+   <title>Installation using Persistent Device names</title>
+   <para>
+      The installer uses per default persistent device names.  If you plan to
+      add additional storage devices to your system after the OS
+      installation, we strongly recommend to use persistent device names for
+      all storage devices.
+   </para>
+    <para>
+      To switch an already installed system to using persistent
+      device names, enter the YaST2 partitioner. For each partition,
+      select "Edit" and go to the "FStab Options" dialog. Any mount
+      option except "Device name" provide you persistent devicenames.
+      In addition, rerun the boot loader module in YaST
+      to switch the bootloader to using the persistent device name
+      also. Just start the module and select "Finish" to write the new
+      proposed configuration to disk. This needs to be done before
+      adding new storage devices.
+    </para>
+    <para>
+      For further information please look at
+      <ulink url="http://en.opensuse.org/Persistant_Storage_Device_Names"/>.
+    </para>
+  </sect3>
+
+  <sect3 id="iscsi" status="2008-12-02">
+    <title>
+      MD Devices on top of iSCSI not possible
+    </title>
+    <para>
+      iSCSI devices cannot be used for Linux Software RAID.
+      Using MD devices on top of iSCSI triggers a cyclic dependency
+      that leads to a crash.
+    </para>
+  </sect3>
+ </sect2>
+
+ <sect2 id='updates-general'>
+  <title>General Update Notes</title>
+  <sect3 id="kernel-split" status="2008-12-02">
+    <title>
+      Kernel split in different packages
+    </title>
+    <para>
+      With &sled;11 the kernel RPMs are split in different parts:
+    </para>
+    <para>
+    <itemizedlist>
+      <listitem>
+        <para>kernel-flavor-base</para>
+        <para>
+          Very reduced hardware support, intended
+          to be used in virtual machine images.
+        </para>
+      </listitem>
+      <listitem>
+        <para>kernel-flavor</para>
+        <para>
+          Extends the base package; contains all supported
+          kernel modules.
+        </para>
+      </listitem>
+      <listitem>
+        <para>kernel-flavor-extra</para>
+        <para>
+          All other kernel modules which may be
+          useful, but which are not supported. This package
+          will not be installed by default.
+        </para>
+      </listitem>
+     </itemizedlist>
+    </para>
+  </sect3>
+
