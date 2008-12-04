@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.de\n"
 "POT-Creation-Date: 2008-11-17 09:33+0100\n"
-"PO-Revision-Date: 2008-11-10 21:11+0100\n"
+"PO-Revision-Date: 2008-11-23 13:59+0100\n"
 "Last-Translator: Hermann J. Beckers <hj.beckers@onlinehome.de>\n"
 "Language-Team: German <kde-i18n-de@lists.kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -56,9 +56,8 @@ msgid "You can communicate more effectively with openSUSE 11.1 because it provid
 msgstr "Mit openSUSE können Sie nun noch effektiver kommunizieren, denn openSUSE 11.1 bietet eine umfassende Sammlung an Software für Webbrowsing und E-Mail-Verwaltung — es beinhaltet sogar die neueste Voice-over-IP-Technologie."
 
 #: slideshow.xml:64(para)
-#, fuzzy
 msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "openSUSE beinhaltet Mozilla Firefox, einen der besten Web-Browser der Welt. Firefox beinhaltet alle Funktionen, die Sie brauchen, um das Web zu genießen, er enthält unter anderem die Erweiterungen Java, Adobe Reader, RealPlayer und Macromedia Flash. Firefox 3.0 wartet außerdem mit einer blitzschnellen Performanz und einer Reihe von Verbesserungen auf, die darauf ausgelegt sind, Sie und ihre Privatsphäre zu schützen."
+msgstr "openSUSE beinhaltet Mozilla Firefox, einer der besten Web-Browser der Welt. Firefox beinhaltet alle Funktionen. die Sie brauchen, um das Web zu genießen, er enthält unter anderem die Erweiterungen Java, Adobe Reader und Macromedia Flash. Firefox 3.0 wartet außerdem mit einer blitzschnellen Performanz und einer Reihe von Verbesserungen auf, die darauf ausgelegt sind, Sie und ihre Privatsphäre zu schützen."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
@@ -78,7 +77,7 @@ msgstr "Dokumente, Tabellenkalkulationen und mehr"
 
 #: slideshow.xml:93(para)
 msgid "The openSUSE 11.1 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr "Im Lieferumfang von openSUSE 11.1 ist die neueste Version der führenden Office-Suite von Linux, OpenOffice.org enthalten. Openoffice.org enthält ein Textverarbeitungsprogramm, eine Tabellenkalkulationsanwendung, einen HTML-Editor, ein Programm zur Erstellung von Präsentationen und eine Datenbankanwendung. Es liest und schreibt in vielen Formaten — u.a. auch den Microsoft Office-Formaten — So können Sie sich bequem zwischen openSUSE und populären nicht-Linux-Anwendungen bewegen. OPenOffice.org ist optimal für das Erstellen von Berichten, Dokumenten, privaten Finanzkalkulationen, einfachen Grafiken und vieles mehr geeignet."
+msgstr "Im Lieferumfang von openSUSE 11.1 ist die neueste Version der führenden Office-Suite von Linux, OpenOffice.org enthalten. Openoffice.org enthält ein Textverarbeitungsprogramm, eine Tabellenkalkulationsanwendung, einen HTML-Editor, ein Programm zur Erstellung von Präsentationen und eine Datenbankanwendung. Es liest und schreibt in vielen Formaten — u.a. auch den Microsoft Office-Formaten — So können Sie sich bequem zwischen openSUSE und populären nicht-Linux-Anwendungen bewegen. OpenOffice.org ist optimal für das Erstellen von Berichten, Dokumenten, privaten Finanzkalkulationen, einfachen Grafiken und vieles mehr geeignet."
 
 #: slideshow.xml:104(title)
 msgid "Graphics, Graphics, Graphics"
@@ -90,7 +89,7 @@ msgstr "Mit den Werkzeugen von openSUSE lassen sich nahezu alle Arten von Grafik
 
 #: slideshow.xml:112(para)
 msgid "For vector graphics, openSUSE includes Inkscape—a versatile graphics solution delivers support for transparent layers, bitmap tracing, text paths and much more."
-msgstr "Vektorgrafiken können Sie mit Inkscape erstellen, einer praktischen Grafiklösung mit Unterstützung für transparente Ebenen, Bitmap-Verfolgung, Textpfade und vieles mehr. Auch dies ist in openSUSE mit an Bord."
+msgstr "Vektorgrafiken können Sie mit Inkscape erstellen, einer praktischen Grafiklösung mit Unterstützung für transparente Ebenen, Bitmap-Verfolgung, Textpfade und vieles mehr."
 
 #: slideshow.xml:120(title)
 msgid "Computing On-the-Go"
@@ -98,11 +97,11 @@ msgstr "Computernutzung unterwegs"
 
 #: slideshow.xml:122(para)
 msgid "openSUSE includes the most advanced mobility features. You can switch effortlessly between wireless and wired networks using NetworkManager from openSUSE. Connect with mobile devices like mobile phones and PDAs via Bluetooth, or use infrared ports to synchronize your data."
-msgstr "openSUSE beinhaltet die fortgeschrittensten Funktionen in Sachen Mobilität. Wechseln Sie zwischen drahtlosen und verdrahteten Netzwerken mit NetworkManager. Nehmen Sie die Verbinden mit Mobilgeräten wie Handys und PDAs via Bluetooth auf. Benutzen Sie Infrarot-Schnittstellen um ihre Daten zu synchronisieren."
+msgstr "openSUSE beinhaltet die fortgeschrittensten Funktionen in Sachen Mobilität. Wechseln Sie zwischen drahtlosen und verdrahteten Netzwerken mit NetworkManager. Nehmen Sie die Verbindung mit Mobilgeräten wie Handys und PDAs via Bluetooth auf. Benutzen Sie Infrarot-Schnittstellen um ihre Daten zu synchronisieren."
 
 #: slideshow.xml:128(para)
 msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
-msgstr "Die neusten Innovationen in der Energieverwaltung von openSUSE erhöhen ihre Mobilität und geben ihnen die Freiheit, Ihre Arbeit überall dorthin mitzunehmen, wo Sie hin gehen."
+msgstr "Die neuesten Innovationen in der Energieverwaltung von openSUSE erhöhen Ihre Mobilität und geben ihnen die Freiheit, Ihre Arbeit überall dorthin mitzunehmen, wo Sie hin gehen."
 
 #: slideshow.xml:136(title)
 msgid "Keep Your System Secure and Up to Date"
@@ -114,7 +113,8 @@ msgstr "Die SUSE Firewall hilft ihnen beim Schutz ihres Systems vor Eindringling
 
 #: slideshow.xml:146(para)
 msgid "In addition to SUSE Firewall and AppArmor, openSUSE also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure. And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
-msgstr "openSUSE beinhaltet außerdem ein spezielles Aktualisierungssystem für Sicherheitspatches. Sobald Sicherheitspatches für den Linux-Kernel und die in openSUSE enthaltenen Pakete erstellt wurden, stellen wir sie Ihnen auf einem speziellen Aktualisierungsserver zur Verfügung. Um sicherzustellen, dass die neuesten Sicherheitspatches auf Ihrem System installiert werden, führen Sie am Ende des Installationsvorgangs eine Online-Aktualisierung durch. In Zukunft erhalten Sie über das Aktualisierungssystem immer die neuesten Informationen zur Verfügbarkeit wichtiger Sicherheitsaktualisierungen, damit Sie sie nach Bedarf installieren können."
+msgstr ""
+"openSUSE beinhaltet außerdem ein spezielles Aktualisierungssystem für Sicherheitspatches. Sobald Sicherheitspatches für den Linux-Kernel und die in openSUSE enthaltenen Pakete erstellt wurden, stellen wir sie Ihnen auf einem speziellen Aktualisierungsserver zur Verfügung. Um sicherzustellen, dass die neuesten Sicherheitspatches auf Ihrem System installiert werden, führen Sie am Ende des Installationsvorgangs eine Online-Aktualisierung durch. In Zukunft erhalten Sie über das Aktualisierungssystem immer die neuesten Informationen zur Verfügbarkeit wichtiger Sicherheitsaktualisierungen, damit Sie diese nach Bedarf installieren können."
 
 #: slideshow.xml:157(title)
 msgid "Virtualization Technology and Application Development Tools"
@@ -163,3 +163,4 @@ msgstr "Dank an die Übersetzer"
 
 #~ msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
 #~ msgstr "Mit openSUSE können Sie nun noch effektiver kommunizieren, denn openSUSE 11.1 bietet einen umfassenden Sammlung an Software für Webbrowsing und E-Mail-Verwaltung — Es beinhaltet sogar die neuste Voice over IP Technologie."
+
