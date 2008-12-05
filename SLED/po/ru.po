@@ -1,0 +1,147 @@
+# Copyright (C) 2006 SuSE Linux Products GmbH, Nuernberg
+# This file is distributed under the same license as the package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: slideshow-sled\n"
+"POT-Creation-Date: 2007-02-01 15:07+0100\n"
+"PO-Revision-Date: 2008-11-17 16:09\n"
+"Last-Translator: Novell Language <language@novell.com>\n"
+"Language-Team: Novell Language <language@novell.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: slideshow-sled.xml:14(title) 
+msgid "Slideshow"
+msgstr "Слайд-шоу"
+
+#: slideshow-sled.xml:17(title) 
+msgid "Welcome to SUSE Linux Enterprise Desktop"
+msgstr "Вас приветствует SUSE Linux Enterprise Desktop"
+
+#: slideshow-sled.xml:19(para) 
+msgid "SUSE Linux Enterprise Desktop is an operating system and office-productivity environment that enables businesses to use Linux and open source with confidence. Designed for general-purpose use, SUSE Linux Enterprise Desktop can also be tailored to fit fixed-function or special-purpose roles such as technical workstations and kiosks."
+msgstr "SUSE Linux Enterprise Desktop - это среда для операционной системы и офисных приложений, обеспечивающая безопасность использования предприятиями ОС Linux и программ с открытым кодом. Универсальность SUSE Linux Enterprise Desktop предусматривает возможность настройки системы для выполнения фиксированных или специализированных ролей, таких как технические рабочие станции и общедоступные терминалы."
+
+#: slideshow-sled.xml:24(title) 
+msgid "The Latest Desktop Innovations"
+msgstr "Последние внедрения рабочего стола"
+
+#: slideshow-sled.xml:26(para) 
+msgid "Novell's leadership in desktop innovation is undeniable. Combining results from extensive and ongoing usability studies with an outstanding technology vision, Novell introduces SUSE Linux Enterprise Desktop 10 as the most integrated and powerful Linux desktop."
+msgstr "Лидирующие позиции Novell в области инноваций для настольных систем бесспорны. Объединив результаты широкомасштабных и продолжающихся исследований эргономичности и самые прогрессивные технологические идеи, Novell представляет SUSE Linux Enterprise Desktop 10 как наиболее интегрированный и мощный вариант Linux для настольных ПК."
+
+#: slideshow-sled.xml:28(para) 
+msgid "Novell's strong sponsorship of open source projects such as OpenOffice.org, Evolution, Beagle, AppArmor, Xgl, Compiz, F-Spot, Mono, Helix (TM) Banshee, NetworkManager, and many others illustrate Novell's excellence in innovating with Linux on the desktop."
+msgstr "Спонсорство таких проектов с открытыми исходными кодами, как OpenOffice.org, Evolution, Beagle, AppArmor, Xgl, Compiz, F-Spot, Mono, Helix (TM) Banshee, NetworkManager и многих других, демонстрирует превосходство Novell в области инноваций для настольных систем на базе Linux."
+
+#: slideshow-sled.xml:32(title) 
+msgid "Connect and Communicate"
+msgstr "Связь и Общение"
+
+#: slideshow-sled.xml:34(para) 
+msgid "SUSE Linux Enterprise Desktop 10 provides a complete set of tools for Web browsing and e-mail management. It includes NetworkManager, a simple network configuration tool for accessing the most complex and secured networks, including WEP, WPA, VPN and other technologies."
+msgstr "SUSE Linux Enterprise Desktop 10 предоставляет полный набор инструментов для работы в Интернете и управления электронной почтой. В его состав входит NetworkManager, простое средство настройки сети для доступа к наиболее сложным и защищенным сетям, в том числе на базе WEP, WPA, VPN и других технологий."
+
+#: slideshow-sled.xml:36(para) 
+msgid "The Firefox Web browser is the best Web browser in the market. It boasts a complete set of browser features, including Java, Adobe Reader, RealPlayer, and Macromedia Flash plug-ins, plus lightning-fast performance out of the box."
+msgstr "Веб-браузер Firefox является лучшим из представленных на рынке. Среди его достоинств полный набор функций браузера, в том числе Java, Adobe Reader, RealPlayer и подключаемые модули Macromedia Flash, а также потрясающее быстродействие без дополнительной настройки."
+
+#: slideshow-sled.xml:38(para) 
+msgid "Novell Evolution is a complete collaboration client suite supporting collaboration open standards. It includes Novell GroupWise and Microsoft Exchange connectivity for messaging, contact management, calendaring and task management. SUSE Linux Enterprise Desktop also includes Gaim an instant messaging client that lets you connect with people all over the world."
+msgstr "Novell Evolution - это полный комплект клиентских программ с поддержкой открытых стандартов совместной работы. В его состав входят Novell GroupWise и средство поддержки взаимодействия Microsoft Exchange для обмена сообщениями, планирования расписаний и управления контактами и задачами. В состав SUSE Linux Enterprise Desktop входит также модуль Gaim - клиент обмена мгновенными сообщениями, позволяющий связываться с людьми по всему миру."
+
+#: slideshow-sled.xml:43(title) 
+msgid "Integrate With Your Current Environment"
+msgstr "Интеграция с текущим окружением"
+
+#: slideshow-sled.xml:45(para) 
+msgid "SUSE Linux Enterprise Desktop interoperates seamlessly with your existing enterprise systems, enabling you to become productive right away and leverage the full resources of your organization. Happily coexist with Windows, UNIX, Mac, and other operating systems. Connect easily to mixed networks using eDirectory, Active Directory and most other flavors of LDAP. Integrate flawlessly with Novell GroupWise and Microsoft Exchange servers and connect to Lotus Notes. SUSE Linux Enterprise Desktop smooths your path to enterprise IT harmony."
+msgstr "SUSE Linux Enterprise Desktop органично взаимодействует с существующими корпоративными системами, что исключает необходимость дополнительной настройки и позволяет использовать все имеющиеся ресурсы организации. Без проблем сосуществует с Windows, UNIX, Mac и другими операционными системами. Легко подключается к смешанным сетям, используя eDirectory, Active Directory и большинство других преимуществ LDAP.  Безукоризненно интегрируется с серверами Novell GroupWise и Microsoft Exchange и подключается к Lotus Notes. SUSE Linux Enterprise Desktop облегчает путь к гармонии корпоративных информационных технологий."
+
+#: slideshow-sled.xml:49(title) 
+msgid "Spreadsheets, Presentations, Text Documents and More"
+msgstr "Электронные таблицы, презентации, текстовые документы и др."
+
+#: slideshow-sled.xml:50(para) 
+msgid "SUSE Linux Enterprise Desktop comes complete with the latest version of the leading Linux office productivity suite, OpenOffice.org 2 Novell Edition. OpenOffice.org comes complete with a word processor, spreadsheet application, presentation designer, drawing tool, HTML editor, and database application. It's the first complete office suite to fully support the latest Open Document Format standards, to guarantee interoperability. It reads and writes files in the popular Microsoft Office formats and boasts exceptional compatibility with advanced features such as pivot tables and Visual Basic macros in Microsoft Excel."
+msgstr "SUSE Linux Enterprise Desktop поставляется в комплекте с последней версией современного пакета офисных приложений для Linux - OpenOffice.org 2 Novell Edition.  В состав Openoffice.org входят текстовый процессор, приложения для работы с электронными таблицами, презентациями и базами данных, графический пакет и редактор HTML. Это первый полный пакет офисных приложений с полной поддержкой последних стандартов Open Document Format, гарантирующей функциональную совместимость. Он обеспечивает чтение и запись файлов популярных форматов Microsoft Office и отличается исключительной совместимостью с расширенными функциями, такими как сводные таблицы и макросы Visual Basic в Microsoft Excel."
+
+#: slideshow-sled.xml:62(title) 
+msgid "Beagle: Integrated Desktop Search"
+msgstr "Beagle: интегрированный поиск на рабочем столе"
+
+#: slideshow-sled.xml:64(para) 
+msgid "New integrated search capabilities powered by Beagle provide real-time indexing throughout the entire desktop, delivering fast, easy access to all content. With Beagle search, you no longer need to worry about where or when you stored your work. Simple keyword searches return all documents, applications, e-mail, instant messages and recent Web searches in a single results window."
+msgstr "Реализованные в Beagle новые средства интегрированного поиска обеспечивают полное индексирование рабочего стола в реальном времени, предоставляя быстрый и простой доступ ко всему содержимому. Используя Beagle, можно не беспокоиться о том, где и когда были сохранены результаты работы. Простой поиск по ключевым словам возвращает все подходящие документы, приложения, электронные письма, мгновенные сообщения и результаты последних поисков в Интернете в одно окно."
+
+#: slideshow-sled.xml:68(title) 
+msgid "Helix Banshee: Listen, Rip, Organize and Burn your Music"
+msgstr "Helix Banshee: прослушивание, преобразование форматов, упорядочение и запись музыки"
+
+#: slideshow-sled.xml:69(para) 
+msgid "Listen to music from your hard drive or favorite MP3 music player. Rip CDs to add to your own customized music library. Burn your own music CDs. Even synchronize your music to your Apple iPod or music player to take it anywhere. SUSE Linux Enterprise Desktop introduces Helix Banshee as the way to accomplish all this from a single, easy-to-use and attractive application."
+msgstr "Слушайте музыку с жесткого диска или с любимого MP3-проигрывателя. Добавляйте музыку с компакт-дисков в собственную библиотеку. Записывайте собственные компакт-диски. Берите музыку с собой, перенеся нужные файлы на Apple iPod или музыкальный проигрыватель. SUSE Linux Enterprise Desktop представляет Helix Banshee как способ совместить все это в одном, легком в использовании и привлекательном приложении."
+
+#: slideshow-sled.xml:74(title) 
+msgid "Photos, Images, Drawings, Graphics"
+msgstr "Фотографии, Картинки, Рисунки, Графика"
+
+#: slideshow-sled.xml:75(para) 
+msgid "F-Spot could very well be the most user-friendly photo management tool ever invented. Recognizing many digital cameras and photo storage devices automatically, it will let you in very few clicks import and manage all your photos. Grouping photos is as simple as tagging them. It keeps an original copy of your photos, allowing you to be creative and try all kind of modifications."
+msgstr "F-Spot вполне может оказаться самым дружественным из когда-либо созданных средств управления фотографиями. Благодаря автоматическому распознаванию множества цифровых камер и устройств хранения фотографий, для импорта фотографий и управления ими достаточно всего лишь нескольких щелчков мышью в этом приложении. Процесс группирования фотографий так же прост, как назначение им тегов. Сохраняются исходные копии фотографий, что позволяет смело пробовать любые типы изменений, открывая простор для творчества."
+
+#: slideshow-sled.xml:77(para) 
+msgid "For advanced image manipulation and graphics creation, use the GIMP, a complete photo retouching, image composition, and image authoring tool. GIMP has enough features to satisfy the most exacting artist."
+msgstr "Для дополнительных операций с изображением и создания графических объектов используйте GIMP - полнофункциональное средство для ретуширования фотографий, создания и обработки изображений. Возможностей GIMP вполне достаточно, чтобы удовлетворить даже самого взыскательного художника."
+
+#: slideshow-sled.xml:79(para) 
+msgid "For advanced vector graphics, try Inkscape, a versatile graphics solution complete with support for transparent layers, bitmap tracing, text paths, and much more."
+msgstr "Расширенные возможности векторной графики реализованы в Inkscape, универсальном решении, способном поддерживать прозрачные слои, преобразование растровых изображений в векторные, текстовые контуры и многое другое. "
+
+#: slideshow-sled.xml:84(title) 
+msgid "Computing On the Go"
+msgstr "Вычисления на ходу"
+
+#: slideshow-sled.xml:85(para) 
+msgid "For mobile workers, SUSE Linux Enterprise Desktop is a perfect fit. It includes the most advanced mobility features. Switching between wireless and wired networks could not be easier. USB memory sticks and other USB storage devices are detected and configured automatically. SUSE Linux Enterprise Desktop 10 introduces tremendous battery life optimization, allowing you to take your laptop on those long flights with confidence."
+msgstr "SUSE Linux Enterprise Desktop идеально подходит для мобильных сотрудников. В состав продукта включены самые современные средства поддержки мобильности. Максимально упрощено переключение между беспроводными сетями. Карты памяти USB и другие USB-устройства хранения данных распознаются и настраиваются автоматически. В SUSE Linux Enterprise Desktop 10 реализована потрясающая оптимизация использования ресурса батареи, позволяющая без проблем использовать переносной компьютер в продолжительных авиаперелетах."
+
+#: slideshow-sled.xml:90(title) 
+msgid "Keep Your System Secure and Up to Date"
+msgstr "Держи свою систему защищенной и обновленной"
+
+#: slideshow-sled.xml:91(para) 
+msgid "When your system is connected to the Internet, you'll be happy to know that SUSE Linux Enterprise Desktop includes a built-in firewall that helps secure your system and data from Internet intruders. SUSE Linux Enterprise Desktop also includes Novell AppArmor, the most effective and easy-to-use Linux application security system available today, proactively protecting the operating system and applications from external and internal threats."
+msgstr "При подключении к Интернету встроенный в SUSE Linux Enterprise Desktop брандмауэр поможет защитить систему и данные от несанкционированного внешнего доступа. В состав SUSE Linux Enterprise Desktop входит также Novell AppArmor - наиболее эффективная и простая в использовании из доступных ныне система защиты приложений Linux, с упреждением защищающая операционную систему и приложения от внешних и внутренних угроз."
+
+#: slideshow-sled.xml:96(para) 
+msgid "Novell is dedicated to providing its Linux users with the latest security patches. To ensure that the latest security patches are installed on your system, Novell provides a comprehensive resource management solution that allows you to stay current with all security updates."
+msgstr "Novell уделяет особое внимание обеспечению пользователей ОС Linux самыми последними обновлениями средств безопасности. Novell предоставляет исчерпывающее решение в управлении ресурсами, позволяющее своевременно устанавливать в системе самые последние обновления безопасности."
+
+#: slideshow-sled.xml:101(title) 
+msgid "openSUSE.org"
+msgstr "openSUSE.org"
+
+#: slideshow-sled.xml:102(para) 
+msgid "The openSUSE project, sponsored by Novell, is a collaborative community effort to deliver the world's most usable open source computing platform, SUSE Linux. Hosted at opensuse.org, the project features a transparent development process, simple participation models, extensive development tools, and easy access to builds and releases for all. The goal of the openSUSE project is to create a version of Linux that can be used by people everywhere for their personal computing. Please visit opensuse.org to learn how you can join the openSUSE community."
+msgstr "Спонсируемый Novell проект openSUSE объединяет усилия сообщества по разработке самой удобной в мире вычислительной платформы с открытыми исходными кодами - SUSE Linux. Этот проект, размещенный на веб-узле opensuse.org, отличает прозрачность процесса разработки, простота моделей участия в нем, разнообразие средств разработки и доступность сборок и выпусков для всех. Целью проекта openSUSE является создание версии Linux, которую люди смогут использовать повсеместно на своих персональных компьютерах. Посетите opensuse.org, чтобы узнать о том, как можно присоединиться к сообществу openSUSE."
+
+#: slideshow-sled.xml:107(title) 
+msgid "Software for the Open Enterprise"
+msgstr "Программное обеспечение для Open Enterprise"
+
+#: slideshow-sled.xml:108(para) 
+msgid "Novell delivers Linux operating systems specifically designed and supported for business deployments. SUSE Linux Enterprise is the platform for the open enterprise. Only SUSE Linux Enterprise 10 offers built-in application security, virtualization, and integrated systems management across the full range of hardware architectures. With SUSE Linux Enterprise 10, organizations can better address the challenges of spiraling costs, growing security threats, varied deployment demands."
+msgstr "Novell поставляет операционные системы Linux, предназначенные и поддерживаемые для развертывания в корпоративной среде. SUSE Linux Enterprise - это платформа для открытого предпринимательства. Только SUSE Linux Enterprise 10 предлагает встроенную безопасность приложений, виртуализацию и интегрированное управление системами во всем диапазоне аппаратных архитектур. При помощи SUSE Linux Enterprise 10 организации смогут лучше справляться с нарастанием затрат, угроз безопасности и различий требований к развертыванию."
+
+#: slideshow-sled.xml:116(para) 
+msgid "The SUSE Linux Enterprise platform includes both enterprise server and enterprise desktop components. Our enterprise products are delivered with a seven-year maintenance guarantee, optional support programs, and a unique Linux indemnification program."
+msgstr "Платформа SUSE Linux Enterprise включает в себя компоненты как сервера, так и настольной рабочей станции предприятия. Наши продукты для корпоративных клиентов поставляются с 7-летней гарантией сопровождения, необязательными программами поддержки и уникальной программой защиты от обвинений в нарушении авторских прав (Linux indemnification program)."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: slideshow-sled.xml:0(None) 
+msgid "translator-credits"
+msgstr "Aleksey Osipov <aliks-os@yandex.ru>, 2005, 2006."
+
