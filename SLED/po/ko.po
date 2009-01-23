@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sled\n"
-"POT-Creation-Date: 2008-11-12 10:50+0100\n"
-"PO-Revision-Date: 2009-01-08 13:45\n"
+"POT-Creation-Date: 2009-01-08 15:12+0100\n"
+"PO-Revision-Date: 2009-01-23 10:16\n"
 "Last-Translator: Novell Language <language@novell.com>\n"
 "Language-Team: Novell Language <language@novell.com>\n"
 "MIME-Version: 1.0\n"
@@ -73,8 +73,156 @@ msgid "As the leading alternative to Microsoft Office, OpenOffice.org Novell Edi
 msgstr "Microsoft Office에 대한 탁월한 대안으로 OpenOffice.org Novell Edition은 최신 ODF(Open Document Format) 표준, 가장 광범위한 Microsoft Office 파일 형식 등을 완전히 지원합니다."
 
 #: slideshow.xml:88(para) 
-msgid "OpenOffice.org Novell Edition also provides enhanced VBA macro support, an improved Solver, and pivot table capability. To spice up all your presentations, OpenOffice.org Novell Edition has great new slide transitions that nicely blend with our desktop effects.? Banshee: Manage your Media library Novell is proud to sponsor the open source Banshee project, the easy-to-use and beautifully polished media management application. Listen to music, manage you music library, burn your own music CDs, or synchronize your music to your portable media player or smartphone so you listen to your music on the go. Banshee also gives you the ability to subscribe to a variety of sources, including streamed music and podcasts. To ensure the highest quality recordings and playback, Novell developed its own state of the art Advanced Audio Coding (AAC) encoder and decoder. New to SUSE Linux Enterprise Desktop 11, Banshee enables you to include videos into your media library, effortlessly letting you get entertained and up to date with video podcasts directly from your Linux desktop. Synchronize video podcasts to your portable media player for viewing on the go. Discover new music through the use of greatly integrated web services like Last.fm radio. Photos, Images, Drawings, Graphics Our Photo management tool in SUSE Linux Enterprise Desktop could very well be the most user-friendly one ever invented. Recognizing virtually all digital cameras and photo storage devices automatically, F-Spot will let you in very few clicks import and manage all your photos. It keeps an original copy of your photos, allowing you to be creative and try all kind of modifications while making sure you never lose any of those precious snapshots again. And uploading pictures to the Internet has never been easier. Whether it is for printing or for your friends and family to enjoy, your photos are just 1-click away. For advanced image manipulation and graphics creation, the open-source community created GIMP. It is a fantastic and a complete photo retouching, image composition, and image authoring application. GIMP has enough features to satisfy the most exacting artist. Wondering about advanced vector graphics? Then Inkscape is for you. It is a versatile graphics solution using the W3C standard Scalable Vector Graphics (SVG) file format. Inkscape natively supports opening or importing SVG, SVGZ (gzipped SVG), PDF, and AI (Adobe Illustrator) formats. Linux helps reduce your carbon footprint We are concerned about the environment. Whether you are a mobile worker or desktop user, SUSE Linux Enterprise Desktop reduces your power consumption without impacting your productivity in any way. With increasing reliability, the system will maximize energy saving and will even let you track it. Now with effective power management at the processor, chipsets, platform and operating system level, Novell and its partners optimize power consumption in order to provide you with the longest possible battery life. Novell works with its hardware manufacturing partners to ensure that their systems installed with SUSE Linux Enterprise Desktop can earn the ENERGY STAR qualification. By seamlessly providing remote desktop access, Novell aims to promote more electronic collaboration and even reduce your need for travel. Keep Your System Secure and Up to Date When your system is connected to the Internet, you'll be happy to know that we enabled the SUSE Linux Firewall to help secure your system and data from intruders. We also include AppArmor, the most effective and easy-to-use Linux application security system available. It proactively protects the operating system and applications from external or internal threats. In SUSE Linux Enterprise Desktop 11, we have introduced a new granular privilege system PolicyKit that greatly improves the ability for users and applications to be granted access to privileged operations when needed. Also in this release, we have improved wireless and wired network security connectivity and data encryption capabilities. Novell is dedicated to promptly providing its users with the latest security updates. To ensure that the latest security patches are installed on your system, Novell provides a comprehensive resource management solution that allows you to stay current with all security updates. openSUSE.org The openSUSE project is a worldwide community program sponsored by Novell that promotes the use of Linux everywhere. Please visit opensuse.org where you can find and join a community of users and developers, who all have the same goal in mind - to create and distribute the world's most usable Linux distribution. openSUSE provides the base our award-winning SUSE Linux Enterprise products. The openSUSE Build Service is an open and complete distribution development platform that provides a transparent infrastructure for development of the openSUSE distribution. With the openSUSE Build Service, you can easily find the latest open source packages you are looking for. It provides a bridge between developers and users with feedback and rating functionality. For developers it is an efficient place to build up groups and work together through its project model. ZYpp is our software management engine and open source project that powers products like YaST, ZYpper and ZENworks with a powerful dependency resolver and a convenient package management API. Easy to deploy and manage SUSE Linux Enterprise supports many deployment strategies providing system administrators flexible ways to customize and tailor the distribution to their needs. AutoYaST is a integrated solution for installing one or more systems automatically without user intervention. Installations are performed using a control file with installation and configuration data. The openSUSE KIWI imaging system provides a complete operating system image solution for supported hardware platforms as well as virtualization systems. With these solutions combined with several key open source projects such as GConf, PolicyKit and Firstboot, SUSE Linux Enterprise Desktop is the easiest Linux desktop to deploy and manage. Certified for SUSE Linux Enterprise Desktop By successfully completing stringent compatibility testing requirements, Novell's partners qualify their systems for SUSE Linux Enterprise Desktop certification. With a system certified for SUSE Linux Enterprise Desktop you can in confidence use our software to manage your media library, collaborate on projects and stay connected with your friends. You can find all of the systems that have passed logo certification by visiting novell.com/desktop. Systems with certification fully take advantage of SUSE Linux Enterprise Desktop to deliver rich Internet experience, ease of use, and excellent performance. Novell is pleased to also be part of the Linux Driver Project focused on working with manufacturers to create and maintain open source Linux kernel drivers for all types of devices. Timely hardware enablement for desktop components is achieved by porting drivers to the Linux kernel that powers SUSE Linux Enterprise. Interoperability: Work with Everyone SUSE Linux Enterprise Desktop is designed with today's heterogeneous world in mind. It is fully capable to seamlessly integrate into existing Windows file and print environments. In addition, it plugs into existing Microsoft Active Directory and Novell eDirectory environments. With its broad use of open standards, SUSE Linux Enterprise Desktop enables you to share information across any IT system so that you can easily communicate with all users around you. OpenOffice.org Novell Edition works with the widest range of document formats including Open Document Format, Microsoft Office formats (including OO XML),Works, WordPerfect and others. Novell is a leader in the Mono project an open source version of the Microsoft .NET development platform. Its objective is to enable developers to build and deploy cross-platform .NET Applications. Mono is the foundation for Moonlight enabling you to enjoy Microsoft Silverlight content on your Linux desktop. And, SUSE Linux Enterprise Desktop provides accessibility features so that anyone can take advantage of the improved productivity and lower cost that a Linux desktop provides."
-msgstr "OpenOffice.org Novell Edition은 고급 VBA 매크로 지원, 향상된 Solver 및 피벗 테이블 기능도 제공합니다. 모든 프리젠테이션을 장식하기 위해 OpenOffice.org Novell Edition에는 데스크톱 효과와 적절하게 혼합된 새 슬라이드 전환 기능이 제공됩니다. Banshee: 미디어 라이브러리 관리. Novell은 사용하기 쉽고 우수한 미디어 관리 응용 프로그램인 오픈 소스 Banshee 프로젝트를 후원하게 된 것을 자랑스럽게 여깁니다. 음악을 듣고, 음악 라이브러리를 관리하며, 음악 CD를 직접 굽거나 음악을 휴대용 미디어 플레이어 또는 스마트폰과 동기화하여 이동 중에도 음악을 즐깁니다. 또한 Banshee를 통해 스트리밍된 음악과 팟캐스트를 포함한 다양한 소스에 가입할 수 있습니다. 최상의 녹음과 재생을 위해 Novell은 최정상급 AAC(Advanced Audio Coding) 인코더와 디코더를 개발했습니다. SUSE Linux Enterprise Desktop 11을 처음 사용하는 Banshee를 통해 비디오를 미디어 라이브러리에 포함시켜 Linux 데스크톱에서 직접 최신의 비디오 팟캐스트를 손쉽게 즐길 수 있습니다. 이동 중에 볼 수 있도록 비디오 팟캐스트를 휴대용 미디어 플레이어와 동기화하십시오. Last.fm 라디오와 같은 통합 웹 서비스를 사용하여 새로운 음악을 발견하십시오. SUSE Linux Enterprise Desktop의 사진, 이미지, 그리기, 그래픽 관리 도구는 개발된 도구 중 사용자에게 가장 친숙한 도구입니다. 모든 디지털 카메라와 사진 저장 장치를 시각적으로 자동 인식하는 F-Spot은 몇 번의 클릭만으로 모든 사진을 임포트하여 관리할 수 있습니다. 이 도구는 사진의 원본을 보관하여 귀중한 스냅샷을 손상시키지 않고도 사진을 창조적으로 다양하게 수정할 수 있습니다. 사진을 인터넷에 업로드하는 작업도 훨씬 쉬워졌습니다. 인쇄용이든, 친구나 가족들이 즐기기 위해서이든지 간에 한 번만 클릭하면 됩니다. 고급 이미지 조작 및 그래픽 생성을 위해 오픈 소스 커뮤니티는 GIMP를 만들었습니다. 이 프로그램은 환상적이고 완벽한 사진 처리, 이미지 합성 및 이미지 작성 응용 프로그램입니다. GIMP의 기능은 아무리 까다로운 아티스트라도 충분히 만족시킬 수 있습니다. 고급 벡터 그래픽에 대해 궁금하십니까? 그렇다면 Inkscape를 사용해 보십시오. 이는 W3C 표준 SVG(Scalable Vector Graphics) 파일 형식을 사용하는 다기능의 그래픽 솔루션입니다. Inkscape는 원래 SVG, SVGZ(Gzip으로 압축한 SVG), PDF 및 AI(Adobe Illustrator) 형식을 열거나 임포트하는 작업을 지원합니다. Linux를 사용하면 탄소 배출량을 줄일 수 있습니다. 현장 근로자이거나 데스크톱 사용자든 관계 없이 SUSE Linux Enterprise Desktop은 어떤 방식으로든 생산성에 영향을 주지 않고 전원 소비를 줄입니다. 안정성은 높이면서 에너지 절감은 최대화하고 이를 추적할 수도 있습니다. 현재 프로세서, 칩셋, 플랫폼 및 운영 체제 수준에서의 효율적인 전원 관리를 통해 Novell사와 파트너사는 배터리 수명을 최대한 길게 제공할 수 있도록 전원 소비를 최적화합니다. Novell은 하드웨어 제조업체 파트너와 협력하여 SUSE Linux Enterprise Desktop에서 설치된 시스템이 ENERGY STAR 자격을 얻을 수 있도록 합니다. 원활한 원격 데스크톱 액세스를 제공함으로써 Novell은 온라인 상의 협업을 보다 촉진하고 이동에 필요한 요구 사항도 줄이는 것을 목적으로 합니다. 시스템을 안전하고 최신 상태로 인터넷에 연결한 경우 SUSE Linux Firewall을 사용하여 침입자로부터 시스템과 데이터를 보호할 수 있습니다. 또한 가장 효율적이고 사용하기 쉬운 Linux 응용 프로그램 보안 시스템을 사용할 수 있는 AppArmor도 포함합니다. AppArmor는 외부 또는 내부 위협으로부터 운영 체제와 응용 프로그램을 사전에 보호합니다. SUSE Linux Enterprise Desktop 11에서는 사용자와 응용 프로그램이 필요할 때 권한 있는 작업에 액세스할 수 있도록 하는 기능을 상당히 향상시키는 새로운 간소화 권한 시스템인 PolicyKit를 소개합니다. 또한 이 릴리스에서는 유무선 네트워크 보안 연결 및 데이터 암호화 기능이 향상되었습니다. Novell은 사용자에게 최신 보안 업데이트를 즉시 제공합니다. 최신 보안 패치를 시스템에 설치하기 위해 Novell은 모든 보안 업데이트를 최신 상태로 유지할 수 있는 포괄적인 리소스 관리 솔루션을 제공합니다. openSUSE.org openSUSE 프로젝트는 Novell에서 후원하는 전세계 커뮤니티 프로그램으로, 모든 장소에서 Linux의 사용을 장려합니다. Linux 배포판을 만들고 전세계에 배포하고자 하는 동일한 목적을 가진 사용자와 개발자의 커뮤니티를 찾고 이에 가입하려면 opensuse.org를 방문하십시오. openSUSE는 수상 경력에 빛나는 SUSE Linux Enterprise 제품의 기반을 제공합니다. openSUSE 빌드 서비스는 openSUSE 배포판의 개발을 위한 투명한 인프라를 제공하는 완벽한 개방형 배포 개발 플랫폼입니다. openSUSE 빌드 서비스를 사용하면 검색하려는 최신 오픈 소스 패키지를 쉽게 찾을 수 있습니다. 또한 이 서비스는 피드백과 등급 지정 기능을 통해 사용자와 개발자 간에 다리 역할을 합니다. 개발자의 경우, 이 서비스는 그룹을 빌드하고 프로젝트 모델을 통해 함께 작업하는 효율적인 장소입니다. ZYpp는 YaST, ZYpper 및 ZENworks와 같은 제품이 강력한 종속성 해결 프로그램과 편리한 패키지 관리 API를 통해 강화되는 소프트웨어 관리 엔진 및 오픈 소스 프로젝트입니다. 배포와 관리가 쉬운 SUSE Linux Enterprise는 필요에 따라 배포를 유연하게 사용자 정의할 수 있는 방법을 시스템 관리자에게 제공하여 수많은 배포 전략을 지원합니다. AutoYaST는 사용자의 작업 없이 하나 이상의 시스템을 자동으로 설치하기 위한 통합 솔루션입니다. 설치는 설치 및 구성 데이터가 있는 제어 파일을 통해 수행됩니다. openSUSE KIWI 이미징 시스템은 하드웨어 플랫폼과 가상화 시스템을 지원하기 위한 완벽한 운영 체제 이미지 솔루션을 제공합니다. GConf, PolicyKit 및 Firstboot와 같은 주요 오픈 소스 프로젝트와 결합된 이러한 솔루션을 통해 SUSE Linux Enterprise Desktop은 배포와 관리가 가장 쉬운 Linux 데스크톱입니다. SUSE Linux Enterprise Desktop 인증. 엄격한 호환성 테스트 요구 사항을 성공적으로 완수함으로써 Novell사의 파트너는 SUSE Linux Enterprise Desktop 인증에 대한 시스템 자격을 부여 받았습니다. SUSE Linux Enterprise Desktop에 대해 인증된 시스템을 통해 사용자는 소프트웨어를 원하는 대로 사용하여 미디어 라이브러리를 관리하고, 프로젝트에 대해 협업하며, 친구들과 계속 연락할 수 있습니다. 로고 인증을 통과한 모든 시스템은 novell.com/desktop에서 확인할 수 있습니다. 인증된 시스템은 SUSE Linux Enterprise Desktop을 모두 활용하여 풍부한 인터넷 경험, 손쉬운 사용 및 뛰어난 성능을 제공할 수 있습니다. 또한 Novell은 제조업체와 협력하여 모든 유형의 장치에 대해 오픈 소스 Linux 커널 드라이버를 만들고 관리하는 데 중점을 두는 Linux Driver Project의 일원이 된 것을 기쁘게 생각합니다. 데스크톱 구성 요소에 대한 적시의 하드웨어 활용은 SUSE Linux Enterprise를 구동하는 Linux 커널에 드라이버를 이식하여 실현됩니다. 상호 운용성: 모든 사용자와 협력 SUSE Linux Enterprise Desktop은 오늘날의 이질적인 세상을 염두에 두고 고안된 것입니다. 이 제품은 기존 Windows 파일과 인쇄 환경으로 원활하게 통합될 수 있습니다. 또한 기존 Microsoft Active Directory와 Novell eDirectory 환경에 연결합니다. 공개 표준의 광범위한 사용을 통해 SUSE Linux Enterprise Desktop은 모든 IT 시스템에서 정보를 공유하여 주변의 모든 사용자들과 쉽게 연락할 수 있습니다. OpenOffice.org Novell Edition은 ODF(Open Document Format), Microsoft Office 형식(OO XML 포함),Works, WordPerfect 등을 포함한 가장 광범위한 문서 형식으로 작업합니다. Novell은 Microsoft .NET 개발 플랫폼의 오픈 소스 버전인 Mono 프로젝트에서 선두 주자입니다. Novell의 목표는 개발자가 교차 플랫폼 .NET 응용 프로그램을 빌드하고 배포할 수 있도록 하는 것입니다. Mono는 Linux 데스크톱에서 Microsoft Silverlight 컨텐트를 즐길 수 있도록 하는 Moonlight의 기반입니다. 그리고 SUSE Linux Enterprise Desktop은 모든 사용자들이 Linux 데스크톱에서 제공하는 향샹된 생산성과 낮은 비용의 장점을 누릴 수 있도록 내게 필요한 옵션 기능을 제공합니다."
+msgid "OpenOffice.org Novell Edition also provides enhanced VBA macro support, an improved Solver, and pivot table capability. To spice up all your presentations, OpenOffice.org Novell Edition has great new slide transitions that nicely blend with our desktop effects."
+msgstr "또한 OpenOffice.org Novell Edition은 향상된 VBA 매크로 지원과 해결 프로그램 및 피벗 테이블 기능을 제공합니다. 프리젠테이션을 보다 풍성하게 지원하기 위해 OpenOffice.org Novell Edition은 데스크톱 효과와 잘 어울리는 새로운 슬라이드로 전환하는 기능을 제공합니다."
+
+#: slideshow.xml:95(title) 
+msgid "Banshee: Manage your Media library"
+msgstr "Banshee: 미디어 라이브러리 관리"
+
+#: slideshow.xml:97(para) 
+msgid "Novell is proud to sponsor the open source Banshee project, the easy-to-use and beautifully polished media management application. Listen to music, manage you music library, burn your own music CDs, or synchronize your music to your portable media player or smartphone so you listen to your music on the go. Banshee also gives you the ability to subscribe to a variety of sources, including streamed music and podcasts."
+msgstr "Novell은 사용이 간편하고 외관이 세련된 미디어 관리 응용 프로그램인 오픈 소스 Banshee 프로젝트를 후원하게 되어 기쁘게 생각합니다. 이 프로그램을 사용하면 음악을 듣고 뮤직 라이브러리를 관리하며, 자신만의 음악 CD를 굽거나 음악을 휴대용 미디어 플레이어 또는 스마트폰에 동기화하여 이동 중에도 음악을 즐길 수 있습니다. 또한 스트리밍된 음악이나 팟캐스트를 포함하여 다양한 소스에 가입할 수도 있습니다."
+
+#: slideshow.xml:105(para) 
+msgid "To ensure the highest quality recordings and playback, Novell developed its own state of the art Advanced Audio Coding (AAC) encoder and decoder."
+msgstr "최상의 녹음 및 재생 품질을 유지하기 위해 Novell은 최첨단 ACC(Advanced Audio Coding) 인코더 및 디코더 기술을 개발했습니다."
+
+#: slideshow.xml:109(para) 
+msgid "New to SUSE Linux Enterprise Desktop 11, Banshee enables you to include videos into your media library, effortlessly letting you get entertained and up to date with video podcasts directly from your Linux desktop. Synchronize video podcasts to your portable media player for viewing on the go."
+msgstr "SUSE Linux Enterprise Desktop 11의 새로운 기능인 Banshee를 사용하여 비디오를 미디어 라이브러리에 포함시킬 수 있습니다. 이렇게 하면 Linux 데스크톱에서 직접 비디오 팟캐스트를 즐기고 최신 상태로 손쉽게 유지할 수 있습니다. 비디오 팟캐스트를 휴대용 미디어 플레이어로 동기화하면 이동 중에도 즐길 수 있습니다."
+
+#: slideshow.xml:115(para) 
+msgid "Discover new music through the use of greatly integrated web services like Last.fm radio."
+msgstr "Last.fm radio와 같은 통합 웹 서비스를 사용하여 새로운 음악을 경험하십시오."
+
+#: slideshow.xml:120(title) 
+msgid "Photos, Images, Drawings, Graphics"
+msgstr "사진, 이미지, 그림, 그래픽"
+
+#: slideshow.xml:122(para) 
+msgid "Our Photo management tool in SUSE Linux Enterprise Desktop could very well be the most user-friendly one ever invented. Recognizing virtually all digital cameras and photo storage devices automatically, F-Spot will let you in very few clicks import and manage all your photos. It keeps an original copy of your photos, allowing you to be creative and try all kind of modifications while making sure you never lose any of those precious snapshots again. And uploading pictures to the Internet has never been easier. Whether it is for printing or for your friends and family to enjoy, your photos are just 1-click away."
+msgstr "SUSE Linux Enterprise Desktop의 사진 관리 도구는 지금까지 개발된 도구 중 사용자가 가장 친숙하게 사용할 수 있습니다. 실제로 F-Spot은 모든 디지털 카메라와 사진 저장 장치를 자동으로 인식할 수 있어 몇 번의 클릭만으로 사진을 모두 가져오고 관리할 수 있습니다. 또한 사진 원본은 그대로 유지하여 귀중한 스냅샷을 손상시키지 않으면서 사진을 원하는 대로 수정할 수 있습니다. 사진을 인터넷으로 쉽게 업로드할 수도 있습니다. 한 번의 클릭만으로 사진을 인쇄하거나, 친구나 가족들과 함께 즐길 수 있습니다."
+
+#: slideshow.xml:133(para) 
+msgid "For advanced image manipulation and graphics creation, the open-source community created GIMP. It is a fantastic and a complete photo retouching, image composition, and image authoring application. GIMP has enough features to satisfy the most exacting artist."
+msgstr "고급 이미지 조작과 그래픽 생성을 위해 오픈 소스 커뮤니티에서는 GIMP를 작성했습니다. 이 프로그램은 완벽한 사진 리터치, 이미지 합성 및 이미지 작성 응용 프로그램으로, 대부분의 아티스트가 만족할 만한 기술을 보유하고 있습니다."
+
+#: slideshow.xml:138(para) 
+msgid "Wondering about advanced vector graphics? Then Inkscape is for you. It is a versatile graphics solution using the W3C standard Scalable Vector Graphics (SVG) file format. Inkscape natively supports opening or importing SVG, SVGZ (gzipped SVG), PDF, and AI (Adobe Illustrator) formats."
+msgstr "고급 벡터 그래픽에 대해 궁금하십니까? 그렇다면 Inkscape를 사용해 보십시오. 이 프로그램은 W3C 표준 SVG(Scalable Vector Graphics) 파일 형식을 사용한 다재다능한 그래픽 솔루션입니다. Inkscape는 SVG, SVGZ(Gzip으로 압축한 SVG), PDF 및 AI(Adobe Illustrator) 형식을 열거나 임포트할 수 있습니다."
+
+#: slideshow.xml:146(title) 
+msgid "Linux helps reduce your carbon footprint"
+msgstr "Linux 제품을 사용하면 탄소 배출량을 줄일 수 있습니다."
+
+#: slideshow.xml:148(para) 
+msgid "We are concerned about the environment. Whether you are a mobile worker or desktop user, SUSE Linux Enterprise Desktop reduces your power consumption without impacting your productivity in any way. With increasing reliability, the system will maximize energy saving and will even let you track it."
+msgstr "Novell은 환경에 대해 관심을 기울이고 있습니다. 이동 중인 직원이나 데스크톱 사용자에 관계 없이 SUSE Linux Enterprise Desktop은 생산성에 영향을 주지 않고 전원 소비를 줄여줍니다. 신뢰도를 향상시키기 위해 시스템에서는 에너지 절약을 최대화하고 해당 기록을 추적할 수도 있습니다."
+
+#: slideshow.xml:154(para) 
+msgid "Now with effective power management at the processor, chipsets, platform and operating system level, Novell and its partners optimize power consumption in order to provide you with the longest possible battery life."
+msgstr "이제 프로세서, 칩셋, 플랫폼 및 운영 체제 수준에서 효율적인 전원 관리를 위해 Novell과 파트너사들은 배터리 수명을 최대한 연장할 수 있도록 전원 소비를 최적화합니다. "
+
+#: slideshow.xml:159(para) 
+msgid "Novell works with its hardware manufacturing partners to ensure that their systems installed with SUSE Linux Enterprise Desktop can earn the ENERGY STAR qualification."
+msgstr "Novell은 하드웨어 제조업체 파트너사와 협력하여 SUSE Linux Enterprise Desktop에 설치된 시스템이 ENERGY STAR 자격을 취득할 수 있도록 합니다."
+
+#: slideshow.xml:163(para) 
+msgid "By seamlessly providing remote desktop access, Novell aims to promote more electronic collaboration and even reduce your need for travel."
+msgstr "원격 데스크톱 액세스를 원활하게 제공함으로써 Novell은 전력적인 측면에서 협력을 더욱 촉진하고 이동에 필요한 요구 사항까지도 줄여줍니다."
+
+#: slideshow.xml:169(title) 
+msgid "Keep Your System Secure and Up to Date"
+msgstr "시스템을 최신 상태로 안전하게 유지"
+
+#: slideshow.xml:171(para) 
+msgid "When your system is connected to the Internet, you'll be happy to know that we enabled the SUSE Linux Firewall to help secure your system and data from intruders. We also include AppArmor, the most effective and easy-to-use Linux application security system available. It proactively protects the operating system and applications from external or internal threats."
+msgstr "시스템이 인터넷에 연결된 경우 SUSE Linux Firewall을 사용하여 침입자로부터 시스템과 데이터를 안전하게 보호할 수 있다는 사실을 알게 될 것입니다. 또한 가장 효율적이고 사용하기 쉬운 Linux 응용 프로그램 보안 시스템인 AppArmor도 사용 가능하도록 시스템에 포함되어 있어, 안팎의 위협으로부터 운영 체제와 응용 프로그램을 사전에 보호합니다."
+
+#: slideshow.xml:179(para) 
+msgid "In SUSE Linux Enterprise Desktop 11, we have introduced a new granular privilege system PolicyKit that greatly improves the ability for users and applications to be granted access to privileged operations when needed. Also in this release, we have improved wireless and wired network security connectivity and data encryption capabilities."
+msgstr "SUSE Linux Enterprise Desktop 11에서는 세분화된 새 권한 시스템인 PolicyKit을 도입했습니다. 이 프로그램은 사용자와 응용 프로그램이 필요에 따라 권한이 지정된 작업에 액세스 권한을 부여하는 기능을 크게 향상시킵니다. 또한 이 릴리스에서는 무선 및 유선 보안 연결과 데이터 암호화 기능을 개선했습니다."
+
+#: slideshow.xml:185(para) 
+msgid "Novell is dedicated to promptly providing its users with the latest security updates. To ensure that the latest security patches are installed on your system, Novell provides a comprehensive resource management solution that allows you to stay current with all security updates."
+msgstr "Novell은 사용자에게 최신 보안 업데이트를 즉시 제공하는 데 전념했습니다. 최신 보안 패치가 시스템에 설치되도록 Novell은 모든 보안 업데이트를 최신 상태로 유지시켜 주는 포괄적인 자원 관리 솔루션을 제공합니다."
+
+#: slideshow.xml:192(title) 
+msgid "openSUSE.org"
+msgstr "openSUSE.org"
+
+#: slideshow.xml:192(para) 
+msgid "The openSUSE project is a worldwide community program sponsored by Novell that promotes the use of Linux everywhere. Please visit opensuse.org where you can find and join a community of users and developers, who all have the same goal in mind - to create and distribute the world's most usable Linux distribution. openSUSE provides the base our award-winning SUSE Linux Enterprise products."
+msgstr "openSUSE 프로젝트는 모든 위치에서 Linux의 사용을 장려하는 Novell 후원의 전세계적 커뮤니티 프로그램입니다. 세계적으로 가장 유용한 Linux 배포판을 만들고 배포하고자 하는 동일한 목표를 지닌 사용자와 개발자 커뮤니티를 찾아서 여기에 가입하려면 opensuse.org를 방문하십시오. openSUSE는 수상 경력을 자랑하는 SUSE Linux Enterprise 제품의 기초가 됩니다."
+
+#: slideshow.xml:200(para) 
+msgid "The openSUSE Build Service is an open and complete distribution development platform that provides a transparent infrastructure for development of the openSUSE distribution. With the openSUSE Build Service, you can easily find the latest open source packages you are looking for. It provides a bridge between developers and users with feedback and rating functionality. For developers it is an efficient place to build up groups and work together through its project model."
+msgstr "openSUSE Build Service는 개방형의 완벽한 배포판 개발 플랫폼으로, openSUSE 배포판의 개발을 위한 투명 인프라를 제공합니다. openSUSE Build Service를 사용하면 검색하는 최신 오픈 소스 패키지를 쉽게 찾을 수 있으며, 피드백과 등급 지정 기능을 위한 개발자와 사용자 간의 다리 역할을 합니다. 개발자에게는 그룹을 작성하고 프로젝트 모델을 통해 협업하는 효율적인 공간입니다."
+
+#: slideshow.xml:208(para) 
+msgid "ZYpp is our software management engine and open source project that powers products like YaST, ZYpper and ZENworks with a powerful dependency resolver and a convenient package management API."
+msgstr "ZYpp는 YaST, ZYpper 및 ZENworks와 같은 제품을 강력한 종속성 해결 프로그램과 편리한 패키지 관리 API로 구동하는 소프트웨어 관리 엔진이자 오픈 소스 프로젝트입니다."
+
+#: slideshow.xml:215(title) 
+msgid "Easy to deploy and manage"
+msgstr "개발과 관리가 용이합니다."
+
+#: slideshow.xml:217(para) 
+msgid "SUSE Linux Enterprise supports many deployment strategies providing system administrators flexible ways to customize and tailor the distribution to their needs."
+msgstr "SUSE Linux Enterprise는 시스템 관리자가 요구 사항에 맞게 배포판을 유연하게 사용자 정의할 수 있는 수많은 개발 전략을 지원합니다."
+
+#: slideshow.xml:221(para) 
+msgid "AutoYaST is a integrated solution for installing one or more systems automatically without user intervention. Installations are performed using a control file with installation and configuration data."
+msgstr "AutoYaST는 사용자의 개입 없이 하나 이상의 시스템을 자동으로 설치하기 위한 통합 솔루션입니다. 설치하는 데는 설치 및 구성 데이터가 있는 컨트롤 파일이 사용됩니다."
+
+#: slideshow.xml:225(para) 
+msgid "The openSUSE KIWI imaging system provides a complete operating system image solution for supported hardware platforms as well as virtualization systems."
+msgstr "openSUSE KIWI 이미징 시스템은 하드웨어 플랫폼과 가상화 시스템의 지원을 위해 완벽한 운영 체제 이미지 솔루션을 제공합니다."
+
+#: slideshow.xml:229(para) 
+msgid "With these solutions combined with several key open source projects such as GConf, PolicyKit and Firstboot, SUSE Linux Enterprise Desktop is the easiest Linux desktop to deploy and manage."
+msgstr "이러한 솔루션이 GConf, PolicyKit 및 Firstboot와 같은 몇 개의 핵심 오픈 소스 프로젝트와 결합된 SUSE Linux Enterprise Desktop은 배포와 관리가 손쉬운 Linux 데스크톱입니다."
+
+#: slideshow.xml:235(title) 
+msgid "Certified for SUSE Linux Enterprise Desktop"
+msgstr "SUSE Linux Enterprise Desktop 인증"
+
+#: slideshow.xml:237(para) 
+msgid "By successfully completing stringent compatibility testing requirements, Novell's partners qualify their systems for SUSE Linux Enterprise Desktop certification."
+msgstr "엄격한 호환성 테스트 요구 사항을 성공적으로 충족시킴으로써 Novell의 파트너사들은 SUSE Linux Enterprise Desktop용 시스템의 품질 인증 과정을 거쳤습니다."
+
+#: slideshow.xml:241(para) 
+msgid "With a system certified for SUSE Linux Enterprise Desktop you can in confidence use our software to manage your media library, collaborate on projects and stay connected with your friends."
+msgstr "이제 SUSE Linux Enterprise Desktop 인증 시스템을 갖춘 소프트웨어를 사용하여 미디어 라이브러리를 관리하고 프로젝트 수행 시 서로 협력하며 친구들과 지속적으로 연락할 수 있습니다."
+
+#: slideshow.xml:245(para) 
+msgid "You can find all of the systems that have passed logo certification by visiting novell.com/desktop. Systems with certification fully take advantage of SUSE Linux Enterprise Desktop to deliver rich Internet experience, ease of use, and excellent performance."
+msgstr "novell.com/desktop을 방문하면 로고 인증을 통과한 시스템을 모두 확인할 수 있습니다. 인증된 시스템은 SUSE Linux Enterprise Desktop을 최대한 활용하여 풍부한 인터넷 경험과 편리한 사용, 뛰어난 성능을 누릴 수 있습니다."
+
+#: slideshow.xml:250(para) 
+msgid "Novell is pleased to also be part of the Linux Driver Project focused on working with manufacturers to create and maintain open source Linux kernel drivers for all types of devices. Timely hardware enablement for desktop components is achieved by porting drivers to the Linux kernel that powers SUSE Linux Enterprise."
+msgstr "Novell은 모든 장치 유형에 대해 제조업자들과 협력하여 오픈 소스 Linux 커널 드라이버를 만들고 관리하는 데 중점을 두고 있는 Linux 드라이버 프로젝트의 일원이 된 것을 기쁘게 생각합니다. SUSE Linux Enterprise를 구동하는 Linux 커널에 드라이버를 이식하면 데스크톱 구성 요소에 대해 하드웨어를 시기 적절하게 실행할 수 있습니다."
+
+#: slideshow.xml:258(title) 
+msgid "Interoperability: Work with Everyone"
+msgstr "상호 운용성: 모든 사용자와 협력"
+
+#: slideshow.xml:260(para) 
+msgid "SUSE Linux Enterprise Desktop is designed with today's heterogeneous world in mind. It is fully capable to seamlessly integrate into existing Windows file and print environments. In addition, it plugs into existing Microsoft Active Directory and Novell eDirectory environments. With its broad use of open standards, SUSE Linux Enterprise Desktop enables you to share information across any IT system so that you can easily communicate with all users around you."
+msgstr "SUSE Linux Enterprise Desktop은 오늘날의 이질적인 세상을 염두에 두고 고안된 것으로, 기존의 Windows 파일 및 인쇄 환경과 원활하게 통합될 뿐만 아니라 기존 Microsoft Active Directory 및 Novell eDirectory 환경에 연결하여 사용됩니다. 이러한 개방형 표준의 광범위한 사용을 통해 SUSE Linux Enterprise Desktop은 모든 사용자와 쉽게 커뮤니케이션할 수 있도록 IT 시스템 전반에 걸쳐 정보를 공유할 수 있습니다."
+
+#: slideshow.xml:268(para) 
+msgid "OpenOffice.org Novell Edition works with the widest range of document formats including Open Document Format, Microsoft Office formats (including OO XML),Works, WordPerfect and others."
+msgstr "OpenOffice.org Novell Edition은 Open Document Format, Microsoft Office 형식(OO XML 포함), Works, WordPerfect 등을 포함하는 광범위한 문서 형식에서 작동합니다."
+
+#: slideshow.xml:272(para) 
+msgid "Novell is a leader in the Mono project an open source version of the Microsoft .NET development platform. Its objective is to enable developers to build and deploy cross-platform .NET Applications. Mono is the foundation for Moonlight enabling you to enjoy Microsoft Silverlight content on your Linux desktop."
+msgstr "Novell은 Microsoft .NET 개발 플랫폼의 오픈 소스 버전인 Mono 프로젝트의 선두 주자로서, 개발자들이 플랫폼 간에 .NET 응용 프로그램을 빌드하고 배포할 수 있도록 하는 데 그 목적이 있습니다. Mono는 사용자가 Linux 데스크톱에서 Microsoft Silverlight 컨텐트를 즐길 수 있도록 하는 Moonlight의 기반이 됩니다."
+
+#: slideshow.xml:278(para) 
+msgid "And, SUSE Linux Enterprise Desktop provides accessibility features so that anyone can take advantage of the improved productivity and lower cost that a Linux desktop provides."
+msgstr "또한 SUSE Linux Enterprise Desktop은 모든 사용자가 Linux 데스크톱에서 제공하는 향상된 생산성과 낮은 가격을 이용할 수 있도록 내게 필요한 옵션 기능을 제공합니다."
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: slideshow.xml:0(None) 
