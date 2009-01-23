@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sled.hu\n"
 "POT-Creation-Date: 2009-01-08 15:12+0100\n"
-"PO-Revision-Date: 2009-01-08 18:16+0100\n"
+"PO-Revision-Date: 2009-01-22 16:49+0100\n"
 "Last-Translator: Kalman Kemenczy <kkemenczy@novell.com>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -37,7 +37,7 @@ msgid ""
 "and thin clients."
 msgstr ""
 "A SUSE Linux Enterprise Desktop az iparág vezető nagyvállalati operációs "
-"rendszere, amely optamalizált megoldás mind nagyvállalati környezetben, mind "
+"rendszere, amely optimalizált megoldás mind nagyvállalati környezetben, mind "
 "személyes használatra. A SUSE Linux Enterprise Desktop piacvezető "
 "felhasználhatóságot és interoperabilitást biztosít a meglévő nagyvállalati "
 "informatikai rendszerekkel, a tucatnyi irodai alkalmazás segítségével pedig "
@@ -61,14 +61,8 @@ msgid ""
 "netbooks, nettops, workstations, and more and includes all of the "
 "applications you need to be productive at work or home."
 msgstr ""
-"A Novell vezető szerepe az asztali rendszerek újításait illetően "
-"megkérdőjelezhetetlen. A bőséges, folyamatos használhatósági tanulmányok "
-"eredményeit kiemelkedő műszaki érzékkel párosítva a Novell bemutatja a SUSE "
-"Linux Enterprise Desktop 11-et - a legjobban integrált, leghatékonyabb "
-"linuxos asztali környezetet. A SUSE Linux Enterprise Desktop a kliensek "
-"széles skálájára, így netbbookokra, notebookokra és asztali gépekre is "
-"telepíthető és tartalmaz minden olyan alkalmazást, amelyek szükséges a "
-"produktív munkavégzésre vagy az otthoni tevékenységehez."
+"A Novell vezető szerepe az asztali rendszerek újításait illetően megkérdőjelezhetetlen. A bőséges, folyamatos használhatósági tanulmányok eredményeit kiemelkedő műszaki érzékkel párosítva a Novell bemutatja a SUSE Linux Enterprise Desktop 11-et - a legjobban integrált, leghatékonyabb linuxos asztali környezetet. A SUSE Linux Enterprise Desktop a kliensek széles skálájára, így netbbookokra, notebookokra és asztali gépekre is telepíthető és tartalmaz minden olyan alkalmazást, amelyek szükséges a "
+"produktív munkavégzéshez vagy az otthoni feladatok elvégzéséhez."
 
 #: slideshow.xml:42(para)
 msgid ""
@@ -175,11 +169,11 @@ msgid ""
 "improved Solver, and pivot table capability. To spice up all your "
 "presentations, OpenOffice.org Novell Edition has great new slide transitions "
 "that nicely blend with our desktop effects."
-msgstr "Az OpenOffice.org Novell Edition támogatja a VBA makrókat, továbbfejlesztett Solvert tartalmaz és kezeli a pivot táblákat. A bemutatók érdekesebbé tételéhez az OpenOffice.org Novell Edition a diák között új átmeneteket biztosít, amely kiválóan illeszkedi az asztali effektekhez."
+msgstr "Az OpenOffice.org Novell Edition támogatja a VBA makrókat, továbbfejlesztett Solvert tartalmaz és kezeli a pivot táblákat. A bemutatók érdekesebbé tételéhez az OpenOffice.org Novell Edition a diák között új átmeneteket biztosít, amely kiválóan illeszkedik az asztali effektekhez."
 
 #: slideshow.xml:95(title)
 msgid "Banshee: Manage your Media library"
-msgstr ""
+msgstr "Banshee: rendszerezze médiakönyvtárát"
 
 #: slideshow.xml:97(para)
 msgid ""
@@ -189,13 +183,13 @@ msgid ""
 "to your portable media player or smartphone so you listen to your music on "
 "the go. Banshee also gives you the ability to subscribe to a variety of "
 "sources, including streamed music and podcasts."
-msgstr ""
+msgstr "A Novell büszkén támogatja a nyílt forrású Banshee projektet, amely egyszerűen használható, gyönyörűre kialakított médiakezelő alkalmazás. Hallgathat vele zenét, rendezheti zenekönyvtárát, CD-re írhatja zenéit, szinkronizálhatja hordozható zenelejátszójára vagy telefonjára, hogy zenéit útközben is hallgathassa. A Banshee ugyanakkor lehetővé teszi, hogy különböző forrásokra feliratkozzon, így zenei műsorokra és podcastokra is."
 
 #: slideshow.xml:105(para)
 msgid ""
 "To ensure the highest quality recordings and playback, Novell developed its "
 "own state of the art Advanced Audio Coding (AAC) encoder and decoder."
-msgstr ""
+msgstr "A felvétel és a lejátszás legmagasabb minőségének érdekében a Novell kifejlesztette az Advanced Audio Coding (AAC) kódolót és dekódolót."
 
 #: slideshow.xml:109(para)
 msgid ""
@@ -203,17 +197,17 @@ msgid ""
 "videos into your media library, effortlessly letting you get entertained and "
 "up to date with video podcasts directly from your Linux desktop. Synchronize "
 "video podcasts to your portable media player for viewing on the go."
-msgstr ""
+msgstr "A SUSE Linux Enterprise Desktop 11 újdonságaként a Banshee lehetővé teszi, hogy videók bekerülhessenek a médiakönyvtárba. A podcast videók elérésével naprakész és szórakoztató lesz a Linux Desktop. Szinkronizálhatja podcastjait a médialejátszójára, hogy bármikor magával vihesse."
 
 #: slideshow.xml:115(para)
 msgid ""
 "Discover new music through the use of greatly integrated web services like "
 "Last.fm radio."
-msgstr ""
+msgstr "Fedezzen fel az új zenéket az olyan integrált webalkalmazásokkal, mint a Last.fm rádió."
 
 #: slideshow.xml:120(title)
 msgid "Photos, Images, Drawings, Graphics"
-msgstr ""
+msgstr "Fotók, képek, rajzok és grafikák"
 
 #: slideshow.xml:122(para)
 msgid ""
@@ -226,7 +220,7 @@ msgid ""
 "snapshots again. And uploading pictures to the Internet has never been "
 "easier. Whether it is for printing or for your friends and family to enjoy, "
 "your photos are just 1-click away."
-msgstr ""
+msgstr "A SUSE Linux Enterprise Desktopban található képkezelő eszköz az egyik legfelhasználóbarátabb fejlesztés, ami valaha készült. Mivel az F-Spot automatikusan felismer minden digitális kamerát és képtároló eszközt, csak néhány kattintás a képek importálása és rendezése. Az eredeti kép megőrzése mellett lehetőség van a képek módosítására is. A képek internetre való feltöltése sosem volt ennyire egyszerű. A képek nyomtatása vagy azok bemutatása a családnak és barátoknak, csupán egyetlen kattintás."
 
 #: slideshow.xml:133(para)
 msgid ""
@@ -234,7 +228,7 @@ msgid ""
 "community created GIMP. It is a fantastic and a complete photo retouching, "
 "image composition, and image authoring application. GIMP has enough features "
 "to satisfy the most exacting artist."
-msgstr ""
+msgstr "A nyílt forrású közösség a képek elkészítéséhez és szerkesztéséhez megalkotta a GIMP nevű programot, amely fantasztikus és teljesértékű képszerkesztő és retusáló program. A GIMP funkcióival elégedett lehet a legigényesebb művész is."
 
 #: slideshow.xml:138(para)
 msgid ""
@@ -242,11 +236,11 @@ msgid ""
 "versatile graphics solution using the W3C standard Scalable Vector Graphics "
 "(SVG) file format. Inkscape natively supports opening or importing SVG, SVGZ "
 "(gzipped SVG), PDF, and AI (Adobe Illustrator) formats."
-msgstr ""
+msgstr "Profi vektorgrafikai programot keres? Az Inkscape pont erre való. Ez egy sokoldalú grafikus eszköz, amely a W3C szabványt az SVG formátumot használja. Az Inkscape natívan támogatja az SVG, SVGZ (tömörített SVG), PDF és AI (Adobe Illustrator) formátumokat."
 
 #: slideshow.xml:146(title)
 msgid "Linux helps reduce your carbon footprint"
-msgstr ""
+msgstr "A Linux segít csökkenteni a környezetszennyezést"
 
 #: slideshow.xml:148(para)
 msgid ""
@@ -254,31 +248,31 @@ msgid ""
 "desktop user, SUSE Linux Enterprise Desktop reduces your power consumption "
 "without impacting your productivity in any way. With increasing reliability, "
 "the system will maximize energy saving and will even let you track it."
-msgstr ""
+msgstr "Törődünk a környezettel. Függetlenül attól, hogy asztali gépet vagy notebookot használ, a SUSE Linux Enterprise Desktop használatával anélkül csökkenti az energiafogyasztást, hogy az hatással lenne a produktivitására. A megbízhatóság növelésével a rendszer nyomon-követhetően maximalizálja az eregiamegtakarítást."
 
 #: slideshow.xml:154(para)
 msgid ""
 "Now with effective power management at the processor, chipsets, platform and "
 "operating system level, Novell and its partners optimize power consumption "
 "in order to provide you with the longest possible battery life."
-msgstr ""
+msgstr "A processzor, a lapkakészlet, a platform és az operációs rendszer hatékony energiagazdálkodással a Novell és partnerei optimalizálják az energiafogyasztást, annak érdekében, hogy az akkumulátorok élettartama a lehető leghosszabb legyen."
 
 #: slideshow.xml:159(para)
 msgid ""
 "Novell works with its hardware manufacturing partners to ensure that their "
 "systems installed with SUSE Linux Enterprise Desktop can earn the ENERGY "
 "STAR qualification."
-msgstr ""
+msgstr "A Novell együtt dolgozik a hardvergyártókkal, hogy a SUSE Linux Enterprise Desktop operációs rendszerrel telepített eszközök megkapják az ENERGY STAR minősítést."
 
 #: slideshow.xml:163(para)
 msgid ""
 "By seamlessly providing remote desktop access, Novell aims to promote more "
 "electronic collaboration and even reduce your need for travel."
-msgstr ""
+msgstr "Az integrált, távoli munkaállomás-elérés segítségével a Novell célja az elektronikus csoportmunka támogatása és szükséges utazás csökkentése."
 
 #: slideshow.xml:169(title)
 msgid "Keep Your System Secure and Up to Date"
-msgstr ""
+msgstr "Legyen a számítógépe biztonságos és naprakész"
 
 #: slideshow.xml:171(para)
 msgid ""
@@ -287,7 +281,7 @@ msgid ""
 "intruders. We also include AppArmor, the most effective and easy-to-use "
 "Linux application security system available. It proactively protects the "
 "operating system and applications from external or internal threats."
-msgstr ""
+msgstr "Amikor a számítógépe az internetre csatlakozik, jó tudni, hogy a SUSE Linux tűzfal segít távoltartani a behatolókat a rendszerétől és az adataitól. Ugyancsak része a rendszernek az AppArmor, amely egyszerűen kezelhető és jelenleg elérhető leghatékonyabb alkalmazásbiztonsági rendszer Linuxon. Az AppArmor proaktívan védi az operációs rendszert és az alkalmazásokat a külső és belső fenyegetésekkel szemben egyaránt."
 
 #: slideshow.xml:179(para)
 msgid ""
@@ -296,7 +290,7 @@ msgid ""
 "applications to be granted access to privileged operations when needed. Also "
 "in this release, we have improved wireless and wired network security "
 "connectivity and data encryption capabilities."
-msgstr ""
+msgstr "A SUSE Linux Enterprise Desktop 11-ben egy új jogosultsági rendszer kerül bemutatásra. A PolicyKit segítségével egyszerűbb a felhasználók és az alkalmazások számára hozzáférést biztosítani olyan műveletekhez, amelyekhez speciális jogosultságok szükségesek. Ugyancsak ebben a kiadásban mutatkozik be a továbbfejlesztett vezetékes és vezeték nélküli hálózati biztonság és adattitkosítási képesség."
 
 #: slideshow.xml:185(para)
 msgid ""
@@ -304,7 +298,7 @@ msgid ""
 "updates. To ensure that the latest security patches are installed on your "
 "system, Novell provides a comprehensive resource management solution that "
 "allows you to stay current with all security updates."
-msgstr ""
+msgstr "A Novell fontosnak tartja, hogy a felhasználói számára azonnal biztosítsa a legfrissebb biztonsági frissítéseket. A Novell átfogó felügyeleti megoldást biztosít, hogy biztos lehessen abban, hogy a legfrissebb biztonsági frissítések telepítve vannak a rendszerén."
 
 #: slideshow.xml:192(title)
 msgid "openSUSE.org"
@@ -347,46 +341,45 @@ msgid ""
 "SUSE Linux Enterprise supports many deployment strategies providing system "
 "administrators flexible ways to customize and tailor the distribution to "
 "their needs."
-msgstr ""
+msgstr "A SUSE Linux Enterprise számtalan telepítési stratégiát támogat, hogy a rendszergazdák a disztribúciót az igényeknek megfelelően, tudják testreszabni és elkészíteni."
 
 #: slideshow.xml:221(para)
 msgid ""
 "AutoYaST is a integrated solution for installing one or more systems "
 "automatically without user intervention. Installations are performed using a "
 "control file with installation and configuration data."
-msgstr ""
+msgstr "Az AutoYaST egy integrált megoldás egy vagy több operációs rendszer, felhasználói beavatkozás nélküli, automatikus telepítéséhez. A telepítés egy vezérlőfájl segítségével történik amely tartalmazza a telepítéshez szükséges adatokat."
 
 #: slideshow.xml:225(para)
 msgid ""
 "The openSUSE KIWI imaging system provides a complete operating system image "
 "solution for supported hardware platforms as well as virtualization systems."
-msgstr ""
+msgstr "Az openSUSE KIWI imaging teljeskörű lemezképmegoldást nyújt a támogatott hardvereszközökhöz és a virtualizációs rendszerekhez egyaránt."
 
 #: slideshow.xml:229(para)
 msgid ""
 "With these solutions combined with several key open source projects such as "
 "GConf, PolicyKit and Firstboot, SUSE Linux Enterprise Desktop is the easiest "
 "Linux desktop to deploy and manage."
-msgstr ""
+msgstr "Ezekkel a megoldásokkal, amelyek olyan nyílt forrású projektek kombinációi, mint a GConf, a PolicyKit és a Firstboot, a SUSE Linux Enterprise Desktop legkönnyebben telepíthető és kezelhető asztali Linux operációs rendszer."
 
 #: slideshow.xml:235(title)
-#, fuzzy
 msgid "Certified for SUSE Linux Enterprise Desktop"
-msgstr "Üdvözli Önt a SUSE Linux Enterprise Desktop!"
+msgstr "Tanúsítvány SUSE Linux Enterprise Desktophoz"
 
 #: slideshow.xml:237(para)
 msgid ""
 "By successfully completing stringent compatibility testing requirements, "
 "Novell's partners qualify their systems for SUSE Linux Enterprise Desktop "
 "certification."
-msgstr ""
+msgstr "A szigorú kompatibilitási teszt követelményeinek eleget téve a Novell partnerei minősíthetik rendszereiket, amely során SUSE Linux Enterprise Desktop tanúsítványt kaphatnak."
 
 #: slideshow.xml:241(para)
 msgid ""
 "With a system certified for SUSE Linux Enterprise Desktop you can in "
 "confidence use our software to manage your media library, collaborate on "
 "projects and stay connected with your friends."
-msgstr ""
+msgstr "A SUSE Linux Enterprise Desktop tanúsítvánnyal ellátott rendszerek használatával biztos lehet abban, hogy az operációs rendszerünk használatával kezelheti médiakönyvtárát, részt vehet projektekben és kapcsolatban maradhat barátaival."
 
 #: slideshow.xml:245(para)
 msgid ""
@@ -394,7 +387,7 @@ msgid ""
 "visiting novell.com/desktop. Systems with certification fully take advantage "
 "of SUSE Linux Enterprise Desktop to deliver rich Internet experience, ease "
 "of use, and excellent performance."
-msgstr ""
+msgstr "Minden olyan rendszer, amely tanúsítvánnyal rendelkezik, megtalálható a novell.com/desktop oldalon. Ezek a megoldások a SUSE Linux Enterprise Desktop minden előnyével rendelkeznek, hogy gazdag internetes élményt, egyszerű kezelhetőséget és kiváló teljesítményt nyújtsanak."
 
 #: slideshow.xml:250(para)
 msgid ""
@@ -403,7 +396,7 @@ msgid ""
 "drivers for all types of devices. Timely hardware enablement for desktop "
 "components is achieved by porting drivers to the Linux kernel that powers "
 "SUSE Linux Enterprise."
-msgstr ""
+msgstr "A Novell nagy örömmel vesz részt a Linux Driver Projectben, amelynek célja, hogy a hardvergyártókkal közösen fejlesszék és karban tartsák a Linux kernel nyílt forrású illesztőprogramjait a különböző eszközökhöz."
 
 #: slideshow.xml:258(title)
 msgid "Interoperability: Work with Everyone"
@@ -418,14 +411,14 @@ msgid ""
 "open standards, SUSE Linux Enterprise Desktop enables you to share "
 "information across any IT system so that you can easily communicate with all "
 "users around you."
-msgstr ""
+msgstr "A SUSE Linux Enterprise Desktop tervezésekor fontos szempont volt a heterogén világ szem előtt tartása. Az operációs rendszer könnyedén integrálható Windowsos fájl- és nyomtatókiszolgáló környezetekbe, valamint csatlakoztatható meglévő Microsoft Active Directory és Novell eDirectory rendszerekhez. A nyílt szabványok széles körű használatával a SUSE Linux Enterprise Desktop képes információkat megosztani bármilyen informatikai infrastruktúrán keresztül, lehetővé téve a könnyű kapcsolatteremtést a többi felhasználóval."
 
 #: slideshow.xml:268(para)
 msgid ""
 "OpenOffice.org Novell Edition works with the widest range of document "
 "formats including Open Document Format, Microsoft Office formats (including "
 "OO XML),Works, WordPerfect and others."
-msgstr ""
+msgstr "Az OpenOffice.org Novell Edition a dokumentumformátumok legszélesebb körét támogatja, beleértve az Open Document Format (ODF), a Microsoft Office (beleértve az OO XML), a Works, a WordPerfect és számos más dokumentumformátumot is."
 
 #: slideshow.xml:272(para)
 msgid ""
@@ -434,14 +427,14 @@ msgid ""
 "to build and deploy cross-platform .NET Applications. Mono is the foundation "
 "for Moonlight enabling you to enjoy Microsoft Silverlight content on your "
 "Linux desktop."
-msgstr ""
+msgstr "A Novell vezeti a Mono projektet, amely a Microsoft .NET fejlesztői környezet nyílt forrású verziója. Célja, hogy lehetőséget biztosítson a fejlesztők számára platformfüggetlen .NET alkalmazások fejlesztésére. A Mono az alapja a Moonlightnak, amely lehetőséget biztosít arra, hogy Microsoft Silverlight tartalmak megjelenítésére Linux munkaállomáson."
 
 #: slideshow.xml:278(para)
 msgid ""
 "And, SUSE Linux Enterprise Desktop provides accessibility features so that "
 "anyone can take advantage of the improved productivity and lower cost that a "
 "Linux desktop provides."
-msgstr ""
+msgstr "Mindezen felül a SUSE Linux Enterprise Desktop olyan akadálymentesítési funkciókkal rendelkezik, amely lehetőséget biztosít mindenki számára, hogy élvezze a Linux Desktop által biztosított megnövekedett produktivitás és az alacsony költség előnyeit."
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: slideshow.xml:0(None)

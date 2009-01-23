@@ -142,7 +142,7 @@ msgid ""
 "to your portable media player or smartphone so you listen to your music on "
 "the go. Banshee also gives you the ability to subscribe to a variety of "
 "sources, including streamed music and podcasts."
-msgstr "Novell is proud to sponsor the open source Banshee project, the easy-to-use and beautifully polished media management application. Listen to music, manage your music library, burn your own music CDs, or synchronize your music to your portable media player or smartphone so you listen to your music on the go. Banshee also gives you the ability to subscribe to a variety of sources, including streamed music and podcasts."
+msgstr ""
 
 #: slideshow.xml:105(para)
 msgid ""
