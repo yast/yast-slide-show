@@ -188,29 +188,29 @@ on your system, Novell provides a comprehensive resource management
 solution that allows you to stay current with all security updates.</para>
 
 </section>
-<section label="09_openSUSE">
-  <title>openSUSE.org</title> <para>The openSUSE project is a worldwide
-  community program sponsored by Novell that promotes the use of
-  Linux everywhere.  Please visit opensuse.org where you can find
-  and join a community of users and developers, who all have the same
-  goal in mind - to create and distribute the world's most usable Linux
-  distribution. openSUSE provides the base our award-winning SUSE Linux
+ <section label="09_openSUSE">
+  <title>openSUSE.org</title>
+
+  <para>The openSUSE project is a worldwide community program sponsored by
+  Novell that promotes the use of Linux everywhere.  Please visit opensuse.org
+  where you can find and join a community of users and developers, who all have
+  the same goal in mind - to create and distribute the world's most usable
+  Linux distribution. openSUSE provides the base our award-winning SUSE Linux
   Enterprise products.</para>
 
-<para>The openSUSE Build Service is an open and complete distribution
-development platform that provides a transparent infrastructure for
-development of the openSUSE distribution. With the openSUSE Build Service,
-you can easily find the latest open source packages you are looking
-for. It provides a bridge between developers and users with feedback and
-rating functionality. For developers it is an efficient place to build
-up groups and work together through its project model.</para>
+  <para>The openSUSE Build Service is an open and complete distribution
+  development platform that provides a transparent infrastructure for
+  development of the openSUSE distribution. With the openSUSE Build Service,
+  you can easily find the latest open source packages you are looking for. It
+  provides a bridge between developers and users with feedback and rating
+  functionality. For developers it is an efficient place to build up groups and
+  work together through its project model.</para>
 
-<para>ZYpp is our software management engine and open source project
-that powers products like YaST, ZYpper and ZENworks with a powerful
-dependency resolver and a convenient package management API.</para>
+  <para>ZYpp is our software management engine and open source project that
+  powers products like YaST, ZYpper and ZENworks with a powerful dependency
+  resolver and a convenient package management API.</para>
+ </section>
 
-
-</section>
 <section label="10_easy-management">
   <title>Easy to deploy and manage</title>
 
