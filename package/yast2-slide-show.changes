@@ -1,7 +1,14 @@
 -------------------------------------------------------------------
+Mon Apr  6 11:06:13 CEST 2009 - ke@suse.de
+
+- V.2.13.49:
+- Translation fixes for SLED10 SP3: zh_TW; bnc#369762 and bnc#369754.
+- Additional translation fixes (cs, hu, and xh).
+
+-------------------------------------------------------------------
 Wed Aug 13 17:09:39 CEST 2008 - ke@suse.de
 
--V.2.13.47:
+-V.2.13.48:
 - Add Korean translation for HP preload.
 
 -------------------------------------------------------------------
