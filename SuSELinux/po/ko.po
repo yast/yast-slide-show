@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: slideshow.ko\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2008-11-17 09:33+0100\n"
-"PO-Revision-Date: 2008-11-18 10:12+0900\n"
+"PO-Revision-Date: 2008-12-02 02:31+0900\n"
 "Last-Translator: YunSeok Choi <xein@naver.com>\n"
 "Language-Team: Korean <xein@naver.com>\n"
 "MIME-Version: 1.0\n"
@@ -114,11 +114,11 @@ msgstr "최신으로 안전하게 유지"
 
 #: slideshow.xml:138(para)
 msgid "Help secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE because it also includes AppArmor, the most effective and easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats."
-msgstr "인터넷 침입자로부터 사용자의 시스템과 데이터를 보호할 수세 방화벽을 제공합니다. 이 보안 장치는 기본적으로 구성되어지며 쉽게 설정 할 수 있습니다. 여기에 오픈수세 시스템을 효과적으로 보호하기 위해 사용하기 쉬운 리눅스 응용 프로그램 보안 시스템인 AppArmore이 같이 포함 됩니다. AppArmor 은 내부와 외부의 위협으로 부터 사용자의 OS와 응용프로그램을 보호합니다."
+msgstr "인터넷 침입자로부터 사용자의 시스템과 데이터를 보호할 수세 방화벽을 제공합니다. 이 보안 장치는 기본적으로 구성되어지며 쉽게 설정 할 수 있습니다. 여기에 오픈수세 시스템을 효과적으로 보호하기 위해 사용하기 쉬운 리눅스 응용 프로그램 보안 시스템인 AppArmor 가 같이 포함 됩니다. AppArmor 는 내부와 외부의 위협으로 부터 사용자의 OS와 응용프로그램을 보호합니다."
 
 #: slideshow.xml:146(para)
 msgid "In addition to SUSE Firewall and AppArmor, openSUSE also includes a special security patch update system. To ensure that the latest security patches are installed on your system, you can choose to perform an online update at the end of this installation procedure. And in the future, you will be automatically informed of the availability of important security updates, so you can install them at your convenience."
-msgstr "수세 방화벽 과 AppArmor 이 들어 있습니다, 여기에는 최신의 보안패치를 포함하고 있습니다. 최신의 보안 패치를 적용하기 위해 설치 절차의 마지막 단계에서 업데이트 할 수 있습니다. 그리고 앞으로, 자동으로 중요 보안 업데이트를 설치 할 수 있도록 도와 줍니다."
+msgstr "추가 기능으로 수세 방화벽 과 AppArmor 이 들어 있고 오픈수세에는 최신의 보안패치를 업데이트 시스템이 있습니다. 최신의 보안 패치를 적용하기 위해 설치 절차의 마지막 단계에서 업데이트 할 수 있고 자동으로 중요 보안 업데이트를 설치 할 수 있도록 도와 줍니다."
 
 #: slideshow.xml:157(title)
 msgid "Virtualization Technology and Application Development Tools"
@@ -134,7 +134,7 @@ msgstr "자세히 알아보기"
 
 #: slideshow.xml:170(para)
 msgid "The openSUSE distribution provides extensive documentation for specific openSUSE questions as well as general Linux-related questions. The Help Center is accessible via the main menu. Manuals are also available in PDF and can be downloaded and printed (http://en.opensuse.org/Documentation)."
-msgstr "오픈수세 배포판에 대한 설명서와 오픈수세에 관한 질문 혹은 일반 리눅스에 관한 답변을 제공합니다. 메인 메뉴의 도움말 센터에서 바로 검색할 수 있고, PDF나 웹사이트에서 다운로드하여 출력할 수 있습니다(http://en.opensuse.org/Documentation)."
+msgstr "오픈수세 배포판에 대한 설명서와 오픈수세에 관한 질문 혹은 일반 리눅스에 관한 답변을 제공합니다. 메인 메뉴의 도움말 센터에서 바로 검색할 수 있고, PDF 를 웹사이트에서 다운로드하여 출력할 수 있습니다(http://en.opensuse.org/Documentation)."
 
 #: slideshow.xml:180(para)
 msgid "Even more information is available in the openSUSE wiki at http://en.opensuse.org/. Under \"Documentation,\" you'll discover links to useful information created and maintained by other openSUSE users. You can also find links to the documentation available on the official Novell Web site. For help with specific openSUSE problems, check out the Support Database at www.opensuse.org"
@@ -142,7 +142,7 @@ msgstr "더 많은 정보는 오픈수세 위키(http://en.opensuse.org/)에서 
 
 #: slideshow.xml:191(para)
 msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
-msgstr "공식 오픈수세 포럼(http://forums.opensuse.org/)에서 다른 오픈수세 사용자로부터 도움받을 수 있습니다. 여러분에게 도움을 줄 수 있는 많은 오픈수세 사용자들이 당신의 쾌적한 리눅스 생활과 함께 할 것입니다."
+msgstr "공식 오픈수세 포럼(http://forums.opensuse.org/)에서 다른 오픈수세 사용자로부터 도움을 받을 수 있습니다. 여러분에게 도움을 줄 수 있는 많은 오픈수세 사용자들이 당신의 쾌적한 리눅스 생활과 함께 할 것입니다."
 
 #: slideshow.xml:200(para)
 msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."

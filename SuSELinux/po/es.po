@@ -12,15 +12,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.es\n"
 "POT-Creation-Date: 2008-11-17 09:33+0100\n"
-"PO-Revision-Date: 2008-11-20 03:58+0100\n"
-"Last-Translator: Carlos E. Robinson <carlos.e.r@opensuse.org>\n"
+"PO-Revision-Date: 2008-11-24 09:07-0400\n"
+"Last-Translator: Ricardo Varas Santana <rvaras81@yahoo.com>\n"
 "Language-Team: Spanish <opensuse-translation-es@opensuse.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
 "X-Poedit-Language: Spanish\n"
-"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
@@ -40,7 +40,7 @@ msgstr "openSUSE.org"
 
 #: slideshow.xml:32(para)
 msgid "openSUSE is a community project created and sponsored by Novell to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
-msgstr "openSUSE es un proyecto comunitario creado y patrocinado por Novell para proporcionar al mundo la plataforma informática más amigable que existe. Muchas personas de todo el mundo contribuyen al proyecto openSUSE empaquetando software, probando programas, escribiendo documentación y traduciendo sus componentes a docenas de lenguajes. Todo este trabajo está disponible libremente con la distribución openSUSE Linux en su web www.opensuse.org."
+msgstr "openSUSE es un proyecto comunitario creado y patrocinado por Novell para proporcionar al mundo la plataforma informática más amigable que existe. Muchas personas de todo el mundo contribuyen al proyecto openSUSE empaquetando software, probando programas, escribiendo documentación y traduciendo sus componentes a docenas de idiomas. Todo este trabajo está disponible libremente con la distribución openSUSE Linux en su web www.opensuse.org."
 
 #: slideshow.xml:40(para)
 msgid "Visit www.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
@@ -60,11 +60,11 @@ msgstr "Conectarse y comunicarse"
 
 #: slideshow.xml:58(para)
 msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
-msgstr "Puede comunicarse con la mayor funcionalidad con openSUSE 11.0 ya que proporciona un completo conjunto de herramientas para la navegación web y la gestión del correo electrónico — incluso incluye la tecnología más reciente de telefonía basada en Internet."
+msgstr "Puede comunicarse más eficientemente con openSUSE 11.0 ya que proporciona un completo conjunto de herramientas para la navegación web y la gestión del correo electrónico — incluso incluye la tecnología más reciente de telefonía basada en Internet."
 
 #: slideshow.xml:64(para)
 msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "openSUSE incluye el navegador web Firefox, uno de los mejores navegadores de Internet del mercado. Firefox incluye todas las características que necesita para disfrutar de la web, incluyendo complementos para Java, Adobe Acrobat Reader, y Adobe Flash. Firefox también se enorgullece de un rendimiento extraordinariamente rápido, y de un número de mejoras diseñadas para proteger su privacidad y prevenir ataques de phishing."
+msgstr "openSUSE incluye Mozilla Firefox, uno de los mejores navegadores de Internet del mercado. Firefox incluye todas las características que necesita para disfrutar de la web, incluyendo complementos para Java, Adobe Acrobat Reader, y Adobe Flash. Firefox también se enorgullece de un rendimiento extraordinariamente rápido, y de un número de mejoras diseñadas para proteger su privacidad y prevenir ataques de phishing."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
@@ -80,7 +80,7 @@ msgstr "Descargue canciones de Internet. Extraiga música de sus CD para crear s
 
 #: slideshow.xml:91(title)
 msgid "Documents, Spreadsheets and More"
-msgstr "Documentos, hojas de cálculo y mucho más"
+msgstr "Documentos, hojas de cálculo y más"
 
 #: slideshow.xml:93(para)
 msgid "The openSUSE 11.1 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
@@ -125,7 +125,7 @@ msgstr "Además de SUSE Firewall y AppArmor, openSUSE también incluye un sistem
 # Cer marker
 #: slideshow.xml:157(title)
 msgid "Virtualization Technology and Application Development Tools"
-msgstr "Herramientas de desarrollo de aplicaciones y tecnología de virtualización"
+msgstr "Tecnología de virtualización y herramientas de desarrollo de aplicaciones"
 
 #: slideshow.xml:159(para)
 msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
