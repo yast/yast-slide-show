@@ -8,7 +8,7 @@ fname = slideshow
 
 # list of languages available in SVN
 # CAUTION: Czech is "cs", not "cz"! Use the LANG abbrev, not the country!
-langs = en bg cs da de el en_GB es et fi fr gl hr hu it ja km ko lt nb nl pa pl pt pt_BR ro ru sk sl sv th uk wa zh_CN zh_TW
+langs = en bg cs da de en_GB es fi fr gl hu it ja km ko nb nl pa pl pt pt_BR ro ru sk sv th uk wa zh_CN zh_TW
 
 # list of languages ready for distribution _and_ installation
 dist_langs = $(langs)
