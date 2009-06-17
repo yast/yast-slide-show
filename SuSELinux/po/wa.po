@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow.wa\n"
 "POT-Creation-Date: 2008-11-17 09:33+0100\n"
-"PO-Revision-Date: 2008-11-17 18:13+0100\n"
+"PO-Revision-Date: 2008-12-01 02:58+0100\n"
 "Last-Translator: Jean Cayron <jean.cayron@gmail.com>\n"
 "Language-Team: Walloon <linux-wa@walon.org>\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr "Bénvnowe so openSUSE™"
 
 #: slideshow.xml:20(para)
 msgid "Whether you use your computer to communicate with friends, family, or colleagues; to manage and enjoy your pictures and music; to browse the Internet for the latest news or for fun; to write a report or budget; or to host a personal Web site or home network, you will find everything you need in openSUSE 11.1."
-msgstr "Cwè ki ç' ki vs fijhîz avou voste éndjole: houkî vos soçons, les djins d' vosse famile oudonbén les cénk ki vs boutez avou; arindjî ou rloukî vos fotos et schoûter vosse muzike, cachî avå l' daegntoele après l' dierinnès noveles ou pol plaijhi; sicrire on rapoirt ou on budjet; ou co bén lodjî li waibe da vosse ou ene rantoele di måjhon, vos trovroz tot ç' ki vs avoz dandjî dins openSUSE 11.1."
+msgstr "Cwè ki ç' ki vs fijhîz avou voste éndjole: houkî vos soçons, les djins d' vosse famile oudonbén les cénk ki vs boutez avou; arindjî ou rloukî vos fotos et schoûter vosse muzike, cachî avå l' daegntoele après les dierinnès noveles ou pol plaijhi; sicrire on rapoirt ou on budjet; ou co bén lodjî li waibe da vosse ou ene rantoele di måjhon, vos trovroz tot ç' ki vs avoz dandjî dins openSUSE 11.1."
 
 #: slideshow.xml:30(title)
 msgid "openSUSE.org"
@@ -52,7 +52,7 @@ msgstr "Li distribucion openSUSE est disponibe dins bråmint des lingaedjes. Li 
 
 #: slideshow.xml:56(title)
 msgid "Connect and Communicate"
-msgstr "Raloyîz vs et atôtchîz ls ôtes"
+msgstr "Raloyîz vs et atôtchîz vos soçons"
 
 #: slideshow.xml:58(para)
 msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management—it even includes the newest Voice over IP technology."
@@ -104,7 +104,7 @@ msgstr "openSUSE a les ahesses les pus nouves po les agayons axhlåves. Vos ploz
 
 #: slideshow.xml:128(para)
 msgid "The newest innovations in power management from openSUSE increase your mobility and give you the freedom to take your work wherever you go."
-msgstr " Les pus noûs advintaedjes d' openSUSE e manaedje d' enerdjeye fwait crexhe vos possibilités d' axhler eyet vs dene li liberté d' ovrer tolminme ewou ç' ki vs aloxhe."
+msgstr "Les pus noûs advintaedjes d' openSUSE e manaedjmint d' enerdjeye fwait crexhe vos possibilités d' axhler eyet vs dene li liberté d' ovrer tolminme ewou ç' ki vs aloxhe."
 
 #: slideshow.xml:136(title)
 msgid "Keep Your System Secure and Up to Date"
@@ -124,7 +124,7 @@ msgstr "Tecnolodjeye di virtouwålizåcion et usteyes di disvelopmint des progra
 
 #: slideshow.xml:159(para)
 msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "L' hipervizeu Xen est dvins openSUSE. Xen est l' li programe di virtouwålizåcion li pus stocasse k' i gn åye. Di pus, openSUSE dene des usteyes rantoele pol pårtaedje di fitchîs (Samba, NFS, evnd.), l' imprimaedje (CUPS) eyet l' lodjaedje di waibes (Apache). Pol diswalpaedje des programes, openSUSE a ene chilêye d' evironmints d' enondaedje eyet des completès usteyes pol programaedje di programes come KDevelop, Eclipse eyet Mono."
+msgstr "Li hipervizeu Xen est dvins openSUSE. Xen est l' programe di virtouwålizåcion li pus stocasse k' i gn åye. Di pus, openSUSE dene des usteyes rantoele pol pårtaedje di fitchîs (Samba, NFS, evnd.), l' imprimaedje (CUPS) eyet l' lodjaedje di waibes (Apache). Pol diswalpaedje des programes, openSUSE a ene chilêye d' evironmints d' enondaedje eyet des completès usteyes pol programaedje di programes come KDevelop, Eclipse eyet Mono."
 
 #: slideshow.xml:169(title)
 msgid "Learn More"
@@ -152,7 +152,7 @@ msgstr "Novell eyet Linux"
 
 #: slideshow.xml:210(para)
 msgid "Novell is committed to your success with Linux. In addition to openSUSE, Novell also delivers an exciting suite of products designed to meet the needs of businesses large and small."
-msgstr "Novell vout k' totafwait våye bén por vos avou Linux. Di pus k' openSUSE, Novell eplaide ossu ene zûnante shûte di prodûts apougnîs po rescontrer çou k' ont dandjî les ptitès eyet les grandès societés."
+msgstr "Novell vout k' totafwait våye bén por vos avou Linux. Di pus k' openSUSE, Novell eplaide ossu ene zûnante shûte di prodûts apougnîs po rescontrer çou k' ont dandjî les ptites et les grandès societés."
 
 #: slideshow.xml:215(para)
 msgid "The enterprise Linux products from Novell include SUSE Linux Enterprise Server, SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise products are delivered with a seven-year maintenance guarantee and optional support programs. For more information on enterprise Linux from Novell, visit http://www.novell.com/linux"

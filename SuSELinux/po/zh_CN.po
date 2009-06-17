@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2008-11-17 09:33+0100\n"
-"PO-Revision-Date: 2008-11-07 13:07+0800\n"
-"Last-Translator: Eric Shan <ericalways@gmail.com>\n"
+"PO-Revision-Date: 2008-12-02 12:28+0800\n"
+"Last-Translator: Thruth Wang <wanglihao@gmail.com>\n"
 "Language-Team: Simplified Chinese\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
-msgstr "幻灯片演示"
+msgstr "幻灯片"
 
 #: slideshow.xml:18(title)
 msgid "Welcome to openSUSE™"
@@ -53,9 +53,8 @@ msgid "You can communicate more effectively with openSUSE 11.1 because it provid
 msgstr "使用 openSUSE 11.1，沟通更加顺畅高效。系统提供了网络浏览和电子邮件管理一整套的工具 － 甚至包含了最新的网络电话技术。"
 
 #: slideshow.xml:64(para)
-#, fuzzy
 msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "openSUSE 包含了 Mozilla Firefox —— 世界上最好的浏览器之一。享受网络，Firefox 一应俱全，包含了Java、Adobe Acrobat Reader、RealPlayer 和 Adobe Flash 插件。Firefox 也有着超快的性能和改进的设计，能够更好的保护您的隐私，防止钓鱼式攻击。"
+msgstr "openSUSE 包含了 Mozilla Firefox —— 世界上最好的浏览器之一。享受网络，Firefox 一应俱全，包含了Java、Adobe Acrobat Reader 和 Adobe Flash 插件。Firefox 也有着超快的性能和改进的设计，能够更好的保护您的隐私，防止钓鱼式攻击。"
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
@@ -135,7 +134,7 @@ msgstr "在 http://cn.opensuse.org/ 上的 openSUSE wiki 中有更多信息。�
 
 #: slideshow.xml:191(para)
 msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
-msgstr "要得到其他 openSUSE 用户的帮助，请访问 openSUSE 官方论坛：http://forums.opensuse.org/。在这里您将找到数以千计的 openSUSE 用户，他们乐意帮助你解决关于 Linux 的各种问题。如果您是一位有经验的用户，论坛将是您结实其他用户并帮助他们的好去处。"
+msgstr "要得到其他 openSUSE 用户的帮助，请访问 openSUSE 官方论坛：http://forums.opensuse.org/。在这里您将找到数以千计的 openSUSE 用户，他们乐意帮助你解决关于 Linux 的各种问题。如果您是一位有经验的用户，论坛将是您结识其他用户并帮助他们的好去处。"
 
 #: slideshow.xml:200(para)
 msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
@@ -158,5 +157,6 @@ msgstr "Novell 的企业级 Linux 产品包括 SUSE Linux Enterprise Server、SU
 msgid "translator-credits"
 msgstr ""
 "开源软件国际化之简体中文组 <http://i18n.linux.net.cn>\n"
-"Thruth Wang <lihaow@opera.com>, 2007.\n"
+"Thruth Wang <lihaow@opera.com>, 2007, 2008.\n"
 "Eric Shan <ericalways@gmail.com>, 2008."
+

@@ -14,14 +14,14 @@ msgstr ""
 "Project-Id-Version: slideshow.ru\n"
 "Report-Msgid-Bugs-To: translation@suse.de\n"
 "POT-Creation-Date: 2008-11-17 09:33+0100\n"
-"PO-Revision-Date: 2008-11-12 01:11+0300\n"
+"PO-Revision-Date: 2008-11-21 13:47+0300\n"
 "Last-Translator: Alexander Melentiev <alex239@gmail.com>\n"
 "Language-Team: Russian <opensuse-translation-ru@opensuse.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 0.3\n"
+"X-Generator: Lokalize 0.2\n"
 
 #: slideshow.xml:15(title)
 msgid "Slide Show"
@@ -41,7 +41,7 @@ msgstr "openSUSE.org"
 
 #: slideshow.xml:32(para)
 msgid "openSUSE is a community project created and sponsored by Novell to deliver the world's most user-friendly computing platform. Many people from around the world contribute to the openSUSE Project by packaging software, testing programs, writing documentation, and translating components into dozens of languages. All of that work is available for free in the openSUSE Linux distribution available at www.opensuse.org."
-msgstr "openSUSE &mdash; это проект сообщества по созданию наиболее дружественной к пользователю вычислительной платформы, созданный и поддерживаемый Novell. Многие люди со всего мира делают вклад в проект openSUSE, участвуя в пакетировании программного обеспечения, тестировании программ, написании документации и переводе компонентов на десятки языков. Вся их работа свободно доступна в дистрибутиве openSUSE Linux, доступном по адресу www.opensuse.org."
+msgstr "openSUSE - это проект сообщества по созданию наиболее дружественной к пользователю вычислительной платформы, созданный и поддерживаемый Novell. Многие люди со всего мира делают вклад в проект openSUSE, участвуя в пакетировании программного обеспечения, тестировании программ, написании документации и переводе компонентов на десятки языков. Вся их работа свободно доступна в дистрибутиве openSUSE Linux, доступном по адресу www.opensuse.org."
 
 #: slideshow.xml:40(para)
 msgid "Visit www.opensuse.org/How_to_Participate to learn how you can join the openSUSE community."
@@ -64,7 +64,6 @@ msgid "You can communicate more effectively with openSUSE 11.1 because it provid
 msgstr "При помощи openSUSE 11.1 вы можете общаться более эффективно, потому что он предоставляет полный набор средств для обзора интернета и управления электронной почтой — он даже включает новейшие технологии VoIP."
 
 #: slideshow.xml:64(para)
-#, fuzzy
 msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
 msgstr "openSUSE включает Mozilla Firefox, один из лучших веб-браузеров в мире. Firefox включает все возможности, необходимые вам, чтобы наслаждаться веб, включая плагины Java, Adobe Acrobat Reader, RealPlayer и Macromedia Flash. Firefox может также похвастаться молниеносным быстродействием и большим числом улучшений, созданных для защиты вашей конфиденциальности и предотвращения фишинговых атак."
 
@@ -86,7 +85,7 @@ msgstr "Документы, электронные таблицы и много�
 
 #: slideshow.xml:93(para)
 msgid "The openSUSE 11.1 distribution comes complete with the latest version of the leading Linux productivity suite, OpenOffice.org. It features a word processor, spreadsheet application, HTML editor, presentation designer, and database manager. It reads and writes multiple formats—including Microsoft Office formats—so you can move back and forth easily between openSUSE and popular non-Linux productivity software. OpenOffice.org is the perfect choice for reports, papers, home budgets, simple graphics and more."
-msgstr "В составе дистрибутива openSUSE 11.1 поставляется последняя версия OpenOffice.org &mdash; ведущего офисного пакета для Linux. В него входят текстовый процессор, приложение для работы с электронными таблицами, редактор HTML, конструктор презентаций и средство управления базами данных. Он может читать и записывать файлы в различных форматах, включая форматы Microsoft Office, так что вы можете легко передавать данные между openSUSE и популярными программами не из Linux. OpenOffice.org &mdash; это совершенный выбор для работы с отчетами, докладами, домашним бюджетом, простой графикой и многим другим."
+msgstr "В составе дистрибутива openSUSE 11.1 поставляется последняя версия OpenOffice.org - ведущего офисного пакета для Linux. В него входят текстовый процессор, приложение для работы с электронными таблицами, редактор HTML, конструктор презентаций и средство управления базами данных. Он может читать и записывать файлы в различных форматах, включая форматы Microsoft Office, так что вы можете легко передавать данные между openSUSE и популярными программами не из Linux. OpenOffice.org - это совершенный выбор для работы с отчетами, докладами, домашним бюджетом, простой графикой и многим другим."
 
 #: slideshow.xml:104(title)
 msgid "Graphics, Graphics, Graphics"
@@ -130,7 +129,7 @@ msgstr "Технология виртуализации и средства ра
 
 #: slideshow.xml:159(para)
 msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "В состав openSUSE включен Гипервизор Xen. Xen &mdash; одно из доступных решений для виртуализации с самой высокой производительностью. К тому же openSUSE предоставляет средства для совместного использования файлов и принтеров по сети (Samba) и веб-хостинга (Apache). Для разработки приложений в составе openSUSE поставляется полный набор сред выполнения и дополнительные средства разработки приложений, в том числе KDevelop, Eclipse и Mono."
+msgstr "В состав openSUSE включен Гипервизор Xen. Xen - одно из доступных решений для виртуализации с самой высокой производительностью. К тому же openSUSE предоставляет средства для совместного использования файлов и принтеров по сети (Samba) и веб-хостинга (Apache). Для разработки приложений в составе openSUSE поставляется полный набор сред выполнения и дополнительные средства разработки приложений, в том числе KDevelop, Eclipse и Mono."
 
 #: slideshow.xml:169(title)
 msgid "Learn More"
@@ -146,7 +145,7 @@ msgstr "Дополнительные сведения имеются на стр
 
 #: slideshow.xml:191(para)
 msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
-msgstr "Для поддержки других пользователей openSUSE посетите официальные форумы openSUSE на http://forums.opensuse.org/. Здесь вы найдёте тысячи других пользователей openSUSE, жаждущих помочь вам получить от Linux всё, что вы можете. Если вы опытный пользователь openSUSE, форумы &mdash; отличное место для встреч с другими пользователями и помощи пользователям Linux."
+msgstr "Для поддержки других пользователей openSUSE посетите официальные форумы openSUSE на http://forums.opensuse.org/. Здесь вы найдёте тысячи других пользователей openSUSE, жаждущих помочь вам получить от Linux всё, что вы можете. Если вы опытный пользователь openSUSE, форумы - отличное место для встреч с другими пользователями и помощи пользователям Linux."
 
 #: slideshow.xml:200(para)
 msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."
@@ -171,8 +170,9 @@ msgstr ""
 "Алексей Осипов <aliks-os@yandex.ru>, 2005, 2007.\n"
 "Николай Деркач <nderkach@gmail.com>, 2007.\n"
 "Игорь Кондрашкин <poseidos@mail.ru>, 2007.\n"
-"Александр Мелентьев <alex239@gmail.com>, 2008."
+"Александр Мелентьев <alex239@gmail.com>, 2008"
 
 #, fuzzy
 #~ msgid "You can communicate more effectively with openSUSE 11.1 because it provides a complete set of tools for Web browsing and e-mail management - it even includes the newest Voice over IP technology."
 #~ msgstr "При помощи openSUSE 11.0 вы можете общаться более эффективно, потому что этот дистрибутив предоставляет полный набор средств для обзора интернета и управления электронной почтой — он даже включает новейшие технологии интернет-телефонии."
+

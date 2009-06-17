@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow\n"
 "POT-Creation-Date: 2008-11-17 09:33+0100\n"
-"PO-Revision-Date: 2008-11-17 15:51+0100\n"
-"Last-Translator: Andrea Florio <andrea@opensuse.org>\n"
+"PO-Revision-Date: 2008-12-02 22:01+0100\n"
+"Last-Translator: stefano luciani <stefano.luciani@studenti.unibg.it>\n"
 "Language-Team: italian <opensuse-translation@opensuse.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -57,7 +57,7 @@ msgstr "Con openSUSE 11.1 è possibile comunicare in modo più efficace perché 
 
 #: slideshow.xml:64(para)
 msgid "openSUSE includes Mozilla Firefox, one of the best Web browsers in the world. Firefox includes all the features you need to enjoy the Web, including Java, Adobe Acrobat Reader, and Adobe Flash plugins. Firefox also boasts lightning-fast performance, and a number of improvements designed to protect your privacy and prevent phishing attacks."
-msgstr "openSUSE include Mozilla Firefox, uno dei migliori Web browser del mondo. Firefox si integra tutte le  funzionalità di cui hai bisogno per godere del Wibe , quali Java, Adobe Acrobat Reader, e Adobe Flash plugin. Inoltre, Firefox unisce leggerezza e performance, oltre a molti progressi sul fronte della privacy e della prevenzione da attacchi di phishing."
+msgstr "openSUSE include Mozilla Firefox, uno dei migliori Web browser del mondo. Firefox integra tutte le  funzionalità di cui hai bisogno per godere del Web , quali Java, Adobe Acrobat Reader, e Adobe Flash plugin. Inoltre, Firefox unisce leggerezza e performance, oltre a molti progressi sul fronte della privacy e della prevenzione da attacchi di phishing."
 
 #: slideshow.xml:71(para)
 msgid "Also included with openSUSE are Novell Evolution and Kontact, complete e-mail and contact management applications. For instant messaging, openSUSE features easy to use IM clients that support all of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, Groupwise, and many others."
@@ -121,7 +121,7 @@ msgstr "Tecnologie di virtualizzazione e strumenti di sviluppo delle applicazion
 
 #: slideshow.xml:159(para)
 msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "Xen hypervisro è incluso in openSUSE. Xen è una delle soluzioni più robuste per la virtualizzazione disponibili. In aggiunta, openSUSE fornisce strumenti per la condivisione dei file in rete (Samba, NFS, etc..) strampanti (CUPS), e host Web (Apache). Per lo sviluppo di applicazioni, openSUSE viene fornita con un insieme completo di ambienti runtime più strumenti per lo sviluppo di applicazioni incluso KDevelop, Eclipse e Mono."
+msgstr "Xen hypervisor è incluso in openSUSE. Xen è una delle soluzioni più robuste per la virtualizzazione disponibili. In aggiunta, openSUSE fornisce strumenti per la condivisione dei file in rete (Samba, NFS, etc..) strampanti (CUPS), e host Web (Apache). Per lo sviluppo di applicazioni, openSUSE viene fornita con un insieme completo di ambienti runtime più strumenti per lo sviluppo di applicazioni incluso KDevelop, Eclipse e Mono."
 
 #: slideshow.xml:169(title)
 msgid "Learn More"
@@ -137,7 +137,7 @@ msgstr "Ulteriore documentazione è disponibile sul wiki di openSUSE all'indiriz
 
 #: slideshow.xml:191(para)
 msgid "For support from other openSUSE users, visit the official openSUSE forums at http://forums.opensuse.org/. Here you'll find thousands of other openSUSE users, eager to help you get everything you can out of Linux. If you're an experienced openSUSE user, the forums are a great place to meet other users, and help out other Linux users."
-msgstr "Per il supporto da altri utenti openSUSE, visita il forum ufficiale di openSUSE a  http://forums.opensuse.org/ . Qui trovarai migliaia di altri utenti openSUSE, desiderosi di aiutarti a ottenere tutto cioò che si pò fare con Linux. Se sei un utente esperto di openSUSE, i forum sono un ottimo posto per incontrare altri utenti, e aiutare altri utenti Linux."
+msgstr "Per il supporto da altri utenti openSUSE, visita il forum ufficiale di openSUSE a  http://forums.opensuse.org/ . Qui troverai migliaia di altri utenti openSUSE, desiderosi di aiutarti a ottenere tutto ciò che si pò fare con Linux. Se sei un utente esperto di openSUSE, i forum sono un ottimo posto per incontrare altri utenti, e aiutare altri utenti Linux."
 
 #: slideshow.xml:200(para)
 msgid "Want to make openSUSE even better? You can build almost anything with openSUSE. It's easy to create and share new packages for multiple Linux distributions using the unique and powerful openSUSE Build Service. Join openSUSE.org to collaborate."

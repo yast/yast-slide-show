@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: slideshow.hu\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-11-17 09:33+0100\n"
-"PO-Revision-Date: 2008-11-17 10:50+0100\n"
+"PO-Revision-Date: 2008-12-01 13:03+0100\n"
 "Last-Translator: Kalman Kemenczy <kkemenczy@novell.com>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -127,7 +127,7 @@ msgstr "Virtualizációs technológia és alkalmazásfejlesztő eszközök"
 
 #: slideshow.xml:159(para)
 msgid "The Xen hypervisor is included with openSUSE. Xen is one of the most robust solutions for virtualization available. In addition, openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web hosting (Apache). For application development, openSUSE comes with a complete set of runtime environments plus extensive application development tools, including KDevelop, Eclipse and Mono."
-msgstr "Az openSUSE tartalmazza a legnagyobb teljesítményű virtualizációs szoftvert, a XEN hypervisort, hálózati fájl- (Samba, NFS stb.) és nyomtatómegosztási eszközöket, valamint webkiszolgáló (Apache). Alkalmazásfejlesztéshez az openSUSE többféle futtatókörnyezetet és alkalmazásfejlesztő eszközök széles választékát (KDevelop, Eclipse és Mono) nyújtja a fejlesztőknek."
+msgstr "Az openSUSE tartalmazza a legnagyobb teljesítményű virtualizációs szoftvert, a XEN hypervisort, hálózati fájl- (Samba, NFS stb.) és nyomtatómegosztási eszközöket, valamint webkiszolgálót (Apache). Alkalmazásfejlesztéshez az openSUSE többféle futtatókörnyezetet és alkalmazásfejlesztő eszközök széles választékát (KDevelop, Eclipse és Mono) nyújtja a fejlesztőknek."
 
 #: slideshow.xml:169(title)
 msgid "Learn More"
