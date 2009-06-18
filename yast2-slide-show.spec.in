@@ -4,6 +4,8 @@
 BuildRequires:	pkgconfig yast2-devtools gnome-doc-utils docbook_4 sgml-skel
 BuildArchitectures:	noarch
 Summary:	-
+Source10:       slideshow-po.tar.gz
+Source12:       slideshow-sled-po.tar.gz
 %description
 -
 
@@ -31,6 +33,21 @@ Group:		System/YaST
 -
 
 @PREP@
+pushd SuSELinux
+tar xf %{S:10}
+langs=$(tar tf %{S:10}|sed 's=.*po/==;s=\.po$==;/^$/d'|sort -u|fmt -w1000)
+for f in Makefile.{am,in}; do
+  sed -i "s|^langs *=.*$|langs = en $langs|" $f
+done
+popd
+
+pushd SLED
+tar xf %{S:12}
+langs=$(tar tf %{S:12}|sed 's=.*po/==;s=\.po$==;/^$/d'|sort -u|fmt -w1000)
+for f in Makefile.{am,in}; do
+  sed -i "s|^langs *=.*$|langs = en $langs|" $f
+done
+popd
 
 @BUILD@
 ./tools/check_utf-8

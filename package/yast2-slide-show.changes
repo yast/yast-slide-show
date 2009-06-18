@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Thu Jun 18 15:07:40 CEST 2009 - ke@suse.de
+
+- Remove translations from SVN and bundle them separately as
+  tar files built in suse-i18n SVN.
+
+-------------------------------------------------------------------
 Wed Jun 17 15:10:34 CEST 2009 - ke@suse.de
 
 - 2.18.1:
