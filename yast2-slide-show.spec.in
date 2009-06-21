@@ -19,14 +19,14 @@ Group:		System/YaST
 # icecream 0
 
 %package SLES
-Summary:	-
+Summary:	YaST2 - Slide Show (Enterprise Server)
 Group:		System/YaST
 
 %description SLES
 -
 
 %package SLED
-Summary:	-
+Summary:	YaST2 - Slide Show (SUSE Linux Enterprise Desktop)
 Group:		System/YaST
 
 %description SLED
