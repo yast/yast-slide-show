@@ -7,30 +7,28 @@ Summary:	YaST2 - Slide Show
 Source10:       slideshow-po.tar.gz
 Source12:       slideshow-sled-po.tar.gz
 %description
--
+The slide show displayed during package installation with YaST2.
 
 %package SuSELinux
 Summary:	YaST2 - Slide Show (SuSE Linux)
 Group:		System/YaST
 
 %description SuSELinux
--
-# There seem to be issues with xml2po running parallel
-# icecream 0
+The slide show displayed during package installation with YaST2.
 
 %package SLES
 Summary:	YaST2 - Slide Show (Enterprise Server)
 Group:		System/YaST
 
 %description SLES
--
+A slide show displayed during package installation with YaST2.
 
 %package SLED
 Summary:	YaST2 - Slide Show (SUSE Linux Enterprise Desktop)
 Group:		System/YaST
 
 %description SLED
--
+The slide show displayed during package installation with YaST2.
 
 @PREP@
 pushd SuSELinux
