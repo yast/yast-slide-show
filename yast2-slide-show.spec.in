@@ -3,14 +3,14 @@
 @HEADER@
 BuildRequires:	pkgconfig yast2-devtools gnome-doc-utils docbook_4 sgml-skel
 BuildArchitectures:	noarch
-Summary:	-
+Summary:	YaST2 - Slide Show
 Source10:       slideshow-po.tar.gz
 Source12:       slideshow-sled-po.tar.gz
 %description
 -
 
 %package SuSELinux
-Summary:	-
+Summary:	YaST2 - Slide Show (SuSE Linux)
 Group:		System/YaST
 
 %description SuSELinux
