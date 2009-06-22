@@ -1,6 +1,7 @@
 @HEADER-COMMENT@
 
 @HEADER@
+Group:	Metapackages
 License: GPL v2 or later
 BuildRequires:	pkgconfig yast2-devtools gnome-doc-utils docbook_4 sgml-skel
 BuildArchitectures:	noarch
@@ -12,21 +13,21 @@ The slide show displayed during package installation with YaST2.
 
 %package SuSELinux
 Summary:	YaST2 - Slide Show (SuSE Linux)
-Group:		System/YaST
+Group:		Metapackages
 
 %description SuSELinux
 The slide show displayed during package installation with YaST2.
 
 %package SLES
 Summary:	YaST2 - Slide Show (Enterprise Server)
-Group:		System/YaST
+Group:		Metapackages
 
 %description SLES
 A slide show displayed during package installation with YaST2.
 
 %package SLED
 Summary:	YaST2 - Slide Show (SUSE Linux Enterprise Desktop)
-Group:		System/YaST
+Group:		Metapackages
 
 %description SLED
 The slide show displayed during package installation with YaST2.
