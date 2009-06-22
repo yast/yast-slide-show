@@ -1,6 +1,7 @@
 @HEADER-COMMENT@
 
 @HEADER@
+License: GPL v2 or later
 BuildRequires:	pkgconfig yast2-devtools gnome-doc-utils docbook_4 sgml-skel
 BuildArchitectures:	noarch
 Summary:	YaST2 - Slide Show
