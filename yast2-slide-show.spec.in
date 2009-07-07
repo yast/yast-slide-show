@@ -23,7 +23,7 @@ Summary:	YaST2 - Slide Show (Enterprise Server)
 Group:		Metapackages
 
 %description SLES
-A slide show displayed during package installation with YaST2.
+The slide show displayed during package installation with YaST2.
 
 %package SLED
 Summary:	YaST2 - Slide Show (SUSE Linux Enterprise Desktop)
