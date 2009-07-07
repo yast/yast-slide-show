@@ -12,14 +12,14 @@ Source12:       slideshow-sled-po.tar.gz
 The slide show displayed during package installation with YaST2.
 
 %package SuSELinux
-Summary:	YaST2 - Slide Show (SuSE Linux)
+Summary:	YaST2 - Slide Show (openSUSE)
 Group:		Metapackages
 
 %description SuSELinux
 The slide show displayed during package installation with YaST2.
 
 %package SLES
-Summary:	YaST2 - Slide Show (Enterprise Server)
+Summary:	YaST2 - Slide Show (SUSE Linux Enterprise Server)
 Group:		Metapackages
 
 %description SLES
