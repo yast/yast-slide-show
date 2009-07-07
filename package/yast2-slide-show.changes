@@ -1,4 +1,16 @@
 -------------------------------------------------------------------
+Tue Jul  7 14:00:17 CEST 2009 - ke@suse.de
+
+- 2.18.2:
+- Hardcode package name(s) and description(s) in .spec.in.
+
+-------------------------------------------------------------------
+Tue Jun 23 11:41:10 CEST 2009 - ke@suse.de
+
+- prepare spec yourself: add and adjust helper files coming with
+  bundle-lang-common (provided by coolo).
+
+-------------------------------------------------------------------
 Thu Jun 18 15:07:40 CEST 2009 - ke@suse.de
 
 - Remove translations from SVN and bundle them separately as
