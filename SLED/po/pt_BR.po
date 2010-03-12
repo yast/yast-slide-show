@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sled\n"
 "POT-Creation-Date: 2009-01-08 15:12+0100\n"
-"PO-Revision-Date: 2009-02-05 09:28\n"
+"PO-Revision-Date: 2010-03-12 13:55\n"
 "Last-Translator: Novell Language <language@novell.com>\n"
 "Language-Team: Novell Language <language@novell.com>\n"
 "MIME-Version: 1.0\n"
@@ -210,7 +210,7 @@ msgstr "Interoperabilidade: trabalhe com todos"
 
 #: slideshow.xml:260(para) 
 msgid "SUSE Linux Enterprise Desktop is designed with today's heterogeneous world in mind. It is fully capable to seamlessly integrate into existing Windows file and print environments. In addition, it plugs into existing Microsoft Active Directory and Novell eDirectory environments. With its broad use of open standards, SUSE Linux Enterprise Desktop enables you to share information across any IT system so that you can easily communicate with all users around you."
-msgstr "SUSE Linux Enterprise Desktop is designed with today's heterogeneous world in mind. It is fully capable to seamlessly integrate into existing Windows file and print environments. In addition, it plugs into existing Microsoft Active Directory and Novell eDirectory environments. With its broad use of open standards, SUSE Linux Enterprise Desktop enables you to share information across any IT system so that you can easily communicate with all users around you."
+msgstr "O SUSE Linux Enterprise Desktop foi projetado para acompanhar o mundo heterogêneo de hoje. É totalmente capaz de se integrar, de forma perfeita, aos ambientes existentes de arquivo e impressão do Windows. Além disso, ele se conecta aos ambientes existentes do Microsoft Active Directory e do Novell eDirectory. Com sua ampla utilização de padrão aberto, o SUSE Linux Enterprise Desktop permite compartilhar informações entre qualquer sistema de TI para facilitar a comunicação com todos os usuários à sua volta."
 
 #: slideshow.xml:268(para) 
 msgid "OpenOffice.org Novell Edition works with the widest range of document formats including Open Document Format, Microsoft Office formats (including OO XML),Works, WordPerfect and others."
