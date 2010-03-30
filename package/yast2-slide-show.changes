@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Tue Mar 30 13:20:24 CEST 2010 - ke@suse.de
+
+- 2.19.0
+- Increase version number; bnc#588396.
+
+-------------------------------------------------------------------
 Mon Feb 15 17:34:45 CET 2010 - seife@opensuse.org  
  
 - fix BuildRequires: for FACTORY  
