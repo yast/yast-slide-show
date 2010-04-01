@@ -11,6 +11,28 @@ Mon Feb 15 17:34:45 CET 2010 - seife@opensuse.org
 - disable parallel build
 
 -------------------------------------------------------------------
+Thu Oct 29 11:19:23 CET 2009 - ke@suse.de
+
+- Update translations for openSUSE 11.2 RC2.
+
+-------------------------------------------------------------------
+Fri Oct  9 09:57:33 CEST 2009 - ke@suse.de
+
+- Update translations for openSUSE 11.2 RC1.
+
+-------------------------------------------------------------------
+Thu Sep 24 15:36:21 CEST 2009 - ke@suse.de
+
+- Update translations for openSUSE 11.2 M8..
+
+-------------------------------------------------------------------
+Wed Sep 16 10:36:39 CEST 2009 - ke@suse.de
+
+- 2.18.3:
+- Increate version number; bnc#539275.
+- Update translations.
+
+-------------------------------------------------------------------
 Tue Jul  7 14:00:17 CEST 2009 - ke@suse.de
 
 - 2.18.2:
