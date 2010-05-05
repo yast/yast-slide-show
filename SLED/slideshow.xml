@@ -18,8 +18,8 @@
   <title>Welcome to SUSE Linux Enterprise Desktop</title>
 
 <para>SUSE Linux Enterprise Desktop is the industry's leading
-enterprise-quality Linux operating system that's optimized and ready
-for both business and personal use. SUSE Linux Enterprise Desktop
+enterprise-quality Linux operating system that is optimized and ready
+for both, business and personal use. SUSE Linux Enterprise Desktop
 provides market-leading usability, seamless interoperability with
 existing enterprise computer systems, and dozens of essential office
 applications that enable businesses to use Linux and open source with
@@ -36,7 +36,7 @@ technology vision, Novell introduces SUSE Linux Enterprise Desktop 11 as
 the most integrated and powerful Linux desktop. SUSE Linux Enterprise
 Desktop can be installed on a wide range of client devices including
 desktops, notebooks, netbooks, nettops, workstations, and more and
-includes all of the applications you need to be productive at work
+includes all the applications you need to be productive at work
 or home.</para>
 
 <para>Novell's sponsorship and industry leadership in key open source
@@ -69,8 +69,8 @@ illustrate Novell's unmatched innovation in the Linux desktop.</para>
  <para>So to always have you online NetworkManager, our easy-to-use
  network configuration tool can access the most complex and secured
  networks, including WEP, WPA, VPN and other technologies, or simply
- the open wireless network from your coffee shop. Making sure to keep
- connected to the Internet, no matter where you are.</para>
+ the open wireless network from your coffee shop, and makes sure to keep
+ you connected to the Internet no matter where you are.</para>
 
 </section>
 <section label="04_office">
@@ -92,13 +92,13 @@ transitions that nicely blend with our desktop effects.</para>
 
 </section>
 <section label="05_music">
-  <title>Banshee: Manage your Media library</title>
+  <title>Banshee: Manage your Media Library</title>
 
 <para>Novell is proud to sponsor the open source Banshee project,
 the easy-to-use and beautifully polished media management application.
-Listen to music, manage you music library, burn your own music CDs, or
-synchronize your music to your portable media player or smartphone so
-you listen to your music on the go. Banshee also gives you the ability
+Listen to music, manage your music library, burn your own music CDs, or
+synchronize your music to your portable media player or smartphone to
+be able to listen to your music on-the-go. Banshee also gives you the ability
 to subscribe to a variety of sources, including streamed music and
 podcasts.</para>
 
@@ -108,11 +108,11 @@ and decoder.</para>
 
 <para>New to SUSE Linux Enterprise Desktop 11, Banshee enables you to
 include videos into your media library, effortlessly letting you get
-entertained and up to date with video podcasts directly from your Linux
-desktop. Synchronize video podcasts to your  portable media player for
-viewing on the go.</para>
+entertained and up-to-date with video podcasts directly from your Linux
+desktop. Synchronize video podcasts to your portable media player for
+viewing on-the-go.</para>
 
-<para>Discover new music through the use of greatly integrated web
+<para>Discover new music through the use of greatly integrated Web
 services like Last.fm radio.</para>
 
 </section>
@@ -122,20 +122,19 @@ services like Last.fm radio.</para>
 <para>Our Photo management tool in SUSE Linux Enterprise Desktop could
 very well be the most user-friendly one ever invented. Recognizing
 virtually all digital cameras and photo storage devices automatically,
-F-Spot will let you in very few clicks import and manage all your
-photos. It keeps an original copy of your photos, allowing you to be
-creative and try all kind of modifications while making sure you never
-lose any of those precious snapshots again. And uploading pictures to the
+F-Spot will let you import and manage all your
+photos in very few clicks. It keeps an original copy of your photos, allowing you to be
+creative and try all kinds of modifications while making sure you never
+lose any of those precious snapshots again. Uploading pictures to the
 Internet has never been easier. Whether it is for printing or for your
 friends and family to enjoy, your photos are just 1-click away.</para>
 
-
 <para>For advanced image manipulation and graphics creation, the
 open-source community created GIMP. It is a fantastic and a complete
-photo retouching, image composition, and image authoring application. GIMP
+photo retouching, image composition and image authoring application. GIMP
 has enough features to satisfy the most exacting artist.</para>
 
-<para>Wondering about advanced vector graphics? Then Inkscape is for
+<para>Wondering about advanced vector graphics? Then Inkscape is the right graphical software for
 you. It is a versatile graphics solution using the W3C standard Scalable
 Vector Graphics (SVG) file format. Inkscape natively supports opening
 or importing SVG, SVGZ (gzipped SVG), PDF, and AI (Adobe Illustrator)
@@ -143,7 +142,7 @@ formats.</para>
 
 </section>
 <section label="07_greenIT">
-  <title>Linux helps reduce your carbon footprint</title>
+  <title>Linux Helps Reduce Your Carbon Footprint</title>
 
 <para>We are concerned about the environment. Whether you are a mobile
 worker or desktop user, SUSE Linux Enterprise Desktop reduces your
@@ -151,13 +150,13 @@ power consumption without impacting your productivity in any way. With
 increasing reliability, the system will maximize energy saving and will
 even let you track it.</para>
 
-<para>Now with effective power management at the processor, chipsets,
+<para>Now with effective power management on the processor, chipsets,
 platform and operating system level, Novell and its partners optimize
 power consumption in order to provide you with the longest possible
 battery life.</para>
 
 <para>Novell works with its hardware manufacturing partners to ensure
-that their systems installed with SUSE Linux Enterprise Desktop can earn
+that their systems installed with SUSE Linux Enterprise Desktop earn
 the ENERGY STAR qualification.</para>
 
 <para>By seamlessly providing remote desktop access, Novell aims to
@@ -166,11 +165,11 @@ travel.</para>
 
 </section>
 <section label="08_security">
-  <title>Keep Your System Secure and Up to Date</title>
+  <title>Keep Your System Secure and Up-to-Date</title>
 
-  <para>When your system is connected to the Internet, you'll be happy
+  <para>When your system is connected to the Internet, you will be happy
   to know that we enabled the SUSE Linux Firewall to help secure
-  your system and data from intruders. We also include AppArmor,
+  your system and data from intruders. We also included AppArmor,
   the most effective and easy-to-use Linux application security system
   available. It proactively protects the operating system and applications
   from external or internal threats.</para>
@@ -179,46 +178,46 @@ travel.</para>
 <para>In SUSE Linux Enterprise Desktop 11, we have introduced a new
 granular privilege system PolicyKit that greatly improves the ability
 for users and applications to be granted access to privileged operations
-when needed. Also in this release, we have improved wireless and wired
+when needed. Furthermore, we have improved wireless and wired
 network security connectivity and data encryption capabilities.</para>
 
-<para>Novell is dedicated to promptly providing its users with the latest
+<para>Novell is dedicated to promptly provide its users with the latest
 security updates. To ensure that the latest security patches are installed
 on your system, Novell provides a comprehensive resource management
-solution that allows you to stay current with all security updates.</para>
+solution that allows you to stay up-to-date with all security updates.</para>
 
 </section>
-<section label="09_openSUSE">
-  <title>openSUSE.org</title> <para>The openSUSE project is a worldwide
-  community program sponsored by Novell that promotes the use of
-  Linux everywhere.  Please visit opensuse.org where you can find
-  and join a community of users and developers, who all have the same
-  goal in mind - to create and distribute the world's most usable Linux
-  distribution. openSUSE provides the base our award-winning SUSE Linux
+ <section label="09_openSUSE">
+  <title>openSUSE.org</title>
+
+  <para>The openSUSE project is a worldwide community program sponsored by
+  Novell that promotes the use of Linux everywhere. Please visit opensuse.org
+  where you can find and join a community of users and developers who all have
+  the same goal in mind: to create and distribute the world's most usable
+  Linux distribution. openSUSE provides the base of our award-winning SUSE Linux
   Enterprise products.</para>
 
-<para>The openSUSE Build Service is an open and complete distribution
-development platform that provides a transparent infrastructure for
-development of the openSUSE distribution. With the openSUSE Build Service,
-you can easily find the latest open source packages you are looking
-for. It provides a bridge between developers and users with feedback and
-rating functionality. For developers it is an efficient place to build
-up groups and work together through its project model.</para>
+  <para>The openSUSE Build Service is an open and complete distribution
+  development platform that provides a transparent infrastructure for
+  development of the openSUSE distribution. With the openSUSE Build Service,
+  you can easily find the latest open source packages you are looking for. It
+  provides a bridge between developers and users with feedback and rating
+  functionality. For developers it is an efficient place to build up groups and
+  work together through its project model.</para>
 
-<para>ZYpp is our software management engine and open source project
-that powers products like YaST, ZYpper and ZENworks with a powerful
-dependency resolver and a convenient package management API.</para>
+  <para>Zypp is our software management engine and open source project that
+  powers products like YaST, Zypper and ZENworks with a powerful dependency
+  resolver and a convenient package management API.</para>
+ </section>
 
-
-</section>
 <section label="10_easy-management">
-  <title>Easy to deploy and manage</title>
+  <title>Easy to Deploy and Manage</title>
 
 <para>SUSE Linux Enterprise supports many deployment strategies
 providing system administrators flexible ways to customize and tailor
 the distribution to their needs.</para>
 
-<para>AutoYaST is a integrated solution for installing one or more systems
+<para>AutoYaST is an integrated solution for installing one or more systems
 automatically without user intervention. Installations are performed
 using a control file with installation and configuration data.</para>
 
@@ -239,10 +238,10 @@ requirements, Novell's partners qualify their systems for SUSE Linux
 Enterprise Desktop certification.</para>
 
 <para>With a system certified for SUSE Linux Enterprise Desktop you can
-in confidence use our software to manage your media library, collaborate
+trustfully use our software to manage your media library, collaborate
 on projects and stay connected with your friends.</para>
 
-<para>You can find all of the systems that have passed logo certification
+<para>You can find all the systems that have passed logo certification
 by visiting novell.com/desktop. Systems with certification fully take
 advantage of SUSE Linux Enterprise Desktop to deliver rich Internet
 experience, ease of use, and excellent performance.</para>
@@ -267,15 +266,15 @@ communicate with all users around you.</para>
 
 <para>OpenOffice.org Novell Edition works with the widest range of
 document formats including Open Document Format, Microsoft Office formats
-(including OO XML),Works, WordPerfect and others.</para>
+(including OO XML), Works, WordPerfect and others.</para>
 
-<para>Novell is a leader in the Mono project an open source version
+<para>Novell is a leader in the Mono project which is an open source version
 of the Microsoft .NET development platform. Its objective is to enable
 developers to build and deploy cross-platform .NET Applications. Mono is
-the foundation for Moonlight enabling you to enjoy Microsoft Silverlight
+the base for Moonlight enabling you to enjoy Microsoft Silverlight
 content on your Linux desktop.</para>
 
-<para>And, SUSE Linux Enterprise Desktop provides accessibility features
+<para>Futhermore, SUSE Linux Enterprise Desktop provides accessibility features
 so that anyone can take advantage of the improved productivity and lower
 cost that a Linux desktop provides.</para>
 
