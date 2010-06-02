@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Wed Jun  2 08:31:42 CEST 2010 - ke@suse.de
+
+- 2.19.1
+- fix openSUSE version string in slideshow.xml.
+
+-------------------------------------------------------------------
 Wed May  5 14:07:20 CEST 2010 - ke@suse.de
 
 - SLED proofreading done; bnc#489002.
