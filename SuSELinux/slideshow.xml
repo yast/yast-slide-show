@@ -30,7 +30,7 @@ everything you need in openSUSE &suse-version;.
   <title>openSUSE.org</title>
 
   <para>
-openSUSE is a community project created and sponsored by Novell to 
+openSUSE is a community project created and sponsored by SUSE to 
 deliver the world's most user-friendly computing platform. Many people
 from around the world contribute to the openSUSE Project by packaging
 software, testing programs, writing documentation, and translating
@@ -68,7 +68,7 @@ Adobe Flash plugins. Firefox also boasts lightning-fast
 performance, and a number of improvements designed to protect your
 privacy and prevent phishing attacks.</para>
 
-<para>Also included with openSUSE are Novell Evolution and Kontact, 
+<para>Also included with openSUSE are Evolution and Kontact, 
 complete e-mail and contact management applications. For instant 
 messaging, openSUSE features easy to use IM clients that support all 
 of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, 
@@ -92,11 +92,11 @@ with openSUSE.</para>
 
   <para>
 The openSUSE &suse-version; distribution comes complete with the latest version
-of the leading Linux productivity suite, OpenOffice.org. It features a word
+of the leading Linux productivity suite, LibreOffice. It features a word
 processor, spreadsheet application, HTML editor, presentation designer, and
 database manager. It reads and writes multiple formats—including Microsoft
 Office formats—so you can move back and forth easily between openSUSE 
-and popular non-Linux productivity software. OpenOffice.org is the perfect 
+and popular non-Linux productivity software. LibreOffice is the perfect 
 choice for reports, papers, home budgets, simple graphics and more.</para>
  </section>
 
@@ -160,8 +160,8 @@ important security updates, so you can install them at your convenience.
 robust solutions for virtualization available. In addition, openSUSE provides
 tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web
 hosting (Apache). For application development, openSUSE comes with a complete
-set of runtime environments plus extensive application development tools,
-including KDevelop, Eclipse and Mono.</para>
+set of runtime environments plus extensive application development tools.
+</para>
 
  </section>
 
@@ -206,17 +206,17 @@ Join openSUSE.org to collaborate.
   </section>
 
  <section label="12_novell">
-  <title>Novell and Linux</title>
+  <title>SUSE and Linux</title>
   <para>
-Novell is committed to your success with Linux. In addition to openSUSE,
-Novell also delivers an exciting suite of products designed to meet the
+SUSE is committed to your success with Linux. In addition to openSUSE,
+SUSE also delivers an exciting suite of products designed to meet the
 needs of businesses large and small.</para>
 
   <para>
-The enterprise Linux products from Novell include SUSE Linux Enterprise Server,
-SUSE Linux Enterprise Desktop and Novell Open Enterprise Server. Our enterprise
+The enterprise Linux products from SUSE include SUSE Linux Enterprise Server and
+SUSE Linux Enterprise Desktop. Our enterprise
 products are delivered with a seven-year maintenance guarantee and optional
-support programs. For more information on enterprise Linux from Novell, visit
+support programs. For more information on enterprise Linux from SUSE, visit
 http://www.novell.com/linux
 </para>
 
