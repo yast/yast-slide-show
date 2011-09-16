@@ -1,3 +1,6 @@
+- Apply spec-cleaner proposals such as macro usage instead of variables
+  or standard directories.
+
 -------------------------------------------------------------------
 Tue May 31 09:31:35 CEST 2011 - ke@suse.de
 
