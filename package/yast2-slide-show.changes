@@ -1,3 +1,4 @@
+- Update openSUSE slide-show text according to bnc#671697.
 - Apply spec-cleaner proposals such as macro usage instead of variables
   or standard directories.
 
