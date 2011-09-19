@@ -68,11 +68,11 @@ done
 @INSTALL@
 # Get rid of README files etc. auto-created by yast2-devtools
 # (but useless for this special package)
-/bin/rm -rf ${buildroot}%{_datadir}/doc/packages/yast2-slide-show
+/bin/rm -rf %{buildroot}%{_datadir}/doc/packages/yast2-slide-show
 
 # Get rid of test environment during autobuild
-/bin/rm -rf ${buildroot}%{_datadir}/YaST2/clients/slide-show.ycp
-/bin/rm -rf ${buildroot}%{_datadir}/YaST2/modules/SlideTester.ycp
+/bin/rm -rf %{buildroot}%{_datadir}/YaST2/clients/slide-show.ycp
+/bin/rm -rf %{buildroot}%{_datadir}/YaST2/modules/SlideTester.ycp
 
 @CLEAN@
 
