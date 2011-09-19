@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.2//EN" "http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd" [
 <!ENTITY yast "YaST">
 <!ENTITY suse "SUSE">
 <!ENTITY suselinux "&suse; Linux">
 <!ENTITY opensuse "openSUSE">
-<!ENTITY suse-version "11.4">
+<!ENTITY suse-version "12.1">
 ]>
 <!-- <table cellspacing="10" cellpadding="5"> -->
 <!--   <tr> -->
 <!--     <td valign="top"><img src="&imagedir;/01_welcome.png" width="150" valign="top"></td> -->
 <!--     <td> -->
-
 <section>
  <title>Slide Show</title>
 
@@ -63,16 +62,15 @@ management—it even includes the newest Voice over IP technology.
 
 <para>openSUSE includes Mozilla Firefox, one of the best Web browsers
 in the world. Firefox includes all the features you need to enjoy
-the Web, including Java, Adobe Acrobat Reader, and
-Adobe Flash plugins. Firefox also boasts lightning-fast
-performance, and a number of improvements designed to protect your
-privacy and prevent phishing attacks.</para>
+the Web, including the newest HTML5 technologies. Firefox also boasts
+lightning-fast performance, and a number of improvements designed to
+protect your privacy and prevent phishing attacks.</para>
 
 <para>Also included with openSUSE are Evolution and Kontact, 
 complete e-mail and contact management applications. For instant 
 messaging, openSUSE features easy to use IM clients that support all 
-of the popular protocols: AIM, Google Talk, Jabber, MSN, Yahoo!, 
-Groupwise, and many others.</para> 
+of the popular protocols: AIM, Facebook, Google Talk, Jabber, MSN,
+Yahoo!, Groupwise, and many others.</para> 
 
  </section>
 
@@ -217,7 +215,7 @@ The enterprise Linux products from SUSE include SUSE Linux Enterprise Server and
 SUSE Linux Enterprise Desktop. Our enterprise
 products are delivered with a seven-year maintenance guarantee and optional
 support programs. For more information on enterprise Linux from SUSE, visit
-http://www.novell.com/linux
+http://www.suse.com
 </para>
 
  </section>
