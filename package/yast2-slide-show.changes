@@ -1,4 +1,8 @@
-- Update openSUSE slide-show text according to bnc#671697.
+-------------------------------------------------------------------
+Mon Sep 19 11:36:18 CEST 2011 - ke@suse.de
+
+- 2.21.1
+- Update openSUSE slide-show text for 12.1; according to bnc#671697.
 - Apply spec-cleaner proposals such as macro usage instead of variables
   or standard directories.
 
