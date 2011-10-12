@@ -6,10 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sled.hu\n"
-"POT-Creation-Date: 2009-01-08 15:12+0100\n"
+"POT-Creation-Date: 2011-10-12 14:16+0200\n"
 "PO-Revision-Date: 2009-01-27 13:07+0100\n"
 "Last-Translator: Kalman Kemenczy <kkemenczy@novell.com>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -373,7 +374,7 @@ msgstr ""
 msgid "openSUSE.org"
 msgstr "openSUSE.org"
 
-#: slideshow.xml:192(para)
+#: slideshow.xml:194(para)
 msgid ""
 "The openSUSE project is a worldwide community program sponsored by Novell "
 "that promotes the use of Linux everywhere. Please visit opensuse.org where "
@@ -389,7 +390,7 @@ msgstr ""
 "Linux-disztribúcióját. Az openSUSE adja az alapját a díjnyertes SUSE Linux "
 "Enterprise termékeknek."
 
-#: slideshow.xml:200(para)
+#: slideshow.xml:201(para)
 msgid ""
 "The openSUSE Build Service is an open and complete distribution development "
 "platform that provides a transparent infrastructure for development of the "
@@ -407,7 +408,7 @@ msgstr ""
 "értékeléseken keresztül. A fejlesztőknek hatékony hely a csapat felépítésére "
 "és a közös munkára."
 
-#: slideshow.xml:208(para)
+#: slideshow.xml:209(para)
 msgid ""
 "ZYpp is our software management engine and open source project that powers "
 "products like YaST, ZYpper and ZENworks with a powerful dependency resolver "
@@ -545,20 +546,6 @@ msgstr ""
 
 #: slideshow.xml:272(para)
 msgid ""
-"Novell is a leader in the Mono project an open source version of the "
-"Microsoft .NET development platform. Its objective is to enable developers "
-"to build and deploy cross-platform .NET Applications. Mono is the foundation "
-"for Moonlight enabling you to enjoy Microsoft Silverlight content on your "
-"Linux desktop."
-msgstr ""
-"A Novell vezeti a Mono projektet, amely a Microsoft .NET fejlesztői "
-"környezet nyílt forrású verziója. Célja, hogy lehetőséget biztosítson a "
-"fejlesztők számára platformfüggetlen .NET alkalmazások fejlesztésére. A Mono "
-"az alapja a Moonlightnak, amely lehetőséget biztosít Microsoft Silverlight-"
-"tartalmak megjelenítésére Linux-munkaállomáson."
-
-#: slideshow.xml:278(para)
-msgid ""
 "And, SUSE Linux Enterprise Desktop provides accessibility features so that "
 "anyone can take advantage of the improved productivity and lower cost that a "
 "Linux desktop provides."
@@ -568,7 +555,20 @@ msgstr ""
 "hogy élvezze a Linux Desktop által biztosított megnövekedett produktivitás "
 "és az alacsony költség előnyeit."
 
-#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
 msgid "translator-credits"
 msgstr "Kálmán Kéménczy <kkemenczy@novell.com>, 2006., 2007., 2008., 2009."
+
+#~ msgid ""
+#~ "Novell is a leader in the Mono project an open source version of the "
+#~ "Microsoft .NET development platform. Its objective is to enable "
+#~ "developers to build and deploy cross-platform .NET Applications. Mono is "
+#~ "the foundation for Moonlight enabling you to enjoy Microsoft Silverlight "
+#~ "content on your Linux desktop."
+#~ msgstr ""
+#~ "A Novell vezeti a Mono projektet, amely a Microsoft .NET fejlesztői "
+#~ "környezet nyílt forrású verziója. Célja, hogy lehetőséget biztosítson a "
+#~ "fejlesztők számára platformfüggetlen .NET alkalmazások fejlesztésére. A "
+#~ "Mono az alapja a Moonlightnak, amely lehetőséget biztosít Microsoft "
+#~ "Silverlight-tartalmak megjelenítésére Linux-munkaállomáson."
