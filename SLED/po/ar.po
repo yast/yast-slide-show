@@ -4,11 +4,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sled\n"
-"POT-Creation-Date: 2011-10-12 14:16+0200\n"
-"PO-Revision-Date: 2011-09-08 19:07\n"
+"POT-Creation-Date: 2011-10-12 15:39+0200\n"
+"PO-Revision-Date: 2011-10-20 08:16\n"
 "Last-Translator: Novell Language <language@novell.com>\n"
 "Language-Team: Novell Language <language@novell.com>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,534 +21,207 @@ msgid "Welcome to SUSE Linux Enterprise Desktop"
 msgstr "مرحبًا بك في SUSE Linux Enterprise Desktop"
 
 #: slideshow.xml:20(para)
-msgid ""
-"SUSE Linux Enterprise Desktop is the industry's leading enterprise-quality "
-"Linux operating system that's optimized and ready for both business and "
-"personal use. SUSE Linux Enterprise Desktop provides market-leading "
-"usability, seamless interoperability with existing enterprise computer "
-"systems, and dozens of essential office applications that enable businesses "
-"to use Linux and open source with confidence. Designed for general-purpose "
-"use, SUSE Linux Enterprise Desktop can also be tailored to fit fixed-"
-"function or special-purpose roles such as on technical workstations, kiosks, "
-"and thin clients."
-msgstr ""
-"SUSE Linux Enterprise Desktop هو نظام تشغيل Linux يستوفي معايير الجودة "
-"للمؤسسات الرائدة في مجال التصنيع، والذي تم تحسينه وجاهز للاستخدام للأغراض "
-"الشخصية والتجارية. يتسم SUSE Linux Enterprise Desktop بالاستخدام الرائد على "
-"مستوى الأسواق وإمكانية التشغيل منقطع النظير على أنظمة الكمبيوتر المستخدمة في "
-"المؤسسات، كما يوفر مجموعات تطبيقات office الأساسية التي تتيح للشركات إمكانية "
-"استخدام Linux وopen source على نحو موثوق. ويمكن إعداد SUSE Linux Enterprise "
-"Desktop ليلائم أدوار خاصة أو وظيفة معينة مثل أدوار محطات العمل وkiosks "
-"والأجهزة العميلة البسيطة."
+msgid "SUSE Linux Enterprise Desktop is the industry's leading enterprise-quality Linux operating system that is optimized and ready for both, business and personal use. SUSE Linux Enterprise Desktop provides market-leading usability, seamless interoperability with existing enterprise computer systems, and dozens of essential office applications that enable businesses to use Linux and open source with confidence. Designed for general-purpose use, SUSE Linux Enterprise Desktop can also be tailored to fit fixed-function or special-purpose roles such as on technical workstations, kiosks, and thin clients."
+msgstr "SUSE Linux Enterprise Desktop هو نظام تشغيل Linux محسّن يستوفي معايير الجودة للمؤسسات الرائدة في مجال التصنيع، وهو جاهز للاستخدام للأغراض الشخصية والتجارية. يتسم SUSE Linux Enterprise Desktop بالاستخدام الرائد على مستوى الأسواق وإمكانية التشغيل السلس على أنظمة الكمبيوتر الموجودة في المؤسسات، كما يوفر مجموعات تطبيقات office الأساسية التي تتيح للشركات إمكانية استخدام Linux وopen source على نحو موثوق. ويمكن إعداد SUSE Linux Enterprise Desktop، الذي تم تصميمه للأغراض العامة، ليلائم أدوار ذات أغراض خاصة أو وظيفة معينة، مثل أدوار محطات العمل الفنية وkiosk والأجهزة العميلة البسيطة."
 
 #: slideshow.xml:31(title)
 msgid "The Latest Desktop Innovations"
 msgstr "أحدث ابتكارات سطح المكتب"
 
 #: slideshow.xml:33(para)
-msgid ""
-"Novell's leadership in desktop innovation is unparalleled. Combining results "
-"from extensive and ongoing usability studies with an outstanding technology "
-"vision, Novell introduces SUSE Linux Enterprise Desktop 11 as the most "
-"integrated and powerful Linux desktop. SUSE Linux Enterprise Desktop can be "
-"installed on a wide range of client devices including desktops, notebooks, "
-"netbooks, nettops, workstations, and more and includes all of the "
-"applications you need to be productive at work or home."
-msgstr ""
-"تتميز شركة Novell بالريادة منقطعة النظير في مجال سطح المكتب. وتقدم شركة "
-"Novell إصدار SUSE Linux Enterprise Desktop 11، بناءً على الجمع بين النتائج "
-"التي تم الحصول عليها من دراسة إمكانية الاستخدام الواسع والمستمر وبين رؤية "
-"التكنولوجيا، ليكون إصدار Linux desktop الأكثر تكاملاً وفعالية. ويمكن تثبيت "
-"SUSE Linux Enterprise Desktop على نطاق واسع من الأجهزة العميلة بما في ذلك "
-"أسطح المكتب ودفاتر الملاحظات وأجهزة الكمبيوتر المكتبية قليلة التكلفة ومحطات "
-"العمل وغير ذلك، وتتضمن كافة التطبيقات التي تحتاجها لتصبح منتِجًا في العمل أو "
-"المنزل."
+msgid "Novell's leadership in desktop innovation is unparalleled. Combining results from extensive and ongoing usability studies with an outstanding technology vision, Novell introduces SUSE Linux Enterprise Desktop 11 as the most integrated and powerful Linux desktop. SUSE Linux Enterprise Desktop can be installed on a wide range of client devices including desktops, notebooks, netbooks, nettops, workstations, and more and includes all the applications you need to be productive at work or home."
+msgstr "تتميز شركة Novell بالريادة منقطعة النظير في مجال سطح المكتب. وتقدم شركة Novell إصدار SUSE Linux Enterprise Desktop 11، بناءً على الجمع بين النتائج التي تم الحصول عليها من دراسات إمكانية الاستخدام الواسع والمستمر مع رؤية تكنولوجيا واضحة، ليكون إصدار Linux desktop الأكثر تكاملاً وفعالية. ويمكن تثبيت SUSE Linux Enterprise Desktop على نطاق واسع من الأجهزة العميلة بما في ذلك أجهزة الكمبيوتر المكتبية وأجهزة الكمبيوتر الدفترية وأجهزة الكمبيوتر المكتبية قليلة التكلفة ومحطات العمل وغير ذلك، وتتضمن كافة التطبيقات التي تحتاجها لتصبح منتِجًا في العمل أو المنزل."
 
 #: slideshow.xml:42(para)
-msgid ""
-"Novell's sponsorship and industry leadership in key open source projects "
-"such as the Linux kernel, OpenOffice.org, GNOME, Evolution, NetworkManager, "
-"Banshee, Mono, Compiz, F-Spot, Beagle, and many others illustrate Novell's "
-"unmatched innovation in the Linux desktop."
-msgstr ""
-"توضح رعاية شركة Novell وريادتها للصناعة في المشروعات الأساسية مفتوحة المصدر "
-"مثل Linux kernel وOpenOffice.org وGNOME وEvolution وNetworkManager وBanshee "
-"وMono وCompiz وF-Spot والكثير من المشروعات الأخرى، إبداع شركة Novell منقطع "
-"النظير في أجهزة الكمبيوتر المكتبية التي تعمل بأنظمة تشغيل Linux."
+msgid "Novell's sponsorship and industry leadership in key open source projects such as the Linux kernel, OpenOffice.org, GNOME, Evolution, NetworkManager, Banshee, Mono, Compiz, F-Spot, Beagle, and many others illustrate Novell's unmatched innovation in the Linux desktop."
+msgstr "توضح رعاية شركة Novell وريادتها للصناعة في المشروعات الأساسية مفتوحة المصدر مثل Linux kernel وOpenOffice.org وGNOME وEvolution وNetworkManager وBanshee وMono وCompiz وF-Spot والكثير من المشروعات الأخرى، إبداع شركة Novell منقطع النظير في أجهزة الكمبيوتر المكتبية التي تعمل بأنظمة تشغيل Linux."
 
 #: slideshow.xml:49(title)
 msgid "Connect and Communicate"
 msgstr "التوصيل والاتصال"
 
 #: slideshow.xml:51(para)
-msgid ""
-"SUSE Linux Enterprise Desktop 11 provides all the tools you need to "
-"communicate with the world."
-msgstr ""
-"يقدم إصدار SUSE Linux Enterprise Desktop 11 كافة الأدوات التي تحتاج إليها "
-"للتواصل مع العالم."
+msgid "SUSE Linux Enterprise Desktop 11 provides all the tools you need to communicate with the world."
+msgstr "يقدم إصدار SUSE Linux Enterprise Desktop 11 كافة الأدوات التي تحتاج إليها للتواصل مع العالم."
 
 #: slideshow.xml:54(para)
-msgid ""
-"The Firefox Web browser is the best Web browser in the market. It boasts a "
-"complete set of browser features and lightning-fast performance out of the "
-"box, and delivers a rich user experience through plug-ins such as Java, "
-"Novell Moonlight, Adobe Acrobat Reader, and Adobe Flash Player, which are "
-"all included in SUSE Linux Enterprise Desktop 11."
-msgstr ""
-"يعد Firefox Web browser أفضل مستعرض ويب في السوق. فهو يدعم مجموعة كاملة من "
-"ميزات المستعرض، ويتسم بالأداء غير التقليدي الذي يتميز بالسرعة الفائقة، "
-"بالإضافة إلى منح المستخدم خبرة قوية من خلال الأدوات الإضافية مثل Java "
-"وNovell Moonlight وAdobe Acrobat Reader وAdobe Flash Player التي تتوفر "
-"جميعها في SUSE Linux Enterprise Desktop 11."
+msgid "The Firefox Web browser is the best Web browser in the market. It boasts a complete set of browser features and lightning-fast performance out of the box, and delivers a rich user experience through plug-ins such as Java, Novell Moonlight, Adobe Acrobat Reader, and Adobe Flash Player, which are all included in SUSE Linux Enterprise Desktop 11."
+msgstr "يعد Firefox Web browser أفضل مستعرض ويب في السوق. فهو يدعم مجموعة كاملة من ميزات المستعرض، ويتسم بالأداء غير التقليدي الذي يتميز بالسرعة الفائقة، بالإضافة إلى منح المستخدم خبرة قوية من خلال الأدوات الإضافية مثل Java وNovell Moonlight وAdobe Acrobat Reader وAdobe Flash Player التي تتوفر جميعها في SUSE Linux Enterprise Desktop 11."
 
 #: slideshow.xml:61(para)
-msgid ""
-"Novell Evolution is a complete collaboration client suite supporting "
-"collaboration open standards. It includes Novell GroupWise and Microsoft "
-"Exchange connectivity for messaging, contact management, calendaring and "
-"task management."
-msgstr ""
-"Novell Evolution هي مجموعة متكاملة للتعاون بين العملاء والتي تدعم المعايير "
-"المفتوحة. وتتضمن هذه المجموعة الاتصال بين Novell GroupWise وMicrosoft "
-"Exchange للمراسلة وإدارة جهات الاتصال والتقويم وإدارة المهام."
+msgid "Novell Evolution is a complete collaboration client suite supporting collaboration open standards. It includes Novell GroupWise and Microsoft Exchange connectivity for messaging, contact management, calendaring and task management."
+msgstr "Novell Evolution هي مجموعة متكاملة للتعاون بين العملاء والتي تدعم المعايير المفتوحة. وتتضمن هذه المجموعة الاتصال بين Novell GroupWise وMicrosoft Exchange للمراسلة وإدارة جهات الاتصال والتقويم وإدارة المهام."
 
 #: slideshow.xml:66(para)
-msgid ""
-"SUSE Linux Enterprise Desktop also includes an instant messaging client that "
-"lets you connect with people all over the world."
-msgstr ""
-"ويتضمن SUSE Linux Enterprise Desktop أيضًا عميل مراسلة فورية يتيح لك إمكانية "
-"الاتصال بالأشخاص في كافة أنحاء العالم."
+msgid "SUSE Linux Enterprise Desktop also includes an instant messaging client that lets you connect with people all over the world."
+msgstr "ويتضمن SUSE Linux Enterprise Desktop أيضًا عميل مراسلة فورية يتيح لك إمكانية الاتصال بالأشخاص في كافة أنحاء العالم."
 
 #: slideshow.xml:69(para)
-msgid ""
-"So to always have you online NetworkManager, our easy-to-use network "
-"configuration tool can access the most complex and secured networks, "
-"including WEP, WPA, VPN and other technologies, or simply the open wireless "
-"network from your coffee shop. Making sure to keep connected to the "
-"Internet, no matter where you are."
-msgstr ""
-"ولكي تكون دائمًا على اتصال بالإنترنت، يمكن لأداة تكوين الشبكة سهلة الاستخدام "
-"التي تسمى NetworkManager الوصول إلى أكثر الشبكات تعقيدًا وأمانًا بما فيها WEP "
-"وWPA وVPN والتقنيات الأخرى، أو الشبكة اللاسلكية المفتوحة من المقهى. وكن "
-"دائمًا متصلاً بالإنترنت بغض النظر عن المكان الذي توجد فيه."
+msgid "So to always have you online NetworkManager, our easy-to-use network configuration tool can access the most complex and secured networks, including WEP, WPA, VPN and other technologies, or simply the open wireless network from your coffee shop, and makes sure to keep you connected to the Internet no matter where you are."
+msgstr "ولكي تكون دائمًا على اتصال بالإنترنت، يمكن لأداة تكوين الشبكة سهلة الاستخدام التي تسمى NetworkManager الوصول إلى أكثر الشبكات تعقيدًا وأمانًا بما فيها WEP وWPA وVPN والتقنيات الأخرى، أو الشبكة اللاسلكية المفتوحة من المقهى. كما تضمن لك الاتصال بالإنترنت على الدوام بغض النظر عن المكان الذي توجد فيه."
 
 #: slideshow.xml:77(title)
 msgid "Spreadsheets, Presentations, Text Documents and More"
 msgstr "جداول البيانات والعروض التقديمية والوثائق النصية والمزيد"
 
 #: slideshow.xml:78(para)
-msgid ""
-"SUSE Linux Enterprise Desktop comes complete with the latest version of the "
-"leading open source office productivity suite, OpenOffice.org. OpenOffice."
-"org Novell Edition comes with word processing, spreadsheet, presentation, "
-"database, and drawing applications."
-msgstr ""
-"يتم إصدار SUSE Linux Enterprise Desktop كاملاً بحيث يتضمن أحدث إصدارات مجموعة "
-"برامج الإنتاج المكتبية مفتوحة المصدر المعروفة باسم OpenOffice.org. أما "
-"OpenOffice.org Novell Edition فيتم إصداره كاملاً بحيث يتضمن تطبيقات الرسم "
-"وقواعد البيانات والعروض التقديمية وجداول البيانات ومعالجة النصوص."
+msgid "SUSE Linux Enterprise Desktop comes complete with the latest version of the leading open source office productivity suite, OpenOffice.org. OpenOffice.org Novell Edition comes with word processing, spreadsheet, presentation, database, and drawing applications."
+msgstr "يتم إصدار SUSE Linux Enterprise Desktop كاملاً بحيث يتضمن أحدث إصدارات مجموعة برامج الإنتاج المكتبية مفتوحة المصدر المعروفة باسم OpenOffice.org. أما OpenOffice.org Novell Edition فيتم إصداره كاملاً بحيث يتضمن تطبيقات الرسم وقواعد البيانات والعروض التقديمية وجداول البيانات ومعالجة النصوص."
 
 #: slideshow.xml:84(para)
-msgid ""
-"As the leading alternative to Microsoft Office, OpenOffice.org Novell "
-"Edition fully supports the latest open document format standards, the widest "
-"range of Microsoft Office file formats and many others."
-msgstr ""
-"باعتباره البديل الأول لـ Microsoft Office، يدعم OpenOffice.org Novell "
-"Edition أحدث معايير تنسيق open document، ويعد التنسيق الأكثر انتشارًا لملفات "
-"Microsoft Office وغيرها من التنسيقات."
+msgid "As the leading alternative to Microsoft Office, OpenOffice.org Novell Edition fully supports the latest open document format standards, the widest range of Microsoft Office file formats and many others."
+msgstr "باعتباره البديل الأول لـ Microsoft Office، يدعم OpenOffice.org Novell Edition أحدث معايير تنسيق open document، ويعد التنسيق الأكثر انتشارًا لملفات Microsoft Office وغيرها من التنسيقات."
 
 #: slideshow.xml:88(para)
-msgid ""
-"OpenOffice.org Novell Edition also provides enhanced VBA macro support, an "
-"improved Solver, and pivot table capability. To spice up all your "
-"presentations, OpenOffice.org Novell Edition has great new slide transitions "
-"that nicely blend with our desktop effects."
-msgstr ""
-"يوفر إصدار OpenOffice.org Novell Edition أيضًا دعمًا شاملاً لأداة VBA المحسنة "
-"وأداة Solver وإمكانية pivot table. ولزيادة جاذبية كافة العروض التقديمية "
-"الخاصة بك، يوجد في OpenOffice.org Novell Edition مراحل انتقالية للشرائح "
-"جديدة ورائعة تندمج بشكل جميل مع تأثيرات سطح المكتب."
+msgid "OpenOffice.org Novell Edition also provides enhanced VBA macro support, an improved Solver, and pivot table capability. To spice up all your presentations, OpenOffice.org Novell Edition has great new slide transitions that nicely blend with our desktop effects."
+msgstr "يوفر إصدار OpenOffice.org Novell Edition أيضًا دعمًا شاملاً لأداة VBA المحسنة وأداة Solver وإمكانية pivot table. ولزيادة جاذبية كافة العروض التقديمية الخاصة بك، يوجد في OpenOffice.org Novell Edition مراحل انتقالية للشرائح جديدة ورائعة تندمج بشكل جميل مع تأثيرات سطح المكتب."
 
 #: slideshow.xml:95(title)
-msgid "Banshee: Manage your Media library"
+msgid "Banshee: Manage your Media Library"
 msgstr "Banshee: إدارة مكتبة الوسائط"
 
 #: slideshow.xml:97(para)
-msgid ""
-"Novell is proud to sponsor the open source Banshee project, the easy-to-use "
-"and beautifully polished media management application. Listen to music, "
-"manage you music library, burn your own music CDs, or synchronize your music "
-"to your portable media player or smartphone so you listen to your music on "
-"the go. Banshee also gives you the ability to subscribe to a variety of "
-"sources, including streamed music and podcasts."
-msgstr ""
-"تفخر Novell برعاية مشروع Banshee مفتوح المصدر، وهو تطبيق إدارة وسائط جذاب "
-"وسهل الاستخدام.  وهو يتيح لك الاستماع إلى الموسيقى وإدارة مكتبة الموسيقى "
-"ونسخ أقراص الموسيقى المضغوطة الخاصة بك أو مزامنة الموسيقى الخاصة بك مع مشغل "
-"الوسائط المحمولة أو الهاتف الذكي بحيث يمكنك الاستماع إلى الموسيقى أثناء "
-"التنقل. كما يتيح لك Banshee إمكانية الاشتراك في العديد من المصادر، بما في "
-"ذلك العديد من ملفات الموسيقى المتدفقة وملفات البث على الويب."
+msgid "Novell is proud to sponsor the open source Banshee project, the easy-to-use and beautifully polished media management application. Listen to music, manage your music library, burn your own music CDs, or synchronize your music to your portable media player or smartphone to be able to listen to your music on-the-go. Banshee also gives you the ability to subscribe to a variety of sources, including streamed music and podcasts."
+msgstr "تفخر Novell برعاية مشروع Banshee مفتوح المصدر، وهو تطبيق إدارة وسائط جذاب وسهل الاستخدام.  وهو يتيح لك الاستماع إلى الموسيقى أو إدارة مكتبة الموسيقى أو نسخ أقراص الموسيقى المضغوطة الخاصة بك أو مزامنة الموسيقى الخاصة بك مع مشغل الوسائط المحمول أو الهاتف الذكي بحيث يمكنك الاستماع إلى الموسيقى أثناء التنقل. كما يتيح لك Banshee إمكانية الاشتراك في العديد من المصادر، بما في ذلك العديد من ملفات الموسيقى المتدفقة وملفات البث على الويب."
 
 #: slideshow.xml:105(para)
-msgid ""
-"To ensure the highest quality recordings and playback, Novell developed its "
-"own state of the art Advanced Audio Coding (AAC) encoder and decoder."
-msgstr ""
-"لضمان أعلى جودة للتسجيلات والتشغيل، قامت شركة Novell بتطوير أداة ترميز وأداة "
-"فك ترميز الصوت المتقدم (AAC) عالية التقنية."
+msgid "To ensure the highest quality recordings and playback, Novell developed its own state of the art Advanced Audio Coding (AAC) encoder and decoder."
+msgstr "لضمان أعلى جودة للتسجيلات والتشغيل، قامت شركة Novell بتطوير أداة ترميز وأداة فك ترميز الصوت المتقدم (AAC) عالية التقنية."
 
 #: slideshow.xml:109(para)
-msgid ""
-"New to SUSE Linux Enterprise Desktop 11, Banshee enables you to include "
-"videos into your media library, effortlessly letting you get entertained and "
-"up to date with video podcasts directly from your Linux desktop. Synchronize "
-"video podcasts to your portable media player for viewing on the go."
-msgstr ""
-"باعتبارها سمة جديدة في SUSE Linux Enterprise Desktop 11، تتيح لك Banshee "
-"إمكانية تضمين ملفات الفيديو في مكتبة الوسائط الخاصة بك، والاستمتاع دون بذل "
-"جهد بملفات الفيديو التي يتم بثها على الويب مباشرةً من خلال جهاز كمبيوتر مكتبي "
-"يعمل بأنظمة تشغيل Linux. كما يقوم بمزامنة ملفات الفيديو التي يتم بثها على "
-"الويب مع مشغل وسائط محمول للعرض أثناء االتنقل."
+msgid "New to SUSE Linux Enterprise Desktop 11, Banshee enables you to include videos into your media library, effortlessly letting you get entertained and up-to-date with video podcasts directly from your Linux desktop. Synchronize video podcasts to your portable media player for viewing on-the-go."
+msgstr "باعتبارها سمة جديدة في SUSE Linux Enterprise Desktop 11، تتيح لك Banshee إمكانية تضمين ملفات الفيديو في مكتبة الوسائط الخاصة بك، والاستمتاع دون بذل جهد بملفات الفيديو التي يتم بثها على الويب مباشرةً من خلال جهاز كمبيوتر مكتبي يعمل بأنظمة تشغيل Linux‏.‏ كما يقوم بمزامنة ملفات الفيديو التي يتم بثها على الويب مع مشغل وسائط محمول للعرض أثناء االتنقل."
 
 #: slideshow.xml:115(para)
-msgid ""
-"Discover new music through the use of greatly integrated web services like "
-"Last.fm radio."
-msgstr ""
-"اكتشف موسيقى جديدة من خلال استخدام خدمات الويب المتكاملة بشكل رائع مثل راديو "
-"Last.fm."
+msgid "Discover new music through the use of greatly integrated Web services like Last.fm radio."
+msgstr "اكتشف موسيقى جديدة من خلال استخدام خدمات الويب المتكاملة بشكل رائع مثل راديو Last.fm‏."
 
 #: slideshow.xml:120(title)
 msgid "Photos, Images, Drawings, Graphics"
 msgstr "الصور الفوتوغرافية والصور والرسومات والأشكال الرسومية"
 
 #: slideshow.xml:122(para)
-msgid ""
-"Our Photo management tool in SUSE Linux Enterprise Desktop could very well "
-"be the most user-friendly one ever invented. Recognizing virtually all "
-"digital cameras and photo storage devices automatically, F-Spot will let you "
-"in very few clicks import and manage all your photos. It keeps an original "
-"copy of your photos, allowing you to be creative and try all kind of "
-"modifications while making sure you never lose any of those precious "
-"snapshots again. And uploading pictures to the Internet has never been "
-"easier. Whether it is for printing or for your friends and family to enjoy, "
-"your photos are just 1-click away."
-msgstr ""
-"تعتبر أداة إدارة الصور الخاصة بنا في SUSE Linux Enterprise Desktop أكثر "
-"الأدوات سهولة في الاستخدام. ومن خلال قدرته على التعرف ظاهريًا على كافة "
-"الكاميرات الرقمية وأجهزة تخزين الصور الفوتوغرافية تلقائيًا، سيتيح لك تطبيق F-"
-"Spot استيراد كافة الصور الخاصة بك وإدارتها بعدد قليل جدًا من النقرات. كما "
-"يحتفظ بنسخة من أصل الصور ليتيح لك فرصة ممارسة الإبداع وتجربة كافة أنواع "
-"التعديلات على الصور دون المخاطرة بفقد أي من  لقطاتك القيِّمة بشكل لا رجعة فيه. "
-"كما يتيح لك إمكانية تحميل الصور على الإنترنت بسهولة ليس لها مثيل. وسواء كان "
-"الغرض من الصور هو الطباعة أو إمتاع الأصدقاء والعائلة، فإن هذا الغرض قابل "
-"للتحقيق بنقرة زر واحدة."
+msgid "Our Photo management tool in SUSE Linux Enterprise Desktop could very well be the most user-friendly one ever invented. Recognizing virtually all digital cameras and photo storage devices automatically, F-Spot will let you import and manage all your photos in very few clicks. It keeps an original copy of your photos, allowing you to be creative and try all kinds of modifications while making sure you never lose any of those precious snapshots again. Uploading pictures to the Internet has never been easier. Whether it is for printing or for your friends and family to enjoy, your photos are just 1-click away."
+msgstr "تعتبر أداة إدارة الصور الخاصة بنا في SUSE Linux Enterprise Desktop أكثر الأدوات سهولة في الاستخدام. ومن خلال قدرته على التعرف ظاهريًا على كافة الكاميرات الرقمية وأجهزة تخزين الصور الفوتوغرافية تلقائيًا، سيتيح لك تطبيق F-Spot استيراد كافة الصور الخاصة بك وإدارتها بعدد قليل جدًا من النقرات. كما يحتفظ بنسخة من أصل الصور ليتيح لك فرصة ممارسة الإبداع وتجربة كافة أنواع التعديلات على الصور دون المخاطرة بفقد أي من  لقطاتك القيِّمة بشكل لا رجعة فيه. كما يتيح لك إمكانية تحميل الصور على الإنترنت بسهولة ليس لها مثيل. وسواء كان الغرض من الصور هو الطباعة أو إمتاع الأصدقاء والعائلة، فإن هذا الغرض قابل للتحقيق بنقرة زر واحدة."
 
-#: slideshow.xml:133(para)
-msgid ""
-"For advanced image manipulation and graphics creation, the open-source "
-"community created GIMP. It is a fantastic and a complete photo retouching, "
-"image composition, and image authoring application. GIMP has enough features "
-"to satisfy the most exacting artist."
-msgstr ""
-"للتعامل مع الصور وإنشاء الرسومات بأسلوب متطور، قامت جماعة المشاركين في "
-"البرامج مفتوحة المصدر بإنشاء GIMP. وهو تطبيق رائع وكامل لتحسين الصور "
-"الفوتوغرافية وتركيب الصور وإنشائها. ويضم GIMP ميزات كافية لتلبية أكثر "
-"المتطلبات إلحاحًا للمستخدمين ذوي الميول الفنية."
+#: slideshow.xml:132(para)
+msgid "For advanced image manipulation and graphics creation, the open-source community created GIMP. It is a fantastic and a complete photo retouching, image composition and image authoring application. GIMP has enough features to satisfy the most exacting artist."
+msgstr "لمعالجة الصور وإنشاء الرسومات بأسلوب متطور، قامت جماعة المشاركين في البرامج مفتوحة المصدر بإنشاء GIMP‏. وهو تطبيق رائع وكامل لتحسين الصور الفوتوغرافية وتركيب الصور وإنشائها. ويضم GIMP ميزات كافية لتلبية أكثر المتطلبات إلحاحًا للمستخدمين ذوي الميول الفنية."
 
-#: slideshow.xml:138(para)
-msgid ""
-"Wondering about advanced vector graphics? Then Inkscape is for you. It is a "
-"versatile graphics solution using the W3C standard Scalable Vector Graphics "
-"(SVG) file format. Inkscape natively supports opening or importing SVG, SVGZ "
-"(gzipped SVG), PDF, and AI (Adobe Illustrator) formats."
-msgstr ""
-"هل لديك تساؤلات حول رسومات المتجهات المتقدمة؟ استخدم Inkscape. وهو برنامج "
-"رسومات متعدد الجوانب يستخدم تنسيق الملفات SVG الرسومات الموجهة القابلة "
-"للتحميل القياسي من W3C. ويدعم Inkscape في الأصل فتح تنسيقات SVG وSVGZ "
-"(gzipped SVG) وPDF وAI (Adobe Illustrator)."
+#: slideshow.xml:137(para)
+msgid "Wondering about advanced vector graphics? Then Inkscape is the right graphical software for you. It is a versatile graphics solution using the W3C standard Scalable Vector Graphics (SVG) file format. Inkscape natively supports opening or importing SVG, SVGZ (gzipped SVG), PDF, and AI (Adobe Illustrator) formats."
+msgstr "هل لديك تساؤلات حول رسومات المتجهات المتقدمة؟ Inkscape هو برنامج الرسومات المناسب لك. فهو برنامج رسومات متعدد الجوانب يستخدم تنسيق ملفات الرسومات الموجهة القابلة للتحميل القياسي (SVG) من W3C‏. ويدعم Inkscape في الأصل فتح تنسيقات SVG وSVGZ (gzipped SVG) وPDF وAI (Adobe Illustrator)‏."
 
-#: slideshow.xml:146(title)
-msgid "Linux helps reduce your carbon footprint"
-msgstr "Linux تساعد على تقليل أثر مادة الكربون"
+#: slideshow.xml:145(title)
+msgid "Linux Helps Reduce Your Carbon Footprint"
+msgstr "يساعد Linux على تقليل أثر مادة الكربون"
 
-#: slideshow.xml:148(para)
-msgid ""
-"We are concerned about the environment. Whether you are a mobile worker or "
-"desktop user, SUSE Linux Enterprise Desktop reduces your power consumption "
-"without impacting your productivity in any way. With increasing reliability, "
-"the system will maximize energy saving and will even let you track it."
-msgstr ""
-"نحن نعتني بالبيئة، وسواء كنت تستخدم جهاز كمبيوتر محمول أثناء العمل أو جهاز "
-"كمبيوتر مكتبي، فإن نظام SUSE Linux Enterprise Desktop يعمل على تقليل استهلاك "
-"الطاقة دون التأثير بأي شكل على مستوى إنتاجيتك. ومع زيادة إمكانية الاعتماد "
-"على النظام، سيعمل النظام على زيادة توفير الطاقة إلى أقصى درجة وتوفير إمكانية "
-"متابعتها."
+#: slideshow.xml:147(para)
+msgid "We are concerned about the environment. Whether you are a mobile worker or desktop user, SUSE Linux Enterprise Desktop reduces your power consumption without impacting your productivity in any way. With increasing reliability, the system will maximize energy saving and will even let you track it."
+msgstr "نحن نعتني بالبيئة، وسواء كنت تستخدم جهاز كمبيوتر محمول أثناء العمل أو جهاز كمبيوتر مكتبي، فإن نظام SUSE Linux Enterprise Desktop يعمل على تقليل استهلاك الطاقة دون التأثير بأي شكل على مستوى إنتاجيتك. ومع زيادة إمكانية الاعتماد على النظام، سيعمل النظام على زيادة توفير الطاقة إلى أقصى درجة وتوفير إمكانية متابعتها."
 
-#: slideshow.xml:154(para)
-msgid ""
-"Now with effective power management at the processor, chipsets, platform and "
-"operating system level, Novell and its partners optimize power consumption "
-"in order to provide you with the longest possible battery life."
-msgstr ""
-"الآن من خلال الإدارة الفعالة للطاقة على مستوى المعالج ومجموعات الشرائح "
-"والنظام الأساسي ونظام التشغيل، تعمل شركة Novell وشركاؤها على تحسين استهلاك "
-"الطاقة من أجل زيادة عمر البطارية إلى أقصى مدى."
+#: slideshow.xml:153(para)
+msgid "Now with effective power management on the processor, chipsets, platform and operating system level, Novell and its partners optimize power consumption in order to provide you with the longest possible battery life."
+msgstr "الآن من خلال الإدارة الفعالة للطاقة على مستوى المعالج ومجموعات الشرائح والنظام الأساسي ونظام التشغيل، تعمل شركة Novell وشركاؤها على تحسين استهلاك الطاقة من أجل زيادة عمر البطارية إلى أقصى مدى."
 
-#: slideshow.xml:159(para)
-msgid ""
-"Novell works with its hardware manufacturing partners to ensure that their "
-"systems installed with SUSE Linux Enterprise Desktop can earn the ENERGY "
-"STAR qualification."
-msgstr ""
-"تعمل شركة Novell مع شركائها الذين يقومون بتصنيع الأجهزة على ضمان تحقيق "
-"أنظمتهم المثبَّتة في SUSE Linux Enterprise Desktop لمواصفات ENERGY STAR."
+#: slideshow.xml:158(para)
+msgid "Novell works with its hardware manufacturing partners to ensure that their systems installed with SUSE Linux Enterprise Desktop earn the ENERGY STAR qualification."
+msgstr "تعمل شركة Novell مع شركائها الذين يقومون بتصنيع الأجهزة على ضمان تحقيق أنظمتهم المثبَّتة في SUSE Linux Enterprise Desktop لمواصفات ENERGY STAR‏."
 
-#: slideshow.xml:163(para)
-msgid ""
-"By seamlessly providing remote desktop access, Novell aims to promote more "
-"electronic collaboration and even reduce your need for travel."
-msgstr ""
-"من خلال توفير خدمة الوصول المستمر إلى سطح المكتب البعيد، تسعى شركة Novell "
-"نحو زيادة تحسين التعاون الإلكتروني وتقليل الحاجة إلى التنقل."
+#: slideshow.xml:162(para)
+msgid "By seamlessly providing remote desktop access, Novell aims to promote more electronic collaboration and even reduce your need for travel."
+msgstr "من خلال توفير خدمة الوصول المستمر إلى سطح المكتب البعيد، تسعى شركة Novell نحو زيادة تحسين التعاون الإلكتروني وتقليل الحاجة إلى التنقل."
 
-#: slideshow.xml:169(title)
-msgid "Keep Your System Secure and Up to Date"
+#: slideshow.xml:168(title)
+msgid "Keep Your System Secure and Up-to-Date"
 msgstr "اجعل نظامك آمنًا ومحدثًا باستمرار"
 
-#: slideshow.xml:171(para)
-msgid ""
-"When your system is connected to the Internet, you'll be happy to know that "
-"we enabled the SUSE Linux Firewall to help secure your system and data from "
-"intruders. We also include AppArmor, the most effective and easy-to-use "
-"Linux application security system available. It proactively protects the "
-"operating system and applications from external or internal threats."
-msgstr ""
-"سوف تشعر بالسعادة عندما تعلم أنه تم تمكين SUSE Linux Firewall ليساعد على "
-"تأمين النظام والبيانات من الدخلاء أثناء اتصال نظامك بالإنترنت. ويتم أيضًا "
-"تضمين نظام AppArmor، وهو أكثر أنظمة تأمين تطبيق Linux المتاحة فعالية وسهولة "
-"في الاستخدام. فيعمل هذا النظام على اتخاذ قرارات استباقية بهدف حماية نظام "
-"التشغيل والتطبيقات من التهديدات الداخلية."
+#: slideshow.xml:170(para)
+msgid "When your system is connected to the Internet, you will be happy to know that we enabled the SUSE Linux Firewall to help secure your system and data from intruders. We also included AppArmor, the most effective and easy-to-use Linux application security system available. It proactively protects the operating system and applications from external or internal threats."
+msgstr "سوف تشعر بالسعادة عندما تعلم أنه تم تمكين SUSE Linux Firewall ليساعد على تأمين النظام والبيانات من الدخلاء أثناء اتصال نظامك بالإنترنت. ويتم أيضًا تضمين نظام AppArmor، وهو أكثر أنظمة تأمين تطبيق Linux المتاحة فعالية وسهولة في الاستخدام. فيعمل هذا النظام على اتخاذ قرارات استباقية بهدف حماية نظام التشغيل والتطبيقات من التهديدات الخارجية أو الداخلية."
 
-#: slideshow.xml:179(para)
-msgid ""
-"In SUSE Linux Enterprise Desktop 11, we have introduced a new granular "
-"privilege system PolicyKit that greatly improves the ability for users and "
-"applications to be granted access to privileged operations when needed. Also "
-"in this release, we have improved wireless and wired network security "
-"connectivity and data encryption capabilities."
-msgstr ""
-"تمت إضافة النظام PolicyKit إلى SUSE Linux Enterprise Desktop 11، وهو نظام "
-"امتيازات جديد مركب يعمل بشكل كبير على تحسين ميزة منح المستخدمين والتطبيقات "
-"إمكانية الوصول إلى العمليات ذات الامتيازات عند الحاجة. كما قمنا في هذا "
-"الإصدار بتحسين اتصال أمان الشبكة السلكية واللاسلكية وإمكانات تشفير البيانات."
+#: slideshow.xml:178(para)
+msgid "In SUSE Linux Enterprise Desktop 11, we have introduced a new granular privilege system PolicyKit that greatly improves the ability for users and applications to be granted access to privileged operations when needed. Furthermore, we have improved wireless and wired network security connectivity and data encryption capabilities."
+msgstr "تمت إضافة النظام PolicyKit إلى SUSE Linux Enterprise Desktop 11، وهو نظام امتيازات جديد مركب يعمل بشكل كبير على تحسين ميزة منح المستخدمين والتطبيقات إمكانية الوصول إلى العمليات ذات الامتيازات عند الحاجة. كما قمنا في هذا الإصدار بتحسين اتصال أمان الشبكة السلكية واللاسلكية وإمكانات تشفير البيانات."
 
-#: slideshow.xml:185(para)
-msgid ""
-"Novell is dedicated to promptly providing its users with the latest security "
-"updates. To ensure that the latest security patches are installed on your "
-"system, Novell provides a comprehensive resource management solution that "
-"allows you to stay current with all security updates."
-msgstr ""
-"تهتم شركة Novell بتقديم آخر تحديثات الأمان لمستخدمي منتجاتها على الفور. "
-"ولضمان تثبيت أحدث تصحيحات الأمان على نظامك، تقدم شركة Novell برنامج إدارة "
-"موارد شاملاً يتيح لك الاطلاع دائمًا على كافة تحديثات الأمان."
+#: slideshow.xml:184(para)
+msgid "Novell is dedicated to promptly provide its users with the latest security updates. To ensure that the latest security patches are installed on your system, Novell provides a comprehensive resource management solution that allows you to stay up-to-date with all security updates."
+msgstr "تهتم شركة Novell بتقديم آخر تحديثات الأمان لمستخدمي منتجاتها على الفور. ولضمان تثبيت أحدث تصحيحات الأمان على نظامك، تقدم شركة Novell برنامج إدارة موارد شاملاً يتيح لك الاطلاع دائمًا على كافة تحديثات الأمان."
 
-#: slideshow.xml:192(title)
+#: slideshow.xml:191(title)
 msgid "openSUSE.org"
 msgstr "openSUSE.org"
 
-#: slideshow.xml:194(para)
-msgid ""
-"The openSUSE project is a worldwide community program sponsored by Novell "
-"that promotes the use of Linux everywhere. Please visit opensuse.org where "
-"you can find and join a community of users and developers, who all have the "
-"same goal in mind - to create and distribute the world's most usable Linux "
-"distribution. openSUSE provides the base our award-winning SUSE Linux "
-"Enterprise products."
-msgstr ""
-"مشروع openSUSE هو برنامج جماعة عالمي ترعاه شركة Novell التي تعمل على تعزيز "
-"استخدام أنظمة Linux في كل مكان. برجاء زيارة موقع opensuse.org على الويب حيث "
-"يمكنك العثور على جماعة من المستخدمين والمطورين ويمكنك الانضمام إليها، ويسعى "
-"كافة أعضاء هذه الجماعة إلى نفس الهدف وهو العمل نحو إنشاء منتجات أنظمة Linux "
-"الأكثر استخدامًا في العالم، بالإضافة إلى توزيعها. ويوفر openSUSE الأساس "
-"لمنتجات SUSE Linux Enterprise الحاصلة على أرفع الجوائز."
+#: slideshow.xml:193(para)
+msgid "The openSUSE project is a worldwide community program sponsored by Novell that promotes the use of Linux everywhere. Please visit opensuse.org where you can find and join a community of users and developers who all have the same goal in mind: to create and distribute the world's most usable Linux distribution. openSUSE provides the base of our award-winning SUSE Linux Enterprise products."
+msgstr "مشروع openSUSE هو برنامج جماعة عالمي ترعاه شركة Novell التي تعمل على تعزيز استخدام أنظمة Linux في كل مكان. برجاء زيارة موقع opensuse.org على الويب حيث يمكنك العثور على جماعة من المستخدمين والمطورين ويمكنك الانضمام إليها، ويسعى كافة أعضاء هذه الجماعة إلى نفس الهدف وهو العمل نحو إنشاء منتجات أنظمة Linux الأكثر استخدامًا في العالم، بالإضافة إلى توزيعها. ويوفر openSUSE الأساس لمنتجات SUSE Linux Enterprise الحاصلة على الجوائز."
 
-#: slideshow.xml:201(para)
-msgid ""
-"The openSUSE Build Service is an open and complete distribution development "
-"platform that provides a transparent infrastructure for development of the "
-"openSUSE distribution. With the openSUSE Build Service, you can easily find "
-"the latest open source packages you are looking for. It provides a bridge "
-"between developers and users with feedback and rating functionality. For "
-"developers it is an efficient place to build up groups and work together "
-"through its project model."
-msgstr ""
-"تعد openSUSE Build Service نظامًا أساسيًا مفتوحًا وكاملاً لتطوير التوزيع ويوفر "
-"بنية أساسية شفافة لتطوير توزيع openSUSE. ومن خلال openSUSE Build Service، "
-"يمكنك بسهولة العثور على أحدث الحزم مفتوحة المصدر التي تبحث عنها. فهي توفر "
-"رابطًا بين المطورين والمستخدمين مع وظيفة التصنيف والتغذية الرجعية. وتعد مكانًا "
-"فعالاً بالنسبة للمطورين لإنشاء مجموعات والعمل معًا من خلال نموذج المشروع الخاص "
-"بها."
+#: slideshow.xml:200(para)
+msgid "The openSUSE Build Service is an open and complete distribution development platform that provides a transparent infrastructure for development of the openSUSE distribution. With the openSUSE Build Service, you can easily find the latest open source packages you are looking for. It provides a bridge between developers and users with feedback and rating functionality. For developers it is an efficient place to build up groups and work together through its project model."
+msgstr "تعد openSUSE Build Service نظامًا أساسيًا مفتوحًا وكاملاً لتطوير التوزيع ويوفر بنية أساسية شفافة لتطوير توزيع openSUSE. ومن خلال openSUSE Build Service، يمكنك بسهولة العثور على أحدث الحزم مفتوحة المصدر التي تبحث عنها. فهي توفر رابطًا بين المطورين والمستخدمين مع وظيفة التصنيف والتغذية الرجعية. وتعد مكانًا فعالاً بالنسبة للمطورين لإنشاء مجموعات والعمل معًا من خلال نموذج المشروع الخاص بها."
 
-#: slideshow.xml:209(para)
-msgid ""
-"ZYpp is our software management engine and open source project that powers "
-"products like YaST, ZYpper and ZENworks with a powerful dependency resolver "
-"and a convenient package management API."
-msgstr ""
-"ZYpp هو محرك إدارة البرامج الخاص بنا وهو مشروع مفتوح المصدر يدعم المنتجات "
-"مثل YaST وZYpper وZENworks من خلال محلل اتصال فعّال وAPI ملائمة لإدارة الحزم."
+#: slideshow.xml:208(para)
+msgid "Zypp is our software management engine and open source project that powers products like YaST, Zypper and ZENworks with a powerful dependency resolver and a convenient package management API."
+msgstr "ZYpp هو محرك إدارة البرامج الخاص بنا وهو مشروع مفتوح المصدر يدعم المنتجات مثل YaST وZypper وZENworks من خلال محدد اتصال فعّال وAPI ملائمة لإدارة الحزم."
 
-#: slideshow.xml:215(title)
-msgid "Easy to deploy and manage"
+#: slideshow.xml:214(title)
+msgid "Easy to Deploy and Manage"
 msgstr "سهولة التوزيع والإدارة"
 
-#: slideshow.xml:217(para)
-msgid ""
-"SUSE Linux Enterprise supports many deployment strategies providing system "
-"administrators flexible ways to customize and tailor the distribution to "
-"their needs."
-msgstr ""
-"يدعم SUSE Linux Enterprise كثيرًا من استراتيجيات التوزيع من خلال توفير أساليب "
-"مرنة لمسؤولي النظام لتخصيص التوزيع وتعديله بما يناسب احتياجاتهم."
+#: slideshow.xml:216(para)
+msgid "SUSE Linux Enterprise supports many deployment strategies providing system administrators flexible ways to customize and tailor the distribution to their needs."
+msgstr "يدعم SUSE Linux Enterprise كثيرًا من استراتيجيات التوزيع من خلال توفير أساليب مرنة لمسؤولي النظام لتخصيص التوزيع وتعديله بما يناسب احتياجاتهم."
 
-#: slideshow.xml:221(para)
-msgid ""
-"AutoYaST is a integrated solution for installing one or more systems "
-"automatically without user intervention. Installations are performed using a "
-"control file with installation and configuration data."
-msgstr ""
-"AutoYaST هو برنامج متكامل لتثبيت نظام واحد أو أكثر تلقائيًا دون تدخل "
-"المستخدم. ويتم إجراء عمليات التثبيت باستخدام ملف تحكم ببيانات التكوين "
-"والتثبيت."
+#: slideshow.xml:220(para)
+msgid "AutoYaST is an integrated solution for installing one or more systems automatically without user intervention. Installations are performed using a control file with installation and configuration data."
+msgstr "AutoYaST هو برنامج متكامل لتثبيت نظام واحد أو أكثر تلقائيًا دون تدخل المستخدم. ويتم إجراء عمليات التثبيت باستخدام ملف تحكم ببيانات التكوين والتثبيت."
 
-#: slideshow.xml:225(para)
-msgid ""
-"The openSUSE KIWI imaging system provides a complete operating system image "
-"solution for supported hardware platforms as well as virtualization systems."
-msgstr ""
-"يوفر نظام نسخ المحتويات openSUSE KIWI حل نسخ محتويات كاملاً لنظام تشغيل "
-"الأنظمة الأساسية للأجهزة المدعومة وأنظمة الظاهرية."
+#: slideshow.xml:224(para)
+msgid "The openSUSE KIWI imaging system provides a complete operating system image solution for supported hardware platforms as well as virtualization systems."
+msgstr "يوفر نظام نسخ المحتويات openSUSE KIWI حل نسخ محتويات كاملاً لنظام تشغيل الأنظمة الأساسية للأجهزة المدعومة وأنظمة الظاهرية."
 
-#: slideshow.xml:229(para)
-msgid ""
-"With these solutions combined with several key open source projects such as "
-"GConf, PolicyKit and Firstboot, SUSE Linux Enterprise Desktop is the easiest "
-"Linux desktop to deploy and manage."
-msgstr ""
-"باستخدام هذه البرامج المضمنة مع العديد من المشروعات الأساسية مفتوحة المصدر "
-"مثل GConf وPolicyKit وFirstboot، يعد SUSE Linux Enterprise Desktop أسهل سطح "
-"مكتب لأنظمة تشغيل Linux يمكن توزيعه وإدارته."
+#: slideshow.xml:228(para)
+msgid "With these solutions combined with several key open source projects such as GConf, PolicyKit and Firstboot, SUSE Linux Enterprise Desktop is the easiest Linux desktop to deploy and manage."
+msgstr "باستخدام هذه البرامج المضمنة مع العديد من المشروعات الأساسية مفتوحة المصدر مثل GConf وPolicyKit وFirstboot، يعد SUSE Linux Enterprise Desktop أسهل سطح مكتب لأنظمة تشغيل Linux يمكن توزيعه وإدارته."
 
-#: slideshow.xml:235(title)
+#: slideshow.xml:234(title)
 msgid "Certified for SUSE Linux Enterprise Desktop"
 msgstr "معتمد لـ SUSE Linux Enterprise Desktop"
 
-#: slideshow.xml:237(para)
-msgid ""
-"By successfully completing stringent compatibility testing requirements, "
-"Novell's partners qualify their systems for SUSE Linux Enterprise Desktop "
-"certification."
-msgstr ""
-"يعمل شركاء شركة Novell على تأهيل أنظمتهم للحصول على اعتماد SUSE Linux "
-"Enterprise Desktop، وذلك من خلال استيفاء أكثر متطلبات اختبار التوافق صرامة "
-"بنجاح."
+#: slideshow.xml:236(para)
+msgid "By successfully completing stringent compatibility testing requirements, Novell's partners qualify their systems for SUSE Linux Enterprise Desktop certification."
+msgstr "يعمل شركاء شركة Novell على تأهيل أنظمتهم للحصول على اعتماد SUSE Linux Enterprise Desktop، وذلك من خلال استيفاء أكثر متطلبات اختبار التوافق صرامة بنجاح."
 
-#: slideshow.xml:241(para)
-msgid ""
-"With a system certified for SUSE Linux Enterprise Desktop you can in "
-"confidence use our software to manage your media library, collaborate on "
-"projects and stay connected with your friends."
-msgstr ""
-"من خلال أي نظام معتمد لـ SUSE Linux Enterprise Desktop، يمكنك بكل ثقة "
-"استخدام برامجنا لإدارة مكتبة الوسائط الخاصة بك والتعاون في المشروعات والبقاء "
-"على اتصال بأصدقائك."
+#: slideshow.xml:240(para)
+msgid "With a system certified for SUSE Linux Enterprise Desktop you can trustfully use our software to manage your media library, collaborate on projects and stay connected with your friends."
+msgstr "من خلال أي نظام معتمد لـ SUSE Linux Enterprise Desktop، يمكنك بكل ثقة استخدام برامجنا لإدارة مكتبة الوسائط الخاصة بك والتعاون في المشروعات والبقاء على اتصال بأصدقائك."
 
-#: slideshow.xml:245(para)
-msgid ""
-"You can find all of the systems that have passed logo certification by "
-"visiting novell.com/desktop. Systems with certification fully take advantage "
-"of SUSE Linux Enterprise Desktop to deliver rich Internet experience, ease "
-"of use, and excellent performance."
-msgstr ""
-"يمكنك العثور على كافة الأنظمة التي اجتازت عملية اعتماد الشعار من خلال زيارة "
-"موقع novell.com/desktop على الويب. وتستفيد الأنظمة المعتمدة بجميع مزايا نظام "
-"SUSE Linux Enterprise Desktop من أجل توفير خبرة ثرية لاستخدام الإنترنت تتميز "
-"بسهولة الاستخدام وتميز الأداء."
+#: slideshow.xml:244(para)
+msgid "You can find all the systems that have passed logo certification by visiting novell.com/desktop. Systems with certification fully take advantage of SUSE Linux Enterprise Desktop to deliver rich Internet experience, ease of use, and excellent performance."
+msgstr "يمكنك العثور على كافة الأنظمة التي اجتازت عملية اعتماد الشعار من خلال زيارة موقع novell.com/desktop على الويب. وتستفيد الأنظمة المعتمدة بجميع مزايا نظام SUSE Linux Enterprise Desktop من أجل توفير خبرة ثرية لاستخدام الإنترنت تتميز بسهولة الاستخدام وتميز الأداء."
 
-#: slideshow.xml:250(para)
-msgid ""
-"Novell is pleased to also be part of the Linux Driver Project focused on "
-"working with manufacturers to create and maintain open source Linux kernel "
-"drivers for all types of devices. Timely hardware enablement for desktop "
-"components is achieved by porting drivers to the Linux kernel that powers "
-"SUSE Linux Enterprise."
-msgstr ""
-"كما يسر شركة Novell أن تشارك في مشروع برامج تشغيل Linux الذي يركز على "
-"التعامل مع الشركات المصنِّعة لإنشاء برامج تشغيل Linux kernel مفتوحة المصدر "
-"لكافة أنواع الأجهزة وصيانتها. ويتم تمكين الأجهزة لمكونات سطح المكتب في الوقت "
-"المناسب من خلال ربط برامج التشغيل ببرنامج Linux kernel الذي يدعم SUSE Linux "
-"Enterprise."
+#: slideshow.xml:249(para)
+msgid "Novell is pleased to also be part of the Linux Driver Project focused on working with manufacturers to create and maintain open source Linux kernel drivers for all types of devices. Timely hardware enablement for desktop components is achieved by porting drivers to the Linux kernel that powers SUSE Linux Enterprise."
+msgstr "كما يسر شركة Novell أن تشارك في مشروع برامج تشغيل Linux الذي يركز على التعامل مع الشركات المصنِّعة لإنشاء برامج تشغيل Linux kernel مفتوحة المصدر لكافة أنواع الأجهزة وصيانتها. ويتم تمكين الأجهزة لمكونات سطح المكتب في الوقت المناسب من خلال ربط برامج التشغيل ببرنامج Linux kernel الذي يدعم SUSE Linux Enterprise."
 
-#: slideshow.xml:258(title)
+#: slideshow.xml:257(title)
 msgid "Interoperability: Work with Everyone"
 msgstr "التوافق: إمكانية العمل مع أي شخص"
 
-#: slideshow.xml:260(para)
-msgid ""
-"SUSE Linux Enterprise Desktop is designed with today's heterogeneous world "
-"in mind. It is fully capable to seamlessly integrate into existing Windows "
-"file and print environments. In addition, it plugs into existing Microsoft "
-"Active Directory and Novell eDirectory environments. With its broad use of "
-"open standards, SUSE Linux Enterprise Desktop enables you to share "
-"information across any IT system so that you can easily communicate with all "
-"users around you."
-msgstr ""
-"تم تصميم نظام SUSE Linux Enterprise Desktop مع الوضع في الاعتبار الطبيعة "
-"المتغيرة لعالم اليوم. ويمكن أن يتكامل بسهولة مع ملفات Windows وبيئات الطباعة "
-"الموجودة. كما يمكن استخدامه مع بيئتي Microsoft Active Directory وNovell "
-"eDirectory الموجودتين. ومن خلال الاستخدام الهائل للمعايير المفتوحة، يتيح لك "
-"نظام SUSE Linux Enterprise Desktop إمكانية مشاركة المعلومات عبر أي نظام IT "
-"بحيث يمكنك التواصل بسهولة مع كافة المستخدمين من حولك."
+#: slideshow.xml:259(para)
+msgid "SUSE Linux Enterprise Desktop is designed with today's heterogeneous world in mind. It is fully capable to seamlessly integrate into existing Windows file and print environments. In addition, it plugs into existing Microsoft Active Directory and Novell eDirectory environments. With its broad use of open standards, SUSE Linux Enterprise Desktop enables you to share information across any IT system so that you can easily communicate with all users around you."
+msgstr "تم تصميم نظام SUSE Linux Enterprise Desktop مع الوضع في الاعتبار الطبيعة المتغيرة لعالم اليوم. ويمكن أن يتكامل بسهولة مع ملفات Windows وبيئات الطباعة الموجودة. كما يمكن استخدامه مع بيئتي Microsoft Active Directory وNovell eDirectory الموجودتين. ومن خلال الاستخدام الهائل للمعايير المفتوحة، يتيح لك نظام SUSE Linux Enterprise Desktop إمكانية مشاركة المعلومات عبر أي نظام IT بحيث يمكنك التواصل بسهولة مع كافة المستخدمين من حولك."
 
-#: slideshow.xml:268(para)
-msgid ""
-"OpenOffice.org Novell Edition works with the widest range of document "
-"formats including Open Document Format, Microsoft Office formats (including "
-"OO XML),Works, WordPerfect and others."
-msgstr ""
-"يعمل الإصدار OpenOffice.org Novell Edition مع أكبر مجموعة من تنسيقات "
-"المستندات بما فيها تنسيق المستند المفتوح وتنسيقات Microsoft Office (بما في "
-"ذلك OO XML) وWorks وWordPerfect وغيرها."
+#: slideshow.xml:267(para)
+msgid "OpenOffice.org Novell Edition works with the widest range of document formats including Open Document Format, Microsoft Office formats (including OO XML), Works, WordPerfect and others."
+msgstr "يعمل الإصدار OpenOffice.org Novell Edition مع أكبر مجموعة من تنسيقات المستندات بما فيها تنسيق Open Document وتنسيقات Microsoft Office ‏(بما في ذلك OO XML)‏ وWorks وWordPerfect وغيرها."
 
-#: slideshow.xml:272(para)
-msgid ""
-"And, SUSE Linux Enterprise Desktop provides accessibility features so that "
-"anyone can take advantage of the improved productivity and lower cost that a "
-"Linux desktop provides."
-msgstr ""
-"كما يوفر SUSE Linux Enterprise Desktop ميزات إمكانية الوصول بحيث يمكن لأي "
-"شخص الاستفادة من الإنتاجية المحسَّنة والتكلفة الزهيدة التي توفرها الأجهزة "
-"المكتبية التي تعمل بأنظمة تشغيل Linux."
+#: slideshow.xml:271(para)
+msgid "Furthermore, SUSE Linux Enterprise Desktop provides accessibility features so that anyone can take advantage of the improved productivity and lower cost that a Linux desktop provides."
+msgstr "كما يوفر SUSE Linux Enterprise Desktop ميزات إمكانية الوصول بحيث يمكن لأي شخص الاستفادة من الإنتاجية المحسَّنة والتكلفة الزهيدة التي توفرها الأجهزة المكتبية التي تعمل بأنظمة تشغيل Linux‏."
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: slideshow.xml:0(None)
 msgid "translator-credits"
 msgstr "المترجمون"
 
-#~ msgid ""
-#~ "Novell is a leader in the Mono project an open source version of the "
-#~ "Microsoft .NET development platform. Its objective is to enable "
-#~ "developers to build and deploy cross-platform .NET Applications. Mono is "
-#~ "the foundation for Moonlight enabling you to enjoy Microsoft Silverlight "
-#~ "content on your Linux desktop."
-#~ msgstr ""
-#~ "تعد شركة Novell شركة رائدة في مشروع Mono وهو إصدار مفتوح المصدر من النظام "
-#~ "الأساسي لتطوير Microsoft .NET. ويهدف هذا المشروع إلى تمكين المطورين من "
-#~ "إنشاء تطبيقات .NET متعددة الأنظمة الأساسية. ويعد Mono أساس Moonlight الذي "
-#~ "يساعدك على التمتع بمحتوى Microsoft Silverlight على الأجهزة المكتبية التي "
-#~ "تعمل بأنظمة تشغيل Linux."
