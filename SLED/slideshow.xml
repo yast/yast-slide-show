@@ -74,15 +74,16 @@ illustrate Novell's unmatched innovation in the Linux desktop.</para>
 
 </section>
 <section label="04_office">
-  <title>Spreadsheets, Presentations, Text Documents and More</title>
-  <para>SUSE Linux Enterprise Desktop comes complete with the latest
-  version of the leading open source office productivity suite,
-  LibreOffice. LibreOffice comes with word processing, spreadsheet,
-  presentation, database, and drawing applications.</para>
+ <!-- bnc#727321 -->
+ <title>Spreadsheets, Presentations, Text Documents and More</title>
+ <para>SUSE Linux Enterprise Desktop comes complete with the latest
+ version of the leading open source office productivity suite,
+ LibreOffice. LibreOffice comes with word processing, spreadsheet,
+ presentation, database, and drawing applications.</para>
 
-  <para>As the leading alternative to Microsoft Office, LibreOffice
-  fully supports the latest open document format standards, the widest
-  range of Microsoft Office file formats and many others.</para>
+ <para>As the leading alternative to Microsoft Office, LibreOffice
+ fully supports the latest open document format standards, the widest
+ range of Microsoft Office file formats and many others.</para>
 </section>
 <section label="05_music">
   <title>Banshee: Manage your Media Library</title>
