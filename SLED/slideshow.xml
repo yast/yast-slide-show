@@ -40,7 +40,7 @@ includes all the applications you need to be productive at work
 or home.</para>
 
 <para>Novell's sponsorship and industry leadership in key open source
-projects such as the Linux kernel, OpenOffice.org, GNOME, Evolution,
+projects such as the Linux kernel, LibreOffice, GNOME, Evolution,
 NetworkManager, Banshee, Mono, Compiz, F-Spot, Beagle, and many others
 illustrate Novell's unmatched innovation in the Linux desktop.</para>
 
@@ -77,17 +77,17 @@ illustrate Novell's unmatched innovation in the Linux desktop.</para>
   <title>Spreadsheets, Presentations, Text Documents and More</title>
   <para>SUSE Linux Enterprise Desktop comes complete with the latest
   version of the leading open source office productivity suite,
-  OpenOffice.org. OpenOffice.org Novell Edition comes with word
+  LibreOffice. LibreOffice Novell Edition comes with word
   processing, spreadsheet, presentation, database, and drawing
   applications.</para>
 
-<para>As the leading alternative to Microsoft Office, OpenOffice.org
+<para>As the leading alternative to Microsoft Office, LibreOffice
 Novell Edition fully supports the latest open document format standards,
 the widest range of Microsoft Office file formats and many others.</para>
 
-<para>OpenOffice.org Novell Edition also provides enhanced VBA macro
+<para>LibreOffice Novell Edition also provides enhanced VBA macro
 support, an improved Solver, and pivot table capability. To spice up all
-your presentations, OpenOffice.org Novell Edition has great new slide
+your presentations, LibreOffice Novell Edition has great new slide
 transitions that nicely blend with our desktop effects.</para>
 
 </section>
@@ -264,7 +264,7 @@ its broad use of open standards, SUSE Linux Enterprise Desktop enables
 you to share information across any IT system so that you can easily
 communicate with all users around you.</para>
 
-<para>OpenOffice.org Novell Edition works with the widest range of
+<para>LibreOffice Novell Edition works with the widest range of
 document formats including Open Document Format, Microsoft Office formats
 (including OO XML), Works, WordPerfect and others.</para>
 
