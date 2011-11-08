@@ -41,7 +41,7 @@ or home.</para>
 
 <para>Novell's sponsorship and industry leadership in key open source
 projects such as the Linux kernel, LibreOffice, GNOME, Evolution,
-NetworkManager, Banshee, Mono, Compiz, F-Spot, Beagle, and many others
+NetworkManager, Banshee, Compiz, F-Spot, Beagle, and many others
 illustrate Novell's unmatched innovation in the Linux desktop.</para>
 
 </section>
@@ -77,19 +77,12 @@ illustrate Novell's unmatched innovation in the Linux desktop.</para>
   <title>Spreadsheets, Presentations, Text Documents and More</title>
   <para>SUSE Linux Enterprise Desktop comes complete with the latest
   version of the leading open source office productivity suite,
-  LibreOffice. LibreOffice Novell Edition comes with word
-  processing, spreadsheet, presentation, database, and drawing
-  applications.</para>
+  LibreOffice. LibreOffice comes with word processing, spreadsheet,
+  presentation, database, and drawing applications.</para>
 
-<para>As the leading alternative to Microsoft Office, LibreOffice
-Novell Edition fully supports the latest open document format standards,
-the widest range of Microsoft Office file formats and many others.</para>
-
-<para>LibreOffice Novell Edition also provides enhanced VBA macro
-support, an improved Solver, and pivot table capability. To spice up all
-your presentations, LibreOffice Novell Edition has great new slide
-transitions that nicely blend with our desktop effects.</para>
-
+  <para>As the leading alternative to Microsoft Office, LibreOffice
+  fully supports the latest open document format standards, the widest
+  range of Microsoft Office file formats and many others.</para>
 </section>
 <section label="05_music">
   <title>Banshee: Manage your Media Library</title>
