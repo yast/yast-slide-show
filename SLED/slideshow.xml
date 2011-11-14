@@ -22,7 +22,7 @@ enterprise-quality Linux operating system that is optimized and ready
 for both, business and personal use. SUSE Linux Enterprise Desktop
 provides market-leading usability, seamless interoperability with
 existing enterprise computer systems, and dozens of essential office
-applications that enable businesses to use Linux and open source with
+applications that enable businesses to use Linux and Open Source with
 confidence. Designed for general-purpose use, SUSE Linux Enterprise
 Desktop can also be tailored to fit fixed-function or special-purpose
 roles such as on technical workstations, kiosks, and thin clients.</para>
@@ -30,19 +30,19 @@ roles such as on technical workstations, kiosks, and thin clients.</para>
 <section label="02_innovation">
   <title>The Latest Desktop Innovations</title>
 
-<para>Novell's leadership in desktop innovation is unparalleled. Combining
+<para>Combining
 results from extensive and ongoing usability studies with an outstanding
-technology vision, Novell introduces SUSE Linux Enterprise Desktop 11 as
+technology vision, SUSE introduces SUSE Linux Enterprise Desktop 11 as
 the most integrated and powerful Linux desktop. SUSE Linux Enterprise
 Desktop can be installed on a wide range of client devices including
 desktops, notebooks, netbooks, nettops, workstations, and more and
 includes all the applications you need to be productive at work
 or home.</para>
 
-<para>Novell's sponsorship and industry leadership in key open source
+<para>SUSE's sponsorship and industry leadership in key open source
 projects such as the Linux kernel, LibreOffice, GNOME, Evolution,
-NetworkManager, Banshee, Compiz, F-Spot, Beagle, and many others
-illustrate Novell's unmatched innovation in the Linux desktop.</para>
+NetworkManager, Banshee, F-Spot, and many others
+illustrate unmatched innovation in the Linux desktop.</para>
 
 </section>
 <section label="03_connect">
@@ -54,23 +54,24 @@ illustrate Novell's unmatched innovation in the Linux desktop.</para>
   <para>The Firefox Web browser is the best Web browser in the market. It
   boasts a complete set of browser features and lightning-fast performance
   out of the box, and delivers a rich user experience through plug-ins
-  such as Java, Novell Moonlight, Adobe Acrobat Reader, and Adobe
+  such as Java, Adobe Acrobat Reader, and Adobe
   Flash Player, which are all included in SUSE Linux Enterprise Desktop
   11.</para>
 
-  <para>Novell Evolution is a complete collaboration client suite
+  <para>Evolution is a complete collaboration client suite
   supporting collaboration open standards. It includes Novell GroupWise
   and Microsoft Exchange connectivity for messaging, contact management,
   calendaring and task management.</para>
 
- <para>SUSE Linux Enterprise Desktop also includes an instant messaging
- client that lets you connect with people all over the world.</para>
+ <para>SUSE Linux Enterprise Desktop also includes instant messaging
+ clients that lets you connect with people all over the world.</para>
 
- <para>So to always have you online NetworkManager, our easy-to-use
- network configuration tool can access the most complex and secured
- networks, including WEP, WPA, VPN and other technologies, or simply
- the open wireless network from your coffee shop, and makes sure to keep
- you connected to the Internet no matter where you are.</para>
+ <para>NetworkManager, our easy-to-use network configuration tool, can
+ access the most complex and secured networks, including WEP, WPA, VPN,
+ UMTS/3G and other technologies, or simply the open wireless network from
+ your coffee shop, and makes sure to keep you connected to the Internet
+ no matter where you are.</para>
+
 
 </section>
 <section label="04_office">
@@ -78,8 +79,8 @@ illustrate Novell's unmatched innovation in the Linux desktop.</para>
  <title>Spreadsheets, Presentations, Text Documents and More</title>
  <para>SUSE Linux Enterprise Desktop comes complete with the latest
  version of the leading open source office productivity suite,
- LibreOffice. LibreOffice comes with word processing, spreadsheet,
- presentation, database, and drawing applications.</para>
+ LibreOffice.
+</para>
 
  <para>As the leading alternative to Microsoft Office, LibreOffice
  fully supports the latest open document format standards, the widest
@@ -88,7 +89,7 @@ illustrate Novell's unmatched innovation in the Linux desktop.</para>
 <section label="05_music">
   <title>Banshee: Manage your Media Library</title>
 
-<para>Novell is proud to sponsor the open source Banshee project,
+<para>SUSE is proud to sponsor the open source Banshee project,
 the easy-to-use and beautifully polished media management application.
 Listen to music, manage your music library, burn your own music CDs, or
 synchronize your music to your portable media player or smartphone to
@@ -96,7 +97,7 @@ be able to listen to your music on-the-go. Banshee also gives you the ability
 to subscribe to a variety of sources, including streamed music and
 podcasts.</para>
 
-<para>To ensure the highest quality recordings and playback, Novell
+<para>To ensure the highest quality recordings and playback, SUSE
 developed its own state of the art Advanced Audio Coding (AAC) encoder
 and decoder.</para>
 
@@ -145,15 +146,15 @@ increasing reliability, the system will maximize energy saving and will
 even let you track it.</para>
 
 <para>Now with effective power management on the processor, chipsets,
-platform and operating system level, Novell and its partners optimize
+platform and operating system level, SUSE and its partners optimize
 power consumption in order to provide you with the longest possible
 battery life.</para>
 
-<para>Novell works with its hardware manufacturing partners to ensure
+<para>SUSE works with its hardware manufacturing partners to ensure
 that their systems installed with SUSE Linux Enterprise Desktop earn
 the ENERGY STAR qualification.</para>
 
-<para>By seamlessly providing remote desktop access, Novell aims to
+<para>By seamlessly providing remote desktop access, SUSE aims to
 promote more electronic collaboration and even reduce your need for
 travel.</para>
 
@@ -175,9 +176,9 @@ for users and applications to be granted access to privileged operations
 when needed. Furthermore, we have improved wireless and wired
 network security connectivity and data encryption capabilities.</para>
 
-<para>Novell is dedicated to promptly provide its users with the latest
+<para>SUSE is dedicated to promptly provide its users with the latest
 security updates. To ensure that the latest security patches are installed
-on your system, Novell provides a comprehensive resource management
+on your system, SUSE provides a comprehensive systems management
 solution that allows you to stay up-to-date with all security updates.</para>
 
 </section>
@@ -185,7 +186,7 @@ solution that allows you to stay up-to-date with all security updates.</para>
   <title>openSUSE.org</title>
 
   <para>The openSUSE project is a worldwide community program sponsored by
-  Novell that promotes the use of Linux everywhere.  Please visit opensuse.org
+  SUSE that promotes the use of Linux everywhere.  Please visit opensuse.org
   where you can find and join a community of users and developers who all have
   the same goal in mind: to create and distribute the world's most usable
   Linux distribution. openSUSE provides the base of our award-winning SUSE Linux
@@ -200,7 +201,7 @@ solution that allows you to stay up-to-date with all security updates.</para>
   work together through its project model.</para>
 
   <para>Zypp is our software management engine and open source project that
-  powers products like YaST, Zypper and ZENworks with a powerful dependency
+  powers products like YaST, Zypper and SUSE Manager with a powerful dependency
   resolver and a convenient package management API.</para>
  </section>
 
@@ -215,7 +216,7 @@ the distribution to their needs.</para>
 automatically without user intervention. Installations are performed
 using a control file with installation and configuration data.</para>
 
-<para>The openSUSE KIWI imaging system provides a complete operating
+<para>The KIWI imaging system provides a complete operating
 system image solution for supported hardware platforms as well as
 virtualization systems.</para>
 
@@ -228,7 +229,7 @@ is the easiest Linux desktop to deploy and manage.</para>
   <title>Certified for SUSE Linux Enterprise Desktop</title>
 
 <para>By successfully completing stringent compatibility testing
-requirements, Novell's partners qualify their systems for SUSE Linux
+requirements, SUSE's partners qualify their systems for SUSE Linux
 Enterprise Desktop certification.</para>
 
 <para>With a system certified for SUSE Linux Enterprise Desktop you can
@@ -236,11 +237,12 @@ trustfully use our software to manage your media library, collaborate
 on projects and stay connected with your friends.</para>
 
 <para>You can find all the systems that have passed logo certification
-by visiting novell.com/desktop. Systems with certification fully take
+by visiting http://www.suse.com/products/desktop/.
+Systems with certification fully take
 advantage of SUSE Linux Enterprise Desktop to deliver rich Internet
 experience, ease of use, and excellent performance.</para>
 
-<para>Novell is pleased to also be part of the Linux Driver Project
+<para>SUSE is pleased to also be part of the Linux Driver Project
 focused on working with manufacturers to create and maintain open source
 Linux kernel drivers for all types of devices. Timely hardware enablement
 for desktop components is achieved by porting drivers to the Linux kernel
@@ -258,7 +260,7 @@ its broad use of open standards, SUSE Linux Enterprise Desktop enables
 you to share information across any IT system so that you can easily
 communicate with all users around you.</para>
 
-<para>LibreOffice Novell Edition works with the widest range of
+<para>LibreOffice works with the widest range of
 document formats including Open Document Format, Microsoft Office formats
 (including OO XML), Works, WordPerfect and others.</para>
 
