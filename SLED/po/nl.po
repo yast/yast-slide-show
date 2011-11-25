@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sled\n"
-"POT-Creation-Date: 2011-10-12 15:39+0200\n"
-"PO-Revision-Date: 2011-10-20 12:25\n"
+"POT-Creation-Date: 2011-11-14 12:11+0100\n"
+"PO-Revision-Date: 2011-11-24 10:09\n"
 "Last-Translator: Novell Language <language@novell.com>\n"
 "Language-Team: Novell Language <language@novell.com>\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgid "Welcome to SUSE Linux Enterprise Desktop"
 msgstr "Welkom bij SUSE Linux Enterprise Desktop"
 
 #: slideshow.xml:20(para)
-msgid "SUSE Linux Enterprise Desktop is the industry's leading enterprise-quality Linux operating system that is optimized and ready for both, business and personal use. SUSE Linux Enterprise Desktop provides market-leading usability, seamless interoperability with existing enterprise computer systems, and dozens of essential office applications that enable businesses to use Linux and open source with confidence. Designed for general-purpose use, SUSE Linux Enterprise Desktop can also be tailored to fit fixed-function or special-purpose roles such as on technical workstations, kiosks, and thin clients."
+msgid "SUSE Linux Enterprise Desktop is the industry's leading enterprise-quality Linux operating system that is optimized and ready for both, business and personal use. SUSE Linux Enterprise Desktop provides market-leading usability, seamless interoperability with existing enterprise computer systems, and dozens of essential office applications that enable businesses to use Linux and Open Source with confidence. Designed for general-purpose use, SUSE Linux Enterprise Desktop can also be tailored to fit fixed-function or special-purpose roles such as on technical workstations, kiosks, and thin clients."
 msgstr "SUSE Linux Enterprise Desktop is het voornaamste Linux-besturingssysteem van de zakenwereld. Het besturingssysteem is geoptimaliseerd en klaar voor zakelijk en particulier gebruik. SUSE Linux Enterprise Desktop biedt gebruiksgemak voor marktleiders, naadloze interoperabiliteit met bestaande zakelijke computersystemen en tientallen belangrijke kantoortoepassingen waarmee bedrijven Linux en open source zonder problemen kunnen gebruiken. SUSE Linux Enterprise Desktop is ontwikkeld voor algemene doeleinden maar kan ook worden aangepast voor het uitvoeren van één functie, of voor specifieke doeleinden zoals op technische werkstations, kiosken en thin clients."
 
 #: slideshow.xml:31(title)
@@ -29,12 +29,12 @@ msgid "The Latest Desktop Innovations"
 msgstr "De nieuwste desktopinnovaties"
 
 #: slideshow.xml:33(para)
-msgid "Novell's leadership in desktop innovation is unparalleled. Combining results from extensive and ongoing usability studies with an outstanding technology vision, Novell introduces SUSE Linux Enterprise Desktop 11 as the most integrated and powerful Linux desktop. SUSE Linux Enterprise Desktop can be installed on a wide range of client devices including desktops, notebooks, netbooks, nettops, workstations, and more and includes all the applications you need to be productive at work or home."
-msgstr "De autoriteit van Novell op het gebied van bureaubladinnovatie is onweerlegbaar. Door het combineren van resultaten van uitgebreid en voortdurend onderzoek naar gebruiksgemak met die van een opzienbarende technologische visie heeft Novell SUSE Linux Enterprise Desktop 11 geïntroduceerd als het meest geïntegreerde en krachtige Linux-bureaublad. SUSE Linux Enterprise Desktop kan worden geïnstalleerd op veel verschillende clientapparaten inclusief desktops, notebooks, netbooks, nettops, werkstations en meer en bevat alle toepassingen die u nodig heeft om productief werk te doen, thuis en op het werk."
+msgid "Combining results from extensive and ongoing usability studies with an outstanding technology vision, SUSE introduces SUSE Linux Enterprise Desktop 11 as the most integrated and powerful Linux desktop. SUSE Linux Enterprise Desktop can be installed on a wide range of client devices including desktops, notebooks, netbooks, nettops, workstations, and more and includes all the applications you need to be productive at work or home."
+msgstr "Door het combineren van resultaten van uitgebreid en voortdurend onderzoek naar gebruiksgemak met die van een opzienbarende technologische visie, is SUSE Linux Enterprise Desktop 11 geïntroduceerd als het meest geïntegreerde en krachtige Linux-bureaublad. SUSE Linux Enterprise Desktop kan worden geïnstalleerd op veel verschillende clientapparaten inclusief desktops, notebooks, netbooks, nettops, werkstations en meer en bevat alle toepassingen die u nodig hebt om productief werk te doen, thuis en op het werk."
 
 #: slideshow.xml:42(para)
-msgid "Novell's sponsorship and industry leadership in key open source projects such as the Linux kernel, OpenOffice.org, GNOME, Evolution, NetworkManager, Banshee, Mono, Compiz, F-Spot, Beagle, and many others illustrate Novell's unmatched innovation in the Linux desktop."
-msgstr "Het leiderschap van Novell in het bedrijfsleven en de sponsoring van belangrijke open source projecten zoals de Linux-kernel, OpenOffice.org, GNOME, Evolution, NetworkManager, Banshee, Mono, Compiz, F-Spot, Beagle en nog veel andere projecten geeft de niet te evenaren innovatie van Novell binnen het Linux-bureaublad weer."
+msgid "SUSE's sponsorship and industry leadership in key open source projects such as the Linux kernel, LibreOffice, GNOME, Evolution, NetworkManager, Banshee, F-Spot, and many others illustrate unmatched innovation in the Linux desktop."
+msgstr "Het leiderschap van SUSE in het bedrijfsleven en de sponsoring van belangrijke open source projecten zoals de Linux-kernel, LibreOffice, GNOME, Evolution, NetworkManager, Banshee, Compiz, F-Spot en nog veel meer andere projecten, illustreert de niet te evenaren innovatie binnen het Linux-bureaublad."
 
 #: slideshow.xml:49(title)
 msgid "Connect and Communicate"
@@ -45,178 +45,175 @@ msgid "SUSE Linux Enterprise Desktop 11 provides all the tools you need to commu
 msgstr "SUSE Linux Enterprise Desktop 11 biedt u alle hulpprogramma's die u nodig hebt voor uw communicatie met de wereld."
 
 #: slideshow.xml:54(para)
-msgid "The Firefox Web browser is the best Web browser in the market. It boasts a complete set of browser features and lightning-fast performance out of the box, and delivers a rich user experience through plug-ins such as Java, Novell Moonlight, Adobe Acrobat Reader, and Adobe Flash Player, which are all included in SUSE Linux Enterprise Desktop 11."
+msgid "The Firefox Web browser is the best Web browser in the market. It boasts a complete set of browser features and lightning-fast performance out of the box, and delivers a rich user experience through plug-ins such as Java, Adobe Acrobat Reader, and Adobe Flash Player, which are all included in SUSE Linux Enterprise Desktop 11."
 msgstr "De webbrowser van Firefox is de beste webbrowser op de markt. Firefox biedt een volledige reeks aan browserfuncties en bliksemsnelle prestaties en biedt een rijke gebruikservaring via plug-ins zoals Java, Novell Moonlight, Adobe Acrobat Reader en Adobe Flash Player. Al deze plug-ins zijn opgenomen in SUSE Linux Enterprise Desktop 11."
 
 #: slideshow.xml:61(para)
-msgid "Novell Evolution is a complete collaboration client suite supporting collaboration open standards. It includes Novell GroupWise and Microsoft Exchange connectivity for messaging, contact management, calendaring and task management."
-msgstr "Novell Evolution is een complete clientsuite voor goede samenwerking die samenwerkingsstandaarden ondersteunt. De suite bevat de verbindingsfunctionaliteiten van Novell GroupWise en Microsoft Exchange voor het verzenden van berichten, inhoudbeheer, agenda's en taakbeheer."
+msgid "Evolution is a complete collaboration client suite supporting collaboration open standards. It includes Novell GroupWise and Microsoft Exchange connectivity for messaging, contact management, calendaring and task management."
+msgstr "Evolution is een complete clientsuite voor goede samenwerking die samenwerkingsstandaarden ondersteunt. De suite bevat de verbindingsfunctionaliteiten van Novell GroupWise en Microsoft Exchange voor het verzenden van berichten, inhoudbeheer, agenda's en taakbeheer."
 
 #: slideshow.xml:66(para)
-msgid "SUSE Linux Enterprise Desktop also includes an instant messaging client that lets you connect with people all over the world."
+msgid "SUSE Linux Enterprise Desktop also includes instant messaging clients that lets you connect with people all over the world."
 msgstr "SUSE Linux Enterprise Desktop bevat ook een client voor expresberichten waarmee u contacten onderhoudt met mensen over de hele wereld."
 
 #: slideshow.xml:69(para)
-msgid "So to always have you online NetworkManager, our easy-to-use network configuration tool can access the most complex and secured networks, including WEP, WPA, VPN and other technologies, or simply the open wireless network from your coffee shop, and makes sure to keep you connected to the Internet no matter where you are."
-msgstr "NetworkManager, ons eenvoudig te gebruiken hulpprogramma voor netwerkconfiguratie zorgt dat u altijd online bent. Dit hulpprogramma geeft toegang tot de meest complexe en beveiligde netwerken, zoals WEP, WPA, VPN en andere technologieën. NetworkManager kan u ook eenvoudig toegang verschaffen tot het open draadloze netwerk van uw koffiehuis. De NetworkManager zorgt dat uw verbinding tot internet behouden blijft, waar u zich ook bevindt."
+msgid "NetworkManager, our easy-to-use network configuration tool, can access the most complex and secured networks, including WEP, WPA, VPN, UMTS/3G and other technologies, or simply the open wireless network from your coffee shop, and makes sure to keep you connected to the Internet no matter where you are."
+msgstr "Met NetworkManager, ons eenvoudig te gebruiken hulpprogramma voor netwerkconfiguratie, hebt u toegang tot de meest complexe en beveiligde netwerken, zoals WEP, WPA, VPN en andere technologieën, maar zorgt er ook voor dat u eenvoudig toegang hebt tot het open draadloze netwerk van uw koffiehuis zodat uw verbinding tot internet behouden blijft, waar u zich ook bevindt."
 
-#: slideshow.xml:77(title)
+#. bnc#727321
+#: slideshow.xml:79(title)
 msgid "Spreadsheets, Presentations, Text Documents and More"
 msgstr "Spreadsheets, presentaties, tekstdocumenten en meer"
 
-#: slideshow.xml:78(para)
-msgid "SUSE Linux Enterprise Desktop comes complete with the latest version of the leading open source office productivity suite, OpenOffice.org. OpenOffice.org Novell Edition comes with word processing, spreadsheet, presentation, database, and drawing applications."
-msgstr "SUSE Linux Enterprise Desktop wordt geleverd met de nieuwste versie van de belangrijkste open-source-suite voor productiviteit op de werkvloer, OpenOffice.org. OpenOffice.org Novell Edition wordt geleverd met tekstverwerkings-, spreadsheet-, database- en tekentoepassingen."
+#: slideshow.xml:80(para)
+msgid "SUSE Linux Enterprise Desktop comes complete with the latest version of the leading open source office productivity suite, LibreOffice."
+msgstr "SUSE Linux Enterprise Desktop wordt geleverd met de laatste versie van LibreOffice. de toonaangevende zakelijke productiviteitssuite."
 
-#: slideshow.xml:84(para)
-msgid "As the leading alternative to Microsoft Office, OpenOffice.org Novell Edition fully supports the latest open document format standards, the widest range of Microsoft Office file formats and many others."
-msgstr "OpenOffice.org Novell Edition is het belangrijkste alternatief voor Microsoft Office. OpenOffice.org Novell Edition ondersteunt de nieuwste open standaarden voor documentindelingen en ondersteunt het grootste bereik aan bestandsindelingen van Microsoft Office en andere fabrikanten."
+#: slideshow.xml:85(para)
+msgid "As the leading alternative to Microsoft Office, LibreOffice fully supports the latest open document format standards, the widest range of Microsoft Office file formats and many others."
+msgstr "LibreOffice is het belangrijkste alternatief voor Microsoft Office. LibreOffice ondersteunt de nieuwste open standaarden voor documentindelingen en ondersteunt het grootste bereik aan bestandsindelingen van Microsoft Office en andere fabrikanten."
 
-#: slideshow.xml:88(para)
-msgid "OpenOffice.org Novell Edition also provides enhanced VBA macro support, an improved Solver, and pivot table capability. To spice up all your presentations, OpenOffice.org Novell Edition has great new slide transitions that nicely blend with our desktop effects."
-msgstr "OpenOffice.org Novell Edition biedt ook verbeterde VBA macro-ondersteuning, een verbeterde Solver en de mogelijkheid voor het maken van pivot-tabellen. Als u al uw presentaties wilt verbeteren, biedt OpenOffice.org Novell Edition fantastische nieuwe overgangen tussen dia's die goed combineren met de effecten van ons bureaublad."
-
-#: slideshow.xml:95(title)
+#: slideshow.xml:90(title)
 msgid "Banshee: Manage your Media Library"
 msgstr "Banshee: beheer uw mediabibliotheek"
 
-#: slideshow.xml:97(para)
-msgid "Novell is proud to sponsor the open source Banshee project, the easy-to-use and beautifully polished media management application. Listen to music, manage your music library, burn your own music CDs, or synchronize your music to your portable media player or smartphone to be able to listen to your music on-the-go. Banshee also gives you the ability to subscribe to a variety of sources, including streamed music and podcasts."
-msgstr "Novell is trots op de sponsoring van het open source Banshee-project, de eenvoudig te gebruiken, mooie en vervolmaakte toepassing voor mediabeheer. Luister naar muziek, beheer uw muziekbibliotheek, brand uw eigen cd's of synchroniseer uw muziek met uw draagbare mediaspeler of smartphone. Zo kunt u onderweg luisteren naar muziek. Banshee biedt u ook de mogelijkheid uzelf te abonneren op verschillende bronnen, inclusief muziekstreams en podcasts."
+#: slideshow.xml:92(para)
+msgid "SUSE is proud to sponsor the open source Banshee project, the easy-to-use and beautifully polished media management application. Listen to music, manage your music library, burn your own music CDs, or synchronize your music to your portable media player or smartphone to be able to listen to your music on-the-go. Banshee also gives you the ability to subscribe to a variety of sources, including streamed music and podcasts."
+msgstr "SUSE is trots op de sponsoring van het open source Banshee-project, de eenvoudig te gebruiken, mooie en vervolmaakte toepassing voor mediabeheer. Luister naar muziek, beheer uw muziekbibliotheek, brand uw eigen cd's of synchroniseer uw muziek met uw draagbare mediaspeler of smartphone. Zo kunt u onderweg luisteren naar muziek. Banshee biedt u ook de mogelijkheid uzelf te abonneren op verschillende bronnen, inclusief muziekstreams en podcasts."
 
-#: slideshow.xml:105(para)
-msgid "To ensure the highest quality recordings and playback, Novell developed its own state of the art Advanced Audio Coding (AAC) encoder and decoder."
-msgstr "Novell heeft een eigen, ultramoderne Advanced Audio Coding (AAC) encoder en decoder ontwikkeld, om te zorgen voor een toepassing voor opnemen en afspelen op hoge kwaliteit."
+#: slideshow.xml:100(para)
+msgid "To ensure the highest quality recordings and playback, SUSE developed its own state of the art Advanced Audio Coding (AAC) encoder and decoder."
+msgstr "SUSE heeft een eigen, ultramoderne Advanced Audio Coding (AAC) encoder en decoder ontwikkeld, om te zorgen voor een toepassing voor opnemen en afspelen op hoge kwaliteit."
 
-#: slideshow.xml:109(para)
+#: slideshow.xml:104(para)
 msgid "New to SUSE Linux Enterprise Desktop 11, Banshee enables you to include videos into your media library, effortlessly letting you get entertained and up-to-date with video podcasts directly from your Linux desktop. Synchronize video podcasts to your portable media player for viewing on-the-go."
 msgstr "Een nieuwe functie van SUSE Linux Enterprise Desktop 11 is dat Banshee u in staat stelt om video's toe te voegen aan uw mediabibliotheek. Zo kunt u zich vermaken en met videopodcasts en op de hoogte blijven, direct via uw Linux-bureaublad. Wilt u onderweg video's kunnen kijken? Dan synchroniseert u de videopodcasts gewoon met uw draagbare mediaspeler."
 
-#: slideshow.xml:115(para)
+#: slideshow.xml:110(para)
 msgid "Discover new music through the use of greatly integrated Web services like Last.fm radio."
 msgstr "Ontdek nieuwe muziek via het gebruik van goede geïntegreerde webservices zoals de radiozender Last.fm."
 
-#: slideshow.xml:120(title)
+#: slideshow.xml:115(title)
 msgid "Photos, Images, Drawings, Graphics"
 msgstr "Foto's, afbeeldingen, tekeningen, graphics"
 
-#: slideshow.xml:122(para)
+#: slideshow.xml:117(para)
 msgid "Our Photo management tool in SUSE Linux Enterprise Desktop could very well be the most user-friendly one ever invented. Recognizing virtually all digital cameras and photo storage devices automatically, F-Spot will let you import and manage all your photos in very few clicks. It keeps an original copy of your photos, allowing you to be creative and try all kinds of modifications while making sure you never lose any of those precious snapshots again. Uploading pictures to the Internet has never been easier. Whether it is for printing or for your friends and family to enjoy, your photos are just 1-click away."
 msgstr "Ons hulpprogramma voor fotobeheer in SUSE Linux Enterprise Desktop is wellicht het meest gebruiksvriendelijke fotobeheersysteem dat ooit is ontwikkeld. F-Spot herkent praktisch alle digitale camera's en opslagmedia voor foto's. Met F-Spot kunt u in slechts enkele klikken al uw foto's importeren en beheren. Er wordt een kopie van uw foto's bewaard. U kunt creatief zijn en alle mogelijke aanpassingen doen. Hierbij hoeft u niet bang te zijn ooit een van die waardevolle kiekjes kwijt te raken. Het uploaden van foto's naar internet is nooit eenvoudiger geweest. Of het nu gaat om afdrukken van foto's of om het vermaken van vrienden en familie, uw foto's zijn altijd slechts één klik van u verwijderd."
 
-#: slideshow.xml:132(para)
+#: slideshow.xml:127(para)
 msgid "For advanced image manipulation and graphics creation, the open-source community created GIMP. It is a fantastic and a complete photo retouching, image composition and image authoring application. GIMP has enough features to satisfy the most exacting artist."
 msgstr "Voor het geavanceerd aanpassen en maken van grafische kunst, heeft de open source community GIMP ontwikkeld. Dit is een fantastische toepassing voor het bewerken van foto's, samenstellen en autoriseren van afbeeldingen. GIMP bevat voldoende functies om zelfs de meest veeleisende kunstenaar tevreden te stellen."
 
-#: slideshow.xml:137(para)
+#: slideshow.xml:132(para)
 msgid "Wondering about advanced vector graphics? Then Inkscape is the right graphical software for you. It is a versatile graphics solution using the W3C standard Scalable Vector Graphics (SVG) file format. Inkscape natively supports opening or importing SVG, SVGZ (gzipped SVG), PDF, and AI (Adobe Illustrator) formats."
 msgstr "Bent u op zoek naar geavanceerde vectorgraphics? Zoek dan niet verder: Inkscape is perfect voor u. Dit is een veelzijdige mediaoplossing die gebruikmaakt van de W3C-standaard bestandsindeling Scalable Vector Graphics (SVG). Inkscape ondersteunt het openen en importeren van de volgende bestandsindelingen: SVG, SVGZ (gzipped SVG), PDF en AI (Adobe Illustrator)."
 
-#: slideshow.xml:145(title)
+#: slideshow.xml:140(title)
 msgid "Linux Helps Reduce Your Carbon Footprint"
 msgstr "Linux helpt u bij het verkleinen van ecologische voetafdruk."
 
-#: slideshow.xml:147(para)
+#: slideshow.xml:142(para)
 msgid "We are concerned about the environment. Whether you are a mobile worker or desktop user, SUSE Linux Enterprise Desktop reduces your power consumption without impacting your productivity in any way. With increasing reliability, the system will maximize energy saving and will even let you track it."
 msgstr "We maken ons zorgen over het milieu. Of u nu mobiel werkt of een bureaublad gebruikt, SUSE Linux Enterprise Desktop verlaagt uw energieverbruik zonder dat dit invloed heeft op uw productiviteit. Het systeem is zeer betrouwbaar en maximaliseert energiebesparing. U kunt dit zelfs bijhouden."
 
+#: slideshow.xml:148(para)
+msgid "Now with effective power management on the processor, chipsets, platform and operating system level, SUSE and its partners optimize power consumption in order to provide you with the longest possible battery life."
+msgstr "SUSE bevat nu effectief energiebeheer op het niveau van de processor, chipsets, platforms en het besturingssysteem. SUSE en zijn partners optimaliseren het energieverbruik zodat u zoveel mogelijk energie uit de accu kunt halen."
+
 #: slideshow.xml:153(para)
-msgid "Now with effective power management on the processor, chipsets, platform and operating system level, Novell and its partners optimize power consumption in order to provide you with the longest possible battery life."
-msgstr "SUSE Linux Enterprise Desktop bevat nu effectief energiebeheer op het niveau van de processor, chipsets, platforms en het besturingssysteem. Novell en zijn partners optimaliseren het energieverbruik zodat u zoveel mogelijk energie uit de accu kunt halen."
+msgid "SUSE works with its hardware manufacturing partners to ensure that their systems installed with SUSE Linux Enterprise Desktop earn the ENERGY STAR qualification."
+msgstr "SUSE werkt er samen met zijn partners in hardwareproductie aan dat hun systemen, die worden geïnstalleerd samen met de SUSE Linux Enterprise Desktop, de kwalificatie ENERGY STAR kunnen verdienen."
 
-#: slideshow.xml:158(para)
-msgid "Novell works with its hardware manufacturing partners to ensure that their systems installed with SUSE Linux Enterprise Desktop earn the ENERGY STAR qualification."
-msgstr "Novell werkt er samen met zijn partners in hardwareproductie aan dat hun systemen, die worden geïnstalleerd samen met de SUSE Linux Enterprise Desktop, de kwalificatie ENERGY STAR kunnen verdienen."
+#: slideshow.xml:157(para)
+msgid "By seamlessly providing remote desktop access, SUSE aims to promote more electronic collaboration and even reduce your need for travel."
+msgstr "SUSE biedt toegang tot externe bureaubladen en heeft als doel om meer elektronische samenwerking te bieden. SUSE wil er zelfs voor zorgen dat reizen minder noodzakelijk wordt."
 
-#: slideshow.xml:162(para)
-msgid "By seamlessly providing remote desktop access, Novell aims to promote more electronic collaboration and even reduce your need for travel."
-msgstr "Novell biedt toegang tot externe bureaubladen en heeft als doel om meer elektronische samenwerking te bieden. Novell wil er zelfs voor zorgen dat reizen minder noodzakelijk wordt."
-
-#: slideshow.xml:168(title)
+#: slideshow.xml:163(title)
 msgid "Keep Your System Secure and Up-to-Date"
 msgstr "Houd uw systeem veilig en bijgewerkt"
 
-#: slideshow.xml:170(para)
+#: slideshow.xml:165(para)
 msgid "When your system is connected to the Internet, you will be happy to know that we enabled the SUSE Linux Firewall to help secure your system and data from intruders. We also included AppArmor, the most effective and easy-to-use Linux application security system available. It proactively protects the operating system and applications from external or internal threats."
 msgstr "Met trots kunnen we u melden dat we de SUSE Linux Firewall hebben ingesteld om u te helpen bij het beveiligen van uw systeem en gegevens tegen indringers wanner uw systeem is verbonden met internet. We hebben ook AppArmor toegevoegd, de meest effectieve en eenvoudig te gebruiken toepassing van Linux voor systeembeveiliging die momenteel verkrijgbaar is. AppArmor biedt een proactieve bescherming voor uw besturingssysteem en toepassingen tegen interne en externe dreigingen."
 
-#: slideshow.xml:178(para)
+#: slideshow.xml:173(para)
 msgid "In SUSE Linux Enterprise Desktop 11, we have introduced a new granular privilege system PolicyKit that greatly improves the ability for users and applications to be granted access to privileged operations when needed. Furthermore, we have improved wireless and wired network security connectivity and data encryption capabilities."
 msgstr "In SUSE Linux Enterprise Desktop 11 hebben we een nieuw systeem voor privileges ontwikkeld (PolicyKit) dat de functie verbetert voor het verlenen van toegang aan gebruikers en toepassingen tot gemachtigde handelingen wanneer dit nodig is. In deze versie hebben we ook de beveiliging verbeterd van vaste en draadloze netwerken en de capaciteit voor het coderen van gegevens vergroot."
 
-#: slideshow.xml:184(para)
-msgid "Novell is dedicated to promptly provide its users with the latest security updates. To ensure that the latest security patches are installed on your system, Novell provides a comprehensive resource management solution that allows you to stay up-to-date with all security updates."
+#: slideshow.xml:179(para)
+msgid "SUSE is dedicated to promptly provide its users with the latest security updates. To ensure that the latest security patches are installed on your system, SUSE provides a comprehensive systems management solution that allows you to stay up-to-date with all security updates."
 msgstr "Novell wil zijn gebruikers graag onmiddellijk de meest recente beveiligingsupdates leveren. Om ervoor te zorgen dat de meeste recente beveiligingspatches zijn geïnstalleerd op uw systeem, biedt Novell een bruikbare oplossing voor het beheren van bronnen waarmee u alle beveiligingsupdates kunt krijgen."
 
-#: slideshow.xml:191(title)
+#: slideshow.xml:186(title)
 msgid "openSUSE.org"
 msgstr "openSUSE.org"
 
-#: slideshow.xml:193(para)
-msgid "The openSUSE project is a worldwide community program sponsored by Novell that promotes the use of Linux everywhere. Please visit opensuse.org where you can find and join a community of users and developers who all have the same goal in mind: to create and distribute the world's most usable Linux distribution. openSUSE provides the base of our award-winning SUSE Linux Enterprise products."
-msgstr "Het openSUSE-project is een door Novell gesponsord wereldwijd communityprogramma dat het wereldwijde gebruik van Linux promoot. Ga maar eens naar opensuse.org. Hier kunt u een community met gebruikers en ontwikkelaars vinden en hiervan lid worden. De personen in deze community hebben allemaal dezelfde doelstelling: het maken en distribueren van de meest bruikbare Linux-indeling ter wereld. openSUSE geeft de basis voor onze bekroonde SUSE Linux Enterprise-producten."
+#: slideshow.xml:188(para)
+msgid "The openSUSE project is a worldwide community program sponsored by SUSE that promotes the use of Linux everywhere. Please visit opensuse.org where you can find and join a community of users and developers who all have the same goal in mind: to create and distribute the world's most usable Linux distribution. openSUSE provides the base of our award-winning SUSE Linux Enterprise products."
+msgstr "Het openSUSE-project is een door SUSE gesponsord wereldwijd communityprogramma dat het wereldwijde gebruik van Linux promoot. Ga maar eens naar opensuse.org. Hier kunt u een community met gebruikers en ontwikkelaars vinden en hiervan lid worden. De personen in deze community hebben allemaal dezelfde doelstelling: het maken en distribueren van de meest bruikbare Linux-indeling ter wereld. openSUSE geeft de basis voor onze bekroonde SUSE Linux Enterprise-producten."
 
-#: slideshow.xml:200(para)
+#: slideshow.xml:195(para)
 msgid "The openSUSE Build Service is an open and complete distribution development platform that provides a transparent infrastructure for development of the openSUSE distribution. With the openSUSE Build Service, you can easily find the latest open source packages you are looking for. It provides a bridge between developers and users with feedback and rating functionality. For developers it is an efficient place to build up groups and work together through its project model."
 msgstr "e openSUSE Build Service is een open en compleet ontwikkelplatform voor distributie, dat een transparante infrastructuur biedt voor ontwikkeling van de openSUSE-distributie. Met de openSUSE Build Service, kunt u eenvoudig de meest recente open source pakketten vinden waarnaar u zoekt. Deze service slaat een brug tussen de ontwikkelaars en gebruikers met functies voor het geven van feedback en beoordelingen. openSUSE Build Service biedt ontwikkelaars een efficiënte omgeving voor het maken van groepen en voor samenwerking via het projectmodel."
 
-#: slideshow.xml:208(para)
-msgid "Zypp is our software management engine and open source project that powers products like YaST, Zypper and ZENworks with a powerful dependency resolver and a convenient package management API."
-msgstr "ZYpp is een engine voor het beheren van software en een open source project dat producten zoals YaST, ZYpper en ZENworks ondersteunt met een krachtige oplossing voor afhankelijkheid en een handige API voor het beheren van pakketten."
+#: slideshow.xml:203(para)
+msgid "Zypp is our software management engine and open source project that powers products like YaST, Zypper and SUSE Manager with a powerful dependency resolver and a convenient package management API."
+msgstr "ZYpp is onze engine voor het beheren van software en een open source project dat producten zoals YaST, ZYpper en ZENworks ondersteunt met een krachtige oplossing voor afhankelijkheid en een handige API voor het beheren van pakketten."
 
-#: slideshow.xml:214(title)
+#: slideshow.xml:209(title)
 msgid "Easy to Deploy and Manage"
 msgstr "Eenvoudig te implementeren en te beheren"
 
-#: slideshow.xml:216(para)
+#: slideshow.xml:211(para)
 msgid "SUSE Linux Enterprise supports many deployment strategies providing system administrators flexible ways to customize and tailor the distribution to their needs."
 msgstr "SUSE Linux Enterprise ondersteunt veel strategieën voor implementaties. Hierdoor worden aan systeembeheerders flexibele manieren aangeboden waarop ze de distributie volgens hun behoeften kunnen aanpassen en bijwerken."
 
-#: slideshow.xml:220(para)
+#: slideshow.xml:215(para)
 msgid "AutoYaST is an integrated solution for installing one or more systems automatically without user intervention. Installations are performed using a control file with installation and configuration data."
 msgstr "AutoYaST is een geïntegreerde oplossing voor de automatische installatie van een of meer systemen, zonder de tussenkomst van gebruikers. Installaties worden uitgevoerd via een controlebestand, dat gegevens bevat voor de installatie en configuratie ervan."
 
-#: slideshow.xml:224(para)
-msgid "The openSUSE KIWI imaging system provides a complete operating system image solution for supported hardware platforms as well as virtualization systems."
-msgstr "Het openSUSE KIWI imaging-systeem biedt een volledige oplossing voor het besturingssysteem, voor ondersteunde hardwareplatformen en systemen voor virtualization."
+#: slideshow.xml:219(para)
+msgid "The KIWI imaging system provides a complete operating system image solution for supported hardware platforms as well as virtualization systems."
+msgstr "Het KIWI imaging-systeem biedt een volledige oplossing voor het besturingssysteem, voor ondersteunde hardwareplatformen en systemen voor virtualization."
 
-#: slideshow.xml:228(para)
+#: slideshow.xml:223(para)
 msgid "With these solutions combined with several key open source projects such as GConf, PolicyKit and Firstboot, SUSE Linux Enterprise Desktop is the easiest Linux desktop to deploy and manage."
 msgstr "Met deze oplossingen, in combinatie met verschillende zeer belangrijke open source projecten zoals GConf, PolicyKit en Firstboot, is SUSE Linux Enterprise Desktop het eenvoudigste Linux-bureaublad om te implementeren en beheren."
 
-#: slideshow.xml:234(title)
+#: slideshow.xml:229(title)
 msgid "Certified for SUSE Linux Enterprise Desktop"
 msgstr "Gecertificeerd voor SUSE Linux Enterprise Desktop"
 
-#: slideshow.xml:236(para)
-msgid "By successfully completing stringent compatibility testing requirements, Novell's partners qualify their systems for SUSE Linux Enterprise Desktop certification."
-msgstr "Door de succesvolle voltooiing van strenge eisen voor compatibiliteit, hebben de partners van Novell hun systemen gekwalificeerd voor de certificatie van SUSE Linux Enterprise Desktop."
+#: slideshow.xml:231(para)
+msgid "By successfully completing stringent compatibility testing requirements, SUSE's partners qualify their systems for SUSE Linux Enterprise Desktop certification."
+msgstr "Door de succesvolle voltooiing van strenge eisen voor compatibiliteit, hebben de partners van SUSE hun systemen gekwalificeerd voor de certificatie van SUSE Linux Enterprise Desktop."
 
-#: slideshow.xml:240(para)
+#: slideshow.xml:235(para)
 msgid "With a system certified for SUSE Linux Enterprise Desktop you can trustfully use our software to manage your media library, collaborate on projects and stay connected with your friends."
 msgstr "Met een systeem met certificering voor SUSE Linux Enterprise Desktop kunt u gerust onze software gebruiken om uw mediabibliotheek te beheren, samen te werken op projecten en contact te houden met uw vrienden."
 
-#: slideshow.xml:244(para)
-msgid "You can find all the systems that have passed logo certification by visiting novell.com/desktop. Systems with certification fully take advantage of SUSE Linux Enterprise Desktop to deliver rich Internet experience, ease of use, and excellent performance."
-msgstr "U kunt een lijst met alle systemen die de certificering hebben behaald, vinden op novell.com/desktop. Systemen met certificering halen voordeel uit de SUSE Linux Enterprise Desktop voor het leveren van een rijke internetervaring, gebruikersgemak en fantastische prestaties."
+#: slideshow.xml:239(para)
+msgid "You can find all the systems that have passed logo certification by visiting http://www.suse.com/products/desktop/. Systems with certification fully take advantage of SUSE Linux Enterprise Desktop to deliver rich Internet experience, ease of use, and excellent performance."
+msgstr "U kunt een lijst met alle systemen die de certificering hebben behaald, vinden op http://www.suse.com/products/desktop/. Systemen met certificering halen voordeel uit de SUSE Linux Enterprise Desktop voor het leveren van een rijke internetervaring, gebruikersgemak en fantastische prestaties."
 
-#: slideshow.xml:249(para)
-msgid "Novell is pleased to also be part of the Linux Driver Project focused on working with manufacturers to create and maintain open source Linux kernel drivers for all types of devices. Timely hardware enablement for desktop components is achieved by porting drivers to the Linux kernel that powers SUSE Linux Enterprise."
-msgstr "Novell is verheugd om deel uit te maken van het Linux Driver Project, dat zich richt op de samenwerking met fabrikanten om open source Linux-kernelstuurprogramma's te maken en te onderhouden voor alle apparaattypen. Tijdige hardwarerechten voor bureaubladcomponenten is bereikt door het overzetten van stuurprogramma's naar de Linux-kernel die energie levert aan SUSE Linux Enterprise."
+#: slideshow.xml:245(para)
+msgid "SUSE is pleased to also be part of the Linux Driver Project focused on working with manufacturers to create and maintain open source Linux kernel drivers for all types of devices. Timely hardware enablement for desktop components is achieved by porting drivers to the Linux kernel that powers SUSE Linux Enterprise."
+msgstr "SUSE is verheugd om deel uit te maken van het Linux Driver Project, dat zich richt op de samenwerking met fabrikanten om open source Linux-kernelstuurprogramma's te maken en te onderhouden voor alle apparaattypen. Tijdige hardwarerechten voor bureaubladcomponenten is bereikt door het overzetten van stuurprogramma's naar de Linux-kernel die energie levert aan SUSE Linux Enterprise."
 
-#: slideshow.xml:257(title)
+#: slideshow.xml:253(title)
 msgid "Interoperability: Work with Everyone"
 msgstr "Interoperabiliteit: werken met iedereen"
 
-#: slideshow.xml:259(para)
+#: slideshow.xml:255(para)
 msgid "SUSE Linux Enterprise Desktop is designed with today's heterogeneous world in mind. It is fully capable to seamlessly integrate into existing Windows file and print environments. In addition, it plugs into existing Microsoft Active Directory and Novell eDirectory environments. With its broad use of open standards, SUSE Linux Enterprise Desktop enables you to share information across any IT system so that you can easily communicate with all users around you."
 msgstr "SUSE Linux Enterprise Desktop is ontwikkeld met de heterogene maatschappij van tegenwoordig in het achterhoofd. De toepassing kan naadloos worden geïntegreerd in bestaande bestands- en afdrukomgevingen van Windows. Verder sluit de toepassing aan bij bestaande omgevingen van Microsoft Active Directory en Novell eDirectory. SUSE Linux Enterprise Desktop biedt u, met zijn uitgebreid gebruik van open standaarden, de mogelijkheid om informatie te delen over elk IT-systeem, zodat u eenvoudig kunt communiceren met de gebruikers om u heen."
 
-#: slideshow.xml:267(para)
-msgid "OpenOffice.org Novell Edition works with the widest range of document formats including Open Document Format, Microsoft Office formats (including OO XML), Works, WordPerfect and others."
-msgstr "OpenOffice.org Novell Edition werkt met een grote reeks aan documentindelingen, inclusief Open Document Format, Microsoft Office-indelingen (inclusief OO XML),Works, WordPerfect en andere."
+#: slideshow.xml:263(para)
+msgid "LibreOffice works with the widest range of document formats including Open Document Format, Microsoft Office formats (including OO XML), Works, WordPerfect and others."
+msgstr "LibreOffice werkt met een grote reeks aan documentindelingen, inclusief Open Document Format, Microsoft Office-indelingen (inclusief OO XML),Works, WordPerfect en andere."
 
-#: slideshow.xml:271(para)
+#: slideshow.xml:267(para)
 msgid "Furthermore, SUSE Linux Enterprise Desktop provides accessibility features so that anyone can take advantage of the improved productivity and lower cost that a Linux desktop provides."
 msgstr "SUSE Linux Enterprise Desktop biedt functies voor toegankelijkheid zodat iedereen kan profiteren van de verbeterde productiviteit en lagere kosten, die worden aangeboden door het Linux-bureaublad."
 
@@ -224,4 +221,3 @@ msgstr "SUSE Linux Enterprise Desktop biedt functies voor toegankelijkheid zodat
 #: slideshow.xml:0(None)
 msgid "translator-credits"
 msgstr "Karl Eichwalder <ke@suse.de> 1999, 2000 Arthur & Ettie Kerkmeester <a.s.kerkmeester@hccnet.nl> 1999, 2000, 2001, 2002, 2003, 2004, 2005FAX-Translations <all@fax-translations.com> 2000Martin Lohner <ml@suse.de> 2000Sybex <peter@sybex.nl> 2000 Rinse de Vries <rinsedevries@kde.nl> 2005, 2006 Marout Yasuo Borms <beijnes@xs4all.nl>2005, 2006 Mark van Gool <mvangool@novell.com> 2005 R.F. Pels <ruurdpels@kde.nl>2005, 2006 Daniël Huisman <d.d.huisman@gmail.com>2005, 2006 Henk Krus <yast-nl-l10n@lists.sf.kovoks.nl> 2005 Hans van den Heuvel <hvdheuvel@novell.com> 2005 Reinout van Schouwen <reinout@cs.vu.nl>, 2005 Jaap Woldringh <jjh.woldringh@planet.nl> 2006"
-

@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: slideshow-sled\n"
-"POT-Creation-Date: 2011-10-12 15:39+0200\n"
-"PO-Revision-Date: 2011-10-19 18:16\n"
+"POT-Creation-Date: 2011-11-14 12:11+0100\n"
+"PO-Revision-Date: 2011-11-24 09:26\n"
 "Last-Translator: Novell Language <language@novell.com>\n"
 "Language-Team: Novell Language <language@novell.com>\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgid "Welcome to SUSE Linux Enterprise Desktop"
 msgstr "歡迎使用 SUSE Linux Enterprise Desktop"
 
 #: slideshow.xml:20(para)
-msgid "SUSE Linux Enterprise Desktop is the industry's leading enterprise-quality Linux operating system that is optimized and ready for both, business and personal use. SUSE Linux Enterprise Desktop provides market-leading usability, seamless interoperability with existing enterprise computer systems, and dozens of essential office applications that enable businesses to use Linux and open source with confidence. Designed for general-purpose use, SUSE Linux Enterprise Desktop can also be tailored to fit fixed-function or special-purpose roles such as on technical workstations, kiosks, and thin clients."
+msgid "SUSE Linux Enterprise Desktop is the industry's leading enterprise-quality Linux operating system that is optimized and ready for both, business and personal use. SUSE Linux Enterprise Desktop provides market-leading usability, seamless interoperability with existing enterprise computer systems, and dozens of essential office applications that enable businesses to use Linux and Open Source with confidence. Designed for general-purpose use, SUSE Linux Enterprise Desktop can also be tailored to fit fixed-function or special-purpose roles such as on technical workstations, kiosks, and thin clients."
 msgstr "SUSE Linux Enterprise Desktop 是業界領先的企業級 Linux 作業系統，經最佳化後現已開始面向企業和個人使用。SUSE Linux Enterprise Desktop 具有市場上領先的易用性，並能與現有企業電腦系統完美互通，同時提供一系列基本的辦公室應用程式，可以讓企業放心使用 Linux 和開放原始碼。由於是針對一般使用目的而設計，SUSE Linux Enterprise Desktop 也可以進行調整以符合特定功能或是特殊目的角色需要，例如技術工作站、Kiosk 和簡易用戶端。"
 
 #: slideshow.xml:31(title)
@@ -29,12 +29,12 @@ msgid "The Latest Desktop Innovations"
 msgstr "最新的桌面創新"
 
 #: slideshow.xml:33(para)
-msgid "Novell's leadership in desktop innovation is unparalleled. Combining results from extensive and ongoing usability studies with an outstanding technology vision, Novell introduces SUSE Linux Enterprise Desktop 11 as the most integrated and powerful Linux desktop. SUSE Linux Enterprise Desktop can be installed on a wide range of client devices including desktops, notebooks, netbooks, nettops, workstations, and more and includes all the applications you need to be productive at work or home."
-msgstr "Novell 在桌面創新方面已是無人能及。結合對可用性的廣泛和持續的研究以及卓越的技術願景，Novell 將 SUSE Linux Enterprise Desktop 11 打造成最具整合性且功能強大的 Linux 桌面。SUSE Linux Enterprise Desktop 可以安裝在廣泛的用戶端設備之上，包括桌上型電腦、筆記型電腦、迷你筆電、nettop 和工作站等，還隨附了提高辦公室或家庭工作效率所需的所有應用程式。"
+msgid "Combining results from extensive and ongoing usability studies with an outstanding technology vision, SUSE introduces SUSE Linux Enterprise Desktop 11 as the most integrated and powerful Linux desktop. SUSE Linux Enterprise Desktop can be installed on a wide range of client devices including desktops, notebooks, netbooks, nettops, workstations, and more and includes all the applications you need to be productive at work or home."
+msgstr "結合對可用性的廣泛和持續的研究以及卓越的技術願景，SUSE 將 SUSE Linux Enterprise Desktop 11 打造成最具整合性且功能強大的 Linux 桌面。SUSE Linux Enterprise Desktop 可以安裝在廣泛的用戶端設備之上，包括桌上型電腦、筆記型電腦、迷你筆電、nettop 和工作站等，還隨附了提高辦公室或家庭工作效率所需的所有應用程式。"
 
 #: slideshow.xml:42(para)
-msgid "Novell's sponsorship and industry leadership in key open source projects such as the Linux kernel, OpenOffice.org, GNOME, Evolution, NetworkManager, Banshee, Mono, Compiz, F-Spot, Beagle, and many others illustrate Novell's unmatched innovation in the Linux desktop."
-msgstr "Novell 積極投身重要開放原始碼專案的研發工作並取得業界領先地位，其中包括 Linux 核心、OpenOffice.org、GNOME、Evolution、NetworkManager、Banshee、Mono、Compiz、F-Spot、Beagle 等，從而證明了 Novell 在 Linux 桌面創新方面無人能及的地位。"
+msgid "SUSE's sponsorship and industry leadership in key open source projects such as the Linux kernel, LibreOffice, GNOME, Evolution, NetworkManager, Banshee, F-Spot, and many others illustrate unmatched innovation in the Linux desktop."
+msgstr "SUSE 積極投身重要開放原始碼專案的研發工作並取得業界領先地位，其中包括 Linux 核心、LibreOffice、GNOME、Evolution、NetworkManager、Banshee、F-Spot 等，從而證明了其在 Linux 桌面系統創新方面無人能及的地位。"
 
 #: slideshow.xml:49(title)
 msgid "Connect and Communicate"
@@ -45,178 +45,175 @@ msgid "SUSE Linux Enterprise Desktop 11 provides all the tools you need to commu
 msgstr "SUSE Linux Enterprise Desktop 11 提供了與全世界通訊所需的所有工具。"
 
 #: slideshow.xml:54(para)
-msgid "The Firefox Web browser is the best Web browser in the market. It boasts a complete set of browser features and lightning-fast performance out of the box, and delivers a rich user experience through plug-ins such as Java, Novell Moonlight, Adobe Acrobat Reader, and Adobe Flash Player, which are all included in SUSE Linux Enterprise Desktop 11."
-msgstr "Firefox 網頁瀏覽器是目前市面上最棒的網頁瀏覽器。它具備瀏覽器的全部功能，以及創新的超快速效能，可透過 Java、Novell Moonlight、Adobe Acrobat Reader 和 Adobe Flash Player 等包含在 SUSE Linux Enterprise Desktop 11 內的外掛程式提供豐富的使用者體驗。"
+msgid "The Firefox Web browser is the best Web browser in the market. It boasts a complete set of browser features and lightning-fast performance out of the box, and delivers a rich user experience through plug-ins such as Java, Adobe Acrobat Reader, and Adobe Flash Player, which are all included in SUSE Linux Enterprise Desktop 11."
+msgstr "Firefox 網頁瀏覽器是目前市面上最棒的網頁瀏覽器。它具備瀏覽器的全部功能，以及創新的超快速效能，可透過 Java、Adobe Acrobat Reader 和 Adobe Flash Player 等包含在 SUSE Linux Enterprise Desktop 11 內的外掛程式提供豐富的使用者體驗。"
 
 #: slideshow.xml:61(para)
-msgid "Novell Evolution is a complete collaboration client suite supporting collaboration open standards. It includes Novell GroupWise and Microsoft Exchange connectivity for messaging, contact management, calendaring and task management."
-msgstr "Novell Evolution 是一套完整的用戶端協同作業套裝軟體，可支援協同作業的開放標準。此套裝軟體包含 Novell GroupWise 和 Microsoft Exchange 連接性，可傳送訊息、管理聯絡人、排程行事曆以及管理各種工作。"
+msgid "Evolution is a complete collaboration client suite supporting collaboration open standards. It includes Novell GroupWise and Microsoft Exchange connectivity for messaging, contact management, calendaring and task management."
+msgstr "Evolution 是一套完整的用戶端協同作業套裝軟體，可支援協同作業的開放標準。此套裝軟體包含 Novell GroupWise 和 Microsoft Exchange 連接性，可傳送訊息、管理聯絡人、排程行事曆以及管理各種工作。"
 
 #: slideshow.xml:66(para)
-msgid "SUSE Linux Enterprise Desktop also includes an instant messaging client that lets you connect with people all over the world."
-msgstr "SUSE Linux Enterprise Desktop 還包含即時訊息用戶端，可讓您與全世界的所有朋友聯絡。"
+msgid "SUSE Linux Enterprise Desktop also includes instant messaging clients that lets you connect with people all over the world."
+msgstr "SUSE Linux Enterprise Desktop 還包含即時通訊用戶端，可讓您與全世界的所有朋友聯絡。"
 
 #: slideshow.xml:69(para)
-msgid "So to always have you online NetworkManager, our easy-to-use network configuration tool can access the most complex and secured networks, including WEP, WPA, VPN and other technologies, or simply the open wireless network from your coffee shop, and makes sure to keep you connected to the Internet no matter where you are."
-msgstr "因此，若您要想一直保持連線，NetworkManager 這個簡單易用的網路組態工具可以存取最複雜和最安全的網路，包括 WEP、WPA、VPN 和其他技術，也可以存取咖啡館的開放無線網路。無論在哪里，都能保證讓您連線至網際網路。"
+msgid "NetworkManager, our easy-to-use network configuration tool, can access the most complex and secured networks, including WEP, WPA, VPN, UMTS/3G and other technologies, or simply the open wireless network from your coffee shop, and makes sure to keep you connected to the Internet no matter where you are."
+msgstr "因此，若您要想一直保持連線，NetworkManager 這個簡單易用的網路組態工具可以存取最複雜和最安全的網路，包括 WEP、WPA、VPN、UMTS/3G 和其他技術，也可以存取咖啡館的開放無線網路。無論在哪里，都能保證讓您連線至網際網路。"
 
-#: slideshow.xml:77(title)
+#. bnc#727321
+#: slideshow.xml:79(title)
 msgid "Spreadsheets, Presentations, Text Documents and More"
 msgstr "試算表、簡報、文字文件和其他"
 
-#: slideshow.xml:78(para)
-msgid "SUSE Linux Enterprise Desktop comes complete with the latest version of the leading open source office productivity suite, OpenOffice.org. OpenOffice.org Novell Edition comes with word processing, spreadsheet, presentation, database, and drawing applications."
-msgstr "SUSE Linux Enterprise Desktop 隨附有卓越的開放原始碼辦公室工作效率套裝軟體 OpenOffice.org 的最新版本。OpenOffice.org Novell Edition 包含文字處理、試算表、簡報、資料庫和繪圖各種應用程式。"
+#: slideshow.xml:80(para)
+msgid "SUSE Linux Enterprise Desktop comes complete with the latest version of the leading open source office productivity suite, LibreOffice."
+msgstr "SUSE Linux Enterprise Desktop 隨附了卓越的開放原始碼辦公室生產力套裝軟體 LibreOffice 的最新版本。"
 
-#: slideshow.xml:84(para)
-msgid "As the leading alternative to Microsoft Office, OpenOffice.org Novell Edition fully supports the latest open document format standards, the widest range of Microsoft Office file formats and many others."
-msgstr "做為 Microsoft Office 首選的替代產品，OpenOffice.org Novell Edition 完全支援最新開放文件格式 (Open Document Format) 標準，以及各種 Microsoft Office 檔案格式及其他格式。"
+#: slideshow.xml:85(para)
+msgid "As the leading alternative to Microsoft Office, LibreOffice fully supports the latest open document format standards, the widest range of Microsoft Office file formats and many others."
+msgstr "做為 Microsoft Office 首選的替代產品，LibreOffice 完全支援最新開放文件格式 (Open Document Format) 標準，以及各種 Microsoft Office 檔案格式及其他格式。"
 
-#: slideshow.xml:88(para)
-msgid "OpenOffice.org Novell Edition also provides enhanced VBA macro support, an improved Solver, and pivot table capability. To spice up all your presentations, OpenOffice.org Novell Edition has great new slide transitions that nicely blend with our desktop effects."
-msgstr "OpenOffice.org Novell Edition 還具備增強型 VBA 巨集支援，增強型解析器以及樞紐分析表功能。為了給您所有的簡報添彩，OpenOffice.org Novell Edition 提供了一項非常棒的新功能 - 投影片切換，該功能可以與桌面效果很好地融合在一起。 "
-
-#: slideshow.xml:95(title)
+#: slideshow.xml:90(title)
 msgid "Banshee: Manage your Media Library"
 msgstr "Banshee︰管理您的媒體庫"
 
-#: slideshow.xml:97(para)
-msgid "Novell is proud to sponsor the open source Banshee project, the easy-to-use and beautifully polished media management application. Listen to music, manage your music library, burn your own music CDs, or synchronize your music to your portable media player or smartphone to be able to listen to your music on-the-go. Banshee also gives you the ability to subscribe to a variety of sources, including streamed music and podcasts."
-msgstr "Novell 以開放原始碼 Banshee 專案 (這是一款易於使用且完美的媒體管理應用程式) 的發起者為榮。該應用程式可讓您聆聽音樂，管理您的音樂資料庫，燒錄自己的音樂 CD，或將音樂同步到可攜式媒體播放器或智慧型手機，以便您在路上也可以欣賞。Banshee 還可讓您訂閱各種音樂來源，如串流音樂和 Podcast。"
+#: slideshow.xml:92(para)
+msgid "SUSE is proud to sponsor the open source Banshee project, the easy-to-use and beautifully polished media management application. Listen to music, manage your music library, burn your own music CDs, or synchronize your music to your portable media player or smartphone to be able to listen to your music on-the-go. Banshee also gives you the ability to subscribe to a variety of sources, including streamed music and podcasts."
+msgstr "SUSE 以開放原始碼 Banshee 專案 (這是一款易於使用且完美的媒體管理應用程式) 的發起者為榮。該應用程式可讓您聆聽音樂，管理您的音樂資料庫，燒錄自己的音樂 CD，或將音樂同步到可攜式媒體播放器或智慧型手機，以便您在路上也可以欣賞。Banshee 還可讓您訂閱各種音樂來源，如串流音樂和 Podcast。"
 
-#: slideshow.xml:105(para)
-msgid "To ensure the highest quality recordings and playback, Novell developed its own state of the art Advanced Audio Coding (AAC) encoder and decoder."
-msgstr "要確保最高品質的錄製和播放效果，Novell 開發了自己的藝術進階音訊編碼 (AAC) 編碼器和解碼器。 "
+#: slideshow.xml:100(para)
+msgid "To ensure the highest quality recordings and playback, SUSE developed its own state of the art Advanced Audio Coding (AAC) encoder and decoder."
+msgstr "為確保最高品質的錄製和播放效果，SUSE 開發了自己的藝術進階音訊編碼 (AAC) 編碼器和解碼器。 "
 
-#: slideshow.xml:109(para)
+#: slideshow.xml:104(para)
 msgid "New to SUSE Linux Enterprise Desktop 11, Banshee enables you to include videos into your media library, effortlessly letting you get entertained and up-to-date with video podcasts directly from your Linux desktop. Synchronize video podcasts to your portable media player for viewing on-the-go."
 msgstr "Banshee 是 SUSE Linux Enterprise Desktop 11 的新功能，可讓您將視訊存入媒體庫，如此您輕輕鬆鬆就能直接在 Linux 桌面獲取最新的視訊 Podcast，盡情享受。將視訊 Podcast 同步到可攜式媒體播放器，這樣在路上也可以欣賞視訊。"
 
-#: slideshow.xml:115(para)
+#: slideshow.xml:110(para)
 msgid "Discover new music through the use of greatly integrated Web services like Last.fm radio."
 msgstr "使用完美整合的 Web 服務 (如 Last.fm 電台) 來發現新音樂。"
 
-#: slideshow.xml:120(title)
+#: slideshow.xml:115(title)
 msgid "Photos, Images, Drawings, Graphics"
 msgstr "相片、影像、繪圖、圖形"
 
-#: slideshow.xml:122(para)
+#: slideshow.xml:117(para)
 msgid "Our Photo management tool in SUSE Linux Enterprise Desktop could very well be the most user-friendly one ever invented. Recognizing virtually all digital cameras and photo storage devices automatically, F-Spot will let you import and manage all your photos in very few clicks. It keeps an original copy of your photos, allowing you to be creative and try all kinds of modifications while making sure you never lose any of those precious snapshots again. Uploading pictures to the Internet has never been easier. Whether it is for printing or for your friends and family to enjoy, your photos are just 1-click away."
 msgstr "SUSE Linux Enterprise Desktop 中的相片管理工具具有超凡的易用性。幾乎可自動辨識所有數位相機和相片儲存設備，有了 F-Spot，您只需按幾下滑鼠就能匯入和管理您所有的相片。它還可保留相片的原始副本，讓您發揮創意，嘗試進行所有類型的修飾，而決不會遺失任何珍貴的快照。同時，將圖片上載至網際網路也是前所未有地輕鬆。無論是要列印相片還是與朋友和家人分享，都只需輕輕一按。"
 
-#: slideshow.xml:132(para)
+#: slideshow.xml:127(para)
 msgid "For advanced image manipulation and graphics creation, the open-source community created GIMP. It is a fantastic and a complete photo retouching, image composition and image authoring application. GIMP has enough features to satisfy the most exacting artist."
 msgstr "為了進階處理影像和建立圖片，開放原始碼社群建立了 GIMP。這是一款集相片潤色、影像合成和影像製作於一體的極棒的應用程式。GIMP 功能完善，可以滿足最挑剔的藝術家的需求。"
 
-#: slideshow.xml:137(para)
+#: slideshow.xml:132(para)
 msgid "Wondering about advanced vector graphics? Then Inkscape is the right graphical software for you. It is a versatile graphics solution using the W3C standard Scalable Vector Graphics (SVG) file format. Inkscape natively supports opening or importing SVG, SVGZ (gzipped SVG), PDF, and AI (Adobe Illustrator) formats."
 msgstr "對進階向量圖形好奇嗎？Inkscape 這個圖形軟體便可滿足您。這是一款使用 W3C 標準可縮放向量圖形 (SVG) 檔案格式的全功能圖形解決方案。Inkscape 原本便可開啟和輸入 SVG、SVGZ (Gzip 壓縮的 SVG)、PDF 和 AI (Adobe Illustrator) 格式。"
 
-#: slideshow.xml:145(title)
+#: slideshow.xml:140(title)
 msgid "Linux Helps Reduce Your Carbon Footprint"
 msgstr "Linux 可協助減少您的碳足跡"
 
-#: slideshow.xml:147(para)
+#: slideshow.xml:142(para)
 msgid "We are concerned about the environment. Whether you are a mobile worker or desktop user, SUSE Linux Enterprise Desktop reduces your power consumption without impacting your productivity in any way. With increasing reliability, the system will maximize energy saving and will even let you track it."
 msgstr "Linux 恰好可協助減少碳殘留。無論您是行動工作者還是桌面使用者，SUSE Linux Enterprise Desktop 都可在不影響您效率的情況下減少電能消耗。隨著可靠性的增加，該系統可最大限度地節省能源並能讓您加以監控。"
 
+#: slideshow.xml:148(para)
+msgid "Now with effective power management on the processor, chipsets, platform and operating system level, SUSE and its partners optimize power consumption in order to provide you with the longest possible battery life."
+msgstr "現在，有了對處理器、晶片組、平台和作業系統層級的有效電源管理，SUSE 及其合作伙伴就能最大程度減少電能消耗，以便為您提供儘可能長的電池使用時間。"
+
 #: slideshow.xml:153(para)
-msgid "Now with effective power management on the processor, chipsets, platform and operating system level, Novell and its partners optimize power consumption in order to provide you with the longest possible battery life."
-msgstr "現在，有了對處理器、晶片組、平台和作業系統層級的有效電源管理，Novell 及其合作伙伴就能最大程度減少電能消耗，以便為您提供儘可能長的電池使用時間。"
+msgid "SUSE works with its hardware manufacturing partners to ensure that their systems installed with SUSE Linux Enterprise Desktop earn the ENERGY STAR qualification."
+msgstr "SUSE 聯合其硬體製造合作伙伴，共同確保安裝 SUSE Linux Enterprise Desktop 的系統能夠贏得 ENERGY STAR (節能之星) 稱號。"
 
-#: slideshow.xml:158(para)
-msgid "Novell works with its hardware manufacturing partners to ensure that their systems installed with SUSE Linux Enterprise Desktop earn the ENERGY STAR qualification."
-msgstr "Novell 聯合其硬體製造合作伙伴，共同確保安裝 SUSE Linux Enterprise Desktop 的系統能夠贏得 ENERGY STAR (節能之星) 稱號。"
+#: slideshow.xml:157(para)
+msgid "By seamlessly providing remote desktop access, SUSE aims to promote more electronic collaboration and even reduce your need for travel."
+msgstr "透過無縫提供遠端桌面存取，SUSE 旨在增加更多的電子協作，免去您的奔波之苦。"
 
-#: slideshow.xml:162(para)
-msgid "By seamlessly providing remote desktop access, Novell aims to promote more electronic collaboration and even reduce your need for travel."
-msgstr "透過無縫提供遠端桌面存取，Novell 旨在增加更多的電子協作，免去您的奔波之苦。"
-
-#: slideshow.xml:168(title)
+#: slideshow.xml:163(title)
 msgid "Keep Your System Secure and Up-to-Date"
 msgstr "確保系統安全並及時更新"
 
-#: slideshow.xml:170(para)
+#: slideshow.xml:165(para)
 msgid "When your system is connected to the Internet, you will be happy to know that we enabled the SUSE Linux Firewall to help secure your system and data from intruders. We also included AppArmor, the most effective and easy-to-use Linux application security system available. It proactively protects the operating system and applications from external or internal threats."
 msgstr "當系統連接至網際網路，您會很高興地發現 SUSE Linux 防火牆可協助確保系統和資料的安全，防範侵入者的攻擊。SUSE Linux Enterprise Desktop 還隨附了 AppArmor，這是目前最有效、最易使用的 Linux 應用程式安全性系統。它能主動保護作業系統和應用程式，防範來自外部或內部的威脅。"
 
-#: slideshow.xml:178(para)
+#: slideshow.xml:173(para)
 msgid "In SUSE Linux Enterprise Desktop 11, we have introduced a new granular privilege system PolicyKit that greatly improves the ability for users and applications to be granted access to privileged operations when needed. Furthermore, we have improved wireless and wired network security connectivity and data encryption capabilities."
 msgstr "在 SUSE Linux Enterprise Desktop 11 中，我們已經介紹了一種新的細化權限系統 PolicyKit，該系統可視需要極大地提升使用者和應用程式授權存取特權操作的能力。在這一版本中，我們還增強了無線和有線網路的安全連接性及資料加密功能。"
 
-#: slideshow.xml:184(para)
-msgid "Novell is dedicated to promptly provide its users with the latest security updates. To ensure that the latest security patches are installed on your system, Novell provides a comprehensive resource management solution that allows you to stay up-to-date with all security updates."
-msgstr "Novell 努力讓使用者及時獲得最新的安全性更新。為了確保您系統上安裝的是最新的安全性修補程式，Novell 提供了完善的資源管理解決方案，可讓您時時更新所有安全性更新。"
+#: slideshow.xml:179(para)
+msgid "SUSE is dedicated to promptly provide its users with the latest security updates. To ensure that the latest security patches are installed on your system, SUSE provides a comprehensive systems management solution that allows you to stay up-to-date with all security updates."
+msgstr "SUSE 努力讓使用者及時獲得最新的安全性更新。為了確保您系統上安裝的是最新的安全性修補程式，SUSE 提供了完善的系統管理解決方案，可讓您即時獲得所有安全性更新。"
 
-#: slideshow.xml:191(title)
+#: slideshow.xml:186(title)
 msgid "openSUSE.org"
 msgstr "openSUSE.org"
 
-#: slideshow.xml:193(para)
-msgid "The openSUSE project is a worldwide community program sponsored by Novell that promotes the use of Linux everywhere. Please visit opensuse.org where you can find and join a community of users and developers who all have the same goal in mind: to create and distribute the world's most usable Linux distribution. openSUSE provides the base of our award-winning SUSE Linux Enterprise products."
-msgstr "由 Novell 發起的 openSUSE 專案，是一款全球社群程式，用於促進 Linux 的普及。請造訪 opensuse.org，您可以在這裡找到並加入一個由懷有相同目標的使用者和開發人員組成的社群，建立並散佈世界上最有用的 Linux 套裝作業系統。我們屢獲殊榮的 SUSE Linux Enterprise 產品即以 openSUSE 為基礎。"
+#: slideshow.xml:188(para)
+msgid "The openSUSE project is a worldwide community program sponsored by SUSE that promotes the use of Linux everywhere. Please visit opensuse.org where you can find and join a community of users and developers who all have the same goal in mind: to create and distribute the world's most usable Linux distribution. openSUSE provides the base of our award-winning SUSE Linux Enterprise products."
+msgstr "由 SUSE 發起的 openSUSE 專案，是一款全球社群程式，用於促進 Linux 的普及。請造訪 opensuse.org，您可以在這裡找到並加入一個由懷有相同目標的使用者和開發人員組成的社群，建立並散佈世界上最有用的 Linux 套裝作業系統。我們屢獲殊榮的 SUSE Linux Enterprise 產品即以 openSUSE 為基礎。"
 
-#: slideshow.xml:200(para)
+#: slideshow.xml:195(para)
 msgid "The openSUSE Build Service is an open and complete distribution development platform that provides a transparent infrastructure for development of the openSUSE distribution. With the openSUSE Build Service, you can easily find the latest open source packages you are looking for. It provides a bridge between developers and users with feedback and rating functionality. For developers it is an efficient place to build up groups and work together through its project model."
 msgstr "openSUSE 建立服務是開放式的完整套裝作業系統開發平台，為 openSUSE 套裝作業系統的開發提供了透明的基礎結構。使用 openSUSE 建立服務可以輕鬆地找到您所渴求的最新開放原始碼套件。該服務透過回饋和評等功能在開發人員和使用者之間建立了橋梁。對於開發人員而言，在這裡可以有效地建立群組，並透過專案模型互相協作。"
 
-#: slideshow.xml:208(para)
-msgid "Zypp is our software management engine and open source project that powers products like YaST, Zypper and ZENworks with a powerful dependency resolver and a convenient package management API."
-msgstr "ZYpp 是我們的軟體管理引擎和開放原始碼專案，它有強大的相依性解析程式和便利的套件管理 API，可為 YaST、ZYpper 和 ZENworks 等產品提供支援。"
+#: slideshow.xml:203(para)
+msgid "Zypp is our software management engine and open source project that powers products like YaST, Zypper and SUSE Manager with a powerful dependency resolver and a convenient package management API."
+msgstr "Zypp 是我們的軟體管理引擎和開放原始碼專案，它有強大的相依性解析程式和便利的套件管理 API，可為 YaST、Zypper 和 SUSE Manager 等產品提供支援。"
 
-#: slideshow.xml:214(title)
+#: slideshow.xml:209(title)
 msgid "Easy to Deploy and Manage"
 msgstr "易於部署和管理"
 
-#: slideshow.xml:216(para)
+#: slideshow.xml:211(para)
 msgid "SUSE Linux Enterprise supports many deployment strategies providing system administrators flexible ways to customize and tailor the distribution to their needs."
 msgstr "SUSE Linux Enterprise 可支援很多部署策略，這些策略為系統管理員提供了靈活的自定方式，並能根據他們的需求調整配送。"
 
-#: slideshow.xml:220(para)
+#: slideshow.xml:215(para)
 msgid "AutoYaST is an integrated solution for installing one or more systems automatically without user intervention. Installations are performed using a control file with installation and configuration data."
 msgstr "AutoYaST 是一套整合式解決方案，可以在沒有使用者介入的情況下自動安裝一或多個系統。安裝是透過包含安裝和組態資料的控制檔案來執行。"
 
-#: slideshow.xml:224(para)
-msgid "The openSUSE KIWI imaging system provides a complete operating system image solution for supported hardware platforms as well as virtualization systems."
-msgstr "openSUSE KIWI 影像系統為受支援的硬體平台和虛擬化系統提供完整的作業系統影像解決方案。"
+#: slideshow.xml:219(para)
+msgid "The KIWI imaging system provides a complete operating system image solution for supported hardware platforms as well as virtualization systems."
+msgstr "KIWI 影像系統為受支援的硬體平台和虛擬化系統提供完整的作業系統影像解決方案。"
 
-#: slideshow.xml:228(para)
+#: slideshow.xml:223(para)
 msgid "With these solutions combined with several key open source projects such as GConf, PolicyKit and Firstboot, SUSE Linux Enterprise Desktop is the easiest Linux desktop to deploy and manage."
 msgstr "這些解決方案將數個重要開放原始碼專案 (如 GConf、PolicyKit 和 Firstboot) 相結合，使得 SUSE Linux Enterprise Desktop 成為最易部署和管理的 Linux 桌面。"
 
-#: slideshow.xml:234(title)
+#: slideshow.xml:229(title)
 msgid "Certified for SUSE Linux Enterprise Desktop"
 msgstr "已獲取 SUSE Linux Enterprise Desktop 證書"
 
-#: slideshow.xml:236(para)
-msgid "By successfully completing stringent compatibility testing requirements, Novell's partners qualify their systems for SUSE Linux Enterprise Desktop certification."
-msgstr "Novell 合作伙伴成功完成嚴格的相容性測試要求後，其系統便可獲得 SUSE Linux Enterprise Desktop 證書。"
+#: slideshow.xml:231(para)
+msgid "By successfully completing stringent compatibility testing requirements, SUSE's partners qualify their systems for SUSE Linux Enterprise Desktop certification."
+msgstr "SUSE 合作伙伴成功完成嚴格的相容性測試要求後，其系統便可獲得 SUSE Linux Enterprise Desktop 證書。"
 
-#: slideshow.xml:240(para)
+#: slideshow.xml:235(para)
 msgid "With a system certified for SUSE Linux Enterprise Desktop you can trustfully use our software to manage your media library, collaborate on projects and stay connected with your friends."
 msgstr "系統通過 SUSE Linux Enterprise Desktop 認證後，您就可以放心地使用我們的軟體來管理您的媒體資料庫，進行專案協作，並與朋友保持聯絡。"
 
-#: slideshow.xml:244(para)
-msgid "You can find all the systems that have passed logo certification by visiting novell.com/desktop. Systems with certification fully take advantage of SUSE Linux Enterprise Desktop to deliver rich Internet experience, ease of use, and excellent performance."
-msgstr "如果您造訪 novell.com/desktop，就會發現所有系統都具有標幟證書。具有證書的系統可充分利用 SUSE Linux Enterprise Desktop 的全部優點，實現豐富的網際網路體驗，提供易於使用的功能和極佳的效能。"
+#: slideshow.xml:239(para)
+msgid "You can find all the systems that have passed logo certification by visiting http://www.suse.com/products/desktop/. Systems with certification fully take advantage of SUSE Linux Enterprise Desktop to deliver rich Internet experience, ease of use, and excellent performance."
+msgstr "如果您造訪 http://www.suse.com/products/desktop/，就會發現所有系統都具有標幟證書。具有證書的系統可充分利用 SUSE Linux Enterprise Desktop 的全部優點，實現豐富的網際網路體驗，提供易於使用的功能和極佳的效能。"
 
-#: slideshow.xml:249(para)
-msgid "Novell is pleased to also be part of the Linux Driver Project focused on working with manufacturers to create and maintain open source Linux kernel drivers for all types of devices. Timely hardware enablement for desktop components is achieved by porting drivers to the Linux kernel that powers SUSE Linux Enterprise."
-msgstr "Novell 也很樂意參與 Linux 驅動程式專案，專注於和製造商共同建立並維護適用於所有設備類型的開放原始碼 Linux 核心驅動程式。透過將驅動程式移植到為 SUSE Linux Enterprise 提供動力的 Linux 核心，桌面元件可以及時啟用硬體。"
+#: slideshow.xml:245(para)
+msgid "SUSE is pleased to also be part of the Linux Driver Project focused on working with manufacturers to create and maintain open source Linux kernel drivers for all types of devices. Timely hardware enablement for desktop components is achieved by porting drivers to the Linux kernel that powers SUSE Linux Enterprise."
+msgstr "SUSE 也很樂意參與 Linux 驅動程式專案，專注於和製造商共同建立並維護適用於所有設備類型的開放原始碼 Linux 核心驅動程式。透過將驅動程式移植到為 SUSE Linux Enterprise 提供動力的 Linux 核心，桌面元件可以及時啟用硬體。"
 
-#: slideshow.xml:257(title)
+#: slideshow.xml:253(title)
 msgid "Interoperability: Work with Everyone"
 msgstr "互通性︰集眾人之力"
 
-#: slideshow.xml:259(para)
+#: slideshow.xml:255(para)
 msgid "SUSE Linux Enterprise Desktop is designed with today's heterogeneous world in mind. It is fully capable to seamlessly integrate into existing Windows file and print environments. In addition, it plugs into existing Microsoft Active Directory and Novell eDirectory environments. With its broad use of open standards, SUSE Linux Enterprise Desktop enables you to share information across any IT system so that you can easily communicate with all users around you."
 msgstr "共同設計的 SUSE Linux Enterprise Desktop 充分考慮了當今世界的異質性。所以可以完全無障礙地整合到現有的 Windows 檔案和列印環境。此外，它還插入了現有的 Microsoft Active Directory 和 Novell eDirectory 環境。SUSE Linux Enterprise Desktop 廣泛使用開放式標準，可讓您跨越任何 IT 系統共享資訊，可以輕鬆實現與周邊所有使用者相互通訊。"
 
-#: slideshow.xml:267(para)
-msgid "OpenOffice.org Novell Edition works with the widest range of document formats including Open Document Format, Microsoft Office formats (including OO XML), Works, WordPerfect and others."
-msgstr "OpenOffice.org Novell Edition 處理的文件格式最為廣泛，包括開放檔案格式 (Open Document Format)、Microsoft Office 格式 (包含 OO XML)、Works 和 WordPerfect 等。"
+#: slideshow.xml:263(para)
+msgid "LibreOffice works with the widest range of document formats including Open Document Format, Microsoft Office formats (including OO XML), Works, WordPerfect and others."
+msgstr "LibreOffice 處理的文件格式最為廣泛，包括開放檔案格式 (Open Document Format)、Microsoft Office 格式 (包含 OO XML)、Works 和 WordPerfect 等。"
 
-#: slideshow.xml:271(para)
+#: slideshow.xml:267(para)
 msgid "Furthermore, SUSE Linux Enterprise Desktop provides accessibility features so that anyone can take advantage of the improved productivity and lower cost that a Linux desktop provides."
 msgstr "此外，SUSE Linux Enterprise Desktop 還提供無障礙功能，任何人都可以享有 Linux 桌面所具有的增強型效率和較低成本。"
 
@@ -224,4 +221,3 @@ msgstr "此外，SUSE Linux Enterprise Desktop 還提供無障礙功能，任何
 #: slideshow.xml:0(None)
 msgid "translator-credits"
 msgstr "translator-credits"
-
