@@ -4,7 +4,7 @@
 # xml2po uses temporary files that do not like being called twice
 %define jobs 1
 Group:	Metapackages
-License: GPL-v2.0+
+License:        GPL-2.0+
 BuildRequires:	pkgconfig yast2-devtools gnome-doc-utils docbook_4 sgml-skel
 %if 0%{?suse_version} > 1120
 # was in gnome-doc-utils before
