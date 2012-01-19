@@ -4,7 +4,7 @@
 <!ENTITY suse "SUSE">
 <!ENTITY suselinux "&suse; Linux">
 <!ENTITY opensuse "openSUSE">
-<!ENTITY suse-version "12.1">
+<!ENTITY suse-version "12.2">
 ]>
 <!-- <table cellspacing="10" cellpadding="5"> -->
 <!--   <tr> -->
@@ -14,7 +14,7 @@
  <title>Slide Show</title>
 
  <section label="01_welcome">
-  <title>Welcome to openSUSE™</title>
+  <title>Welcome to openSUSE™!</title>
 
     <para>
 Whether you use your computer to communicate with friends, family, or
@@ -171,7 +171,7 @@ openSUSE questions as well as general Linux-related questions. The Help
 Center is accessible via the main menu. Manuals are also available in
 PDF and can be downloaded and printed <!-- translator: check whether a
 dedicated page exists for your language and use it instead of "en" -->
-(http://en.opensuse.org/Documentation).
+(http://en.opensuse.org/Portal:Documentation).
 
     </para>
 
@@ -181,7 +181,7 @@ translator: check whether a dedicated page exists for your language and
 use it instead of "en" -->  http://en.opensuse.org/. Under
 "Documentation," you'll discover links to useful information created and
 maintained by other openSUSE users. You can also find links to the
-documentation available on the official Novell Web site. For help with
+documentation available on the official SUSE Web site. For help with
 specific openSUSE problems, check out the Support Database at
 www.opensuse.org
     </para>
@@ -203,7 +203,7 @@ Join openSUSE.org to collaborate.
 
   </section>
 
- <section label="12_novell">
+ <section label="12_suse">
   <title>SUSE and Linux</title>
   <para>
 SUSE is committed to your success with Linux. In addition to openSUSE,
