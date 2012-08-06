@@ -3,17 +3,22 @@
 @HEADER@
 # xml2po uses temporary files that do not like being called twice
 %define jobs 1
-Group:	Metapackages
-License:        GPL-2.0+
-BuildRequires:	pkgconfig yast2-devtools gnome-doc-utils docbook_4 sgml-skel
+BuildRequires:  docbook_4
+BuildRequires:  gnome-doc-utils
+BuildRequires:  pkgconfig
+BuildRequires:  sgml-skel
+BuildRequires:  yast2-devtools
 %if 0%{?suse_version} > 1120
 # was in gnome-doc-utils before
 BuildRequires:  xml2po
 %endif
-BuildArchitectures:	noarch
+BuildArch:	noarch
 Summary:	YaST2 - Slide Show
+License:        GPL-2.0+
+Group:	        Metapackages
 Source10:       slideshow-po.tar.gz
 Source12:       slideshow-sled-po.tar.gz
+
 %description
 The slide show displayed during package installation with YaST2.
 
