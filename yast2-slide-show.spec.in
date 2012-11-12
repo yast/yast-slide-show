@@ -14,7 +14,7 @@ BuildRequires:  xml2po
 %endif
 BuildArch:	noarch
 Summary:	YaST2 - Slide Show
-License:        GPL-2.0+
+License:        GPL-2.0
 Group:	        Metapackages
 Source10:       slideshow-po.tar.gz
 Source12:       slideshow-sled-po.tar.gz
