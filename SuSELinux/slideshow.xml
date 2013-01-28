@@ -4,7 +4,7 @@
 <!ENTITY suse "SUSE">
 <!ENTITY suselinux "&suse; Linux">
 <!ENTITY opensuse "openSUSE">
-<!ENTITY suse-version "12.2">
+<!ENTITY suse-version "12.3">
 ]>
 <!-- <table cellspacing="10" cellpadding="5"> -->
 <!--   <tr> -->
@@ -141,10 +141,12 @@ Linux application security system available today. AppArmor proactively
 protects your operating system and applications from internal or
 external threats.</para>
 
+<!-- for the online update feature, see bnc#793710 -->
 <para>In addition to SUSE Firewall and AppArmor, openSUSE also includes a
 special security patch update system. To ensure that the latest security
 patches are installed on your system, you can choose to perform an
-online update at the end of this installation procedure. And in the
+online update at the end of this installation procedure (if you did not
+choose the automatic installation modus at the beginning). And in the
 future, you will be automatically informed of the availability of
 important security updates, so you can install them at your convenience.
 </para>
