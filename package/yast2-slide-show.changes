@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Tue Jan 29 13:59:15 CET 2013 - ke@suse.de
+
+- 2.24.3:
+- Use LibreOffice logo; bnc#793569.
+
+-------------------------------------------------------------------
 Tue Jan 29 13:13:06 CET 2013 - ke@suse.de
 
 - 2.24.2:
@@ -10,6 +16,37 @@ Tue Jan 29 10:08:24 CET 2013 - ke@suse.de
 - 2.24.1:
 - SuSELinux: If using automatic installation, online update will not run
   at the end of the installation; bnc#793710.
+
+-------------------------------------------------------------------
+Mon Aug 13 08:22:55 UTC 2012 - ke@suse.de
+
+- update openSUSE translations.
+
+-------------------------------------------------------------------
+Fri Aug 10 11:03:48 UTC 2012 - ke@suse.de
+
+- update openSUSE translations.
+
+-------------------------------------------------------------------
+Mon Aug  6 15:16:14 UTC 2012 - ke@suse.de
+
+- 2.22.0:
+- Update version number; bnc#671697.
+
+-------------------------------------------------------------------
+Fri Aug  3 09:22:09 UTC 2012 - ke@suse.de
+
+- update openSUSE translations.
+
+-------------------------------------------------------------------
+Fri Jun  1 12:44:44 UTC 2012 - ke@suse.de
+
+- update openSUSE translations.
+
+-------------------------------------------------------------------
+Wed May 16 07:31:42 UTC 2012 - ke@suse.de
+
+- update openSUSE translations.
 
 -------------------------------------------------------------------
 Thu Jan 19 16:50:41 CET 2012 - ke@suse.de
