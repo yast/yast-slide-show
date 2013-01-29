@@ -1,4 +1,11 @@
 -------------------------------------------------------------------
+Tue Jan 29 10:08:24 CET 2013 - ke@suse.de
+
+- 2.24.1:
+- SuSELinux: If using automatic installation, online update will not run
+  at the end of the installation; bnc#793710.
+
+-------------------------------------------------------------------
 Thu Jan 19 16:50:41 CET 2012 - ke@suse.de
 
 - Fix opensuse.org link; bnc#727049.
