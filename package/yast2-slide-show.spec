@@ -1,13 +1,36 @@
-@HEADER-COMMENT@
+#
+# spec file for package yast2-slide-show
+#
+# Copyright (c) 2013 SUSE LINUX Products GmbH, Nuernberg, Germany.
+#
+# All modifications and additions to the file contributed by third parties
+# remain the property of their copyright owners, unless otherwise agreed
+# upon. The license for this file, and modifications and additions to the
+# file, is the same license as for the pristine package itself (unless the
+# license for the pristine package is not an Open Source License, in which
+# case the license is the MIT License). An "Open Source License" is a
+# license that conforms to the Open Source Definition (Version 1.9)
+# published by the Open Source Initiative.
 
-@HEADER@
+# Please submit bugfixes or comments via http://bugs.opensuse.org/
+#
+
+
+Name:           yast2-slide-show
+Version:        3.1.0
+Release:        0
+
+BuildRoot:      %{_tmppath}/%{name}-%{version}-build
+Source0:        %{name}-%{version}.tar.bz2
+
+
 # xml2po uses temporary files that do not like being called twice
 %define jobs 1
 BuildRequires:  docbook_4
 BuildRequires:  gnome-doc-utils
 BuildRequires:  pkgconfig
 BuildRequires:  sgml-skel
-BuildRequires:  yast2-devtools
+BuildRequires:  yast2-devtools >= 3.0.6
 %if 0%{?suse_version} > 1120
 # was in gnome-doc-utils before
 BuildRequires:  xml2po
@@ -43,7 +66,8 @@ Group:		Metapackages
 %description SLED
 The slide show displayed during package installation with YaST2.
 
-@PREP@
+%prep
+%setup -n %{name}-%{version}
 pushd SuSELinux
 tar xf %{S:10}
 langs=$(tar tf %{S:10}|sed 's=.*po/==;s=\.po$==;/^$/d'|sort -u|fmt -w1000)
@@ -60,7 +84,8 @@ for f in Makefile.{am,in}; do
 done
 popd
 
-@BUILD@
+%build
+%yast_build
 ./tools/check_utf-8
 # on OS use the openSUSE logo everywhere; see # 216562
 %if %suse_version >= 1020
@@ -69,8 +94,9 @@ for f in SuSELinux/txt/*/01*.rtf; do
 done
 %endif
 
+%install
+%yast_install
 
-@INSTALL@
 # Get rid of README files etc. auto-created by yast2-devtools
 # (but useless for this special package)
 /bin/rm -rf %{buildroot}%{_datadir}/doc/packages/yast2-slide-show
@@ -79,7 +105,6 @@ done
 /bin/rm -rf %{buildroot}%{_datadir}/YaST2/clients/slide-show.ycp
 /bin/rm -rf %{buildroot}%{_datadir}/YaST2/modules/SlideTester.ycp
 
-@CLEAN@
 
 %files SuSELinux
 %defattr(-,root,root)
