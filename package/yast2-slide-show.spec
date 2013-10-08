@@ -71,17 +71,13 @@ The slide show displayed during package installation with YaST2.
 pushd SuSELinux
 tar xf %{S:10}
 langs=$(tar tf %{S:10}|sed 's=.*po/==;s=\.po$==;/^$/d'|sort -u|fmt -w1000)
-for f in Makefile.{am,in}; do
-  sed -i "s|^langs *=.*$|langs = en $langs|" $f
-done
+sed -i "s|^langs *=.*$|langs = en $langs|" Makefile.am
 popd
 
 pushd SLED
 tar xf %{S:12}
 langs=$(tar tf %{S:12}|sed 's=.*po/==;s=\.po$==;/^$/d'|sort -u|fmt -w1000)
-for f in Makefile.{am,in}; do
-  sed -i "s|^langs *=.*$|langs = en $langs|" $f
-done
+sed -i "s|^langs *=.*$|langs = en $langs|" Makefile.am
 popd
 
 %build
