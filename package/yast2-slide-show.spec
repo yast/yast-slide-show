@@ -30,7 +30,7 @@ BuildRequires:  docbook_4
 BuildRequires:  gnome-doc-utils
 BuildRequires:  pkgconfig
 BuildRequires:  sgml-skel
-BuildRequires:  yast2-devtools >= 3.0.6
+BuildRequires:  yast2-devtools >= 3.1.10
 %if 0%{?suse_version} > 1120
 # was in gnome-doc-utils before
 BuildRequires:  xml2po
