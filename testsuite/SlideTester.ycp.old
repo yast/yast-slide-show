@@ -168,21 +168,13 @@
 	install_sizes_per_cd	= [ 1 ];
 	inst_src_names		= [ "Test" ];
 
-	if ( Mode::cont && install_sizes_per_cd[0, 0]:0 > 0 )
-	{
-	    // CD1 is guaranteed to be done in continue mode.
-	    // The packager tends to return the old sizes for CD1 there, too
-	    // (bad reinitialization?).
-	    y2warning( "Packager returned remaining size %1 for CD1 - (fixing)", install_sizes_per_cd[0,0]:0 );
-	    install_sizes_per_cd[0, 0] = -1;
-	}
 
 	total_size_to_install	= 0;
 	total_cd_count		= 0;
 
-	foreach ( list size_list, install_sizes_per_cd,
+	foreach ( list<integer> size_list, (list<list<integer> >) install_sizes_per_cd,
         ``{
-	    foreach ( integer cd_size, size_list,
+	    foreach ( integer cd_size, (list<integer>)size_list,
 	    ``{
 		total_size_to_install	= total_size_to_install + cd_size;
 		total_cd_count		= total_cd_count + 1;
@@ -509,9 +501,9 @@
 	    integer src_no = 1;
 	    integer cd_no  = 1;
 
-	    foreach ( list cd_remaining_list, unit_is_seconds ? remaining_times_per_cd : remaining_sizes_per_cd,
+	    foreach ( list<integer> cd_remaining_list, (list<list<integer> >) (unit_is_seconds ? remaining_times_per_cd : remaining_sizes_per_cd),
             ``{
-  	        foreach ( integer cd_remaining, cd_remaining_list,
+  	        foreach ( integer cd_remaining, (list<integer>)cd_remaining_list,
 	        ``{
  		    if ( ! ( src_no == current_src_no && cd_no == current_cd_no )
 			 && cd_remaining > 0 )
@@ -623,12 +615,12 @@
 
 	// Recalculate remaining times for the individual CDs
 
-	foreach ( list remaining_sizes_list, remaining_sizes_per_cd,
+	foreach ( list<integer> remaining_sizes_list, (list<list<integer> >)remaining_sizes_per_cd,
 	``{
 	    list remaining_times_list = [];
 	    integer remaining_time = -1;
 
-	    foreach ( integer remaining_size, remaining_sizes_list,
+	    foreach ( integer remaining_size, (list<integer>) remaining_sizes_list,
 	    ``{
 		remaining_time = remaining_size;
 
@@ -649,7 +641,6 @@
 
 	    remaining_times_per_cd = add( remaining_times_per_cd, remaining_times_list );
 	});
-
 
 	// Recalculate slide interval
 
@@ -735,7 +726,7 @@
 	    return [];
 	}
 
-	slide_list = sort( filter( string filename, slide_list,
+	slide_list = sort( (list<string>)filter( string filename, (list<string>) slide_list,
 	``{
 	    if ( size( filename ) <= 4 )
 	    {
@@ -1078,7 +1069,7 @@
 			     );
 	integer sum = 0;
 
-	foreach ( list remaining_list, cd_remaining,
+	foreach ( list remaining_list, (list<list<integer> >) cd_remaining,
 	``{
 	    widgets = add( widgets, `VSpacing( 0.5 ) );
 
@@ -1091,7 +1082,7 @@
 
 	    integer cd_no = 0;			// re-start at 0 for every source
 
-	    foreach ( integer remaining, remaining_list,
+	    foreach ( integer remaining, (list<integer>)remaining_list,
             ``{
 		widgets = add( widgets,
 			       `HBox(
