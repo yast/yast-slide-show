@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Mon Apr 14 14:20:32 UTC 2014 - ke@suse.de
+
+- 3.1.1
+- Enable SLES; use contents provided by mge.
+
+-------------------------------------------------------------------
 Thu Sep 19 16:47:05 UTC 2013 - lslezak@suse.cz
 
 - do not use *.spec.in template, use *.spec file with RPM macros
