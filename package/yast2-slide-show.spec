@@ -80,6 +80,12 @@ langs=$(tar tf %{S:12}|sed 's=.*po/==;s=\.po$==;/^$/d'|sort -u|fmt -w1000)
 sed -i "s|^langs *=.*$|langs = en $langs|" Makefile.am
 popd
 
+pushd SLES
+tar xf %{S:12}
+langs=$(tar tf %{S:12}|sed 's=.*po/==;s=\.po$==;/^$/d'|sort -u|fmt -w1000)
+sed -i "s|^langs *=.*$|langs = en $langs|" Makefile.am
+popd
+
 %build
 %yast_build
 ./tools/check_utf-8
