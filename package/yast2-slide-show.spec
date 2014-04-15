@@ -17,7 +17,7 @@
 
 
 Name:           yast2-slide-show
-Version:        3.1.1
+Version:        3.1.2
 Release:        0
 
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
@@ -43,28 +43,28 @@ Source10:       slideshow-po.tar.gz
 Source12:       slideshow-sled-po.tar.gz
 
 %description
-The slide show displayed during package installation with YaST2.
+The slide show displayed during package installation with YaST.
 
 %package SuSELinux
-Summary:	YaST2 - Slide Show (openSUSE)
+Summary:	YaST - Slide Show (openSUSE)
 Group:		Metapackages
 
 %description SuSELinux
-The slide show displayed during package installation with YaST2.
+The slide show displayed during package installation with YaST.
 
 %package SLES
-Summary:	YaST2 - Slide Show (SUSE Linux Enterprise Server)
+Summary:	YaST - Slide Show (SUSE Linux Enterprise Server)
 Group:		Metapackages
 
 %description SLES
-The slide show displayed during package installation with YaST2.
+The slide show displayed during package installation with YaST.
 
 %package SLED
-Summary:	YaST2 - Slide Show (SUSE Linux Enterprise Desktop)
+Summary:	YaST - Slide Show (SUSE Linux Enterprise Desktop)
 Group:		Metapackages
 
 %description SLED
-The slide show displayed during package installation with YaST2.
+The slide show displayed during package installation with YaST.
 
 %prep
 %setup -n %{name}-%{version}
