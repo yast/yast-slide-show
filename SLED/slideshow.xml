@@ -5,6 +5,9 @@
 <!ENTITY suselinux "&suse; Linux">
 <!ENTITY opensuse "openSUSE">
 <!ENTITY suse-version "11.1">
+<!ENTITY sle "&suselinux; Enterprise">
+<!ENTITY sls "&sle; Server">
+<!ENTITY sld "&sle; Desktop">
 ]>
 <!-- <table cellspacing="10" cellpadding="5"> -->
 <!--   <tr> -->
@@ -13,264 +16,356 @@
 
 <section>
  <title>Slide Show</title>
-
-<section label="01_welcome">
-  <title>Welcome to SUSE Linux Enterprise Desktop</title>
-
-<para>SUSE Linux Enterprise Desktop is the industry's leading
-enterprise-quality Linux operating system that is optimized and ready
-for both, business and personal use. SUSE Linux Enterprise Desktop
-provides market-leading usability, seamless interoperability with
-existing enterprise computer systems, and dozens of essential office
-applications that enable businesses to use Linux and open source with
-confidence. Designed for general-purpose use, SUSE Linux Enterprise
-Desktop can also be tailored to fit fixed-function or special-purpose
-roles such as on technical workstations, kiosks, and thin clients.</para>
-</section>
-<section label="02_innovation">
-  <title>The Latest Desktop Innovations</title>
-
-<para>Novell's leadership in desktop innovation is unparalleled. Combining
-results from extensive and ongoing usability studies with an outstanding
-technology vision, Novell introduces SUSE Linux Enterprise Desktop 11 as
-the most integrated and powerful Linux desktop. SUSE Linux Enterprise
-Desktop can be installed on a wide range of client devices including
-desktops, notebooks, netbooks, nettops, workstations, and more and
-includes all the applications you need to be productive at work
-or home.</para>
-
-<para>Novell's sponsorship and industry leadership in key open source
-projects such as the Linux kernel, OpenOffice.org, GNOME, Evolution,
-NetworkManager, Banshee, Mono, Compiz, F-Spot, Beagle, and many others
-illustrate Novell's unmatched innovation in the Linux desktop.</para>
-
-</section>
-<section label="03_connect">
-  <title>Connect and Communicate</title>
-
-  <para>SUSE Linux Enterprise Desktop 11 provides all the tools you need
-  to communicate with the world.</para>
-
-  <para>The Firefox Web browser is the best Web browser in the market. It
-  boasts a complete set of browser features and lightning-fast performance
-  out of the box, and delivers a rich user experience through plug-ins
-  such as Java, Novell Moonlight, Adobe Acrobat Reader, and Adobe
-  Flash Player, which are all included in SUSE Linux Enterprise Desktop
-  11.</para>
-
-  <para>Novell Evolution is a complete collaboration client suite
-  supporting collaboration open standards. It includes Novell GroupWise
-  and Microsoft Exchange connectivity for messaging, contact management,
-  calendaring and task management.</para>
-
- <para>SUSE Linux Enterprise Desktop also includes an instant messaging
- client that lets you connect with people all over the world.</para>
-
- <para>So to always have you online NetworkManager, our easy-to-use
- network configuration tool can access the most complex and secured
- networks, including WEP, WPA, VPN and other technologies, or simply
- the open wireless network from your coffee shop, and makes sure to keep
- you connected to the Internet no matter where you are.</para>
-
-</section>
-<section label="04_office">
-  <title>Spreadsheets, Presentations, Text Documents and More</title>
-  <para>SUSE Linux Enterprise Desktop comes complete with the latest
-  version of the leading open source office productivity suite,
-  OpenOffice.org. OpenOffice.org Novell Edition comes with word
-  processing, spreadsheet, presentation, database, and drawing
-  applications.</para>
-
-<para>As the leading alternative to Microsoft Office, OpenOffice.org
-Novell Edition fully supports the latest open document format standards,
-the widest range of Microsoft Office file formats and many others.</para>
-
-<para>OpenOffice.org Novell Edition also provides enhanced VBA macro
-support, an improved Solver, and pivot table capability. To spice up all
-your presentations, OpenOffice.org Novell Edition has great new slide
-transitions that nicely blend with our desktop effects.</para>
-
-</section>
-<section label="05_music">
-  <title>Banshee: Manage your Media Library</title>
-
-<para>Novell is proud to sponsor the open source Banshee project,
-the easy-to-use and beautifully polished media management application.
-Listen to music, manage your music library, burn your own music CDs, or
-synchronize your music to your portable media player or smartphone to
-be able to listen to your music on-the-go. Banshee also gives you the ability
-to subscribe to a variety of sources, including streamed music and
-podcasts.</para>
-
-<para>To ensure the highest quality recordings and playback, Novell
-developed its own state of the art Advanced Audio Coding (AAC) encoder
-and decoder.</para>
-
-<para>New to SUSE Linux Enterprise Desktop 11, Banshee enables you to
-include videos into your media library, effortlessly letting you get
-entertained and up-to-date with video podcasts directly from your Linux
-desktop. Synchronize video podcasts to your portable media player for
-viewing on-the-go.</para>
-
-<para>Discover new music through the use of greatly integrated Web
-services like Last.fm radio.</para>
-
-</section>
-<section label="06_graphics">
-  <title>Photos, Images, Drawings, Graphics</title>
-
-<para>Our Photo management tool in SUSE Linux Enterprise Desktop could
-very well be the most user-friendly one ever invented. Recognizing
-virtually all digital cameras and photo storage devices automatically,
-F-Spot will let you import and manage all your
-photos in very few clicks. It keeps an original copy of your photos, allowing you to be
-creative and try all kinds of modifications while making sure you never
-lose any of those precious snapshots again. Uploading pictures to the
-Internet has never been easier. Whether it is for printing or for your
-friends and family to enjoy, your photos are just 1-click away.</para>
-
-<para>For advanced image manipulation and graphics creation, the
-open-source community created GIMP. It is a fantastic and a complete
-photo retouching, image composition and image authoring application. GIMP
-has enough features to satisfy the most exacting artist.</para>
-
-<para>Wondering about advanced vector graphics? Then Inkscape is the right graphical software for
-you. It is a versatile graphics solution using the W3C standard Scalable
-Vector Graphics (SVG) file format. Inkscape natively supports opening
-or importing SVG, SVGZ (gzipped SVG), PDF, and AI (Adobe Illustrator)
-formats.</para>
-
-</section>
-<section label="07_greenIT">
-  <title>Linux Helps Reduce Your Carbon Footprint</title>
-
-<para>We are concerned about the environment. Whether you are a mobile
-worker or desktop user, SUSE Linux Enterprise Desktop reduces your
-power consumption without impacting your productivity in any way. With
-increasing reliability, the system will maximize energy saving and will
-even let you track it.</para>
-
-<para>Now with effective power management on the processor, chipsets,
-platform and operating system level, Novell and its partners optimize
-power consumption in order to provide you with the longest possible
-battery life.</para>
-
-<para>Novell works with its hardware manufacturing partners to ensure
-that their systems installed with SUSE Linux Enterprise Desktop earn
-the ENERGY STAR qualification.</para>
-
-<para>By seamlessly providing remote desktop access, Novell aims to
-promote more electronic collaboration and even reduce your need for
-travel.</para>
-
-</section>
-<section label="08_security">
-  <title>Keep Your System Secure and Up-to-Date</title>
-
-  <para>When your system is connected to the Internet, you will be happy
-  to know that we enabled the SUSE Linux Firewall to help secure
-  your system and data from intruders. We also included AppArmor,
-  the most effective and easy-to-use Linux application security system
-  available. It proactively protects the operating system and applications
-  from external or internal threats.</para>
-
-
-<para>In SUSE Linux Enterprise Desktop 11, we have introduced a new
-granular privilege system PolicyKit that greatly improves the ability
-for users and applications to be granted access to privileged operations
-when needed. Furthermore, we have improved wireless and wired
-network security connectivity and data encryption capabilities.</para>
-
-<para>Novell is dedicated to promptly provide its users with the latest
-security updates. To ensure that the latest security patches are installed
-on your system, Novell provides a comprehensive resource management
-solution that allows you to stay up-to-date with all security updates.</para>
-
-</section>
- <section label="09_openSUSE">
-  <title>openSUSE.org</title>
-
-  <para>The openSUSE project is a worldwide community program sponsored by
-  Novell that promotes the use of Linux everywhere. Please visit opensuse.org
-  where you can find and join a community of users and developers who all have
-  the same goal in mind: to create and distribute the world's most usable
-  Linux distribution. openSUSE provides the base of our award-winning SUSE Linux
-  Enterprise products.</para>
-
-  <para>The openSUSE Build Service is an open and complete distribution
-  development platform that provides a transparent infrastructure for
-  development of the openSUSE distribution. With the openSUSE Build Service,
-  you can easily find the latest open source packages you are looking for. It
-  provides a bridge between developers and users with feedback and rating
-  functionality. For developers it is an efficient place to build up groups and
-  work together through its project model.</para>
-
-  <para>Zypp is our software management engine and open source project that
-  powers products like YaST, Zypper and ZENworks with a powerful dependency
-  resolver and a convenient package management API.</para>
+ 
+ <section label="01_sle12">
+  <title>&sle; 12</title>
+  <itemizedlist>
+   <listitem>
+    <para>
+     Continuously Running Systems
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Best Managed Linux
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Made for Cloud
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Most Interoperable Operating System
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Modular Design
+    </para>
+   </listitem>
+  </itemizedlist>
  </section>
 
-<section label="10_easy-management">
-  <title>Easy to Deploy and Manage</title>
+ <section label="02_cont_running_sys">
+  <title>Continuously Running Systems</title>
+  <para>
+   Snapshot &amp; rollback for the full system
+  </para>
+  <para>
+   Have a well <emphasis>known state</emphasis> to which you can go
+   back, to give you <emphasis>peace of mind</emphasis> for:
+  </para>
+  <itemizedlist>
+   <listitem>
+    <para>
+     Kernel upgrades
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Service pack installations
+    </para>
+   </listitem>
+  </itemizedlist>
+ </section>
 
-<para>SUSE Linux Enterprise supports many deployment strategies
-providing system administrators flexible ways to customize and tailor
-the distribution to their needs.</para>
+ <section label="03_best_managed_linux">
+  <title>Best Managed Linux</title>
+  <itemizedlist>
+   <listitem>
+    <para>
+     <emphasis>YaST:</emphasis> the only integrated single system
+     management solution in the Linux world
+    </para>
+    <itemizedlist>
+     <listitem>
+      <para>
+       Write your own extensions in Ruby now!
+      </para>
+     </listitem>
+    </itemizedlist>
+   </listitem>
+   <listitem>
+    <para>
+     Wicked: a new framework for simplifying the complexity of Linux
+     network management
+    </para>
+    <itemizedlist>
+     <listitem>
+      <para>
+       Network configuration as a service
+      </para>
+     </listitem>
+     <listitem>
+      <para>
+       Smooth adoption &amp; migration
+      </para>
+     </listitem>
+    </itemizedlist>
+   </listitem>
+  </itemizedlist>
+ </section>
+ <section label="04_cloud">
+  <title>Made for Cloud</title>
+  <itemizedlist>
+   <listitem>
+    <para>
+     Reliable Host
+    </para>
+    <itemizedlist>
+     <listitem>
+      <para>
+       KVM and Xen support included    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Basis for OpenStack-based SUSE® Cloud
+    </para>
+   </listitem>
+    </itemizedlist>
+   </listitem>
+   <listitem>
+    <para>
+     Perfect Guest
+    </para>
+    <itemizedlist>
+     <listitem>
+      <para>
+       Works well on mainstream hypervisors: Xen, KVM, VMware® vSphere,
+       Microsoft® Hyper-V etc.
+      </para>
+     </listitem>
+     <listitem>
+      <para>
+       Available on Amazon® EC2, Microsoft® Azure, Google® Compute
+       Engine, and other 50+ public clouds
+      </para>
+     </listitem>
+    </itemizedlist>
+   </listitem>
+  </itemizedlist>
+ </section>
+ <section label="05_inter_os">
+  <title>Most Interoperable Operating System</title>
 
-<para>AutoYaST is an integrated solution for installing one or more systems
-automatically without user intervention. Installations are performed
-using a control file with installation and configuration data.</para>
+  <itemizedlist>
+   <listitem>
+    <para>
+     Networking – IPv6
+    </para>
+    <itemizedlist>
+     <listitem>
+      <para>
+       Scalable network infrastructures
+      </para>
+     </listitem>
+     <listitem>
+      <para>
+       Compliant to USGv6 standard
+      </para>
+     </listitem>
+    </itemizedlist>
+   </listitem>
+   <listitem>
+    <para>
+     Operating Systems
+    </para>
+    <itemizedlist>
+     <listitem>
+      <para>
+       Windows: Samba 4
+      </para>
+      <itemizedlist>
+       <listitem>
+        <para>
+         Active Directory integration
+        </para>
+       </listitem>
+       <listitem>
+        <para>
+         Out-of-the-box experience via YaST
+        </para>
+       </listitem>
+      </itemizedlist>
+     </listitem>
+     <listitem>
+      <para>
+       UNIX &amp; Linux: NFSv4.1
+      </para>
+     </listitem>
+    </itemizedlist>
+   </listitem>
+  </itemizedlist>
+ </section>
 
-<para>The openSUSE KIWI imaging system provides a complete operating
-system image solution for supported hardware platforms as well as
-virtualization systems.</para>
+ <section label="06_modular">
+  <title>Modular Design</title>
 
-<para>With these solutions combined with several key open source projects
-such as GConf, PolicyKit and Firstboot, SUSE Linux Enterprise Desktop
-is the easiest Linux desktop to deploy and manage.</para>
+  <para>
+   Five different modules give you balance between the latest
+   technologies and enterprise-level stability:
+  </para>
+  <itemizedlist>
+   <listitem>
+    <para>
+     Web and Scripting Module
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Legacy Module
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Toolchain Module
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Public Cloud Module
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     … Module
+    </para>
+   </listitem>
+  </itemizedlist>
+ </section>
+ 
+ <section label="07_life">
+  <title>Lifecycle and LTSS</title>
 
-</section>
-<section label="11_hardware">
-  <title>Certified for SUSE Linux Enterprise Desktop</title>
+  <para>
+   SUSE® Linux Enterprise Server:
+  </para>
+  <itemizedlist>
+   <listitem>
+    <para>
+     13-year lifecycle
+    </para>
+    <itemizedlist>
+     <listitem>
+      <para>
+       10 years of general support
+      </para>
+     </listitem>
+     <listitem>
+      <para>
+       Up to 3 years of extended support
+      </para>
+     </listitem>
+    </itemizedlist>
+   </listitem>
+   <listitem>
+    <para>
+     5-year lifecycle per Service Pack
+    </para>
+    <itemizedlist>
+     <listitem>
+      <para>
+       2 years of general support 
+      </para>
+     </listitem>
+     <listitem>
+      <para>
+       Up to 3 years of extended support
+      </para>
+     </listitem>
+    </itemizedlist>
+   </listitem>
+   <listitem>
+    <para>
+     Long Term Service Pack Support (LTSS) available for all releases
+    </para>
+   </listitem>
+  </itemizedlist>
+ </section>
+ <section label="08_desktop">
+  <title>Desktop Experience</title>
 
-<para>By successfully completing stringent compatibility testing
-requirements, Novell's partners qualify their systems for SUSE Linux
-Enterprise Desktop certification.</para>
+  <para>
+   GNOME 3 as the desktop environment for SUSE® Linux Enterprise 12
+   provides two desktop experiences for you to chose from:
+  </para>
+  <itemizedlist>
+   <listitem>
+    <para>
+     Using GNOME 3's GNOME Shell you can explore next-generation desktop
+     features that can be used with a mouse and a touchscreen.
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     SUSE's default GNOME 3 Classic Mode utilizes the same modern
+     technology, while maintaining well known usage patterns.
+    </para>
+   </listitem>
+  </itemizedlist>
+ </section>
 
-<para>With a system certified for SUSE Linux Enterprise Desktop you can
-trustfully use our software to manage your media library, collaborate
-on projects and stay connected with your friends.</para>
+ <section label="09_scc">
+  <title>SUSE Customer Center</title>
 
-<para>You can find all the systems that have passed logo certification
-by visiting novell.com/desktop. Systems with certification fully take
-advantage of SUSE Linux Enterprise Desktop to deliver rich Internet
-experience, ease of use, and excellent performance.</para>
+  <para>
+   Discover a new way of managing your SUSE account and subscriptions
+   via one interface, anytime, anywhere!
+  </para>
+  <itemizedlist>
+   <listitem>
+    <para>
+     Centralize access to subscriptions and entitlements
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Quick access to support tools
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     Easy way to provide feedback
+    </para>
+   </listitem>
+  </itemizedlist>
+ </section>
+ <section label="10_more">
+  <title>More from SUSE ...</title>
 
-<para>Novell is pleased to also be part of the Linux Driver Project
-focused on working with manufacturers to create and maintain open source
-Linux kernel drivers for all types of devices. Timely hardware enablement
-for desktop components is achieved by porting drivers to the Linux kernel
-that powers SUSE Linux Enterprise.</para>
-
-</section>
-<section label="12_interoperability">
-  <title>Interoperability: Work with Everyone</title>
-
-<para>SUSE Linux Enterprise Desktop is designed with today's heterogeneous
-world in mind. It is fully capable to seamlessly integrate into existing
-Windows file and print environments. In addition, it plugs into existing
-Microsoft Active Directory and Novell eDirectory environments. With
-its broad use of open standards, SUSE Linux Enterprise Desktop enables
-you to share information across any IT system so that you can easily
-communicate with all users around you.</para>
-
-<para>OpenOffice.org Novell Edition works with the widest range of
-document formats including Open Document Format, Microsoft Office formats
-(including OO XML), Works, WordPerfect and others.</para>
-
-<para>Furthermore, SUSE Linux Enterprise Desktop provides accessibility features
-so that anyone can take advantage of the improved productivity and lower
-cost that a Linux desktop provides.</para>
-
+  <itemizedlist>
+   <listitem>
+    <para>
+     SUSE Linux Enterprise
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     High Availability Extension
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     SUSE Manager
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     SUSE Cloud
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     SUSE Storage
+    </para>
+   </listitem>
+   <listitem>
+    <para>
+     More
+    </para>
+   </listitem>
+  </itemizedlist>
  </section>
 </section>
