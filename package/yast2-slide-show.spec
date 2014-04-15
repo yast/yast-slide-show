@@ -17,7 +17,7 @@
 
 
 Name:           yast2-slide-show
-Version:        3.1.2
+Version:        3.1.3
 Release:        0
 
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
@@ -25,6 +25,7 @@ Source0:        %{name}-%{version}.tar.bz2
 
 
 # xml2po uses temporary files that do not like being called twice
+# xml2po probably is not thread-safe.
 %define jobs 1
 BuildRequires:  docbook_4
 BuildRequires:  gnome-doc-utils
