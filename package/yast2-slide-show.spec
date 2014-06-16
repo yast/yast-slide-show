@@ -17,7 +17,7 @@
 
 
 Name:           yast2-slide-show
-Version:        3.1.4
+Version:        3.1.5
 Release:        0
 
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
@@ -41,7 +41,7 @@ Summary:	YaST2 - Slide Show
 License:        GPL-2.0
 Group:	        Metapackages
 Source10:       slideshow-po.tar.gz
-Source12:       slideshow-sled-po.tar.gz
+Source12:       slideshow-sles-po.tar.gz
 
 %description
 The slide show displayed during package installation with YaST.
