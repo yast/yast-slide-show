@@ -1,8 +1,13 @@
 -------------------------------------------------------------------
+Wed Aug 13 13:21:07 UTC 2014 - ke@suse.de
+
+- First picture updated by Kenneth Wimer (bnc#889868).
+
+-------------------------------------------------------------------
 Mon Jul 28 11:16:32 UTC 2014 - ke@suse.de
 
 - 3.1.8
-- Fix last slide (wording issue) (bnc#880749.
+- Fix last slide (wording issue) (bnc#880749).
 - Update translations.
 
 -------------------------------------------------------------------
