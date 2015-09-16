@@ -4,7 +4,7 @@
 <!ENTITY suse "SUSE">
 <!ENTITY suselinux "&suse; Linux">
 <!ENTITY opensuse "openSUSE">
-<!ENTITY suse-version "13.2">
+<!ENTITY suse-version "Leap 42.1">
 ]>
 <!-- <table cellspacing="10" cellpadding="5"> -->
 <!--   <tr> -->
@@ -17,11 +17,7 @@
   <title>Welcome to openSUSE™!</title>
 
     <para>
-Whether you use your computer to communicate with friends, family, or
-colleagues; to manage and enjoy your pictures and music; to browse the
-Internet for the latest news or for fun; to write a report or
-budget; or to host a personal Web site or home network, you will find
-everything you need in openSUSE &suse-version;.
+There is a reason why openSUSE is "the makers' choice for sysadmins, developers and desktop users;" openSUSE gives you choice and provides a user-friendly desktop, and feature-rich server environment. People torn between newer software and a long-term, highly stable Linux system turn to openSUSE. &suse-version; provides "The Best of Two Worlds" - reliability and contemporary software. Based on the core of SUSE Linux Enterprise, &suse-version; combines the proven SUSE core with the innovative spirit of open-source communities. That combinations gives makers choices and &suse-version; complements openSUSE's other release Tumbleweed, which caters to those who want continuously updated, tested and new stable packages.
 </para>
  </section>
 
@@ -128,15 +124,10 @@ go.
  </section>
 
 <section label="09_security">
- <title>Keep Your System Secure and Up to Date</title>
+ <title>Your operating system - respecting privacy - providing security</title>
 
-  <para>Help secure your system and data from Internet intruders with SUSE
-Firewall. This security device is activated by default and easy to
-configure. But you can do even more to protect your system with openSUSE 
-&suse-version; because it also includes AppArmor, the most effective and 
-easy-to-use Linux application security system available today. AppArmor 
-proactively protects your operating system and applications from internal or
-external threats.</para>
+  <para>openSUSE builds something that puts you in control. Rolling or Stable, you decide. Unlike windows, you decide which updates get applied when. Unlike most distros, you decide which desktop you want (or none at all), you have tools like YaST to help you configure your machine and control your security and privacy. Secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE &suse-version; because it also includes AppArmor, the most effective and
+easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats.</para>
 
 <!-- for the online update feature, see bnc#793710 -->
 <para>In addition to SUSE Firewall and AppArmor, openSUSE &suse-version; also 
