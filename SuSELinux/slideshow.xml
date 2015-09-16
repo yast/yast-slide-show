@@ -4,7 +4,7 @@
 <!ENTITY suse "SUSE">
 <!ENTITY suselinux "&suse; Linux">
 <!ENTITY opensuse "openSUSE">
-<!ENTITY suse-version "12.3">
+<!ENTITY suse-version "Leap 42.1">
 ]>
 <!-- <table cellspacing="10" cellpadding="5"> -->
 <!--   <tr> -->
@@ -17,11 +17,7 @@
   <title>Welcome to openSUSE™!</title>
 
     <para>
-Whether you use your computer to communicate with friends, family, or
-colleagues; to manage and enjoy your pictures and music; to browse the
-Internet for the latest news or for fun; to write a report or
-budget; or to host a personal Web site or home network, you will find
-everything you need in openSUSE &suse-version;.
+There is a reason why openSUSE is "the makers' choice for sysadmins, developers and desktop users;" openSUSE gives you choice and provides a user-friendly desktop, and feature-rich server environment. People torn between newer software and a long-term, highly stable Linux system turn to openSUSE. &suse-version; provides "The Best of Two Worlds" - reliability and contemporary software. Based on the core of SUSE Linux Enterprise, &suse-version; combines the proven SUSE core with the innovative spirit of open-source communities. That combinations gives makers choices and &suse-version; complements openSUSE's other release Tumbleweed, which caters to those who want continuously updated, tested and new stable packages.
 </para>
  </section>
 
@@ -57,16 +53,16 @@ Find the localization portal at: http://i18n.opensuse.org/</para>
 <para>
 You can communicate more effectively with openSUSE &suse-version; because it
 provides a complete set of tools for Web browsing and e-mail
-management—it even includes the newest Voice over IP technology.
+management — it even includes the newest Voice over IP technology.
 </para>
 
-<para>openSUSE includes Mozilla Firefox, one of the best Web browsers
-in the world. Firefox includes all the features you need to enjoy
+<para>openSUSE &suse-version; includes Mozilla Firefox, one of the best Web 
+browsers in the world. Firefox includes all the features you need to enjoy
 the Web, including the newest HTML5 technologies. Firefox also boasts
 lightning-fast performance, and a number of improvements designed to
 protect your privacy and prevent phishing attacks.</para>
 
-<para>Also included with openSUSE are Evolution and Kontact, 
+<para>Also included with openSUSE &suse-version; are Evolution and Kontact, 
 complete e-mail and contact management applications. For instant 
 messaging, openSUSE features easy to use IM clients that support all 
 of the popular protocols: AIM, Facebook, Google Talk, Jabber, MSN,
@@ -81,7 +77,7 @@ Download tunes from the Internet. Rip CDs to create your own customized
 music library. Listen to your playlist online. Burn CDs or DVDs. Copy
 your files to an iPod or media player and take your music anywhere. Manage
 and edit digital pictures with powerful graphics editors. It's all easy
-with openSUSE.</para>
+with openSUSE &suse-version;.</para>
 
  </section>
 
@@ -102,12 +98,11 @@ choice for reports, papers, home budgets, simple graphics and more.</para>
   <title>Graphics, Graphics, Graphics</title>
 
   <para>
-Using the tools in openSUSE, you can create or edit almost any type of
-graphic. For advanced image manipulation and graphics creation, use The
-GIMP a powerful tool for image retouching, composition, and 
-authoring.</para>
+Using the tools in openSUSE &suse-version;, you can create or edit almost any 
+type of graphic. For advanced image manipulation and graphics creation, use The
+GIMP a powerful tool for image retouching, composition, and authoring.</para>
  
-<para>For vector graphics, openSUSE includes Inkscape—a versatile 
+<para>For vector graphics, openSUSE &suse-version; includes Inkscape — a versatile 
 graphics solution delivers support for transparent layers, bitmap tracing, 
 text paths and much more.
 </para>
@@ -117,11 +112,9 @@ text paths and much more.
  <section label="08_mobility">
   <title>Computing On-the-Go</title>
 
-  <para>openSUSE includes the most advanced mobility features. You
-can switch effortlessly between wireless and wired networks using
-NetworkManager from openSUSE. Connect with mobile devices like mobile
-phones and PDAs via Bluetooth, or use infrared ports to synchronize your
-data.</para> 
+  <para>openSUSE &suse-version; includes the most advanced mobility features. You
+can switch effortlessly between wireless and wired networks using NetworkManager. 
+Connect with mobile devices like mobile phones, tablets and PDAs via Bluetooth.</para> 
 
 <para>The newest innovations in power management from openSUSE increase
 your mobility and give you the freedom to take your work wherever you
@@ -131,19 +124,14 @@ go.
  </section>
 
 <section label="09_security">
- <title>Keep Your System Secure and Up to Date</title>
+ <title>Your operating system - respecting privacy - providing security</title>
 
-  <para>Help secure your system and data from Internet intruders with SUSE
-Firewall. This security device is activated by default and easy to
-configure. But you can do even more to protect your system with openSUSE
-because it also includes AppArmor, the most effective and easy-to-use
-Linux application security system available today. AppArmor proactively
-protects your operating system and applications from internal or
-external threats.</para>
+  <para>openSUSE builds something that puts you in control. Rolling or Stable, you decide. Unlike windows, you decide which updates get applied when. Unlike most distros, you decide which desktop you want (or none at all), you have tools like YaST to help you configure your machine and control your security and privacy. Secure your system and data from Internet intruders with SUSE Firewall. This security device is activated by default and easy to configure. But you can do even more to protect your system with openSUSE &suse-version; because it also includes AppArmor, the most effective and
+easy-to-use Linux application security system available today. AppArmor proactively protects your operating system and applications from internal or external threats.</para>
 
 <!-- for the online update feature, see bnc#793710 -->
-<para>In addition to SUSE Firewall and AppArmor, openSUSE also includes a
-special security patch update system. To ensure that the latest security
+<para>In addition to SUSE Firewall and AppArmor, openSUSE &suse-version; also 
+includes a special security patch update system. To ensure that the latest security
 patches are installed on your system, you can choose to perform an
 online update at the end of this installation procedure (if you did not
 choose the automatic installation modus at the beginning). And in the
@@ -156,10 +144,10 @@ important security updates, so you can install them at your convenience.
  <section label="10_devel">
   <title>Virtualization Technology and Application Development Tools</title>
 
-  <para>The Xen hypervisor is included with openSUSE. Xen is one of the most
-robust solutions for virtualization available. In addition, openSUSE provides
-tools for network file sharing (Samba, NFS, etc.), printing (CUPS) and Web
-hosting (Apache). For application development, openSUSE comes with a complete
+  <para>Both Xen and KVM hypervisors are included with openSUSE &suse-version;. 
+Xen is one of the most robust solutions for virtualization available. In addition, 
+openSUSE provides tools for network file sharing (Samba, NFS, etc.), printing (CUPS) 
+and Web hosting (Apache). For application development, openSUSE comes with a complete
 set of runtime environments plus extensive application development tools.
 </para>
 
@@ -168,7 +156,7 @@ set of runtime environments plus extensive application development tools.
   <section label="11_docs">
     <title>Learn More</title>
     <para>
-The openSUSE distribution provides extensive documentation for specific
+openSUSE &suse-version; provides extensive documentation for specific
 openSUSE questions as well as general Linux-related questions. The Help
 Center is accessible via the main menu. Manuals are also available in
 PDF and can be downloaded and printed <!-- translator: check whether a
@@ -214,10 +202,10 @@ needs of businesses large and small.</para>
 
   <para>
 The enterprise Linux products from SUSE include SUSE Linux Enterprise Server and
-SUSE Linux Enterprise Desktop. Our enterprise
-products are delivered with a seven-year maintenance guarantee and optional
-support programs. For more information on enterprise Linux from SUSE, visit
-http://www.suse.com
+SUSE Linux Enterprise Desktop. Our enterprise products are delivered with a 
+10 year maintenance guarantee out of the box with the possibility of extending 
+it to 13 years as well as other optional support programs. 
+For more information on enterprise Linux from SUSE, visit http://www.suse.com
 </para>
 
  </section>
