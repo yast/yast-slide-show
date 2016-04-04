@@ -63,15 +63,28 @@
 </xsl:template>
 
 <xsl:template match="section/section/title">
-    <h2>
-     <xsl:apply-templates />
-    </h2>
+ <h2>
+  <xsl:apply-templates />
+ </h2>
 </xsl:template>
 
 <xsl:template match="para">
-    <p>
-      <xsl:apply-templates />
-    </p>
+ <p>
+  <xsl:apply-templates />
+ </p>
+</xsl:template>
+
+<xsl:template match="itemizedlist">
+ <ul><xsl:apply-templates /></ul>
+</xsl:template>
+<xsl:template match="orderedlist">
+ <ol><xsl:apply-templates /></ol>
+</xsl:template>
+<xsl:template match="listitem">
+ <li><xsl:apply-templates /></li>
+</xsl:template>
+<xsl:template match="emphasis">
+ <em><xsl:apply-templates /></em>
 </xsl:template>
 
 </xsl:stylesheet>
